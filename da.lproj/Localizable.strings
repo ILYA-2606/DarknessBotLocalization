@@ -1,13 +1,3 @@
-
-
-
-/*  AUTO-GENERATED: 2026-05-12, 17:04 */
-
-
-
-
-/*  Firmware  */
-
 "Firmware.checkingFailed" = "Kunne ikke søge efter opdateringer";
 "Firmware.conditionsDescription" = "Undgå at afslutte opgraderingsgrænsefladen under opgraderingen. Genstart enheden, når opdateringen er færdig.\n\nHvis opdateringen mislykkedes eller afbrydes, skal du afbryde forbindelsen til enheden. Opret forbindelse til enheden, og gå til indstillingerne for firmwareopdatering. Tryk på knappen Opdater.\n\nHvis du har problemer med din enhed, bedes du kontakte din lokale forhandler.\n\nDarknessBot bruger leverandørens firmware og kan ikke holdes ansvarlig for driften af ​​opdateret firmware.";
 "Firmware.firmwareVersion" = "Firmwareversion";
@@ -29,11 +19,6 @@
 "Firmware.select" = "Vælg";
 "Firmware.updateMessage" = "Opdatere firmwaren?";
 "Firmware.noFirmwares" = "Ingen firmware tilgængelig";
-
-
-
-/*  Common  */
-
 "Common.add" = "Tilføj";
 "Common.apply" = "Udfør";
 "Common.cancel" = "Afbryd";
@@ -57,11 +42,6 @@
 "Common.yes" = "Ja";
 "Common.trips" = "Ture";
 "Common.copied" = "Kopieret";
-
-
-
-/*  Profile  */
-
 "Profile.addFriend" = "Tilføj til venner";
 "Profile.birthday" = "Fødselsdag";
 "Profile.cantImageSelected" = "Kan ikke vælge dette billede";
@@ -133,11 +113,6 @@
 "Profile.electroClubUploaded" = "Turen er blevet uploadet til electro.club-portalen! Vil du se den?";
 "Profile.noInternetConnection" = "Ingen internet forbindelse";
 "Profile.serverIncorrectResponse" = "Serveren sendte et forkert svar";
-
-
-
-/*  Rate  */
-
 "Rate.appVersion" = "App version";
 "Rate.dontShowAgain" = "Vis ikke igen";
 "Rate.emailSubject" = "DarknessBot problem rapport";
@@ -152,11 +127,6 @@
 "Rate.thankYou" = "Mange tak";
 "Rate.whatHappened" = "Hvad skete der?";
 "Rate.writeEmail" = "Skriv en email";
-
-
-
-/*  Ratings  */
-
 "Ratings.allModels" = "Alle modeller";
 "Ratings.allTime" = "Samlet tid";
 "Ratings.cloudKitAccessMessage" = "Du skal give adgang til CloudKit i Indstillinger / Apple ID / iCloud / Look Me Up By Email";
@@ -169,11 +139,6 @@
 "Ratings.week" = "Uge";
 "Ratings.year" = "År";
 "Ratings.you" = "Dig";
-
-
-
-/*  Map  */
-
 "Map.currentTrip" = "Nuværende tur";
 "Map.directionsNotFound" = "Vejvisning ikke fundet";
 "Map.distance" = "Distance";
@@ -203,11 +168,6 @@
 "Map.skate" = "Skate";
 "Map.smartBMS" = "Smart BMS";
 "Map.anyDevice" = "Enhver enhed";
-
-
-
-/*  Devices  */
-
 "Devices.a" = "A";
 "Devices.averageSpeed" = "Gennemsnitshastighed";
 "Devices.battery" = "Batteri";
@@ -329,11 +289,6 @@
 "Devices.gpsSpeed" = "GPS Hastighed";
 "Devices.pressToConfirm" = "Tryk på knappen på håndtaget for at bekræfte";
 "Devices.authAdoEbike" = "Forbind venligst køretøjet i ADO EBIKE app";
-
-
-
-/*  Intro  */
-
 "Intro.next" = "Næste";
 "Intro.nice" = "Dejligt!";
 "Intro.premiumTitle" = "Premium";
@@ -372,11 +327,6 @@
 "Intro.trialStartedTitle" = "%i-dages Premium-prøveperiode er startet";
 "Intro.trialStartedSubtitle" = "Efter prøveperioden er afsluttet, vil appen fortsætte med at fungere gratis.\n\nFunktioner inkluderet i Premium-abonnementet";
 "Intro.unlockPremium" = "Lås op for alle Premium-funktioner";
-
-
-
-/*  Diagnostic  */
-
 "Diagnostic.diagnostic" = "Diagnostik";
 "Diagnostic.motorTemperature" = "Motor temperatur";
 "Diagnostic.batteryValid" = "Gyldig";
@@ -459,11 +409,6 @@
 "Diagnostic.temperatureMosEnv" = "MOS-miljøtemperatur";
 "Diagnostic.batteryType" = "Batteritype";
 "Diagnostic.batteryCellCount" = "Celletælling";
-
-
-
-/*  AppData  */
-
 "AppData.allAppData" = "Alle app data";
 "AppData.allData" = "Alle data";
 "AppData.allMetrics" = "Alle værdier";
@@ -484,11 +429,6 @@
 "AppData.storageOptimizationQuestion" = "Vil du virkelig begynde at optimere lagerplads?";
 "AppData.storageOptimizationMessage" = "App-lagerpladsen optager allerede meget plads. Vil du gå til lageroptimering?";
 "AppData.storageOptimizationSuccess" = "Lagring er blevet optimeret";
-
-
-
-/*  Settings  */
-
 "Settings.about" = "Om";
 "Settings.activationDate" = "Aktiveringsdato";
 "Settings.alarms" = "Alarmer";
@@ -929,17 +869,31 @@
 "Settings.wearableIntegration" = "Avanceret integration af bærbare enheder";
 "Settings.wearableIntegrationDescription" = "ActiveLook og Third Eye-integration";
 "Settings.time" = "Tid";
+// Needs review
 "Settings.updateAvailable" = "Update available";
+// Needs review
 "Settings.newFromDeveloper" = "New from the developer";
+// Needs review
 "Settings.new" = "New";
+// Needs review
 "Settings.dependence" = "Dependence";
+// Needs review
 "Settings.dependenceDetail" = "The metric from which the engine sound will be calculated";
+// Needs review
 "Settings.informationAlarms" = "Information alarms";
+// Needs review
 "Settings.foundObjects" = "Found objects";
+// Needs review
 "Settings.relativeSpeed" = "Relative speed";
+// Needs review
 "Settings.distance" = "Distance";
+// Needs review
 "Settings.dangerApproachSpeed" = "Danger approach speed";
+// Needs review
 "Settings.dangerDistance" = "Danger distance";
+// Needs review
 "Settings.noObjectsFound" = "No objects found";
+// Needs review
 "Settings.maxDetectDistance" = "Max detect distance";
+// Needs review
 "Settings.nearestObject" = "Nearest object";
