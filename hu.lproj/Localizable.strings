@@ -259,6 +259,7 @@
 "Devices.torch" = "Világítás";
 "Devices.totalMileage" = "Teljes távolság";
 "Devices.totalRuntime" = "Teljes üzemidő";
+// Needs review
 "Devices.trialPeriod" = "Free Premium: %@ left";
 "Devices.turnOff" = "Kikapcsol";
 "Devices.v" = "V";
