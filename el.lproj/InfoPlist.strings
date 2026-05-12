@@ -1,0 +1,8 @@
+"NSLocationWhenInUseUsageDescription" = "Για χάρτη GPS-Ανιχνευτή, πιξίδας και καιρικές πληροφορίες";
+"NSSiriUsageDescription" = "Για τη ερώτηση της Siri σχετικά με την μπαταρία και τα υπόλοιπα χιλιόμετρα";
+"NSCameraUsageDescription" = "Για Επαυξημένη Πραγματικότητα και Καταγραφή";
+"NSBluetoothPeripheralUsageDescription" = "Για σύνδεση σε ηλεκτρομεταφορά με υποστήριξη Bluetooth";
+"NSBluetoothAlwaysUsageDescription" = "Για σύνδεση σε ηλεκτρομεταφορά με υποστήριξη Bluetooth";
+"NSPhotoLibraryUsageDescription" = "Για επιλογή φωτογραφίας προφίλ";
+"NSAppleMusicUsageDescription" = "Για έλεγχο μουσικής";
+"NSUserTrackingUsageDescription" = "Τα δεδομένα σας θα χρησιμοποιηθούν για τη συλλογή δεδομένων σφαλμάτων και δραστηριότητας εντός εφαρμογής, προκειμένου να βελτιωθούν οι λειτουργίες και η αφοσίωση των χρηστών";

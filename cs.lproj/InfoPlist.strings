@@ -1,0 +1,8 @@
+"NSLocationWhenInUseUsageDescription" = "Pro GPS lokátor, mapy, kompas a informace o počasí";
+"NSSiriUsageDescription" = "Pro zeptání se Siri ohledně baterie a zbývajícího dojezdu";
+"NSCameraUsageDescription" = "Pro rozšířenou realitu a nahrávač";
+"NSBluetoothPeripheralUsageDescription" = "Pro připojení elektrovozítka s podporou Bluetooth";
+"NSBluetoothAlwaysUsageDescription" = "Pro připojení elektrovozítka s podporou Bluetooth";
+"NSPhotoLibraryUsageDescription" = "Pro vybrání profilového obrázku";
+"NSAppleMusicUsageDescription" = "Pro ovládání hudby";
+"NSUserTrackingUsageDescription" = "Vaše data budou použita k získání informací o pádech a Vašich aktivitách v aplikaci za účelem zlepšení funkčnosti a angažování uživatelů";

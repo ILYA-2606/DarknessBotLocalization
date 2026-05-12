@@ -1,0 +1,8 @@
+"NSLocationWhenInUseUsageDescription" = "Para rastreador GPS, mapas, brújula e información meteorológica";
+"NSSiriUsageDescription" = "Para preguntarle a Siri sobre la batería y el kilometraje restante";
+"NSCameraUsageDescription" = "Para realidad aumentada y grabadora";
+"NSBluetoothPeripheralUsageDescription" = "Para conectarse a electrotransporte con soporte Bluetooth";
+"NSBluetoothAlwaysUsageDescription" = "Para conectarse a electrotransporte con soporte Bluetooth";
+"NSPhotoLibraryUsageDescription" = "Para selección foto de la foto de perfil";
+"NSAppleMusicUsageDescription" = "Para el control de la música";
+"NSUserTrackingUsageDescription" = "Sus datos se utilizarán con el fin de recopilar información sobre fallas y actividad en la aplicación para mejorar las funcionalidades y la participación del usuario";

@@ -1,0 +1,8 @@
+"NSLocationWhenInUseUsageDescription" = "Для GPS-трекера, карты, компаса и погодной информации";
+"NSSiriUsageDescription" = "Для вопросов у Siri про заряд батареи и оставшемся пробеге";
+"NSCameraUsageDescription" = "Для изображения камеры при записи видео, а также для режима дополненной реальности";
+"NSBluetoothPeripheralUsageDescription" = "Для подключения к электротранспорту с поддержкой Bluetooth";
+"NSBluetoothAlwaysUsageDescription" = "Для подключения к электротранспорту с поддержкой Bluetooth";
+"NSPhotoLibraryUsageDescription" = "Для выбора фото профиля";
+"NSAppleMusicUsageDescription" = "Для управления музыкой";
+"NSUserTrackingUsageDescription" = "Ваши данные будут использоваться для сбора данных о сбоях и активности в приложении с целью улучшения функциональных возможностей и вовлеченности пользователей";
