@@ -1,0 +1,2 @@
+# DarknessBotLocalization
+Localization for DarknessBot
