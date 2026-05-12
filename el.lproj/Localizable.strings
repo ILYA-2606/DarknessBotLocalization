@@ -1,13 +1,3 @@
-
-
-
-/*  AUTO-GENERATED: 2026-05-12, 17:04 */
-
-
-
-
-/*  Firmware  */
-
 "Firmware.checkingFailed" = "Απέτυχε ο έλεγχος για ενημερώσεις";
 "Firmware.conditionsDescription" = "Κατά τη διάρκεια της αναβάθμισης, μην βγείτε από τη διεπαφή αναβάθμισης. Αφού ολοκληρωθεί η ενημέρωση, επανεκκινήστε τη συσκευή.\n\nΕάν η ενημέρωση απέτυχε ή διακόπηκε, αποσυνδεθείτε από τη συσκευή. Συνδεθείτε στη συσκευή και μεταβείτε στις ρυθμίσεις ενημέρωσης υλικολογισμικού. Αγγίξτε το κουμπί Ενημέρωση.\n\nΕάν αντιμετωπίζετε προβλήματα με τη συσκευή σας, επικοινωνήστε με τον τοπικό αντιπρόσωπο.\n\nΤο DarknessBot χρησιμοποιεί το υλικολογισμικό του προμηθευτή της συσκευής και δεν μπορεί να θεωρηθεί υπεύθυνο για τη λειτουργία του ενημερωμένου υλικολογισμικού";
 "Firmware.firmwareVersion" = "Έκδοση Firmware";
@@ -29,11 +19,6 @@
 "Firmware.select" = "Επιλογή";
 "Firmware.updateMessage" = "Αναβάθμιση του firmware ;";
 "Firmware.noFirmwares" = "Δεν υπάρχει διαθέσιμο firmware";
-
-
-
-/*  Common  */
-
 "Common.add" = "Προσθήκη";
 "Common.apply" = "Εφαρμογή";
 "Common.cancel" = "Ακύρωση";
@@ -57,11 +42,6 @@
 "Common.yes" = "Ναι";
 "Common.trips" = "Διαδρομές";
 "Common.copied" = "Αντιγράφηκε";
-
-
-
-/*  Profile  */
-
 "Profile.addFriend" = "Προσθήκη σε φίλους";
 "Profile.birthday" = "Γεννέθλια";
 "Profile.cantImageSelected" = "Αδύνατη επιλογή της εικόνας";
@@ -133,11 +113,6 @@
 "Profile.electroClubUploaded" = "Η διαδρομή ανέβηκε με επιτυχία στην πύλη electro.club! Θέλετε να τη δείτε;";
 "Profile.noInternetConnection" = "Χωρίς σύνδεση στο ίντερνετ";
 "Profile.serverIncorrectResponse" = "Ο διακομιστής έστειλε λανθασμένη απάντηση";
-
-
-
-/*  Rate  */
-
 "Rate.appVersion" = "Έκδοση εφαρμογής";
 "Rate.dontShowAgain" = "Μην εμφανιστεί ξανά";
 "Rate.emailSubject" = "Αναφορά προβλήματος DarknessBot";
@@ -152,11 +127,6 @@
 "Rate.thankYou" = "Ευχαριστούμε";
 "Rate.whatHappened" = "Τι συνέβη ;";
 "Rate.writeEmail" = "Γράψτε ένα email";
-
-
-
-/*  Ratings  */
-
 "Ratings.allModels" = "Όλα τα μοντέλα";
 "Ratings.allTime" = "Όλη την ώρα";
 "Ratings.cloudKitAccessMessage" = "Πρέπει να επιτρέψετε πρόσβαση σε CloudKit στις ρυθμίσεις / Apple ID / iCloud / Look My Up By Email";
@@ -169,11 +139,6 @@
 "Ratings.week" = "Βδομάδα";
 "Ratings.year" = "Έτος";
 "Ratings.you" = "Εσύ";
-
-
-
-/*  Map  */
-
 "Map.currentTrip" = "Τρέχουσα διαδρομή";
 "Map.directionsNotFound" = "Δεν βρέθηκαν οδηγίες";
 "Map.distance" = "Απόσταση";
@@ -203,11 +168,6 @@
 "Map.skate" = "Skate";
 "Map.smartBMS" = "Smart BMS";
 "Map.anyDevice" = "Οποιαδήποτε συσκευή";
-
-
-
-/*  Devices  */
-
 "Devices.a" = "Α";
 "Devices.averageSpeed" = "Μέση Ταχύτητα";
 "Devices.battery" = "Μπαταρία";
@@ -327,13 +287,9 @@
 "Devices.energyConsumption" = "Κατανάλωση ενέργειας";
 "Devices.gettingServices" = "Λήψη υπηρεσιών...";
 "Devices.gpsSpeed" = "Ταχύτητα GPS";
+// Needs review
 "Devices.pressToConfirm" = "Press the button on the handlebar to confirm";
 "Devices.authAdoEbike" = "Please connect the transport in the ADO EBIKE app";
-
-
-
-/*  Intro  */
-
 "Intro.next" = "Επόμενο";
 "Intro.nice" = "Ωραία";
 "Intro.premiumTitle" = "Premium";
@@ -372,11 +328,6 @@
 "Intro.trialStartedTitle" = "Ξεκίνησε η δοκιμαστική περίοδος Premium %i-days";
 "Intro.trialStartedSubtitle" = "Μετά την ολοκλήρωση της δοκιμής, η εφαρμογή θα συνεχίσει να λειτουργεί δωρεάν.\n\nΛειτουργίες που περιλαμβάνονται στο Premium";
 "Intro.unlockPremium" = "Ξεκλειδώστε όλες τις λειτουργίες Premium";
-
-
-
-/*  Diagnostic  */
-
 "Diagnostic.diagnostic" = "Διαγνωστικά";
 "Diagnostic.motorTemperature" = "Θερμοκρασία κινητήρα";
 "Diagnostic.batteryValid" = "Έγκυρο";
@@ -459,11 +410,6 @@
 "Diagnostic.temperatureMosEnv" = "MOS θερμοκρασία περιβάλλοντος";
 "Diagnostic.batteryType" = "Τύπος μπαταρίας";
 "Diagnostic.batteryCellCount" = "Αριθμός κυψελών";
-
-
-
-/*  AppData  */
-
 "AppData.allAppData" = "Όλα τα δεδομένα της εφαρμογής";
 "AppData.allData" = "Ολα τα δεδομένα";
 "AppData.allMetrics" = "Όλες οι μετρήσεις";
@@ -484,11 +430,6 @@
 "AppData.storageOptimizationQuestion" = "Θέλετε πραγματικά να ξεκινήσετε τη βελτιστοποίηση του αποθηκευτικού χώρου;";
 "AppData.storageOptimizationMessage" = "Ο χώρος αποθήκευσης εφαρμογών καταλαμβάνει ήδη πολύ χώρο. Μετάβαση στη βελτιστοποίηση αποθήκευσης;";
 "AppData.storageOptimizationSuccess" = "Ο αποθηκευτικός χώρος έχει βελτιστοποιηθεί με επιτυχία";
-
-
-
-/*  Settings  */
-
 "Settings.about" = "Πληροφορίες";
 "Settings.activationDate" = "Ημερομηνία ενεργοποίησης";
 "Settings.alarms" = "Συναγερμοί";
@@ -928,18 +869,33 @@
 "Settings.backFlip" = "Back Flip";
 "Settings.wearableIntegration" = "Προηγμένη ενσωμάτωση φορετών συσκευών";
 "Settings.wearableIntegrationDescription" = "Ενσωμάτωση ActiveLook και Τρίτου Ματιού";
+// Needs review
 "Settings.time" = "Time";
+// Needs review
 "Settings.updateAvailable" = "Update available";
+// Needs review
 "Settings.newFromDeveloper" = "New from the developer";
+// Needs review
 "Settings.new" = "New";
+// Needs review
 "Settings.dependence" = "Dependence";
+// Needs review
 "Settings.dependenceDetail" = "The metric from which the engine sound will be calculated";
+// Needs review
 "Settings.informationAlarms" = "Information alarms";
+// Needs review
 "Settings.foundObjects" = "Found objects";
+// Needs review
 "Settings.relativeSpeed" = "Relative speed";
+// Needs review
 "Settings.distance" = "Distance";
+// Needs review
 "Settings.dangerApproachSpeed" = "Danger approach speed";
+// Needs review
 "Settings.dangerDistance" = "Danger distance";
+// Needs review
 "Settings.noObjectsFound" = "No objects found";
+// Needs review
 "Settings.maxDetectDistance" = "Max detect distance";
+// Needs review
 "Settings.nearestObject" = "Nearest object";
