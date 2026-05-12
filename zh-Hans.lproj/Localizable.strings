@@ -259,7 +259,8 @@
 "Devices.torch" = "灯";
 "Devices.totalMileage" = "总里程";
 "Devices.totalRuntime" = "总运行时间";
-"Devices.trialPeriod" = "Free Premium：％@ left";
+// Needs review
+"Devices.trialPeriod" = "Free Premium: %@ left";
 "Devices.turnOff" = "关";
 "Devices.v" = "伏";
 "Devices.view" = "查看";
@@ -472,7 +473,7 @@
 "Settings.batteryVoltage" = "电池电压";
 "Settings.bleVersion" = "蓝牙版本";
 "Settings.bluetoothConnectHelp" = "在 iOS 设置/蓝牙中连接到设备";
-"Settings.bluetoothLengthMessage" = "蓝牙配对代码必须包含％i个数字";
+"Settings.bluetoothLengthMessage" = "蓝牙配对代码必须包含%i个数字";
 "Settings.bluetoothMusic" = "蓝牙音乐";
 "Settings.bluetoothPincode" = "蓝牙配对码";
 "Settings.bluetoothPincodeDetail" = "配置，更改和重置设备密码";

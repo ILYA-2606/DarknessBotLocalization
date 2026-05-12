@@ -259,6 +259,7 @@
 "Devices.torch" = "손전등";
 "Devices.totalMileage" = "총 주행거리";
 "Devices.totalRuntime" = "총 구동시간";
+// Needs review
 "Devices.trialPeriod" = "Free Premium: %@ left";
 "Devices.turnOff" = "끄기";
 "Devices.v" = "V";
