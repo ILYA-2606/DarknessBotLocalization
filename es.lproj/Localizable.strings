@@ -1,13 +1,3 @@
-
-
-
-/*  AUTO-GENERATED: 2026-05-12, 17:04 */
-
-
-
-
-/*  Firmware  */
-
 "Firmware.checkingFailed" = "Falló la comprobación de actualizaciones";
 "Firmware.conditionsDescription" = "Durante la actualización, no salga de la interfaz de actualización.  Una vez finalizada la actualización, reinicie el dispositivo.\n\nSi la actualización falla o se interrumpe, desconéctese del dispositivo.  Conéctese al dispositivo y vaya a la configuración de Actualización de firmware.  Toque el botón Actualizar.\n\nSi tiene algún problema con su dispositivo, comuníquese con su distribuidor local.\n\nDarknessBot utiliza el firmware del proveedor del dispositivo y no se hace responsable del funcionamiento del firmware actualizado.";
 "Firmware.firmwareVersion" = "Versión de firmware";
@@ -29,11 +19,6 @@
 "Firmware.select" = "Elija";
 "Firmware.updateMessage" = "¿Desea actualizar el firmware?";
 "Firmware.noFirmwares" = "No hay firmwares disponibles";
-
-
-
-/*  Common  */
-
 "Common.add" = "Añadir";
 "Common.apply" = "Aplicar";
 "Common.cancel" = "Cancelar";
@@ -57,11 +42,6 @@
 "Common.yes" = "Sí";
 "Common.trips" = "Viajes";
 "Common.copied" = "Copiado";
-
-
-
-/*  Profile  */
-
 "Profile.addFriend" = "Agregar a lista de amigos";
 "Profile.birthday" = "Cumpleaños";
 "Profile.cantImageSelected" = "No es posible seleccionar esta imagen";
@@ -133,11 +113,6 @@
 "Profile.electroClubUploaded" = "¡El viaje se ha subido con éxito al portal electro.club! ¿Quieres visualizarlo?";
 "Profile.noInternetConnection" = "No hay conexión a Internet";
 "Profile.serverIncorrectResponse" = "El servidor envió una respuesta incorrecta";
-
-
-
-/*  Rate  */
-
 "Rate.appVersion" = "Versión de la App";
 "Rate.dontShowAgain" = "No mostrar de nuevo";
 "Rate.emailSubject" = "Reportar problema de DarknessBot";
@@ -152,11 +127,6 @@
 "Rate.thankYou" = "Gracias";
 "Rate.whatHappened" = "¿Qué pasó?";
 "Rate.writeEmail" = "Escribir un email";
-
-
-
-/*  Ratings  */
-
 "Ratings.allModels" = "Todos los Modelos";
 "Ratings.allTime" = "Tiempo Total";
 "Ratings.cloudKitAccessMessage" = "Debes permitir el acceso a CloudKit (Settings / Apple ID / iCloud / Look Me Up By Email)";
@@ -169,11 +139,6 @@
 "Ratings.week" = "Semana";
 "Ratings.year" = "Año";
 "Ratings.you" = "Tu";
-
-
-
-/*  Map  */
-
 "Map.currentTrip" = "Viaje en curso";
 "Map.directionsNotFound" = "Indicaciones no encontradas";
 "Map.distance" = "Distancia";
@@ -203,11 +168,6 @@
 "Map.skate" = "Skate";
 "Map.smartBMS" = "Smart BMS";
 "Map.anyDevice" = "Cualquier dispositivo";
-
-
-
-/*  Devices  */
-
 "Devices.a" = "A";
 "Devices.averageSpeed" = "Velocidad Promedio";
 "Devices.battery" = "Batería";
@@ -329,11 +289,6 @@
 "Devices.gpsSpeed" = "Velicidad GPS";
 "Devices.pressToConfirm" = "Presiona el botón del manillar para confirmar";
 "Devices.authAdoEbike" = "Por favor, conecta el transporte en la app ADO EBIKE";
-
-
-
-/*  Intro  */
-
 "Intro.next" = "Siguiente";
 "Intro.nice" = "Excelente!";
 "Intro.premiumTitle" = "Premium";
@@ -372,11 +327,6 @@
 "Intro.trialStartedTitle" = "%i-days Prueba Premium iniciada";
 "Intro.trialStartedSubtitle" = "Tras completar la prueba, la aplicación seguirá funcionando gratis.\n\nFunciones incluidas en Premium";
 "Intro.unlockPremium" = "Desbloquea todas las funciones Premium.";
-
-
-
-/*  Diagnostic  */
-
 "Diagnostic.diagnostic" = "Diagnóstico";
 "Diagnostic.motorTemperature" = "Temperatura del motor";
 "Diagnostic.batteryValid" = "Válido";
@@ -459,11 +409,6 @@
 "Diagnostic.temperatureMosEnv" = "Temperatura ambiental MOS";
 "Diagnostic.batteryType" = "Tipo de batería";
 "Diagnostic.batteryCellCount" = "Número de celdas";
-
-
-
-/*  AppData  */
-
 "AppData.allAppData" = "Todos los datos de la app";
 "AppData.allData" = "Todos los datos";
 "AppData.allMetrics" = "Todas las métricas";
@@ -484,11 +429,6 @@
 "AppData.storageOptimizationQuestion" = "¿Realmente deseas iniciar la optimización de almacenamiento?";
 "AppData.storageOptimizationMessage" = "El almacenamiento de la app ya ocupa mucho espacio. ¿Ir a optimización de almacenamiento?";
 "AppData.storageOptimizationSuccess" = "El almacenamiento se ha optimizado correctamente";
-
-
-
-/*  Settings  */
-
 "Settings.about" = "Acerca";
 "Settings.activationDate" = "Fecha de Activación";
 "Settings.alarms" = "Alarmas";
@@ -934,12 +874,21 @@
 "Settings.new" = "Nuevo";
 "Settings.dependence" = "Dependencia";
 "Settings.dependenceDetail" = "La métrica a partir de la cual se calculará el sonido del motor";
+// Needs review
 "Settings.informationAlarms" = "Information alarms";
+// Needs review
 "Settings.foundObjects" = "Found objects";
+// Needs review
 "Settings.relativeSpeed" = "Relative speed";
+// Needs review
 "Settings.distance" = "Distance";
+// Needs review
 "Settings.dangerApproachSpeed" = "Danger approach speed";
+// Needs review
 "Settings.dangerDistance" = "Danger distance";
+// Needs review
 "Settings.noObjectsFound" = "No objects found";
+// Needs review
 "Settings.maxDetectDistance" = "Max detect distance";
+// Needs review
 "Settings.nearestObject" = "Nearest object";
