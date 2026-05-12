@@ -1,13 +1,3 @@
-
-
-
-/*  AUTO-GENERATED: 2026-05-12, 17:04 */
-
-
-
-
-/*  Firmware  */
-
 "Firmware.checkingFailed" = "Kunne ikke se etter oppdateringer";
 "Firmware.conditionsDescription" = "Under oppgradering, vennligst ikke lukk oppgraderingsgrensesnittet. Etter at oppdateringen er fullført, vennligst start enheten på nytt.\n\nHvis oppdateringen mislyktes eller ble avbrutt, koble fra enheten. Koble til enheten og gå til Fastvareoppdatering. Trykk på Oppdater-knappen.\n\nHvis du har problemer med enheten, kontakt din lokale forhandler.\n\nDarknessBot bruker enhetsleverandørens fastvare og kan ikke holdes ansvarlig for driften av oppdatert fastvare";
 "Firmware.firmwareVersion" = "Fastvareversjon";
@@ -29,11 +19,6 @@
 "Firmware.select" = "Velg";
 "Firmware.updateMessage" = "Oppdatere fastvaren?";
 "Firmware.noFirmwares" = "Ingen fastvare tilgjengelig";
-
-
-
-/*  Common  */
-
 "Common.add" = "Legg til";
 "Common.apply" = "Bruk";
 "Common.cancel" = "Avbryt";
@@ -57,11 +42,6 @@
 "Common.yes" = "Ja";
 "Common.trips" = "Turer";
 "Common.copied" = "Kopiert";
-
-
-
-/*  Profile  */
-
 "Profile.addFriend" = "Legg til som venn";
 "Profile.birthday" = "Fødselsdag";
 "Profile.cantImageSelected" = "Kan ikke velge dette bildet";
@@ -133,11 +113,6 @@
 "Profile.electroClubUploaded" = "Turen er lastet opp til electro.club! Vil du se den?";
 "Profile.noInternetConnection" = "Ingen Internett-tilkobling";
 "Profile.serverIncorrectResponse" = "Serveren sendte et feil svar";
-
-
-
-/*  Rate  */
-
 "Rate.appVersion" = "Appversjon";
 "Rate.dontShowAgain" = "Ikke vis igjen";
 "Rate.emailSubject" = "DarknessBot Tilbakemelding";
@@ -152,11 +127,6 @@
 "Rate.thankYou" = "Takk!";
 "Rate.whatHappened" = "Hva skjedde?";
 "Rate.writeEmail" = "Skriv e-post";
-
-
-
-/*  Ratings  */
-
 "Ratings.allModels" = "Alle modeller";
 "Ratings.allTime" = "Alle tider";
 "Ratings.cloudKitAccessMessage" = "For å se denne rangeringen, gi tilgang til iCloud";
@@ -169,11 +139,6 @@
 "Ratings.week" = "Uke";
 "Ratings.year" = "År";
 "Ratings.you" = "Deg";
-
-
-
-/*  Map  */
-
 "Map.currentTrip" = "Gjeldende tur";
 "Map.directionsNotFound" = "Veibeskrivelse ikke funnet";
 "Map.distance" = "Avstand";
@@ -203,11 +168,6 @@
 "Map.skate" = "Skate";
 "Map.smartBMS" = "Smart BMS";
 "Map.anyDevice" = "Alle enheter";
-
-
-
-/*  Devices  */
-
 "Devices.a" = "A";
 "Devices.averageSpeed" = "Gjennomsnittshastighet";
 "Devices.battery" = "Batteri";
@@ -329,11 +289,6 @@
 "Devices.gpsSpeed" = "GPS-hastighet";
 "Devices.pressToConfirm" = "Trykk på knappen på styret for å bekrefte";
 "Devices.authAdoEbike" = "Vennligst koble til transportmiddelet i ADO EBIKE-appen";
-
-
-
-/*  Intro  */
-
 "Intro.next" = "Neste";
 "Intro.nice" = "Flott!";
 "Intro.premiumTitle" = "Premium";
@@ -372,11 +327,6 @@
 "Intro.trialStartedTitle" = "%i-dagers Premium-prøveperiode startet";
 "Intro.trialStartedSubtitle" = "Etter at prøveperioden er over, vil appen fortsette å fungere gratis.\n\nFunksjoner inkludert i Premium";
 "Intro.unlockPremium" = "Lås opp alle Premium-funksjoner";
-
-
-
-/*  Diagnostic  */
-
 "Diagnostic.diagnostic" = "Diagnostikk";
 "Diagnostic.motorTemperature" = "Motortemperatur";
 "Diagnostic.batteryValid" = "Gyldig";
@@ -459,11 +409,6 @@
 "Diagnostic.temperatureMosEnv" = "MOS-miljøtemperatur";
 "Diagnostic.batteryType" = "Batteritype";
 "Diagnostic.batteryCellCount" = "Celletelling";
-
-
-
-/*  AppData  */
-
 "AppData.allAppData" = "Alle appdata";
 "AppData.allData" = "Alle data";
 "AppData.allMetrics" = "Alle målinger";
@@ -484,11 +429,6 @@
 "AppData.storageOptimizationQuestion" = "Vil du virkelig starte lagringsoptimalisering?";
 "AppData.storageOptimizationMessage" = "Applagringsplassen er allerede stor. Gå til lagringsoptimalisering?";
 "AppData.storageOptimizationSuccess" = "Lagringen er optimalisert";
-
-
-
-/*  Settings  */
-
 "Settings.about" = "Om";
 "Settings.activationDate" = "Aktiveringsdato";
 "Settings.alarms" = "Alarmer";
@@ -934,12 +874,21 @@
 "Settings.new" = "Ny";
 "Settings.dependence" = "Avhengighet";
 "Settings.dependenceDetail" = "Metrikken som motorlyden beregnes fra";
+// Needs review
 "Settings.informationAlarms" = "Information alarms";
+// Needs review
 "Settings.foundObjects" = "Found objects";
+// Needs review
 "Settings.relativeSpeed" = "Relative speed";
+// Needs review
 "Settings.distance" = "Distance";
+// Needs review
 "Settings.dangerApproachSpeed" = "Danger approach speed";
+// Needs review
 "Settings.dangerDistance" = "Danger distance";
+// Needs review
 "Settings.noObjectsFound" = "No objects found";
+// Needs review
 "Settings.maxDetectDistance" = "Max detect distance";
+// Needs review
 "Settings.nearestObject" = "Nearest object";
