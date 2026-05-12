@@ -1,13 +1,3 @@
-
-
-
-/*  AUTO-GENERATED: 2026-05-12, 17:04 */
-
-
-
-
-/*  Firmware  */
-
 "Firmware.checkingFailed" = "업데이트 확인에 실패했습니다.";
 "Firmware.conditionsDescription" = "업데이트하는 동안 화면을 종료하지 마시고 업데이트가 완료되면 장치를 재시작 해주세요. \n\n만약 업데이트에 실패하거나 중단된 경우 연결을 해제하고 다시 연결해주세요. 그 다음 펌웨어 업데이트 설정에서 다시 업데이트를 진행해주세요. \n\n차량에 문제가 있는 경우 구입처 또는 현지 대리점에 문의해주세요.";
 "Firmware.firmwareVersion" = "펌웨어 버전";
@@ -29,11 +19,6 @@
 "Firmware.select" = "Select";
 "Firmware.updateMessage" = "Update the firmware?";
 "Firmware.noFirmwares" = "No firmwares available";
-
-
-
-/*  Common  */
-
 "Common.add" = "Add";
 "Common.apply" = "저장";
 "Common.cancel" = "취소";
@@ -56,12 +41,8 @@
 "Common.warning" = "경고";
 "Common.yes" = "예";
 "Common.trips" = "주행";
+// Needs review
 "Common.copied" = "Copied";
-
-
-
-/*  Profile  */
-
 "Profile.addFriend" = "친구추가";
 "Profile.birthday" = "생일";
 "Profile.cantImageSelected" = "이 이미지를 선택할 수 없습니다";
@@ -133,11 +114,6 @@
 "Profile.electroClubUploaded" = "The trip has been successfully uploaded to the electro.club portal! Do you want to view it?";
 "Profile.noInternetConnection" = "No Internet connection";
 "Profile.serverIncorrectResponse" = "Server sent an incorrect response";
-
-
-
-/*  Rate  */
-
 "Rate.appVersion" = "앱 버전";
 "Rate.dontShowAgain" = "다시 보지 않기";
 "Rate.emailSubject" = "DarknessBot 문제 보고";
@@ -152,11 +128,6 @@
 "Rate.thankYou" = "감사합니다";
 "Rate.whatHappened" = "무슨 일 있어요?";
 "Rate.writeEmail" = "이 메일 보내기";
-
-
-
-/*  Ratings  */
-
 "Ratings.allModels" = "전체 차량";
 "Ratings.allTime" = "전체 시간";
 "Ratings.cloudKitAccessMessage" = "Apple ID/CloudKit/E-mail 찾기 접근을 허용해야 합니다.";
@@ -169,11 +140,6 @@
 "Ratings.week" = "주";
 "Ratings.year" = "년";
 "Ratings.you" = "사용자";
-
-
-
-/*  Map  */
-
 "Map.currentTrip" = "현재의 여행";
 "Map.directionsNotFound" = "방향을 찾을 수 없습니다";
 "Map.distance" = "거리";
@@ -203,11 +169,6 @@
 "Map.skate" = "Skate";
 "Map.smartBMS" = "Smart BMS";
 "Map.anyDevice" = "Any device";
-
-
-
-/*  Devices  */
-
 "Devices.a" = "A";
 "Devices.averageSpeed" = "평균속도";
 "Devices.battery" = "배터리";
@@ -327,13 +288,9 @@
 "Devices.energyConsumption" = "Energy consumption";
 "Devices.gettingServices" = "Getting services...";
 "Devices.gpsSpeed" = "GPS Speed";
+// Needs review
 "Devices.pressToConfirm" = "Press the button on the handlebar to confirm";
 "Devices.authAdoEbike" = "Please connect the transport in the ADO EBIKE app";
-
-
-
-/*  Intro  */
-
 "Intro.next" = "다음";
 "Intro.nice" = "좋아요!";
 "Intro.premiumTitle" = "프리미엄";
@@ -372,11 +329,6 @@
 "Intro.trialStartedTitle" = "%i일 프리미엄 체험 시작됨";
 "Intro.trialStartedSubtitle" = "체험 기간이 종료된 후에도 앱은 계속 무료로 사용 가능합니다.\n\n프리미엄에 포함된 기능";
 "Intro.unlockPremium" = "모든 프리미엄 기능을 잠금 해제하세요";
-
-
-
-/*  Diagnostic  */
-
 "Diagnostic.diagnostic" = "특수 증상";
 "Diagnostic.motorTemperature" = "모터 온도";
 "Diagnostic.batteryValid" = "Valid";
@@ -459,11 +411,6 @@
 "Diagnostic.temperatureMosEnv" = "MOS environment temperature";
 "Diagnostic.batteryType" = "Battery type";
 "Diagnostic.batteryCellCount" = "Cell count";
-
-
-
-/*  AppData  */
-
 "AppData.allAppData" = "All app data";
 "AppData.allData" = "All data";
 "AppData.allMetrics" = "All metrics";
@@ -484,11 +431,6 @@
 "AppData.storageOptimizationQuestion" = "Do you really want to start optimizing storage?";
 "AppData.storageOptimizationMessage" = "The app storage already takes up a lot of space. Go to storage optimization?";
 "AppData.storageOptimizationSuccess" = "Storage has been successfully optimized";
-
-
-
-/*  Settings  */
-
 "Settings.about" = "정보";
 "Settings.activationDate" = "활성화 날짜";
 "Settings.alarms" = "알람";
@@ -928,18 +870,33 @@
 "Settings.backFlip" = "Back Flip";
 "Settings.wearableIntegration" = "고급 웨어러블 기기 통합";
 "Settings.wearableIntegrationDescription" = "ActiveLook 및 Third Eye 통합";
+// Needs review
 "Settings.time" = "Time";
+// Needs review
 "Settings.updateAvailable" = "Update available";
+// Needs review
 "Settings.newFromDeveloper" = "New from the developer";
+// Needs review
 "Settings.new" = "New";
+// Needs review
 "Settings.dependence" = "Dependence";
+// Needs review
 "Settings.dependenceDetail" = "The metric from which the engine sound will be calculated";
+// Needs review
 "Settings.informationAlarms" = "Information alarms";
+// Needs review
 "Settings.foundObjects" = "Found objects";
+// Needs review
 "Settings.relativeSpeed" = "Relative speed";
+// Needs review
 "Settings.distance" = "Distance";
+// Needs review
 "Settings.dangerApproachSpeed" = "Danger approach speed";
+// Needs review
 "Settings.dangerDistance" = "Danger distance";
+// Needs review
 "Settings.noObjectsFound" = "No objects found";
+// Needs review
 "Settings.maxDetectDistance" = "Max detect distance";
+// Needs review
 "Settings.nearestObject" = "Nearest object";
