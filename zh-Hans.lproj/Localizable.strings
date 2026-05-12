@@ -1,13 +1,3 @@
-
-
-
-/*  AUTO-GENERATED: 2026-05-12, 17:04 */
-
-
-
-
-/*  Firmware  */
-
 "Firmware.checkingFailed" = "检查更新失败";
 "Firmware.conditionsDescription" = "升级过程中，请不要退出更新界面。更新完成后，请重新启动设备\n\n如果更新失败或中断，请断开与设备的连接。连接到设备并转到固件更新设置。点击更新按钮。\n\n如果设备有任何问题，请与经销商联系";
 "Firmware.firmwareVersion" = "固件版本";
@@ -29,11 +19,6 @@
 "Firmware.select" = "Select";
 "Firmware.updateMessage" = "Update the firmware?";
 "Firmware.noFirmwares" = "No firmwares available";
-
-
-
-/*  Common  */
-
 "Common.add" = "添加";
 "Common.apply" = "应用";
 "Common.cancel" = "取消";
@@ -56,12 +41,8 @@
 "Common.warning" = "警告";
 "Common.yes" = "是";
 "Common.trips" = "里程";
+// Needs review
 "Common.copied" = "Copied";
-
-
-
-/*  Profile  */
-
 "Profile.addFriend" = "加入好友";
 "Profile.birthday" = "生日";
 "Profile.cantImageSelected" = "不能选择些图片";
@@ -133,11 +114,6 @@
 "Profile.electroClubUploaded" = "The trip has been successfully uploaded to the electro.club portal! Do you want to view it?";
 "Profile.noInternetConnection" = "No Internet connection";
 "Profile.serverIncorrectResponse" = "Server sent an incorrect response";
-
-
-
-/*  Rate  */
-
 "Rate.appVersion" = "应用程序版本";
 "Rate.dontShowAgain" = "不再显示";
 "Rate.emailSubject" = "报告一个DarknessBot的问题";
@@ -152,11 +128,6 @@
 "Rate.thankYou" = "谢谢您";
 "Rate.whatHappened" = "发生什么了？";
 "Rate.writeEmail" = "写邮件";
-
-
-
-/*  Ratings  */
-
 "Ratings.allModels" = "所有型号";
 "Ratings.allTime" = "总时间";
 "Ratings.cloudKitAccessMessage" = "在设置/Apple ID/云组件/邮件时，需要允许云组件访问";
@@ -169,11 +140,6 @@
 "Ratings.week" = "周";
 "Ratings.year" = "年";
 "Ratings.you" = "您";
-
-
-
-/*  Map  */
-
 "Map.currentTrip" = "本次里程";
 "Map.directionsNotFound" = "找不到方向";
 "Map.distance" = "距离";
@@ -203,11 +169,6 @@
 "Map.skate" = "Skate";
 "Map.smartBMS" = "Smart BMS";
 "Map.anyDevice" = "Any device";
-
-
-
-/*  Devices  */
-
 "Devices.a" = "安";
 "Devices.averageSpeed" = "平均速度";
 "Devices.battery" = "电池";
@@ -327,13 +288,9 @@
 "Devices.energyConsumption" = "Energy consumption";
 "Devices.gettingServices" = "Getting services...";
 "Devices.gpsSpeed" = "GPS Speed";
+// Needs review
 "Devices.pressToConfirm" = "Press the button on the handlebar to confirm";
 "Devices.authAdoEbike" = "Please connect the transport in the ADO EBIKE app";
-
-
-
-/*  Intro  */
-
 "Intro.next" = "下一个";
 "Intro.nice" = "好的！";
 "Intro.premiumTitle" = "高级版";
@@ -372,11 +329,6 @@
 "Intro.trialStartedTitle" = "高级版试用期已开始 %i-days";
 "Intro.trialStartedSubtitle" = "试用期结束后，该应用将继续免费使用。\n\nPremium 包含的功能";
 "Intro.unlockPremium" = "解锁所有高级功能";
-
-
-
-/*  Diagnostic  */
-
 "Diagnostic.diagnostic" = "诊断";
 "Diagnostic.motorTemperature" = "电机温度";
 "Diagnostic.batteryValid" = "有效";
@@ -459,11 +411,6 @@
 "Diagnostic.temperatureMosEnv" = "MOS environment temperature";
 "Diagnostic.batteryType" = "Battery type";
 "Diagnostic.batteryCellCount" = "Cell count";
-
-
-
-/*  AppData  */
-
 "AppData.allAppData" = "All app data";
 "AppData.allData" = "All data";
 "AppData.allMetrics" = "All metrics";
@@ -484,11 +431,6 @@
 "AppData.storageOptimizationQuestion" = "Do you really want to start optimizing storage?";
 "AppData.storageOptimizationMessage" = "The app storage already takes up a lot of space. Go to storage optimization?";
 "AppData.storageOptimizationSuccess" = "Storage has been successfully optimized";
-
-
-
-/*  Settings  */
-
 "Settings.about" = "关于";
 "Settings.activationDate" = "激活日期";
 "Settings.alarms" = "报警";
@@ -928,18 +870,33 @@
 "Settings.backFlip" = "Back Flip";
 "Settings.wearableIntegration" = "先进可穿戴设备集成";
 "Settings.wearableIntegrationDescription" = "ActiveLook 和 Third Eye 的整合";
+// Needs review
 "Settings.time" = "Time";
+// Needs review
 "Settings.updateAvailable" = "Update available";
+// Needs review
 "Settings.newFromDeveloper" = "New from the developer";
+// Needs review
 "Settings.new" = "New";
+// Needs review
 "Settings.dependence" = "Dependence";
+// Needs review
 "Settings.dependenceDetail" = "The metric from which the engine sound will be calculated";
+// Needs review
 "Settings.informationAlarms" = "Information alarms";
+// Needs review
 "Settings.foundObjects" = "Found objects";
+// Needs review
 "Settings.relativeSpeed" = "Relative speed";
+// Needs review
 "Settings.distance" = "Distance";
+// Needs review
 "Settings.dangerApproachSpeed" = "Danger approach speed";
+// Needs review
 "Settings.dangerDistance" = "Danger distance";
+// Needs review
 "Settings.noObjectsFound" = "No objects found";
+// Needs review
 "Settings.maxDetectDistance" = "Max detect distance";
+// Needs review
 "Settings.nearestObject" = "Nearest object";
