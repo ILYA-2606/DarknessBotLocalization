@@ -1,13 +1,3 @@
-
-
-
-/*  AUTO-GENERATED: 2026-05-12, 17:04 */
-
-
-
-
-/*  Firmware  */
-
 "Firmware.checkingFailed" = "Failed to check for updates";
 "Firmware.conditionsDescription" = "During upgrading, please don’t exit upgrading interface. After the updating is finished, please reboot the device.\n\nIf updating failed or interrupted, please disconnect from device. Connect to device and go to Firmware Update settings. Touch Update button.\n\nIf you have any problems with your device, please contact your local dealer.\n\nDarknessBot uses the device vendor's firmware and cannot be held responsible for the operation of updated firmware";
 "Firmware.firmwareVersion" = "Firmware version";
@@ -29,11 +19,6 @@
 "Firmware.select" = "Select";
 "Firmware.updateMessage" = "Update the firmware?";
 "Firmware.noFirmwares" = "No firmwares available";
-
-
-
-/*  Common  */
-
 "Common.add" = "Add";
 "Common.apply" = "Apply";
 "Common.cancel" = "Cancel";
@@ -57,11 +42,6 @@
 "Common.yes" = "Yes";
 "Common.trips" = "Trips";
 "Common.copied" = "Copied";
-
-
-
-/*  Profile  */
-
 "Profile.addFriend" = "Add to friends";
 "Profile.birthday" = "Birthday";
 "Profile.cantImageSelected" = "Can't select this image";
@@ -133,11 +113,6 @@
 "Profile.electroClubUploaded" = "The trip has been successfully uploaded to the electro.club portal! Do you want to view it?";
 "Profile.noInternetConnection" = "No Internet connection";
 "Profile.serverIncorrectResponse" = "Server sent an incorrect response";
-
-
-
-/*  Rate  */
-
 "Rate.appVersion" = "App version";
 "Rate.dontShowAgain" = "Don't show again";
 "Rate.emailSubject" = "DarknessBot problem report";
@@ -152,11 +127,6 @@
 "Rate.thankYou" = "Thank you";
 "Rate.whatHappened" = "What happened?";
 "Rate.writeEmail" = "Write an email";
-
-
-
-/*  Ratings  */
-
 "Ratings.allModels" = "All models";
 "Ratings.allTime" = "All time";
 "Ratings.cloudKitAccessMessage" = "You must allow access to CloudKit in Settings / Apple ID / iCloud / Look Me Up By Email";
@@ -169,11 +139,6 @@
 "Ratings.week" = "Week";
 "Ratings.year" = "Year";
 "Ratings.you" = "You";
-
-
-
-/*  Map  */
-
 "Map.currentTrip" = "Current trip";
 "Map.directionsNotFound" = "Directions not found";
 "Map.distance" = "Distance";
@@ -203,11 +168,6 @@
 "Map.skate" = "Skate";
 "Map.smartBMS" = "Smart BMS";
 "Map.anyDevice" = "Any device";
-
-
-
-/*  Devices  */
-
 "Devices.a" = "A";
 "Devices.averageSpeed" = "Average Speed";
 "Devices.battery" = "Battery";
@@ -329,11 +289,6 @@
 "Devices.gpsSpeed" = "GPS Speed";
 "Devices.pressToConfirm" = "Press the button on the handlebar to confirm";
 "Devices.authAdoEbike" = "Please connect the transport in the ADO EBIKE app";
-
-
-
-/*  Intro  */
-
 "Intro.next" = "Next";
 "Intro.nice" = "Nice!";
 "Intro.premiumTitle" = "Premium";
@@ -372,11 +327,6 @@
 "Intro.trialStartedTitle" = "%i-days Premium trial started";
 "Intro.trialStartedSubtitle" = "After completing the trial, the app will continue to work for free.\n\nFeatures included in the Premium";
 "Intro.unlockPremium" = "Unlock all Premium features";
-
-
-
-/*  Diagnostic  */
-
 "Diagnostic.diagnostic" = "Diagnostic";
 "Diagnostic.motorTemperature" = "Motor temperature";
 "Diagnostic.batteryValid" = "Valid";
@@ -459,11 +409,6 @@
 "Diagnostic.temperatureMosEnv" = "MOS environment temperature";
 "Diagnostic.batteryType" = "Battery type";
 "Diagnostic.batteryCellCount" = "Cell count";
-
-
-
-/*  AppData  */
-
 "AppData.allAppData" = "All app data";
 "AppData.allData" = "All data";
 "AppData.allMetrics" = "All metrics";
@@ -484,11 +429,6 @@
 "AppData.storageOptimizationQuestion" = "Do you really want to start optimizing storage?";
 "AppData.storageOptimizationMessage" = "The app storage already takes up a lot of space. Go to storage optimization?";
 "AppData.storageOptimizationSuccess" = "Storage has been successfully optimized";
-
-
-
-/*  Settings  */
-
 "Settings.about" = "About";
 "Settings.activationDate" = "Activation Date";
 "Settings.alarms" = "Alarms";
