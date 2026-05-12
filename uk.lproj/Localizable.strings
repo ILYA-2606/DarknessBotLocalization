@@ -157,16 +157,25 @@
 "Map.recordTrack" = "Запис трека";
 "Map.trackerBackgroundLocation" = "DarknessBot збирає дані про місцезнаходження, щоб увімкнути дані GPS в логі CSV, коли програма працює у фоновому режимі або вимкнений екран. Дані GPS не збираються коли електротранспорт вимкнено. Трекер працює навіть тоді, коли додаток мінімізовано, тому вам потрібно дозволити повний доступ до місцезнаходження 'Дозволити весь час'";
 "Map.removeTripQuestion" = "Ви впевнені, що бажаєте видалити цю подорож?";
+// Needs review
 "Map.macAddress" = "MAC-адрес";
+// Needs review
 "Map.macAddressDetail" = "Привяжите MAC-адрес к вашему транспорту в electro.club для привязки трека к транспорту на портале. Нажмите, чтобы скопировать MAC-адрес";
 "Map.notSelected" = "Не обрано";
+// Needs review
 "Map.connectedDevice" = "Подключенное устройство";
+// Needs review
 "Map.euc" = "Моноколесо";
+// Needs review
 "Map.scooter" = "Самокат";
+// Needs review
 "Map.segway" = "Сигвей";
+// Needs review
 "Map.minisegway" = "Мини Сигвей";
+// Needs review
 "Map.skate" = "Скейт";
 "Map.smartBMS" = "Smart BMS";
+// Needs review
 "Map.anyDevice" = "Любое устройство";
 "Devices.a" = "А";
 "Devices.averageSpeed" = "Середня швидкість";
@@ -178,6 +187,7 @@
 "Devices.bluetoothResetting" = "Налаштування Bluetooth";
 "Devices.bluetoothUnauth" = "Використання Bluetooth не дозволено";
 "Devices.celsius" = "°C";
+// Needs review
 "Devices.compass" = "Компас";
 "Devices.connect" = "Під’єднати";
 "Devices.connected" = "Під’єднано";
@@ -220,7 +230,9 @@
 "Devices.maxCurrent" = "Макс. споживання";
 "Devices.maxPower" = "Макс. потужність";
 "Devices.maxSpeed" = "Макс. швидкість";
+// Needs review
 "Devices.maxTemperature" = "Макс. температура";
+// Needs review
 "Devices.maxPWM" = "Макс. ШИМ";
 "Devices.minute" = "хвилина";
 "Devices.minutes" = "хвилини";
@@ -275,6 +287,7 @@
 "Devices.batteryOptimizationTitle" = "Виявлена оптимізація батареї";
 "Devices.batteryOptimizationMessage" = "Вимкніть оптимізацію в налаштуваннях, щоб покращити продуктивність додатка";
 "Devices.inmotionV11Update" = "Через безпеку рекомендується оновити через додаток InMotion ваш V11 до версії 1.4.15 або вище";
+// Needs review
 "Devices.notificationChannelName" = "Статус";
 "Devices.notificationChannelDescription" = "Повідомлення про статус підключення";
 "Devices.notificationPermissionMessage" = "Надайте доступ до сповіщень, щоб відстежувати статус підключення та покращити роботу у фоновому режимі";
@@ -286,9 +299,11 @@
 "Devices.sec" = "с";
 "Devices.energyConsumption" = "Витрата енергії";
 "Devices.gettingServices" = "Отрамання сервісів...";
+// Needs review
 "Devices.gpsSpeed" = "Скорость GPS";
 // Needs review
 "Devices.pressToConfirm" = "Нажмите на кнопку на руле для подтверждения";
+// Needs review
 "Devices.authAdoEbike" = "Пожалуйста, авторизуйтесь транспорт в приложении ADO EBIKE";
 "Intro.next" = "Далі";
 "Intro.nice" = "Чудово!";
@@ -298,6 +313,7 @@
 "Intro.premiumExpiredDescription" = "Ви можете придбати Преміум, щоб продовжити користуватися всіма платними функціями програми";
 "Intro.later" = "Пізніше";
 "Intro.buyPremium" = "Купити Преміум";
+// Needs review
 "Intro.feature1Title" = "Поддержка новых устройств";
 "Intro.feature1Description" = "- Garmin Varia";
 "Intro.help1" = "Перед початком рух не забувайте про захист та спорядження";
@@ -309,20 +325,33 @@
 "Intro.help7" = "У режимі офлайн ви можете переглядати показники, не підключаючись до електротранспорту";
 "Intro.help8" = "Експорт логів та маршрутів доступний із Поїздок";
 "Intro.help9" = "Поїздки з маршрутом позначені відповідним значком";
+// Needs review
 "Intro.onboardingTitle" = "Разрешить доступы";
+// Needs review
 "Intro.onboardingMessage" = "для полноценной работы приложения";
+// Needs review
 "Intro.onboardingContinue" = "Продолжить";
+// Needs review
 "Intro.onboardingContinueMessage" = "проверьте все доступы для продолжения";
+// Needs review
 "Intro.allow" = "Разрешить";
 "Intro.bluetooth" = "Bluetooth";
+// Needs review
 "Intro.location" = "Геолокация";
 "Intro.cloudkit" = "CloudKit";
+// Needs review
 "Intro.notification" = "Уведомления";
+// Needs review
 "Intro.tracking" = "Трекинг";
+// Needs review
 "Intro.bluetoothDescription" = "Для подключения к электротранспорту";
+// Needs review
 "Intro.geolocationDescription" = "Для записи маршрутов и работы автоматического фонарика";
+// Needs review
 "Intro.cloudkitDescription" = "Для доступа к облачному профилю, карте пользователей и рейтингов";
+// Needs review
 "Intro.notificationDescription" = "Для уведомлений о подключении электротранспорта";
+// Needs review
 "Intro.trackingDescription" = "Мы используем эти данные для улучшения приложения";
 "Intro.justLifetime" = "Просто %@ життя";
 "Intro.trialStartedTitle" = "Розпочато %i-денний преміум-пробний період";
@@ -341,6 +370,7 @@
 "Diagnostic.batteryOverheat" = "Перегрів";
 "Diagnostic.batteryChargeError" = "Помилка заряду";
 "Diagnostic.batteryUVError" = "UV-помилка";
+// Needs review
 "Diagnostic.batteryNA" = "Недоступно";
 "Diagnostic.batteryTemperature" = "Температура батареї";
 "Diagnostic.mainBoardTemperature" = "Основна температура плати";
@@ -349,6 +379,7 @@
 "Diagnostic.pressureSensorA" = "Датчик тиску A";
 "Diagnostic.pressureSensorB" = "Датчик тиску B";
 "Diagnostic.motorPhaseLine" = "Фазова лінія мотору";
+// Needs review
 "Diagnostic.fanStatus" = "Статус вентилятора";
 "Diagnostic.cpuUsage" = "Використання процесора";
 "Diagnostic.batteryStatus" = "Стан батареї";
@@ -459,8 +490,9 @@
 "Settings.batteryCellAverageVoltage" = "Середня напруга батареї";
 "Settings.batteryCellDeltaVoltage" = "Різниця в напрузі батареї";
 "Settings.batteryCellsVoltage" = "Напруга комірок";
-"Settings.batteryChargeCount" = "Кількість зарядок";
+"Settings.batteryChargeCount" = "Кількіс��ь зарядок";
 "Settings.batteryCurrentCapacity" = "Поточна ємність";
+// Needs review
 "Settings.batteryCycles" = "Циклов батареи";
 "Settings.batteryDesignCapacity" = "Ємкість батареї";
 "Settings.batteryDetail" = "Вкажіть для точного розрахунку залишку пробігу";
@@ -479,6 +511,7 @@
 "Settings.bmsVersion" = "Версія BMS";
 "Settings.brakeLights" = "Стоп-сигнал";
 "Settings.brakeLightsDetail" = "Увімкнення гальмівного сигналу";
+// Needs review
 "Settings.brand" = "Бренд";
 "Settings.brightness" = "Яскравість";
 "Settings.brightnessDetail" = "Змінює яскравість передньої фари";
@@ -488,6 +521,7 @@
 "Settings.byBattery" = "По батареї";
 "Settings.byBatteryDetail" = "Спрацьовує коли підвищений заряд батареї";
 "Settings.byPower" = "По потужності";
+// Needs review
 "Settings.byPWM" = "По ШИМу";
 "Settings.byPWMDetail" = "Відсоток використання двигуна. Для запобігання відключення рекомендуеться встановлювати не більше 80%";
 "Settings.bySpeed" = "За швидкістю";
@@ -519,12 +553,17 @@
 "Settings.csvSharing" = "Експорт поїздок";
 "Settings.csvSharingDetail" = "Поділитись поїздками у форматі CSV";
 "Settings.customBeep" = "Власний гудок";
+// Needs review
 "Settings.customBeepBicycle" = "Велосипед";
+// Needs review
 "Settings.customBeepCar" = "Авто";
+// Needs review
 "Settings.customBeepCucaracha" = "Кукарача";
 "Settings.customBeepDetail" = "Замінює гудок пристрою";
 "Settings.customBeepPromo" = "Гудок не підтримується пристроєм, але можна настроїти власний гудок в налаштуваннях";
+// Needs review
 "Settings.customBeepTruck" = "Фура";
+// Needs review
 "Settings.customDashboard" = "Кастомный дашборд";
 "Settings.customDashboardDetail" = "Вибір пліток для відображення та налаштування розміру";
 "Settings.customDashboardDescription" = "Гнучке налаштування розмірів плиток на дашборді. Збільшуйте плитки двома пальцями. Натискання двома пальцями для повноекранного режиму";
@@ -547,8 +586,10 @@
 "Settings.downloadApp" = "Завантажити додаток";
 "Settings.editMetrics" = "Редагувати метрики";
 "Settings.enabled" = "Увімкнено";
+// Needs review
 "Settings.engineSound" = "Звук мотора";
 "Settings.engineSoundDetail" = "AVAS із можливістю вибору з пресетів. Ми консультувались з розробниками гоночних ігор для імітації звуків моторів";
+// Needs review
 "Settings.equalizerMode" = "Режим эквалайзера";
 "Settings.exceededAmperage" = "Перевищено споживання";
 "Settings.exceededBattery" = "Рівень заряду батареї";
@@ -571,8 +612,10 @@
 "Settings.graphs" = "Графіки";
 "Settings.graphsDescription" = "Перегляд графіків за тривалий період аж до року";
 "Settings.graphsMessage" = "Тепер Ви можете дивитися графіки за останній рік";
+// Needs review
 "Settings.handle" = "Ручка";
 "Settings.handleDetail" = "Блокування двигуна при підйомі";
+// Needs review
 "Settings.handleMode" = "Режим ручки";
 "Settings.homekitAdding" = "Ви можете додати аксесуар HomeKit в додатку Home";
 "Settings.homekitButton" = "Кнопка HomeKit";
@@ -603,6 +646,7 @@
 "Settings.lockMode" = "Режим блокування";
 "Settings.lockOrientation" = "Блокування орієнтації";
 "Settings.lockOrientationDetail" = "Запобігання зміні орієнтації екрана телефону";
+// Needs review
 "Settings.logs" = "Логи";
 "Settings.lowLatencyMode" = "Режим низької затримки";
 "Settings.maxRollAngle" = "Максимальний кут нахилу";
@@ -615,6 +659,7 @@
 "Settings.mileageEstimationDetail" = "Вкажіть пробіг на одній зарядці батареї, щоб підвищити точність обчислення залишкового пробігу";
 "Settings.mileageEstimationDynamic" = "Динамічна оцінка пробігу";
 "Settings.mileageEstimationDynamicDetail" = "Залишковий пробіг буде обчислюватися динамічно в залежності від стилю їзди останнім часом";
+// Needs review
 "Settings.model" = "Модель";
 "Settings.musicVolumeAudioDevices" = "Аудіо-пристрої";
 "Settings.musicVolumeControl" = "Автоматична гучність";
@@ -645,7 +690,7 @@
 "Settings.playPause" = "Відтворення/Пауза";
 "Settings.premium" = "Преміум";
 "Settings.premiumDescription" = "Усі поточні та майбутні платні можливості";
-"Settings.premiumFeatureTitle" = "Це Преміум-функція";
+"Settings.premiumFeatureTitle" = "Це Прем��ум-функція";
 "Settings.premiumIncludes" = "Преміум включає в себе";
 "Settings.premiumMessage" = "Тепер Ви можете використовувати всі платні функції програми";
 "Settings.previousTrack" = "Попередній трек";
@@ -686,6 +731,7 @@
 "Settings.recorderLeftSideWidgets" = "Віджети лівої сторони";
 "Settings.recorderMessage" = "Тепер Ви можете записувати відео на екрані дашборда";
 "Settings.recorderRightSideWidgets" = "Віджети правої сторони";
+// Needs review
 "Settings.records" = "записи";
 "Settings.recuperationMode" = "Режим рекуперації";
 "Settings.recuperationModeDetail" = "Рівень рекуперативного гальмування";
@@ -703,7 +749,9 @@
 "Settings.ridingModeSoft" = "М'який";
 "Settings.ridingModeSport" = "Спортивний";
 "Settings.ridingModeStandard" = "Стандартний";
+// Needs review
 "Settings.safeMode" = "Безопасный режим";
+// Needs review
 "Settings.safeModeDetail" = "Включает ограничение скорости на малом заряде";
 "Settings.send" = "Відправити";
 "Settings.serialNumber" = "Серійний номер";
@@ -714,20 +762,28 @@
 "Settings.shutdownTimeDetail" = "Автоматичне вимкнення пристрою";
 "Settings.smartAlarms" = "Розумні оповіщення";
 "Settings.smartAlarmsDescription" = "Оповіщення про швидкість зменшуватиметься лінійно, оскільки заряд пристрою зменшиться.\nДо 80%% від початкового значення";
+// Needs review
 "Settings.sound" = "Звук";
 "Settings.speedCorrection" = "Корегування швидкості";
 "Settings.speedCorrectionDetail" = "Впливає на відображення поточної, середньої та максимальної швидкості";
+// Needs review
 "Settings.mileageCorrection" = "Корректировка пробега";
+// Needs review
 "Settings.mileageCorrectionDetail" = "Влияет на отображение пробега поездки и общего пробега";
+// Needs review
 "Settings.splashScreen" = "Заставка";
+// Needs review
 "Settings.splashScreenDisabling" = "Отключение заставки";
 "Settings.splashScreenDetail" = "Показ підказок та промо під час запуску програми";
 "Settings.splashScreenDescription" = "Можливість відключення заставки";
 "Settings.support" = "Підтримка";
 "Settings.systemLanguage" = "Системна мова";
 "Settings.temperatureUnit" = "Одиниця виміру температури";
+// Needs review
 "Settings.testDrive" = "Тест-драйв";
+// Needs review
 "Settings.testDriveDetail" = "Передвигайте ползунок, чтобы проверить звучание";
+// Needs review
 "Settings.theme" = "Тема";
 "Settings.themeDetail" = "Можливість застосовувати теми додатка";
 "Settings.themeAuto" = "Автоматична тема";
@@ -810,62 +866,118 @@
 "Settings.increaseVolume" = "Підвищена гучності";
 "Settings.decreaseVolume" = "Зменшення гучності";
 "Settings.batteryCorrection" = "Коригування батареї";
+// Needs review
 "Settings.batteryCorrectionDetail" = "Влияет на вычисление заряда батареи";
+// Needs review
 "Settings.cellVoltage100" = "Напряжение ячейки для 100%";
+// Needs review
 "Settings.cellVoltage0" = "Напряжение ячейки для 0%";
+// Needs review
 "Settings.useDischargeCurve" = "Использовать кривую разряда";
 "Settings.liveActivity" = "Live Activity";
+// Needs review
 "Settings.liveActivityDescription" = "Виджет Live Activity на экране блокировки и Dynamic Island";
+// Needs review
 "Settings.breakingAmperage" = "Ток торможения";
+// Needs review
 "Settings.extremeMode" = "Экстремальный режим";
+// Needs review
 "Settings.rotationControl" = "Контроль вращения";
+// Needs review
 "Settings.breakingAmperageDetail" = "Усилие, с которым будет происходить торможения двигателя от текущей скорости вращения до остановки. Активируется нажатием кнопки отключения мотора при активном экстримальном режиме";
+// Needs review
 "Settings.extremeModeDetail" = "Задействует возможности прошивки для выполнения экстремальных функций, например, управляемое торможение. Не для обычной езды";
+// Needs review
 "Settings.rotationControlDetail" = "Функция для трюка Front Flip. Если эта функция включена, колесо произведет отсчет вращения 360 градусов от положения, в котором оно находилось в момент нажатия кнопки остановки мотора. При отключенной функции включение колеса производится повторным нажатием кнопки остановки мотора";
+// Needs review
 "Settings.customDashboardMinTiles" = "Для отображения дашборда нужна хотя бы одна плитка";
+// Needs review
 "Settings.advancedSettings" = "Расширенные настройки";
+// Needs review
 "Settings.horizonKP" = "Пропорциональный коэффициент";
+// Needs review
 "Settings.horizonKI" = "Интегральный коэффициент";
+// Needs review
 "Settings.horizonKD" = "Дифференциальный коэффициент";
+// Needs review
 "Settings.horizonDynamicCompensation" = "Динамическая компенсация";
+// Needs review
 "Settings.horizonDynamicCompensationFilter" = "Фильтр динамической компенсации";
+// Needs review
 "Settings.accelerationCompensation" = "Компенсация ускорения";
+// Needs review
 "Settings.turnCompensation" = "Компенсация поворота";
+// Needs review
 "Settings.currentKP" = "Пропорциональный коэффициент тока Q";
+// Needs review
 "Settings.currentKI" = "Интегральный коэффициент тока Q";
+// Needs review
 "Settings.currentDKP" = "Пропорциональный коэффициент тока D";
+// Needs review
 "Settings.currentDKI" = "Интегральный коэффициент тока D";
+// Needs review
 "Settings.rotationAngle" = "Угол вращения";
+// Needs review
 "Settings.advancedSettingsDetails" = "Активация 'Инженерных настроек'. Включение данной функции переводит колесо в режим расширенных настроек. Чтобы настройки применялись необходимо поставить 'Мягкий' режим педалей. ";
+// Needs review
 "Settings.horizonKPDetails" = "Пропорциональный коэффициент ПИД регулятора удержания горизонта";
+// Needs review
 "Settings.horizonKIDetails" = "Интегральный коэффициент ПИД регулятора удержания горизонта";
+// Needs review
 "Settings.horizonKDDetails" = "Дифференциальный коэффициент ПИД регулятора удержания горизонта";
+// Needs review
 "Settings.horizonDynamicCompensationDetails" = "Динамическая компенсация угла горизонта";
+// Needs review
 "Settings.horizonDynamicCompensationFilterDetails" = "Коэффициент фильтра динамической компенсации угла горизонта";
+// Needs review
 "Settings.accelerationCompensationDetails" = "Компенсация отклонений горизонта, вызванных ускорением/замедлением колеса";
+// Needs review
 "Settings.turnCompensationDetails" = "Компенсация отклонений горизонта, вызванных поворотом колеса";
+// Needs review
 "Settings.currentKPDetails" = "Пропорциональный коэффициент ПИД регулятора тока Q двигателя";
+// Needs review
 "Settings.currentKIDetails" = "Интегральный коэффициент ПИД регулятора тока Q двигателя";
+// Needs review
 "Settings.currentDKPDetails" = "Пропорциональный коэффициент ПИД регулятора тока D двигателя";
+// Needs review
 "Settings.currentDKIDetails" = "Интегральный коэффициент ПИД регулятора тока D двигателя";
+// Needs review
 "Settings.rotationAngleDetails" = "Угол, на который колесо должно провернуться для включения, при выполнении трюка Front Flip. Активируется при включении функции 'Контроль вращения'";
+// Needs review
 "Settings.useSoftwarePWM" = "Программный ШИМ";
+// Needs review
 "Settings.useSoftwarePWMDetails" = "Использовать программный ШИМ вместо аппаратного";
+// Needs review
 "Settings.supportUs" = "Поддержите нас";
+// Needs review
 "Settings.mirrorThirdEye" = "Зеркало «Третий глаз»";
+// Needs review
 "Settings.topValue" = "Верхнее значение";
+// Needs review
 "Settings.bottomValue" = "Нижнее значение";
+// Needs review
 "Settings.showTitles" = "Показывать заголовки";
+// Needs review
 "Settings.deviceSearch" = "Поиск устройства...";
+// Needs review
 "Settings.value" = "Значение";
+// Needs review
 "Settings.regularText" = "Обычный текст";
+// Needs review
 "Settings.largeText" = "Крупный текст";
+// Needs review
 "Settings.extraLargeText" = "Огромный текст";
+// Needs review
 "Settings.segment" = "Сегмент";
+// Needs review
 "Settings.autoBrightness" = "Автоматическая яркость";
+// Needs review
 "Settings.trickMode" = "Режим трюка";
+// Needs review
 "Settings.noTrick" = "Без трюка";
+// Needs review
 "Settings.frontFlip" = "Front Flip";
+// Needs review
 "Settings.backFlip" = "Back Flip";
 "Settings.wearableIntegration" = "Розширена інтеграція носимих пристроїв";
 "Settings.wearableIntegrationDescription" = "Інтеграція ActiveLook і Third Eye";
