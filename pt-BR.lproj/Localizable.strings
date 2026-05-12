@@ -1,13 +1,3 @@
-
-
-
-/*  AUTO-GENERATED: 2026-05-12, 17:04 */
-
-
-
-
-/*  Firmware  */
-
 "Firmware.checkingFailed" = "Falha ao verificar atualizações";
 "Firmware.conditionsDescription" = "Durante a atualização, por favor, não saia da interface de atualização. Após a conclusão da atualização, reinicie o dispositivo.\nSe a atualização falhar ou for interrompido, desconecte-se do dispositivo. Conecte-se novamente ao dispositivo e vá para as configurações de Atualização de Firmware. Toque no botão de atualização.\nSe você tiver algum problema com o seu dispositivo, entre em contato com o revendedor local.\nO DarknessBot utiliza o firmware do fabricante do dispositivo e não pode ser responsabilizado pelo funcionamento do firmware atualizado.";
 "Firmware.firmwareVersion" = "Versão do firmware";
@@ -29,11 +19,6 @@
 "Firmware.select" = "Selecione";
 "Firmware.updateMessage" = "Deseja atualizar o firmware?";
 "Firmware.noFirmwares" = "Nenhum firmware disponível";
-
-
-
-/*  Common  */
-
 "Common.add" = "Adicionar";
 "Common.apply" = "Aplicar";
 "Common.cancel" = "Cancelar";
@@ -57,11 +42,6 @@
 "Common.yes" = "Sim";
 "Common.trips" = "Viagens";
 "Common.copied" = "Copiado";
-
-
-
-/*  Profile  */
-
 "Profile.addFriend" = "Adicionar a lista de amigos";
 "Profile.birthday" = "Aniversário";
 "Profile.cantImageSelected" = "Não é possível selecionar esta imagem";
@@ -133,11 +113,6 @@
 "Profile.electroClubUploaded" = "A viagem foi carregada com sucesso no portal electro.club! Você deseja visualizá-la?";
 "Profile.noInternetConnection" = "Sem conexão com a internet";
 "Profile.serverIncorrectResponse" = "Ocorreu um erro no servidor";
-
-
-
-/*  Rate  */
-
 "Rate.appVersion" = "Versão do aplicativo";
 "Rate.dontShowAgain" = "Não exibir novamente";
 "Rate.emailSubject" = "Reportar um problema do DarknessBot";
@@ -152,11 +127,6 @@
 "Rate.thankYou" = "Obrigado";
 "Rate.whatHappened" = "O que aconteceu?";
 "Rate.writeEmail" = "Escrever um email";
-
-
-
-/*  Ratings  */
-
 "Ratings.allModels" = "Todos modelos";
 "Ratings.allTime" = "Tempo total";
 "Ratings.cloudKitAccessMessage" = "Você precisa permitir o acesso ao CloudKit nas configurações / Apple ID / iCloud / Apps que usam iCloud / Buscar-me";
@@ -169,11 +139,6 @@
 "Ratings.week" = "Semana";
 "Ratings.year" = "Ano";
 "Ratings.you" = "Você";
-
-
-
-/*  Map  */
-
 "Map.currentTrip" = "Viagem atual";
 "Map.directionsNotFound" = "Direções não encontradas";
 "Map.distance" = "Distância";
@@ -202,12 +167,8 @@
 "Map.minisegway" = "Mini Segway";
 "Map.skate" = "Skate";
 "Map.smartBMS" = "Smart BMS";
+// Needs review
 "Map.anyDevice" = "Any device";
-
-
-
-/*  Devices  */
-
 "Devices.a" = "A";
 "Devices.averageSpeed" = "Velocidade Média";
 "Devices.battery" = "Bateria";
@@ -327,13 +288,10 @@
 "Devices.energyConsumption" = "Consumo de energia";
 "Devices.gettingServices" = "Obtendo serviços...";
 "Devices.gpsSpeed" = "Velocidade do GPS";
+// Needs review
 "Devices.pressToConfirm" = "Press the button on the handlebar to confirm";
+// Needs review
 "Devices.authAdoEbike" = "Please connect the transport in the ADO EBIKE app";
-
-
-
-/*  Intro  */
-
 "Intro.next" = "Próximo";
 "Intro.nice" = "Boa!";
 "Intro.premiumTitle" = "Premium";
@@ -353,30 +311,37 @@
 "Intro.help7" = "No modo offline, você pode visualizar métricas sem precisar se conectar a um modal elétrico";
 "Intro.help8" = "É possível exportar os registros e rotas das viagens ";
 "Intro.help9" = "Viagens com rota são marcadas com um ícone relevante";
+// Needs review
 "Intro.onboardingTitle" = "Allow access";
+// Needs review
 "Intro.onboardingMessage" = "in order to get full featured application";
+// Needs review
 "Intro.onboardingContinue" = "Continue";
+// Needs review
 "Intro.onboardingContinueMessage" = "check all permissions to continue";
+// Needs review
 "Intro.allow" = "Allow";
+// Needs review
 "Intro.bluetooth" = "Bluetooth";
+// Needs review
 "Intro.location" = "Location";
 "Intro.cloudkit" = "CloudKit";
+// Needs review
 "Intro.notification" = "Notifications";
+// Needs review
 "Intro.tracking" = "Tracking";
+// Needs review
 "Intro.bluetoothDescription" = "For connecting to electrotransport";
+// Needs review
 "Intro.geolocationDescription" = "For recording routes and the operation of an automatic torch";
 "Intro.cloudkitDescription" = "Para acessar o perfil na nuvem, o mapa de usuários e as classificações";
 "Intro.notificationDescription" = "For notifications about the connection to electrotransport";
+// Needs review
 "Intro.trackingDescription" = "We use this data to improve the application";
 "Intro.justLifetime" = "Apenas %@ Vitalício";
 "Intro.trialStartedTitle" = "O período de teste Premium de %i dias começou.";
 "Intro.trialStartedSubtitle" = "Após a conclusão do teste, o aplicativo continuará funcionando gratuitamente.\n\nRecursos incluídos no Premium";
 "Intro.unlockPremium" = "Desbloqueie todos os recursos Premium";
-
-
-
-/*  Diagnostic  */
-
 "Diagnostic.diagnostic" = "Diagnóstico";
 "Diagnostic.motorTemperature" = "Temperatura do motor";
 "Diagnostic.batteryValid" = "Válido";
@@ -459,11 +424,6 @@
 "Diagnostic.temperatureMosEnv" = "Temperatura do ambiente do MOS";
 "Diagnostic.batteryType" = "Tipo de bateria";
 "Diagnostic.batteryCellCount" = "Contagem de células";
-
-
-
-/*  AppData  */
-
 "AppData.allAppData" = "Todos os dados do aplicativo";
 "AppData.allData" = "Todos os dados";
 "AppData.allMetrics" = "Todas as métricas";
@@ -484,11 +444,6 @@
 "AppData.storageOptimizationQuestion" = "Você realmente deseja iniciar a otimização de armazenamento?";
 "AppData.storageOptimizationMessage" = "Os dados aplicativo está ocupando bastante armazenamento. Deseja ir para a otimização de armazenamento?";
 "AppData.storageOptimizationSuccess" = "O armazenamento foi otimizado com sucesso";
-
-
-
-/*  Settings  */
-
 "Settings.about" = "Sobre";
 "Settings.activationDate" = "Data de ativação";
 "Settings.alarms" = "Alarmes";
@@ -882,64 +837,116 @@
 "Settings.extremeModeDetail" = "Isso utiliza as capacidades do firmware para realizar funções extremas, como frenagem controlada, não é adequado para direção regular";
 "Settings.rotationControlDetail" = "Uma função para o truque de 'Front Flip'. Se esta função estiver ativada, o monociclo contará 360 graus de rotação a partir da posição em que estava quando o botão de desligar o motor foi pressionado. Quando a função está desativada, a roda é ligada ao pressionar novamente o botão de parada do motor.";
 "Settings.customDashboardMinTiles" = "É necessário ter no mínimo um bloco para exibir o painel";
+// Needs review
 "Settings.advancedSettings" = "Advanced settings";
 "Settings.horizonKP" = "Horizon KP";
 "Settings.horizonKI" = "Horizon KI";
 "Settings.horizonKD" = "Horizon KD";
+// Needs review
 "Settings.horizonDynamicCompensation" = "Horizon dynamic compensation";
+// Needs review
 "Settings.horizonDynamicCompensationFilter" = "Horizon dynamic compensation filter";
+// Needs review
 "Settings.accelerationCompensation" = "Acceleration compensation";
+// Needs review
 "Settings.turnCompensation" = "Turn compensation";
 "Settings.currentKP" = "Current KP";
 "Settings.currentKI" = "Current KI";
 "Settings.currentDKP" = "Current DKP";
 "Settings.currentDKI" = "Current DKI";
+// Needs review
 "Settings.rotationAngle" = "Rotation angle";
+// Needs review
 "Settings.advancedSettingsDetails" = "Activation of 'Engineering settings'. Enabling this function switches the wheel to advanced settings mode. For the settings to be applied, you must set the pedals to 'Soft' mode.";
+// Needs review
 "Settings.horizonKPDetails" = "Horizon Hold PID Proportional Gain";
+// Needs review
 "Settings.horizonKIDetails" = "Horizon hold controller PID integral gain";
+// Needs review
 "Settings.horizonKDDetails" = "Horizon hold PID differential gain";
+// Needs review
 "Settings.horizonDynamicCompensationDetails" = "Dynamic horizon angle compensation";
+// Needs review
 "Settings.horizonDynamicCompensationFilterDetails" = "Dynamic horizon compensation filter coefficient";
+// Needs review
 "Settings.accelerationCompensationDetails" = "Compensation for horizon deviations caused by wheel acceleration/deceleration";
+// Needs review
 "Settings.turnCompensationDetails" = "Compensation for horizon deviations caused by wheel turn";
+// Needs review
 "Settings.currentKPDetails" = "Proportional gain of PID motor Q current ";
+// Needs review
 "Settings.currentKIDetails" = "Integral gain of PID motor Q current";
+// Needs review
 "Settings.currentDKPDetails" = "Proportional gain of PID motor D current";
+// Needs review
 "Settings.currentDKIDetails" = "Integral gain of PID motor D current";
+// Needs review
 "Settings.rotationAngleDetails" = "The angle the wheel must rotate to engage when performing a Front Flip trick. Activated when the Rotation Control function is activated";
+// Needs review
 "Settings.useSoftwarePWM" = "Software PWM";
+// Needs review
 "Settings.useSoftwarePWMDetails" = "Use software PWM instead hardware";
+// Needs review
 "Settings.supportUs" = "Support us";
+// Needs review
 "Settings.mirrorThirdEye" = "Mirror «Third Eye»";
+// Needs review
 "Settings.topValue" = "Top value";
+// Needs review
 "Settings.bottomValue" = "Bottom value";
+// Needs review
 "Settings.showTitles" = "Show titles";
+// Needs review
 "Settings.deviceSearch" = "Device search...";
+// Needs review
 "Settings.value" = "Value";
+// Needs review
 "Settings.regularText" = "Regular text";
+// Needs review
 "Settings.largeText" = "Large text";
+// Needs review
 "Settings.extraLargeText" = "Extra large text";
+// Needs review
 "Settings.segment" = "Segment";
+// Needs review
 "Settings.autoBrightness" = "Auto Brightness";
+// Needs review
 "Settings.trickMode" = "Trick mode";
+// Needs review
 "Settings.noTrick" = "No trick";
+// Needs review
 "Settings.frontFlip" = "Front Flip";
+// Needs review
 "Settings.backFlip" = "Back Flip";
-"Settings.wearableIntegration" = "integração avançada de dispositivos vestíveis";
+"Settings.wearableIntegration" = "Integração avançada de dispositivos vestíveis";
 "Settings.wearableIntegrationDescription" = "Integração do ActiveLook e do Terceiro Olho";
+// Needs review
 "Settings.time" = "Time";
+// Needs review
 "Settings.updateAvailable" = "Update available";
+// Needs review
 "Settings.newFromDeveloper" = "New from the developer";
+// Needs review
 "Settings.new" = "New";
+// Needs review
 "Settings.dependence" = "Dependence";
+// Needs review
 "Settings.dependenceDetail" = "The metric from which the engine sound will be calculated";
+// Needs review
 "Settings.informationAlarms" = "Information alarms";
+// Needs review
 "Settings.foundObjects" = "Found objects";
+// Needs review
 "Settings.relativeSpeed" = "Relative speed";
+// Needs review
 "Settings.distance" = "Distance";
+// Needs review
 "Settings.dangerApproachSpeed" = "Danger approach speed";
+// Needs review
 "Settings.dangerDistance" = "Danger distance";
+// Needs review
 "Settings.noObjectsFound" = "No objects found";
+// Needs review
 "Settings.maxDetectDistance" = "Max detect distance";
+// Needs review
 "Settings.nearestObject" = "Nearest object";
