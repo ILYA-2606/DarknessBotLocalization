@@ -1,13 +1,3 @@
-
-
-
-/*  AUTO-GENERATED: 2026-05-12, 17:04 */
-
-
-
-
-/*  Firmware  */
-
 "Firmware.checkingFailed" = "Не удалось проверить обновления";
 "Firmware.conditionsDescription" = "Во время обновления, пожалуйста, не выходите из интерфейса обновления. После завершения обновления перезагрузите устройство.\n\nЕсли обновление не удалось или было прервано, отключите устройство. Затем подключитесь к устройству и перейдите к настройкам обновления прошивки. Нажмите кнопку Обновить.\n\nЕсли у вас возникли проблемы с устройством, обратитесь к местному дилеру.\n\nDarknessBot использует прошивки вендора устройства и не может нести ответственности за работу обновляемых прошивок";
 "Firmware.firmwareVersion" = "Версия прошивки";
@@ -29,11 +19,6 @@
 "Firmware.select" = "Выбрать";
 "Firmware.updateMessage" = "Обновить прошивку?";
 "Firmware.noFirmwares" = "Нет доступных прошивок";
-
-
-
-/*  Common  */
-
 "Common.add" = "Добавить";
 "Common.apply" = "Применить";
 "Common.cancel" = "Отмена";
@@ -57,11 +42,6 @@
 "Common.yes" = "Да";
 "Common.trips" = "Поездки";
 "Common.copied" = "Скопировано";
-
-
-
-/*  Profile  */
-
 "Profile.addFriend" = "Добавить в друзья";
 "Profile.birthday" = "Дата рождения";
 "Profile.cantImageSelected" = "Не удается выбрать данное изображение";
@@ -133,11 +113,6 @@
 "Profile.electroClubUploaded" = "Поездка успешно загружена на портал electro.club! Хотите просмотреть ее?";
 "Profile.noInternetConnection" = "Нет соединения с Интернет";
 "Profile.serverIncorrectResponse" = "Сервер прислал неверный ответ";
-
-
-
-/*  Rate  */
-
 "Rate.appVersion" = "Версия приложения";
 "Rate.dontShowAgain" = "Больше не показывать";
 "Rate.emailSubject" = "Сообщение о проблеме в DarknessBot";
@@ -152,11 +127,6 @@
 "Rate.thankYou" = "Спасибо";
 "Rate.whatHappened" = "Что случилось?";
 "Rate.writeEmail" = "Рассказать в письме";
-
-
-
-/*  Ratings  */
-
 "Ratings.allModels" = "Все модели";
 "Ratings.allTime" = "Все время";
 "Ratings.cloudKitAccessMessage" = "Вы должны предоставить доступ к CloudKit в Настройки / Apple ID / iCloud / Найти меня по e-mail";
@@ -169,11 +139,6 @@
 "Ratings.week" = "Неделя";
 "Ratings.year" = "Год";
 "Ratings.you" = "Вы";
-
-
-
-/*  Map  */
-
 "Map.currentTrip" = "Текущая поездка";
 "Map.directionsNotFound" = "Маршрут не найден";
 "Map.distance" = "Дистанция";
@@ -203,11 +168,6 @@
 "Map.skate" = "Скейт";
 "Map.smartBMS" = "Smart BMS";
 "Map.anyDevice" = "Любое устройство";
-
-
-
-/*  Devices  */
-
 "Devices.a" = "А";
 "Devices.averageSpeed" = "Средняя скорость";
 "Devices.battery" = "Батарея";
@@ -329,11 +289,6 @@
 "Devices.gpsSpeed" = "Скорость GPS";
 "Devices.pressToConfirm" = "Нажмите на кнопку на руле для подтверждения";
 "Devices.authAdoEbike" = "Пожалуйста, подключите транспорт в приложении ADO EBIKE";
-
-
-
-/*  Intro  */
-
 "Intro.next" = "Далее";
 "Intro.nice" = "Отлично!";
 "Intro.premiumTitle" = "Премиум";
@@ -372,11 +327,6 @@
 "Intro.trialStartedTitle" = "%i-дневный Премиум триал запущен";
 "Intro.trialStartedSubtitle" = "После завершения триала приложение продолжит работать в бесплатном режиме.\n\nФункции, включенные в Премиум";
 "Intro.unlockPremium" = "Разблокируй все Премиум функции";
-
-
-
-/*  Diagnostic  */
-
 "Diagnostic.diagnostic" = "Диагностика";
 "Diagnostic.motorTemperature" = "Температура мотора";
 "Diagnostic.batteryValid" = "Валидно";
@@ -459,11 +409,6 @@
 "Diagnostic.temperatureMosEnv" = "Температура окружения мосфет";
 "Diagnostic.batteryType" = "Тип батареи";
 "Diagnostic.batteryCellCount" = "Количество ячеек";
-
-
-
-/*  AppData  */
-
 "AppData.allAppData" = "Все данные приложения";
 "AppData.allData" = "Все данные";
 "AppData.allMetrics" = "Все метрики";
@@ -484,11 +429,6 @@
 "AppData.storageOptimizationQuestion" = "Вы действительно хотите начать оптимизацию хранилища?";
 "AppData.storageOptimizationMessage" = "Хранилище приложение уже занимает очень много места. Перейти к оптимизации хранилища?";
 "AppData.storageOptimizationSuccess" = "Хранилище успешно оптимизировано";
-
-
-
-/*  Settings  */
-
 "Settings.about" = "О программе";
 "Settings.activationDate" = "Дата активации";
 "Settings.alarms" = "Оповещения";
@@ -802,7 +742,7 @@
 "Settings.torchAutoDetail" = "Автоматическое включение фонарика устройства при езде после заката";
 "Settings.torchAutoOffSpeed" = "Максимальная скорость для выключения";
 "Settings.torchAutoOffSpeedDetail" = "Фонарик будет выключаться автоматически, если скорость ниже";
-"Settings.torchAutoOnSpeed" = "Минимальная скорость для включения";
+"Settings.torchAutoOnSpeed" = "Миним��льная скорость для включения";
 "Settings.torchAutoOnSpeedDetail" = "Фонарик будет включаться автоматически, если скорость выше";
 "Settings.translate" = "Помочь перевести";
 "Settings.translateDetail" = "Нажмите, если вы заметили ошибку в переводе";
