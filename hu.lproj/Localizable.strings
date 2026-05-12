@@ -1,13 +1,3 @@
-
-
-
-/*  AUTO-GENERATED: 2026-05-12, 17:04 */
-
-
-
-
-/*  Firmware  */
-
 "Firmware.checkingFailed" = "Nem sikerült a frissítések ellenőrzése";
 "Firmware.conditionsDescription" = "Frissítés alatt ne lépj ki. Frissítés végeztével, indisd újra az eszközt.\n\nHa a frissítés sikertelen, vagy megszakadt, akkor csatlakozz le az eszközről. Ismét csatlakozz, majd menny a Firmware frissítés beállításokba és nyomd meg a frissítés gombot.\n\nHa bármi problémát észlelsz az eszközzel, vedd fel a kapcsolatot a forgalmazóval.\n\nDarknessBot a gyártótól származó firmware-t használja, nem vállal ezzel kapcsolatban semmilyen felelőséget";
 "Firmware.firmwareVersion" = "Firmware verzió";
@@ -29,11 +19,6 @@
 "Firmware.select" = "Select";
 "Firmware.updateMessage" = "Update the firmware?";
 "Firmware.noFirmwares" = "No firmwares available";
-
-
-
-/*  Common  */
-
 "Common.add" = "Hozzáad";
 "Common.apply" = "Alkalmaz";
 "Common.cancel" = "Mégse";
@@ -56,12 +41,8 @@
 "Common.warning" = "Figyelem";
 "Common.yes" = "Igen";
 "Common.trips" = "Túrák";
+// Needs review
 "Common.copied" = "Copied";
-
-
-
-/*  Profile  */
-
 "Profile.addFriend" = "Barátokhoz ad";
 "Profile.birthday" = "Születésnap";
 "Profile.cantImageSelected" = "Ez a kép nem választható";
@@ -133,11 +114,6 @@
 "Profile.electroClubUploaded" = "The trip has been successfully uploaded to the electro.club portal! Do you want to view it?";
 "Profile.noInternetConnection" = "No Internet connection";
 "Profile.serverIncorrectResponse" = "Server sent an incorrect response";
-
-
-
-/*  Rate  */
-
 "Rate.appVersion" = "Alkalmazás verzió";
 "Rate.dontShowAgain" = "Ne mutasd többször";
 "Rate.emailSubject" = "DarknessBot probléma bejelentés";
@@ -152,11 +128,6 @@
 "Rate.thankYou" = "Köszönjük";
 "Rate.whatHappened" = "Mi történt?";
 "Rate.writeEmail" = "Írj email-t";
-
-
-
-/*  Ratings  */
-
 "Ratings.allModels" = "Minden típus";
 "Ratings.allTime" = "Teljes időszak";
 "Ratings.cloudKitAccessMessage" = "Engedélyezned kell a CloudKit-et: Beállítások / Apple ID / iCloud / Kereshetőség";
@@ -169,11 +140,6 @@
 "Ratings.week" = "Hét";
 "Ratings.year" = "Év";
 "Ratings.you" = "Te";
-
-
-
-/*  Map  */
-
 "Map.currentTrip" = "Aktuális túra";
 "Map.directionsNotFound" = "Nem található útvonal";
 "Map.distance" = "Távolság";
@@ -203,11 +169,6 @@
 "Map.skate" = "Skate";
 "Map.smartBMS" = "Smart BMS";
 "Map.anyDevice" = "Any device";
-
-
-
-/*  Devices  */
-
 "Devices.a" = "A";
 "Devices.averageSpeed" = "Átlag sebesség";
 "Devices.battery" = "Akkumlátor";
@@ -327,13 +288,9 @@
 "Devices.energyConsumption" = "Energy consumption";
 "Devices.gettingServices" = "Getting services...";
 "Devices.gpsSpeed" = "GPS Speed";
+// Needs review
 "Devices.pressToConfirm" = "Press the button on the handlebar to confirm";
 "Devices.authAdoEbike" = "Please connect the transport in the ADO EBIKE app";
-
-
-
-/*  Intro  */
-
 "Intro.next" = "Következő";
 "Intro.nice" = "Hurrá!";
 "Intro.premiumTitle" = "Prémium";
@@ -372,11 +329,6 @@
 "Intro.trialStartedTitle" = "%i napos prémium próbaidőszak elkezdődött";
 "Intro.trialStartedSubtitle" = "A próbaidőszak befejezése után az alkalmazás továbbra is ingyenesen fog működni.\n\nA prémium szolgáltatásai";
 "Intro.unlockPremium" = "Oldd fel az összes prémium funkciót";
-
-
-
-/*  Diagnostic  */
-
 "Diagnostic.diagnostic" = "Diagnosztika";
 "Diagnostic.motorTemperature" = "Motorhőmérséklet";
 "Diagnostic.batteryValid" = "Valid";
@@ -459,11 +411,6 @@
 "Diagnostic.temperatureMosEnv" = "MOS environment temperature";
 "Diagnostic.batteryType" = "Battery type";
 "Diagnostic.batteryCellCount" = "Cell count";
-
-
-
-/*  AppData  */
-
 "AppData.allAppData" = "Összes app adat";
 "AppData.allData" = "Összes adat";
 "AppData.allMetrics" = "Összes metrika";
@@ -484,11 +431,6 @@
 "AppData.storageOptimizationQuestion" = "Do you really want to start optimizing storage?";
 "AppData.storageOptimizationMessage" = "The app storage already takes up a lot of space. Go to storage optimization?";
 "AppData.storageOptimizationSuccess" = "Storage has been successfully optimized";
-
-
-
-/*  Settings  */
-
 "Settings.about" = "Rólunk";
 "Settings.activationDate" = "Aktiválás dátuma";
 "Settings.alarms" = "Figyelmeztetések";
@@ -928,18 +870,33 @@
 "Settings.backFlip" = "Back Flip";
 "Settings.wearableIntegration" = "Fejlett viselhető eszközök integrációja";
 "Settings.wearableIntegrationDescription" = "ActiveLook és Harmadik Szem integráció";
+// Needs review
 "Settings.time" = "Time";
+// Needs review
 "Settings.updateAvailable" = "Update available";
+// Needs review
 "Settings.newFromDeveloper" = "New from the developer";
+// Needs review
 "Settings.new" = "New";
+// Needs review
 "Settings.dependence" = "Dependence";
+// Needs review
 "Settings.dependenceDetail" = "The metric from which the engine sound will be calculated";
+// Needs review
 "Settings.informationAlarms" = "Information alarms";
+// Needs review
 "Settings.foundObjects" = "Found objects";
+// Needs review
 "Settings.relativeSpeed" = "Relative speed";
+// Needs review
 "Settings.distance" = "Distance";
+// Needs review
 "Settings.dangerApproachSpeed" = "Danger approach speed";
+// Needs review
 "Settings.dangerDistance" = "Danger distance";
+// Needs review
 "Settings.noObjectsFound" = "No objects found";
+// Needs review
 "Settings.maxDetectDistance" = "Max detect distance";
+// Needs review
 "Settings.nearestObject" = "Nearest object";
