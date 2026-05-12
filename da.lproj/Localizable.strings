@@ -712,7 +712,7 @@
 "Settings.shutdownTime" = "Nedlukningstid";
 "Settings.shutdownTimeDetail" = "Automatisk nedlukning af enheden";
 "Settings.smartAlarms" = "Smarte alarmer";
-"Settings.smartAlarmsDescription" = "Hastighedsalarmerne vil falde lineært, efterhånden som enhedens spænding falder.\nOp til 80 % af den oprindelige værdi";
+"Settings.smartAlarmsDescription" = "Hastighedsalarmerne vil falde lineært, efterhånden som enhedens spænding falder.\nOp til 80%% af den oprindelige værdi";
 "Settings.sound" = "Lyd";
 "Settings.speedCorrection" = "Hastighedskorrektion";
 "Settings.speedCorrectionDetail" = "Påvirker visningen af ​​den aktuelle, gennemsnitlige og maksimale hastighed";
