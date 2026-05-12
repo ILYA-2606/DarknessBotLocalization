@@ -1,13 +1,3 @@
-
-
-
-/*  AUTO-GENERATED: 2026-05-12, 17:04 */
-
-
-
-
-/*  Firmware  */
-
 "Firmware.checkingFailed" = "Не вдалося перевірити наявність оновлень";
 "Firmware.conditionsDescription" = "Під час оновлення не закривайте інтерфейс. Після завершення перезавантажте пристрій.\n\nЯкщо оновлення не вдалося або було перервано, відключіть його від пристрою. Підключіться до пристрою та перейдіть до налаштувань оновлення прошивки. Натисніть кнопку Оновити.\n\nЯкщо у вас є проблеми з пристроєм, зв’яжіться з місцевим дилером.\n\nDarknessBot використовує вбудовану програму постачальника пристроїв і не несе відповідальності за роботу оновлених програмних засобів.";
 "Firmware.firmwareVersion" = "Версія прошивки";
@@ -29,11 +19,6 @@
 "Firmware.select" = "Вибрати";
 "Firmware.updateMessage" = "Оновити прошивку?";
 "Firmware.noFirmwares" = "Немає доступних прошивок";
-
-
-
-/*  Common  */
-
 "Common.add" = "Додати";
 "Common.apply" = "Застосувати";
 "Common.cancel" = "Скасувати";
@@ -57,11 +42,6 @@
 "Common.yes" = "Так";
 "Common.trips" = "Поїздки";
 "Common.copied" = "Скопійовано";
-
-
-
-/*  Profile  */
-
 "Profile.addFriend" = "Додати до друзів";
 "Profile.birthday" = "Дата народження";
 "Profile.cantImageSelected" = "Не вдалося обрати дане зображення";
@@ -133,11 +113,6 @@
 "Profile.electroClubUploaded" = "Подорож успішно завантажена на портал electro.club! Бажаєте переглянути її?";
 "Profile.noInternetConnection" = "Немає підключення до Інтернету";
 "Profile.serverIncorrectResponse" = "Сервер надіслав невірну відповідь";
-
-
-
-/*  Rate  */
-
 "Rate.appVersion" = "Версія додатка";
 "Rate.dontShowAgain" = "Більше не показувати";
 "Rate.emailSubject" = "Сповістити про проблему в DarknessBot";
@@ -152,11 +127,6 @@
 "Rate.thankYou" = "Дякую";
 "Rate.whatHappened" = "Що трапилось?";
 "Rate.writeEmail" = "Розповісти в листі";
-
-
-
-/*  Ratings  */
-
 "Ratings.allModels" = "Всі моделі";
 "Ratings.allTime" = "Весь час";
 "Ratings.cloudKitAccessMessage" = "Ви повинні надати доступ до CloudKit в Налаштування / Apple ID / iCloud / Знайти мене по e-mail";
@@ -169,11 +139,6 @@
 "Ratings.week" = "Тиждень";
 "Ratings.year" = "Рік";
 "Ratings.you" = "Ви";
-
-
-
-/*  Map  */
-
 "Map.currentTrip" = "Поточна поїздка";
 "Map.directionsNotFound" = "Маршрут не знайдено";
 "Map.distance" = "Дистанція";
@@ -203,11 +168,6 @@
 "Map.skate" = "Скейт";
 "Map.smartBMS" = "Smart BMS";
 "Map.anyDevice" = "Любое устройство";
-
-
-
-/*  Devices  */
-
 "Devices.a" = "А";
 "Devices.averageSpeed" = "Середня швидкість";
 "Devices.battery" = "Батарея";
@@ -327,13 +287,9 @@
 "Devices.energyConsumption" = "Витрата енергії";
 "Devices.gettingServices" = "Отрамання сервісів...";
 "Devices.gpsSpeed" = "Скорость GPS";
+// Needs review
 "Devices.pressToConfirm" = "Нажмите на кнопку на руле для подтверждения";
 "Devices.authAdoEbike" = "Пожалуйста, авторизуйтесь транспорт в приложении ADO EBIKE";
-
-
-
-/*  Intro  */
-
 "Intro.next" = "Далі";
 "Intro.nice" = "Чудово!";
 "Intro.premiumTitle" = "Преміум";
@@ -372,11 +328,6 @@
 "Intro.trialStartedTitle" = "Розпочато %i-денний преміум-пробний період";
 "Intro.trialStartedSubtitle" = "После завершения триала приложение продолжит работать в бесплатном режиме.\n\nФункции, включенные в Премиум";
 "Intro.unlockPremium" = "Розблокуйте всі преміум-функції";
-
-
-
-/*  Diagnostic  */
-
 "Diagnostic.diagnostic" = "Діагностика";
 "Diagnostic.motorTemperature" = "Температура двигуна";
 "Diagnostic.batteryValid" = "Валідно";
@@ -459,11 +410,6 @@
 "Diagnostic.temperatureMosEnv" = "Температура оточення мосфет";
 "Diagnostic.batteryType" = "Тип батареї";
 "Diagnostic.batteryCellCount" = "Кількість комірок";
-
-
-
-/*  AppData  */
-
 "AppData.allAppData" = "Усі дані додатка";
 "AppData.allData" = "Усі дані";
 "AppData.allMetrics" = "Усі метрики";
@@ -484,11 +430,6 @@
 "AppData.storageOptimizationQuestion" = "Ви дійсно хочете почати оптимізацію сховища?";
 "AppData.storageOptimizationMessage" = "Сховище додатка вже займає дуже багато місця. Перейти до оптимізації сховища?";
 "AppData.storageOptimizationSuccess" = "Сховище успішно оптимізовано";
-
-
-
-/*  Settings  */
-
 "Settings.about" = "Про програму";
 "Settings.activationDate" = "Дата активації";
 "Settings.alarms" = "Сповіщення";
@@ -928,18 +869,33 @@
 "Settings.backFlip" = "Back Flip";
 "Settings.wearableIntegration" = "Розширена інтеграція носимих пристроїв";
 "Settings.wearableIntegrationDescription" = "Інтеграція ActiveLook і Third Eye";
+// Needs review
 "Settings.time" = "Время";
+// Needs review
 "Settings.updateAvailable" = "Доступно обновление";
+// Needs review
 "Settings.newFromDeveloper" = "Новое от разработчика";
+// Needs review
 "Settings.new" = "Новое";
+// Needs review
 "Settings.dependence" = "Зависимость";
+// Needs review
 "Settings.dependenceDetail" = "Метрика, из которой будет вычисляться звук мотора";
+// Needs review
 "Settings.informationAlarms" = "Информационные оповещения";
+// Needs review
 "Settings.foundObjects" = "Объектов найдено";
+// Needs review
 "Settings.relativeSpeed" = "Относительная скорость";
+// Needs review
 "Settings.distance" = "Расстояние";
+// Needs review
 "Settings.dangerApproachSpeed" = "Опасная скорость приближения";
+// Needs review
 "Settings.dangerDistance" = "Опасная дистанция";
+// Needs review
 "Settings.noObjectsFound" = "Объектов не обнаружено";
+// Needs review
 "Settings.maxDetectDistance" = "Максимальное расстояние обнаружения";
+// Needs review
 "Settings.nearestObject" = "Ближайший объект";
