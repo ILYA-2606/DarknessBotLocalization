@@ -259,6 +259,7 @@
 "Devices.torch" = "Torcia";
 "Devices.totalMileage" = "Distanza Totale";
 "Devices.totalRuntime" = "Durata Totale";
+// Needs review
 "Devices.trialPeriod" = "Free Premium: %@ left";
 "Devices.turnOff" = "Spegni";
 "Devices.v" = "V";
