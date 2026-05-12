@@ -288,7 +288,7 @@
 "Devices.gettingServices" = "Récupération des services...";
 "Devices.gpsSpeed" = "GPS Speed";
 // Needs review
-"Devices.pressToConfirm" = "Press the button on the handlebar to confirm";
+"Devices.pressToConfirm" = "Appuyez sur le bouton du guidon pour confirmer";
 "Devices.authAdoEbike" = "Please connect the transport in the ADO EBIKE app";
 "Intro.next" = "Suivant";
 "Intro.nice" = "Parfait!";
@@ -870,32 +870,32 @@
 "Settings.wearableIntegration" = "intégration avancée des dispositifs portables";
 "Settings.wearableIntegrationDescription" = "Intégration d'ActiveLook et du Troisième Œil";
 // Needs review
-"Settings.time" = "Time";
+"Settings.time" = "Temps";
 // Needs review
-"Settings.updateAvailable" = "Update available";
+"Settings.updateAvailable" = "Mise à jour disponible";
 // Needs review
-"Settings.newFromDeveloper" = "New from the developer";
+"Settings.newFromDeveloper" = "Nouveauté du développeur";
 // Needs review
-"Settings.new" = "New";
+"Settings.new" = "Nouveau";
 // Needs review
-"Settings.dependence" = "Dependence";
+"Settings.dependence" = "Dépendance";
 // Needs review
-"Settings.dependenceDetail" = "The metric from which the engine sound will be calculated";
+"Settings.dependenceDetail" = "La métrique à partir de laquelle le son du moteur sera calculé";
 // Needs review
-"Settings.informationAlarms" = "Information alarms";
+"Settings.informationAlarms" = "Alarmes d'information";
 // Needs review
-"Settings.foundObjects" = "Found objects";
+"Settings.foundObjects" = "Objets trouvés";
 // Needs review
-"Settings.relativeSpeed" = "Relative speed";
+"Settings.relativeSpeed" = "Vitesse relative";
 // Needs review
 "Settings.distance" = "Distance";
 // Needs review
-"Settings.dangerApproachSpeed" = "Danger approach speed";
+"Settings.dangerApproachSpeed" = "Vitesse d'approche dangereuse";
 // Needs review
-"Settings.dangerDistance" = "Danger distance";
+"Settings.dangerDistance" = "Distance de danger";
 // Needs review
-"Settings.noObjectsFound" = "No objects found";
+"Settings.noObjectsFound" = "Aucun objet trouvé";
 // Needs review
-"Settings.maxDetectDistance" = "Max detect distance";
+"Settings.maxDetectDistance" = "Distance de détection maximale";
 // Needs review
-"Settings.nearestObject" = "Nearest object";
+"Settings.nearestObject" = "Objet le plus proche";
