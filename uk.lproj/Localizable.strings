@@ -355,6 +355,7 @@
 "Intro.trackingDescription" = "Мы используем эти данные для улучшения приложения";
 "Intro.justLifetime" = "Просто %@ життя";
 "Intro.trialStartedTitle" = "Розпочато %i-денний преміум-пробний період";
+// Needs review
 "Intro.trialStartedSubtitle" = "После завершения триала приложение продолжит работать в бесплатном режиме.\n\nФункции, включенные в Премиум";
 "Intro.unlockPremium" = "Розблокуйте всі преміум-функції";
 "Diagnostic.diagnostic" = "Діагностика";
@@ -483,6 +484,7 @@
 "Settings.automaticTrackRecordingDetail" = "Запис треку може впливати на час роботи %@";
 "Settings.automaticTripReset" = "Автоматичне скидання поїздки";
 "Settings.automaticTripResetDetail" = "Нова поїздка розпочнеться після таймауту";
+// Needs review
 "Settings.avas" = "Акустическая система оповещения транспортных средств";
 "Settings.balancing" = "Балансування";
 "Settings.batteryAmperage" = "Ток батареї";

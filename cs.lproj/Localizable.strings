@@ -719,6 +719,7 @@
 "Settings.mileageCorrection" = "Korekce dojezdu";
 "Settings.mileageCorrectionDetail" = "Ovlivňuje zobrazení jednotlivých a celkových ujetých kilometrů";
 "Settings.splashScreen" = "Spouštěcí obrazovka";
+// Needs review
 "Settings.splashScreenDisabling" = "Disabling splash screen";
 "Settings.splashScreenDetail" = "Zobrazování tipů a promo akcí během spouštění aplikace";
 "Settings.splashScreenDescription" = "Možnost deaktivovat spouštěcí obrazovku";

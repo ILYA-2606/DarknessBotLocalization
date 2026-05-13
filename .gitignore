@@ -5,3 +5,4 @@
 !*.lproj/**
 !*.strings
 !.gitignore
+.DS_Store

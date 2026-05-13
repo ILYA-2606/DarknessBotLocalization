@@ -721,6 +721,7 @@
 "Settings.splashScreen" = "Introducción";
 "Settings.splashScreenDisabling" = "Desactivar pantalla de inicio";
 "Settings.splashScreenDetail" = "Mostrando consejos y promociones durante el arranque de la app";
+// Needs review
 "Settings.splashScreenDescription" = "Ability to disable the splashscreen";
 "Settings.support" = "Soporte";
 "Settings.systemLanguage" = "Idioma del sistema";
@@ -744,6 +745,7 @@
 "Settings.torchAutoOffSpeedDetail" = "La linterna se apagará automáticamente si la velocidad es menor";
 "Settings.torchAutoOnSpeed" = "Velocidad mínima para encender";
 "Settings.torchAutoOnSpeedDetail" = "La linterna se encenderá automáticamente si la velocidad es mayor";
+// Needs review
 "Settings.translate" = "Translate";
 "Settings.translateDetail" = "Toca si notas un error en la traducción";
 "Settings.turnOffOutlet" = "Apagar cuando se alcance el nivel de batería";

@@ -105,10 +105,12 @@
 "Profile.autoSyncTrips" = "Automatisch neue Fahrten synchronisieren";
 "Profile.autoSyncTripsDetail" = "Jede neue Fahrt wird erst nach deren Abschluss synchronisiert.";
 "Profile.garage" = "Garage";
+// Needs review
 "Profile.mainTransport" = "Main";
 "Profile.electroClubUploadQuestion" = "Sind Sie sicher, dass Sie diese Fahrt auf electro.club hochladen möchten?";
 "Profile.electroClubNeedAccount" = "Um diese Fahrt auf das Portal hochzuladen, müssen Sie sich bei electro.club anmelden";
 "Profile.createAccount" = "Konto erstellen";
+// Needs review
 "Profile.restorePassword" = "Restore password";
 "Profile.electroClubUploaded" = "Die Fahrt wurde erfolgreich auf das electro.club portal hochgeladen! Möchten Sie sie ansehen?";
 "Profile.noInternetConnection" = "Keine Internetverbindung";
@@ -128,6 +130,7 @@
 "Rate.whatHappened" = "Was ist passiert?";
 "Rate.writeEmail" = "Schreibe eine E-Mail";
 "Ratings.allModels" = "Alle Modelle";
+// Needs review
 "Ratings.allTime" = "All Time";
 "Ratings.cloudKitAccessMessage" = "Aktiviere in den Einstellungen Apple ID / iCloud / Mich finden";
 "Ratings.connectDevice" = "Verbinde dein Gerät um die Rangliste zu sehen";
@@ -160,6 +163,7 @@
 "Map.macAddress" = "MAC Adresse";
 "Map.macAddressDetail" = "Verknüpfen Sie die MAC-Adresse mit Ihrem Transportmittel in Electro.club, um die Strecke auf dem Portal mit dem Transportmittel zu verknüpfen. Tippen Sie, um die MAC-Adresse zu kopieren.";
 "Map.notSelected" = "Nicht ausgewählt";
+// Needs review
 "Map.connectedDevice" = "Connected device";
 "Map.euc" = "EUC";
 "Map.scooter" = "Scooter";
@@ -167,6 +171,7 @@
 "Map.minisegway" = "Mini Segway";
 "Map.skate" = "Skate";
 "Map.smartBMS" = "Smart BMS";
+// Needs review
 "Map.anyDevice" = "Any device";
 "Devices.a" = "A";
 "Devices.averageSpeed" = "Durchschn. Geschw.";
@@ -192,6 +197,7 @@
 "Devices.day" = "Tag";
 "Devices.days" = "Tage";
 "Devices.demo" = "Demo";
+// Needs review
 "Devices.demoMode" = "Demo Mode";
 "Devices.device" = "Gerät";
 "Devices.disconnect" = "Trennen";
@@ -233,6 +239,7 @@
 "Devices.mustAllowCamera" = "Um ein Video aufzunehmen must Du der App Kamerazugriff gewähren";
 "Devices.myDevices" = "Meine Geräte";
 "Devices.noPeriodData" = "Keine Daten für den ausgewählten Zeitraum";
+// Needs review
 "Devices.offlineMode" = "Offline Mode";
 "Devices.pitch" = "Pitch";
 "Devices.power" = "Leistung";
@@ -289,6 +296,7 @@
 "Devices.gpsSpeed" = "GPS Geschwindigkeit";
 // Needs review
 "Devices.pressToConfirm" = "Press the button on the handlebar to confirm";
+// Needs review
 "Devices.authAdoEbike" = "Please connect the transport in the ADO EBIKE app";
 "Intro.next" = "Nächste";
 "Intro.nice" = "Hübsch!";
@@ -443,6 +451,7 @@
 "Settings.appAlarmsTransfer" = "Alarme wurden zu Geräteeinstellungen verschoben";
 "Settings.appearance" = "Erscheinungsbild";
 "Settings.application" = "Anwendung";
+// Needs review
 "Settings.appsByDP" = "Apps made by Darkness Production";
 "Settings.appsByDPDetail" = "Andere Apps von uns";
 "Settings.appVibroAlarmsDetail" = "auf %@ und Apple Watch";
@@ -697,12 +706,14 @@
 "Settings.ridingMode" = "Fahr Modus";
 "Settings.ridingModeDetail" = "Beeinflusst die Steifigkeit der Balancierung";
 "Settings.ridingModeEco" = "Eco";
-"Settings.ridingModeHard" = "Жесткий";
+// Needs review
+"Settings.ridingModeHard" = "Hard";
 "Settings.ridingModePedestrian" = "Fußgänger";
 "Settings.ridingModeScooterDetail" = "Umschalten des Fahrtempomodus";
 "Settings.ridingModeSoft" = "Soft";
 "Settings.ridingModeSport" = "Sport";
 "Settings.ridingModeStandard" = "Standard";
+// Needs review
 "Settings.safeMode" = "Safe mode";
 "Settings.safeModeDetail" = "Geschwindigkeitslimit bei niedriger Akkuladung";
 "Settings.send" = "Senden";
@@ -710,8 +721,10 @@
 "Settings.shareLogs" = "Logs teilen";
 "Settings.shop" = "Shop";
 "Settings.showLogs" = "Zeige Logs";
+// Needs review
 "Settings.shutdownTime" = "Shutdown time";
 "Settings.shutdownTimeDetail" = "Automatisches Abschalten der Gerätes";
+// Needs review
 "Settings.smartAlarms" = "Smart alarms";
 "Settings.smartAlarmsDescription" = "Geschwindigkeitsalarme werden in Abhängigkeit des Akkustands bis zu 80%% reduziert";
 "Settings.sound" = "Sound";
@@ -720,13 +733,16 @@
 "Settings.mileageCorrection" = "Kilometerstandskorrektur";
 "Settings.mileageCorrectionDetail" = "Beeinflusst die Anzeige der Einzel- und Gesamtkilometerleistung";
 "Settings.splashScreen" = "Intro-Screen";
+// Needs review
 "Settings.splashScreenDisabling" = "Disabling splash screen";
 "Settings.splashScreenDetail" = "Zeige Tips und Promos bei Appstart";
 "Settings.splashScreenDescription" = "Möglichkeit, den Startbildschirm zu deaktivieren";
 "Settings.support" = "Unterstützung";
 "Settings.systemLanguage" = "Systemsprache";
 "Settings.temperatureUnit" = "Einheit";
+// Needs review
 "Settings.testDrive" = "Test drive";
+// Needs review
 "Settings.testDriveDetail" = "Move the slider to check the sound";
 "Settings.theme" = "Themen";
 "Settings.themeDetail" = "Möglichkeit, App-Themes anzuwenden";
@@ -767,41 +783,77 @@
 "Settings.tilesOrder" = "Reihenfolge der Kacheln";
 "Settings.fastSettings" = "Schnelleinstellungen";
 "Settings.balanceSettings" = "Einstellungen für das Gleichgewicht";
+// Needs review
 "Settings.cellBalanceLimit" = "Cell balance limit";
+// Needs review
 "Settings.chargingCellBalanceStart" = "Charging cell balance start";
+// Needs review
 "Settings.cellDiffOn" = "Cell difference on";
+// Needs review
 "Settings.cellDiffOff" = "Cell difference off";
+// Needs review
 "Settings.balanceAmperage" = "Balance amperage";
+// Needs review
 "Settings.balanceChargingAmperage" = "Balance charging amperage";
+// Needs review
 "Settings.bmsCellHighProtect" = "Cell high protect";
+// Needs review
 "Settings.bmsCellHighRecover" = "Cell high recover";
+// Needs review
 "Settings.bmsL2CellHighProtect" = "Cell high protect level 2";
+// Needs review
 "Settings.bmsL2CellHighRecover" = "Cell high recover level 2";
+// Needs review
 "Settings.bmsPackVoltageHighProtect" = "Pack voltage high protect";
+// Needs review
 "Settings.bmsPackVoltageHighRecover" = "Pack voltage high recover";
+// Needs review
 "Settings.bmsCellLowProtect" = "Cell low protect";
+// Needs review
 "Settings.bmsCellLowRecover" = "Cell low recover";
+// Needs review
 "Settings.bmsL2CellLowProtect" = "Cell low protect level 2";
+// Needs review
 "Settings.bmsL2CellLowRecover" = "Cell low recover level 2";
+// Needs review
 "Settings.bmsPackVoltageLowProtect" = "Pack voltage low protect";
+// Needs review
 "Settings.bmsPackVoltageLowRecover" = "Pack voltage low recover";
+// Needs review
 "Settings.bmsChargeTempHighProtect" = "Charge temperature high protect";
+// Needs review
 "Settings.bmsChargeTempHighRecover" = "Charge temperature high recover";
+// Needs review
 "Settings.bmsDischargeTempHighProtect" = "Discharge temperature high protect";
+// Needs review
 "Settings.bmsDischargeTempHighRecover" = "Discharge temperature high recover";
+// Needs review
 "Settings.bmsMOSTempHighProtect" = "MOS temperature high protect";
+// Needs review
 "Settings.bmsMOSTempHighRecover" = "MOS temperature high recover";
+// Needs review
 "Settings.bmsChargeTempLowProtect" = "Charge temperature low protect";
+// Needs review
 "Settings.bmsChargeTempLowRecover" = "Charge temperature low recover";
+// Needs review
 "Settings.bmsDischargeTempLowProtect" = "Discharge temperature low protect";
+// Needs review
 "Settings.bmsDischargeTempLowRecover" = "Discharge temperature low recover";
+// Needs review
 "Settings.bmsChargeOverAmperageProtect" = "Charge over amperage protect";
+// Needs review
 "Settings.bmsChargeOverAmperageProtectDelay" = "Charge over amperage protect delay";
+// Needs review
 "Settings.bmsDischargeOverAmperageProtect" = "Discharge over amperage protect";
+// Needs review
 "Settings.bmsDischargeOverAmperageProtectDelay" = "Discharge over amperage protect delay";
+// Needs review
 "Settings.bmsL2DischargeOverAmperageProtect" = "Discharge over amperage protect level 2";
+// Needs review
 "Settings.bmsL2DischargeOverAmperageProtectDelay" = "Discharge over amperage protect delay level 2";
+// Needs review
 "Settings.bmsShortCircuitProtect" = "Short circuit protect";
+// Needs review
 "Settings.bmsShortCircuitProtectDelay" = "Short circuit protect delay";
 "Settings.amperageSettings" = "Einstellungen Stromstärke";
 "Settings.voltageSettings" = "Einstellungen Akkuspannung";
@@ -817,6 +869,7 @@
 "Settings.liveActivity" = "Live Aktivitäten";
 "Settings.liveActivityDescription" = "Live Aktivitäten Widget auf Sperrbildschirm und in Dynamic Island";
 "Settings.breakingAmperage" = "Stromstärke beim Bremsen";
+// Needs review
 "Settings.extremeMode" = "Extreme mode";
 "Settings.rotationControl" = "Rotationskontrolle";
 "Settings.breakingAmperageDetail" = "Die Kraft, mit der der Motor von der aktuellen Drehzahl bis zum Stillstand abgebremst wird. Sie wird durch Drücken der Motorstopp-Taste aktiviert, wenn der Extrem-Modus aktiv ist";
@@ -827,7 +880,9 @@
 "Settings.horizonKP" = "Horizon KP";
 "Settings.horizonKI" = "Horizon KI";
 "Settings.horizonKD" = "Horizon KD";
+// Needs review
 "Settings.horizonDynamicCompensation" = "Horizon dynamic compensation";
+// Needs review
 "Settings.horizonDynamicCompensationFilter" = "Horizon dynamic compensation filter";
 "Settings.accelerationCompensation" = "Beschleunigungskompensation";
 "Settings.turnCompensation" = "Drehungskompensation";
@@ -837,35 +892,60 @@
 "Settings.currentDKI" = "Ampere DKI";
 "Settings.rotationAngle" = "Rotationswinkel";
 "Settings.advancedSettingsDetails" = "Aktivierung der 'Engineering Einstellungen'. Wenn Sie diese Funktion aktivieren, schaltet das Rad in den Modus für erweiterte Einstellungen. Damit die Einstellungen übernommen werden können, müssen Sie die Pedale auf den Modus 'Soft' einstellen";
+// Needs review
 "Settings.horizonKPDetails" = "Horizon Hold PID Proportional Gain";
+// Needs review
 "Settings.horizonKIDetails" = "Horizon hold controller PID integral gain";
+// Needs review
 "Settings.horizonKDDetails" = "Horizon hold PID differential gain";
+// Needs review
 "Settings.horizonDynamicCompensationDetails" = "Dynamic horizon angle compensation";
+// Needs review
 "Settings.horizonDynamicCompensationFilterDetails" = "Dynamic horizon compensation filter coefficient";
 "Settings.accelerationCompensationDetails" = "Kompensation von Horizontabweichungen durch Radbeschleunigung/-verzögerung";
 "Settings.turnCompensationDetails" = "Kompensation von Horizontabweichungen durch Raddrehung";
+// Needs review
 "Settings.currentKPDetails" = "Proportional gain of PID motor Q current ";
+// Needs review
 "Settings.currentKIDetails" = "Integral gain of PID motor Q current";
+// Needs review
 "Settings.currentDKPDetails" = "Proportional gain of PID motor D current";
+// Needs review
 "Settings.currentDKIDetails" = "Integral gain of PID motor D current";
 "Settings.rotationAngleDetails" = "Der Winkel, um den sich das Rad drehen muss, damit es bei einem Front-Flip-Trick einrastet. Wird aktiviert, wenn die Funktion Rotationskontrolle aktiviert ist";
 "Settings.useSoftwarePWM" = "Software PWM";
+// Needs review
 "Settings.useSoftwarePWMDetails" = "Use software PWM instead hardware";
+// Needs review
 "Settings.supportUs" = "Support us";
+// Needs review
 "Settings.mirrorThirdEye" = "Mirror «Third Eye»";
+// Needs review
 "Settings.topValue" = "Top value";
+// Needs review
 "Settings.bottomValue" = "Bottom value";
+// Needs review
 "Settings.showTitles" = "Show titles";
+// Needs review
 "Settings.deviceSearch" = "Device search...";
+// Needs review
 "Settings.value" = "Value";
+// Needs review
 "Settings.regularText" = "Regular text";
+// Needs review
 "Settings.largeText" = "Large text";
+// Needs review
 "Settings.extraLargeText" = "Extra large text";
 "Settings.segment" = "Segment";
+// Needs review
 "Settings.autoBrightness" = "Auto Brightness";
+// Needs review
 "Settings.trickMode" = "Trick mode";
+// Needs review
 "Settings.noTrick" = "No trick";
+// Needs review
 "Settings.frontFlip" = "Front Flip";
+// Needs review
 "Settings.backFlip" = "Back Flip";
 "Settings.wearableIntegration" = "Integration fortschrittlicher tragbarer Geräte";
 "Settings.wearableIntegrationDescription" = "ActiveLook- und Third-Eye-Integration";

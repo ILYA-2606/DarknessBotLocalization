@@ -282,6 +282,7 @@
 "Devices.untilDischarge" = "Μέχρι την αποφόρτιση";
 "Devices.untilCharge" = "Μέχρι την πλήρη φόρτιση";
 "Devices.resetEstimationMessage" = "Ο υπολογισμός του χρόνου φόρτισης/αποφόρτισης και της υπολειπόμενης απόστασης θα ξεκινήσει ξανά από αυτή τη στιγμή. Είστε βέβαιοι ότι θέλετε να επαναφέρετε τον υπολογισμό;";
+// Needs review
 "Devices.dischargeEstimationInfix" = "in";
 "Devices.sec" = "s";
 "Devices.energyConsumption" = "Κατανάλωση ενέργειας";
@@ -289,6 +290,7 @@
 "Devices.gpsSpeed" = "Ταχύτητα GPS";
 // Needs review
 "Devices.pressToConfirm" = "Press the button on the handlebar to confirm";
+// Needs review
 "Devices.authAdoEbike" = "Please connect the transport in the ADO EBIKE app";
 "Intro.next" = "Επόμενο";
 "Intro.nice" = "Ωραία";
@@ -452,6 +454,7 @@
 "Settings.automaticTrackRecordingDetail" = "Η καταγραφή διαδρομής μπορεί να επηρεάσει τον χρόνο εκτέλεσης %@";
 "Settings.automaticTripReset" = "Αυτόματη επαναφορά καταγραφής διαδρομής";
 "Settings.automaticTripResetDetail" = "Μια νέα καταγραφή θα ξεκινήσει μετά το τάιμ άουτ";
+// Needs review
 "Settings.avas" = "Acoustic Vehicle Alerting System";
 "Settings.balancing" = "Εξισορρόπηση";
 "Settings.batteryAmperage" = "Αμπέρ μπαταρίας";
@@ -514,6 +517,7 @@
 "Settings.create" = "Δημιουργία";
 "Settings.credits" = "Ευχαριστίες";
 "Settings.creditsDetail" = "Προσπαθήστε να βρείτε το όνομά σας";
+// Needs review
 "Settings.cruiseControl" = "Cruise control";
 "Settings.cruiseControlDetail" = "Ενεργοποίηση λειτουργίας σταθερής ταχύτητας";
 "Settings.csvSharing" = "Εξαγωγή διαδρομών";
@@ -529,6 +533,7 @@
 "Settings.customDashboardDetail" = "Επιλογή πλακιδίων για εμφάνιση και ρύθμιση του μεγέθους";
 "Settings.customDashboardDescription" = "Ευέλικτη ρύθμιση μεγεθών πλακιδίων στο ταμπλό. Μεγεθύνετε τα πλακάκια με δύο δάχτυλα. Πατήστε με δύο δάχτυλα για λειτουργία πλήρους οθόνης";
 "Settings.customDashboardZoomDetail" = "Ευέλικτη ρύθμιση μεγεθών πλακιδίων στο ταμπλό. Μεγεθύνετε τα πλακάκια με δύο δάχτυλα";
+// Needs review
 "Settings.customFirmwares" = "Custom Firmwares";
 "Settings.deviceAlarms" = "Συναγερμοί Συσκευής";
 "Settings.deviceAlarmsDetail" = "Συναγερμοί ταχύτητας στη συσκευή σας";
@@ -554,6 +559,7 @@
 "Settings.exceededBattery" = "Επίπεδο μπαταρίας";
 "Settings.exceededPower" = "Υπέρβαση ισχύος";
 "Settings.exceededPWM" = "Υπέρβαση του επιπέδου διαμόρφωσης πλάτους παλμού";
+// Needs review
 "Settings.exceededSpeed" = "Speed exceeded";
 "Settings.exceededTemperature" = "Υπέρβαση θερμοκρασίας";
 "Settings.experimentalMessage" = "Αυτή η ρύθμιση είναι πειραματική. Το DarknessBot και ο προμηθευτής συσκευών δεν ευθύνονται για το αποτέλεσμα της αλλαγής αυτής της παραμέτρου";
@@ -576,6 +582,7 @@
 "Settings.handleMode" = "Ρύθμιση χερουλιού";
 "Settings.homekitAdding" = "Μπορείτε να προσθέσετε αξεσουάρ HomeKit στην εφαρμογή Home";
 "Settings.homekitButton" = "Κουμπί HomeKit";
+// Needs review
 "Settings.homekitOutlet" = "HomeKit Outlet";
 "Settings.imperialSystem" = "Αυτοκρατορικό Σύστημα";
 "Settings.imperialSystemDetail" = "Χρησιμοποιήστε μίλια αντί για μέτρα";
@@ -720,13 +727,16 @@
 "Settings.mileageCorrection" = "Διόρθωση χιλιομέτρων";
 "Settings.mileageCorrectionDetail" = "Επηρεάζει την εμφάνιση της μονής και της συνολικής χιλιομετρικής απόστασης";
 "Settings.splashScreen" = "Αρχική οθόνη";
+// Needs review
 "Settings.splashScreenDisabling" = "Disabling splash screen";
 "Settings.splashScreenDetail" = "Εμφάνιση υποδείξεων και προωθήσεων κατά την εκκίνηση της εφαρμογής";
 "Settings.splashScreenDescription" = "Δυνατότητα απενεργοποίησης της splash screen";
 "Settings.support" = "Υποστήριξη";
 "Settings.systemLanguage" = "Γλώσσα συστήματος";
 "Settings.temperatureUnit" = "Μονάδα Θερμοκρασίας";
+// Needs review
 "Settings.testDrive" = "Test drive";
+// Needs review
 "Settings.testDriveDetail" = "Move the slider to check the sound";
 "Settings.theme" = "Θέμα";
 "Settings.themeDetail" = "Δυνατότητα εφαρμογής θεμάτων εφαρμογής";
@@ -851,21 +861,37 @@
 "Settings.rotationAngleDetails" = "Η γωνία που ο τροχός πρέπει να περιστραφεί για να ενεργοποιηθεί όταν εκτελείται το κόλπο Front Flip. Ενεργοποιείται όταν ενεργοποιηθεί η λειτουργία Έλεγχος περιστροφής.";
 "Settings.useSoftwarePWM" = "Λογισμικό PWM";
 "Settings.useSoftwarePWMDetails" = "Χρησιμοποιήστε λογισμικό PWM αντί για υλικό";
+// Needs review
 "Settings.supportUs" = "Support us";
+// Needs review
 "Settings.mirrorThirdEye" = "Mirror «Third Eye»";
+// Needs review
 "Settings.topValue" = "Top value";
+// Needs review
 "Settings.bottomValue" = "Bottom value";
+// Needs review
 "Settings.showTitles" = "Show titles";
+// Needs review
 "Settings.deviceSearch" = "Device search...";
+// Needs review
 "Settings.value" = "Value";
+// Needs review
 "Settings.regularText" = "Regular text";
+// Needs review
 "Settings.largeText" = "Large text";
+// Needs review
 "Settings.extraLargeText" = "Extra large text";
+// Needs review
 "Settings.segment" = "Segment";
+// Needs review
 "Settings.autoBrightness" = "Auto Brightness";
+// Needs review
 "Settings.trickMode" = "Trick mode";
+// Needs review
 "Settings.noTrick" = "No trick";
+// Needs review
 "Settings.frontFlip" = "Front Flip";
+// Needs review
 "Settings.backFlip" = "Back Flip";
 "Settings.wearableIntegration" = "Προηγμένη ενσωμάτωση φορετών συσκευών";
 "Settings.wearableIntegrationDescription" = "Ενσωμάτωση ActiveLook και Τρίτου Ματιού";

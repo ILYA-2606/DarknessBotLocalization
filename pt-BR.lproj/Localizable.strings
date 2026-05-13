@@ -160,6 +160,7 @@
 "Map.macAddress" = "Endereço MAC";
 "Map.macAddressDetail" = "Vincule o endereço MAC ao seu meio de transporte no portal electro.club para associar a rota ao transporte. Toque para copiar o endereço MAC";
 "Map.notSelected" = "Não selecionado.";
+// Needs review
 "Map.connectedDevice" = "Connected device";
 "Map.euc" = "EUC";
 "Map.scooter" = "Scooter";
@@ -335,6 +336,7 @@
 // Needs review
 "Intro.geolocationDescription" = "For recording routes and the operation of an automatic torch";
 "Intro.cloudkitDescription" = "Para acessar o perfil na nuvem, o mapa de usuários e as classificações";
+// Needs review
 "Intro.notificationDescription" = "For notifications about the connection to electrotransport";
 // Needs review
 "Intro.trackingDescription" = "We use this data to improve the application";
@@ -499,7 +501,9 @@
 "Settings.brightnessDisplayDetail" = "Altera o brilho da tela.";
 "Settings.bugReport" = "Reportar problema";
 "Settings.byAmperage" = "Por amperagem";
+// Needs review
 "Settings.byBattery" = "By battery";
+// Needs review
 "Settings.byBatteryDetail" = "Triggered when the battery charge is exceeded";
 "Settings.byPower" = "Por potência";
 "Settings.byPWM" = "Por PWM";

@@ -15,9 +15,13 @@
 "Firmware.conditions" = "固件更新提示";
 "Firmware.upToDate" = "您的固件已是最新版本。";
 "Firmware.whatsNew" = "更新内容";
+// Needs review
 "Firmware.selectFirmware" = "Select the firmware";
+// Needs review
 "Firmware.select" = "Select";
+// Needs review
 "Firmware.updateMessage" = "Update the firmware?";
+// Needs review
 "Firmware.noFirmwares" = "No firmwares available";
 "Common.add" = "添加";
 "Common.apply" = "应用";
@@ -97,22 +101,39 @@
 "Profile.yourFollower" = "您的粉丝";
 "Profile.yourFriend" = "您的好友";
 "Profile.yourPhoto" = "您的照片";
+// Needs review
 "Profile.electroClubDetails" = "Log in to sync your trips with the electro.club portal";
+// Needs review
 "Profile.email" = "Email";
+// Needs review
 "Profile.password" = "Password";
+// Needs review
 "Profile.loggedAs" = "You are logged in as";
+// Needs review
 "Profile.logIn" = "Log in";
+// Needs review
 "Profile.logout" = "Logout";
+// Needs review
 "Profile.autoSyncTrips" = "Automatically sync new trips";
+// Needs review
 "Profile.autoSyncTripsDetail" = "Each new trip will be synchronized only after its completion";
+// Needs review
 "Profile.garage" = "Garage";
+// Needs review
 "Profile.mainTransport" = "Main";
+// Needs review
 "Profile.electroClubUploadQuestion" = "Are you sure you want to upload this trip to electro.club?";
+// Needs review
 "Profile.electroClubNeedAccount" = "To upload this trip to the portal, you need to log in to electro.club";
+// Needs review
 "Profile.createAccount" = "Create account";
+// Needs review
 "Profile.restorePassword" = "Restore password";
+// Needs review
 "Profile.electroClubUploaded" = "The trip has been successfully uploaded to the electro.club portal! Do you want to view it?";
+// Needs review
 "Profile.noInternetConnection" = "No Internet connection";
+// Needs review
 "Profile.serverIncorrectResponse" = "Server sent an incorrect response";
 "Rate.appVersion" = "应用程序版本";
 "Rate.dontShowAgain" = "不再显示";
@@ -153,21 +174,34 @@
 "Map.searchPlaces" = "搜索附近的车友";
 "Map.users" = "用户";
 "Map.tracker" = "定位";
+// Needs review
 "Map.track" = "Track";
 "Map.tracks" = "行驶轨迹";
 "Map.recordTrack" = "记录轨迹";
+// Needs review
 "Map.trackerBackgroundLocation" = "DarknessBot collects location data to enable GPS data in CSV logs when the app is running in the background or when the screen is off. GPS data is not collected when electrotransport is disconnected. The tracker works even when the app is minimized, so you need to allow full location access ‘Allow all the time’";
+// Needs review
 "Map.removeTripQuestion" = "Are you sure you want to delete this trip?";
+// Needs review
 "Map.macAddress" = "MAC address";
+// Needs review
 "Map.macAddressDetail" = "Link the MAC address to your transport in electro.club to link the track to the transport on the portal. Tap to copy the MAC address";
+// Needs review
 "Map.notSelected" = "Not selected";
+// Needs review
 "Map.connectedDevice" = "Connected device";
 "Map.euc" = "EUC";
+// Needs review
 "Map.scooter" = "Scooter";
+// Needs review
 "Map.segway" = "Segway";
+// Needs review
 "Map.minisegway" = "Mini Segway";
+// Needs review
 "Map.skate" = "Skate";
+// Needs review
 "Map.smartBMS" = "Smart BMS";
+// Needs review
 "Map.anyDevice" = "Any device";
 "Devices.a" = "安";
 "Devices.averageSpeed" = "平均速度";
@@ -189,6 +223,7 @@
 "Devices.connections" = "连接";
 "Devices.current" = "电流";
 "Devices.d" = "天";
+// Needs review
 "Devices.dashboardConfirmation" = "Please confirm connection with dashboard button on your scooter";
 "Devices.day" = "天";
 "Devices.days" = "天";
@@ -201,10 +236,12 @@
 "Devices.energy" = "能量";
 "Devices.enter" = "进入";
 "Devices.fahrenheit" = "华氏";
+// Needs review
 "Devices.founded" = "Found";
 "Devices.h" = "小时";
 "Devices.firmwareNotSupported" = "不支持当前设备固件";
 "Devices.firmwareNotSupportedDetail" = "确保您的设备型号或固件与支持的设备列表相匹配";
+// Needs review
 "Devices.bleFirmwareNotSupportedDetail" = "It is likely that an unsupported version of the BLE firmware is installed on your electrotransport model. Versions 1.3.1 or lower are supported. You can change the BLE firmware via the XiaoFlasher app";
 "Devices.hardwareNotSupported" = "硬件不支持";
 "Devices.hour" = "小时";
@@ -222,6 +259,7 @@
 "Devices.maxPower" = "最大功率";
 "Devices.maxSpeed" = "最大速度";
 "Devices.maxTemperature" = "最高温度";
+// Needs review
 "Devices.maxPWM" = "Max PWM";
 "Devices.minute" = "分钟";
 "Devices.minutes" = "分钟";
@@ -242,7 +280,9 @@
 "Devices.replayKitNotWorking" = "ReplayKit无法正常工作。请稍后再试。";
 "Devices.requiresPincode" = "设备需要输入PIN码";
 "Devices.reset" = "重置";
+// Needs review
 "Devices.tripReset" = "Trip reset";
+// Needs review
 "Devices.resetQuestion" = "Are you sure you want to reset this value? You can also start a new trip";
 "Devices.roll" = "横向倾斜";
 "Devices.searching" = "搜索设备";
@@ -274,23 +314,38 @@
 "Devices.year" = "年";
 "Devices.years" = "年";
 "Devices.yesterday" = "昨天";
+// Needs review
 "Devices.batteryOptimizationTitle" = "Battery optimization detected";
+// Needs review
 "Devices.batteryOptimizationMessage" = "Disable optimization in settings to improve app performance";
+// Needs review
 "Devices.inmotionV11Update" = "For security reasons, it is recommended to update your V11 to version 1.4.15 or newer with InMotion app";
+// Needs review
 "Devices.notificationChannelName" = "Status";
+// Needs review
 "Devices.notificationChannelDescription" = "Notification of connection status";
+// Needs review
 "Devices.notificationPermissionMessage" = "Provide access to notifications to monitor the connection status and improve the work in the background mode";
+// Needs review
 "Devices.locationPermissionMessage" = "Grant access to geolocation";
+// Needs review
 "Devices.untilDischarge" = "Until discharge";
+// Needs review
 "Devices.untilCharge" = "Until full charge";
+// Needs review
 "Devices.resetEstimationMessage" = "The calculation of the time to charge/discharge and the remaining mileage will start again from this moment. Are you sure you want to reset the calculation?";
+// Needs review
 "Devices.dischargeEstimationInfix" = "in";
 "Devices.sec" = "s";
+// Needs review
 "Devices.energyConsumption" = "Energy consumption";
+// Needs review
 "Devices.gettingServices" = "Getting services...";
+// Needs review
 "Devices.gpsSpeed" = "GPS Speed";
 // Needs review
 "Devices.pressToConfirm" = "Press the button on the handlebar to confirm";
+// Needs review
 "Devices.authAdoEbike" = "Please connect the transport in the ADO EBIKE app";
 "Intro.next" = "下一个";
 "Intro.nice" = "好的！";
@@ -300,6 +355,7 @@
 "Intro.premiumExpiredDescription" = "您可以购买高级版以继续使用该应用程序的所有付费功能";
 "Intro.later" = "以后";
 "Intro.buyPremium" = "购买高级功能";
+// Needs review
 "Intro.feature1Title" = "Support for new devices";
 "Intro.feature1Description" = "- Garmin Varia";
 "Intro.help1" = "骑行前别忘了带好护具";
@@ -311,20 +367,33 @@
 "Intro.help7" = "离线模式下无需连接轮子即可查看记录数据";
 "Intro.help8" = "可以从 Trips 导出日志和路线";
 "Intro.help9" = "有路线的行程标有相应的图标";
+// Needs review
 "Intro.onboardingTitle" = "Allow access";
+// Needs review
 "Intro.onboardingMessage" = "in order to get full featured application";
+// Needs review
 "Intro.onboardingContinue" = "Continue";
+// Needs review
 "Intro.onboardingContinueMessage" = "check all permissions to continue";
+// Needs review
 "Intro.allow" = "Allow";
+// Needs review
 "Intro.bluetooth" = "Bluetooth";
+// Needs review
 "Intro.location" = "Location";
 "Intro.cloudkit" = "CloudKit";
+// Needs review
 "Intro.notification" = "Notifications";
+// Needs review
 "Intro.tracking" = "Tracking";
+// Needs review
 "Intro.bluetoothDescription" = "For connecting to electrotransport";
+// Needs review
 "Intro.geolocationDescription" = "For recording routes and the operation of an automatic torch";
 "Intro.cloudkitDescription" = "访问云配置文件、用户地图和评级";
+// Needs review
 "Intro.notificationDescription" = "For notifications about the connection to electrotransport";
+// Needs review
 "Intro.trackingDescription" = "We use this data to improve the application";
 "Intro.justLifetime" = "仅%@ Lifetime";
 "Intro.trialStartedTitle" = "高级版试用期已开始 %i-days";
@@ -371,89 +440,158 @@
 "Diagnostic.highVoltageCharge" = "电压过高，请移除充电器";
 "Diagnostic.highVoltage" = "电压过高，请不要长时间下坡";
 "Diagnostic.inProgress" = "运行中";
+// Needs review
 "Diagnostic.ninebotError10" = "Abnormal communication between instrument panel and main control, please check related wiring";
+// Needs review
 "Diagnostic.ninebotError11" = "Abnormal A phase current sampling of the motor, please check the main control panel";
+// Needs review
 "Diagnostic.ninebotError12" = "Abnormal B phase current sampling of the motor, please check the main control panel";
+// Needs review
 "Diagnostic.ninebotError13" = "Abnormal C phase current sampling of the motor, please check the main control panel";
+// Needs review
 "Diagnostic.ninebotError14" = "Abnormal accelerator Hall, please check accelerator twist grip, instrument panel and related wiring";
+// Needs review
 "Diagnostic.ninebotError15" = "Abnormal brake Hall, please check brake twist grip, instrument panel and related wiring";
+// Needs review
 "Diagnostic.ninebotError16" = "Built-in battery abnormality in MOS switch, please check the main control panel";
+// Needs review
 "Diagnostic.ninebotError17" = "External battery abnormality in MOS switch, please check the main control panel";
+// Needs review
 "Diagnostic.ninebotError18" = "Abnormal motor Hall, please check motor, main control panel and related wiring";
+// Needs review
 "Diagnostic.ninebotError19" = "Built-in battery abnormality in voltage detection, please check built-in battery, main control panel and related wiring";
+// Needs review
 "Diagnostic.ninebotError20" = "External battery abnormality in voltage detection, please check external battery, main control panel and related wiring";
+// Needs review
 "Diagnostic.ninebotError21" = "Built-in battery abnormality in communication, please check built-in battery, main control panel and related wiring";
+// Needs review
 "Diagnostic.ninebotError22" = "Built-in battery password is wrong, please replace the battery";
+// Needs review
 "Diagnostic.ninebotError23" = "Built-in battery is in default serial number, please replace the battery";
+// Needs review
 "Diagnostic.ninebotError24" = "System voltage detection abnormality, please check the main control panel";
+// Needs review
 "Diagnostic.ninebotError26" = "Flash save error, please check the main control panel";
+// Needs review
 "Diagnostic.ninebotError27" = "Master control password is wrong, please replace the main control panel";
+// Needs review
 "Diagnostic.ninebotError28" = "Short circuit in motor driven upper MOS bridge, please check the main control panel";
+// Needs review
 "Diagnostic.ninebotError29" = "Failure in motor driven bottom MOS bridge, please check the main control panel";
+// Needs review
 "Diagnostic.ninebotError31" = "Program skip error, please check the main control panel";
+// Needs review
 "Diagnostic.ninebotError35" = "Vehicle is in default serial number, please replace the main control panel";
+// Needs review
 "Diagnostic.ninebotError36" = "2+4 connector failure or external battery charging wire failure";
+// Needs review
 "Diagnostic.ninebotError37" = "Charging base failure or built-in battery charging wire failure";
+// Needs review
 "Diagnostic.ninebotError38" = "The charging protection function fails, and there is still charging current after turning off";
+// Needs review
 "Diagnostic.ninebotError39" = "Built-in battery temperature sensor abnormality, please replace the battery";
+// Needs review
 "Diagnostic.ninebotError40" = "Controller temperature sensor abnormality, please check the main control panel";
+// Needs review
 "Diagnostic.ninebotError41" = "External battery temperature sensor abnormality, please replace the battery";
+// Needs review
 "Diagnostic.ninebotError42" = "External battery abnormality in communication, please check external battery, main control panel and related wiring";
+// Needs review
 "Diagnostic.ninebotError43" = "External battery password is wrong, please replace the battery";
+// Needs review
 "Diagnostic.ninebotError44" = "External battery is in default serial number, please replace the battery";
+// Needs review
 "Diagnostic.ninebotError45" = "Built-in battery is overdischarge, please replace the battery";
+// Needs review
 "Diagnostic.ninebotError46" = "External battery is overdischarge, please replace the battery";
+// Needs review
 "Diagnostic.ninebotError47" = "Built-in battery BMS is broken,please replace the battery";
+// Needs review
 "Diagnostic.ninebotError48" = "External battery BMS is broken please replace the battery";
+// Needs review
 "Diagnostic.ninebotError49" = "Built-in battery firmware version is old, please replace the battery or update firmware";
+// Needs review
 "Diagnostic.ninebotError50" = "External battery firmware version is old, please replace the battery or update firmware";
+// Needs review
 "Diagnostic.ninebotError51" = "Main controller and goose head doesn’t match with each other";
+// Needs review
 "Diagnostic.temperatureMos" = "MOS temperature";
+// Needs review
 "Diagnostic.temperatureMosEnv" = "MOS environment temperature";
+// Needs review
 "Diagnostic.batteryType" = "Battery type";
+// Needs review
 "Diagnostic.batteryCellCount" = "Cell count";
+// Needs review
 "AppData.allAppData" = "All app data";
+// Needs review
 "AppData.allData" = "All data";
+// Needs review
 "AppData.allMetrics" = "All metrics";
+// Needs review
 "AppData.allTracks" = "All tracks";
+// Needs review
 "AppData.allTrips" = "All trips";
+// Needs review
 "AppData.allUsers" = "All users";
 "AppData.appData" = "应用数据";
+// Needs review
 "AppData.loading" = "Loading...";
+// Needs review
 "AppData.exportTrips" = "Export trips";
+// Needs review
 "AppData.exportTripsDetail" = "Save trips to a file";
+// Needs review
 "AppData.importTrips" = "Import trips";
+// Needs review
 "AppData.importTripsDetail" = "Load trips from a file";
+// Needs review
 "AppData.importTripsError" = "Please select the file with the extension 'dbb'";
+// Needs review
 "AppData.importTripsSuccess" = "Trips imported successfully";
+// Needs review
 "AppData.storageOptimization" = "Storage optimization";
+// Needs review
 "AppData.storageOptimizationDetail" = "Application performance improvements. Metrics older than the last two days will be combined with a frequency of 1 hour";
+// Needs review
 "AppData.start" = "Start";
+// Needs review
 "AppData.storageOptimizationQuestion" = "Do you really want to start optimizing storage?";
+// Needs review
 "AppData.storageOptimizationMessage" = "The app storage already takes up a lot of space. Go to storage optimization?";
+// Needs review
 "AppData.storageOptimizationSuccess" = "Storage has been successfully optimized";
 "Settings.about" = "关于";
 "Settings.activationDate" = "激活日期";
 "Settings.alarms" = "报警";
+// Needs review
 "Settings.alarmsDescription" = "Alarms by speed, amperage, power, temperature and PWM";
 "Settings.alarmsModeOff1" = "关闭一级报警";
 "Settings.alarmsModeOff2" = "关闭二级报警";
 "Settings.alarmsModeOn" = "已启用";
 "Settings.all" = "所有人";
 "Settings.appAlarms" = "应用警报";
+// Needs review
 "Settings.appAlarmsDetail" = "On %@";
+// Needs review
 "Settings.appAlarmsTransfer" = "Alarms have been moved to the device settings";
+// Needs review
 "Settings.appearance" = "Appearance";
 "Settings.application" = "程序";
 "Settings.appsByDP" = "通过Darkness开发的app";
 "Settings.appsByDPDetail" = "我们的其他应用";
+// Needs review
 "Settings.appVibroAlarmsDetail" = "On %@ and Apple Watch";
 "Settings.assemblyDate" = "装配日期";
 "Settings.automatic" = "自动模式";
+// Needs review
 "Settings.automaticTrackRecording" = "Automatic GPS track recording";
+// Needs review
 "Settings.automaticTrackRecordingDetail" = "Track recording may affect the running time %@";
 "Settings.automaticTripReset" = "自动行程复位";
+// Needs review
 "Settings.automaticTripResetDetail" = "A new trip will be started after the timeout";
+// Needs review
 "Settings.avas" = "Acoustic Vehicle Alerting System";
 "Settings.balancing" = "平衡";
 "Settings.batteryAmperage" = "电池电流";
@@ -487,9 +625,12 @@
 "Settings.brightnessDisplayDetail" = "改变显示屏亮度";
 "Settings.bugReport" = "错误报告";
 "Settings.byAmperage" = "安培";
+// Needs review
 "Settings.byBattery" = "By battery";
+// Needs review
 "Settings.byBatteryDetail" = "Triggered when the battery charge is exceeded";
 "Settings.byPower" = "功率";
+// Needs review
 "Settings.byPWM" = "By PWM";
 "Settings.byPWMDetail" = "电机使用的百分比。为防止扑街建议不超过80%";
 "Settings.bySpeed" = "速度";
@@ -499,6 +640,7 @@
 "Settings.cacheQuestion" = "您确定要移除设置缓存吗？";
 "Settings.cachesMessage" = "您可以在任何时间清除设备缓存数据，这需要显示某段时间的图表。应用程序后台运行机制优化保存的数据总量";
 "Settings.cachesQuestion" = "您确定要移除所有设置缓存吗？";
+// Needs review
 "Settings.calibrate" = "Calibrate";
 "Settings.calibration" = "校准";
 "Settings.calibrationInstruction" = "点击“应用”按钮。您的设备将关闭。\n将其放置在垂直和水平位置，可以使用下面的水平。然后打开它。\n将设备保持在这个位置，直到听到停止的哔哔声。校准完成！";
@@ -507,8 +649,10 @@
 "Settings.cell" = "电芯";
 "Settings.change" = "改变";
 "Settings.changesMessage" = "改变重启后生效";
+// Needs review
 "Settings.chooseFile" = "Choose file...";
 "Settings.clear" = "清除";
+// Needs review
 "Settings.configureModel" = "Configure your device model in the settings";
 "Settings.connectToDualshock" = "连接到iOS设置中的DualShock";
 "Settings.contactSupport" = "联系支持";
@@ -518,41 +662,65 @@
 "Settings.creditsDetail" = "试着找到你的名字";
 "Settings.cruiseControl" = "巡航控制";
 "Settings.cruiseControlDetail" = "启用恒速模式";
+// Needs review
 "Settings.csvSharing" = "Trips export";
+// Needs review
 "Settings.csvSharingDetail" = "Sharing trips in CSV";
+// Needs review
 "Settings.customBeep" = "Custom beep";
+// Needs review
 "Settings.customBeepBicycle" = "Bicycle";
+// Needs review
 "Settings.customBeepCar" = "Car";
+// Needs review
 "Settings.customBeepCucaracha" = "Cucaracha";
+// Needs review
 "Settings.customBeepDetail" = "Replaces the device's beep";
+// Needs review
 "Settings.customBeepPromo" = "Beep is not supported by the device, but you can configure a custom beep in the settings";
+// Needs review
 "Settings.customBeepTruck" = "Truck";
+// Needs review
 "Settings.customDashboard" = "Custom Dashboard";
+// Needs review
 "Settings.customDashboardDetail" = "Selecting tiles to display and adjusting the size";
+// Needs review
 "Settings.customDashboardDescription" = "Flexible adjustment of tile sizes on the dashboard. Zoom in on the tiles with two fingers. Two-finger tap for fullscreen mode";
+// Needs review
 "Settings.customDashboardZoomDetail" = "Flexible adjustment of tile sizes on the dashboard. Zoom in on the tiles with two fingers";
 "Settings.customFirmwares" = "自定义固件";
 "Settings.deviceAlarms" = "设备报警";
 "Settings.deviceAlarmsDetail" = "设备上的超速警报";
 "Settings.deviceName" = "设备名称";
+// Needs review
 "Settings.deviceNameDetail" = "Applied locally to the application";
+// Needs review
 "Settings.deviceNameDescription" = "Ability to rename devices";
 "Settings.deviceWork" = "设备工作";
 "Settings.disabled" = "失效";
+// Needs review
 "Settings.disconnectQuestion" = "Are you sure you want to disconnect?";
+// Needs review
 "Settings.donate" = "Donate";
 "Settings.dontRemoveLogs" = "请不要删除日志文件";
 "Settings.dontSleep" = "不进入睡眠状态";
 "Settings.dontSleepDetail" = "禁止关闭设备屏幕";
+// Needs review
 "Settings.downhillAssistance" = "Downhill assistance";
+// Needs review
 "Settings.downhillAssistanceDetail" = "Automatic braking during downhill";
+// Needs review
 "Settings.downloadApp" = "Download app";
+// Needs review
 "Settings.editMetrics" = "Edit metrics";
+// Needs review
 "Settings.enabled" = "Enabled";
 "Settings.engineSound" = "电机声音";
+// Needs review
 "Settings.engineSoundDetail" = "AVAS with a choice of presets. Consulted with the developers of racing games to simulate the engine sounds";
 "Settings.equalizerMode" = "均衡器模式";
 "Settings.exceededAmperage" = "超电流";
+// Needs review
 "Settings.exceededBattery" = "Battery level";
 "Settings.exceededPower" = "超功率";
 "Settings.exceededPWM" = "超出PWM";
@@ -561,16 +729,22 @@
 "Settings.experimentalMessage" = "此设置是试验性的，更改此参数，DarknessBot厂家和设备供应商不负";
 "Settings.failedChangeValue" = "改变数值失败";
 "Settings.featureRequest" = "功能请求";
+// Needs review
 "Settings.firmwareUsesMiles" = "Firmware uses miles";
 "Settings.flicClick" = "点击";
 "Settings.flicDoubleClick" = "双击";
 "Settings.flicHold" = "抓住";
 "Settings.flicInstruction" = "按住 Flic 直到连接成功。此过程应该不超过 10 秒。";
 "Settings.freeForMonth" = "免费一个月";
+// Needs review
 "Settings.fromDevice" = "From device";
+// Needs review
 "Settings.fromDeviceDetail" = "If the firmware of the device allows it";
+// Needs review
 "Settings.garminMessage" = "To update the list of connected Garmin devices, open the Garmin Connect IQ app";
+// Needs review
 "Settings.graphs" = "Graphs";
+// Needs review
 "Settings.graphsDescription" = "Viewing graphs for a long period up to a year";
 "Settings.graphsMessage" = "现在你可以查看去年的图表";
 "Settings.handle" = "把手";
@@ -586,12 +760,14 @@
 "Settings.inputNewCode" = "输入新码";
 "Settings.instruction" = "指令";
 "Settings.integration" = "集成";
+// Needs review
 "Settings.language" = "Language";
 "Settings.learned" = "已经学习";
 "Settings.learning" = "学习";
 "Settings.libraries" = "第三方库";
 "Settings.lightsColors" = "灯光颜色";
 "Settings.lightsDetail" = "选择 LED 灯带";
+// Needs review
 "Settings.lightSensor" = "Light sensor";
 "Settings.lightSensorDetail" = "根据光线水平自动打开轮子灯";
 "Settings.lightsMode" = "灯光模式";
@@ -605,23 +781,31 @@
 "Settings.lockMode" = "锁定状态";
 "Settings.lockOrientation" = "锁定方位";
 "Settings.lockOrientationDetail" = "防止手机屏幕方向改变";
+// Needs review
 "Settings.logs" = "Logs";
 "Settings.lowLatencyMode" = "低延迟模式";
 "Settings.maxRollAngle" = "最大倾斜角度";
 "Settings.maxRollAngleDetail" = "向侧面倾斜以关闭。不建议设置超过 45 度";
 "Settings.maxSpeed" = "最大速度";
+// Needs review
 "Settings.maxSpeedDetail" = "Maximum speed of movement";
 "Settings.maxSpeedMode" = "最高速度";
 "Settings.maxSpeedModeDescription" = "调整到最大速度，设置低于最高速度报警";
+// Needs review
 "Settings.mileageEstimation" = "Mileage estimation";
+// Needs review
 "Settings.mileageEstimationDetail" = "Specify the mileage on a single battery charge to increase the accuracy of calculating the remaining mileage";
+// Needs review
 "Settings.mileageEstimationDynamic" = "Dynamic mileage estimation";
+// Needs review
 "Settings.mileageEstimationDynamicDetail" = "Remaining mileage will be calculated dynamically depending on the driving style for the last time";
 "Settings.model" = "型号";
 "Settings.musicVolumeAudioDevices" = "音频设备";
 "Settings.musicVolumeControl" = "自动音量";
 "Settings.musicVolumeControlDetail" = "音乐音量会随着速度而改变";
+// Needs review
 "Settings.musicVolumeExternalAddedDescription" = "Now the automatic volume only works on the added audio devices";
+// Needs review
 "Settings.musicVolumeExternalAllDescription" = "Now the automatic volume works on all connected audio devices.\nYou can add connected audio devices so that the automatic volume only works with them";
 "Settings.musicVolumeHideIndicator" = "隐藏系统音量指示器";
 "Settings.musicVolumeLevel" = "音量级别";
@@ -635,19 +819,26 @@
 "Settings.officialSite" = "官方网站";
 "Settings.onConnection" = "连接时";
 "Settings.onDisconnection" = "断开时";
+// Needs review
 "Settings.onlyAfterSunset" = "Only after sunset";
+// Needs review
 "Settings.onlyAfterSunsetDetail" = "Torch will automatically switch only in the dark time of day";
 "Settings.openApp" = "打开应用程序";
 "Settings.other" = "其他";
 "Settings.outletDelay" = "关机前的预充电时间";
 "Settings.outletDelayEnabled" = "关机前充电";
+// Needs review
 "Settings.participationRatings" = "Participation in ratings";
 "Settings.pedalHorizontal" = "踏板水平";
 "Settings.pedalHorizontalDetail" = "俯仰角";
 "Settings.playPause" = "播放/暂停";
+// Needs review
 "Settings.premium" = "Premium";
+// Needs review
 "Settings.premiumDescription" = "All current and upcoming paid features";
+// Needs review
 "Settings.premiumFeatureTitle" = "This is a Premium feature";
+// Needs review
 "Settings.premiumIncludes" = "Premium includes";
 "Settings.premiumMessage" = "现在你可以使用的所有付费应用程序的功能";
 "Settings.previousTrack" = "上一首";
@@ -659,10 +850,14 @@
 "Settings.privacyLocationMessage" = "谁可以看您的位置";
 "Settings.privacySocialMessage" = "谁可以看您的社交资料";
 "Settings.purchaseAlarms" = "购买报警器？";
+// Needs review
 "Settings.purchaseBeep" = "Purchase custom beep?";
+// Needs review
 "Settings.purchaseCustomDashboard" = "Purchase Custom Dashboard?";
 "Settings.purchased" = "已购买";
+// Needs review
 "Settings.purchaseEngineSound" = "Purchase Engine Sound?";
+// Needs review
 "Settings.purchaseGooglePlay" = "In-app purchases are only available in the release version from Google Play. You can install the version from Google Play, purchase purchases, then install the beta version. Purchases will be activated in the beta version";
 "Settings.purchaseGraphs" = "购买一览图?";
 "Settings.purchaseMusicVolumeControl" = "购买音乐音量控制？";
@@ -681,6 +876,7 @@
 "Settings.questionType" = "问题类型";
 "Settings.record" = "一条记录";
 "Settings.recorder" = "录像机";
+// Needs review
 "Settings.recorderDetail" = "Recording video from a camera with metrics overlay";
 "Settings.recorderCameraMode" = "相机模式（不录制）";
 "Settings.recorderChromakey" = "黑色背景";
@@ -697,13 +893,19 @@
 "Settings.restorePurchases" = "恢复购买";
 "Settings.rideSettings" = "骑行设置";
 "Settings.ridingMode" = "踏板模式";
+// Needs review
 "Settings.ridingModeDetail" = "Affects the rigidity of the horizon retention";
+// Needs review
 "Settings.ridingModeEco" = "Eco";
 "Settings.ridingModeHard" = "坚硬的";
+// Needs review
 "Settings.ridingModePedestrian" = "Pedestrian";
+// Needs review
 "Settings.ridingModeScooterDetail" = "Switching the driving speed mode";
 "Settings.ridingModeSoft" = "柔软的";
+// Needs review
 "Settings.ridingModeSport" = "Sport";
+// Needs review
 "Settings.ridingModeStandard" = "Standard";
 "Settings.safeMode" = "安全模式";
 "Settings.safeModeDetail" = "启用低电量时的速度限制";
@@ -719,21 +921,30 @@
 "Settings.sound" = "声音";
 "Settings.speedCorrection" = "速度矫正";
 "Settings.speedCorrectionDetail" = "影响当前、平均和最大速度的显示";
+// Needs review
 "Settings.mileageCorrection" = "Mileage correction";
+// Needs review
 "Settings.mileageCorrectionDetail" = "Affects the display of the single and total mileage";
 "Settings.splashScreen" = "介绍";
+// Needs review
 "Settings.splashScreenDisabling" = "Disabling splash screen";
 "Settings.splashScreenDetail" = "在应用启动期间显示提示和促销信息";
+// Needs review
 "Settings.splashScreenDescription" = "Ability to disable the splashscreen";
 "Settings.support" = "支持";
+// Needs review
 "Settings.systemLanguage" = "System language";
 "Settings.temperatureUnit" = "温度单位";
+// Needs review
 "Settings.testDrive" = "Test drive";
+// Needs review
 "Settings.testDriveDetail" = "Move the slider to check the sound";
 "Settings.theme" = "主题";
+// Needs review
 "Settings.themeDetail" = "Ability to apply app themes";
 "Settings.themeAuto" = "自动的主题";
 "Settings.themeAutoDetail" = "按日出/日落自动更改主题";
+// Needs review
 "Settings.themeAutoSystemDetail" = "Automatic switching when the system theme changes";
 "Settings.themeBlack" = "黑色的";
 "Settings.themeDefault" = "默认的";
@@ -743,9 +954,13 @@
 "Settings.tiltbackDetail" = "翘板速度设置";
 "Settings.torchAuto" = "自动手电筒";
 "Settings.torchAutoDetail" = "日落后骑行时自动打开轮子灯";
+// Needs review
 "Settings.torchAutoOffSpeed" = "Maximum speed for turn off";
+// Needs review
 "Settings.torchAutoOffSpeedDetail" = "Torch will turn off automatically if the speed is lower";
+// Needs review
 "Settings.torchAutoOnSpeed" = "Minimum speed to turn on";
+// Needs review
 "Settings.torchAutoOnSpeedDetail" = "Torch will turn on automatically if the speed is higher";
 "Settings.translate" = "翻译";
 "Settings.translateDetail" = "如果您发现翻译中有错误，请点按";
@@ -764,110 +979,215 @@
 "Settings.voiceControlDetail" = "启用蓝牙音乐和语音警报";
 "Settings.volume" = "音量";
 "Settings.volumeDetail" = "设备扬声器音量";
+// Needs review
 "Settings.trackerDetail" = "Records geolocation during the trip. The working time of your device may be reduced";
+// Needs review
 "Settings.dashboardRow" = "Row";
+// Needs review
 "Settings.tilesOrder" = "Tiles order";
+// Needs review
 "Settings.fastSettings" = "Fast settings";
+// Needs review
 "Settings.balanceSettings" = "Balance settings";
+// Needs review
 "Settings.cellBalanceLimit" = "Cell balance limit";
+// Needs review
 "Settings.chargingCellBalanceStart" = "Charging cell balance start";
+// Needs review
 "Settings.cellDiffOn" = "Cell difference on";
+// Needs review
 "Settings.cellDiffOff" = "Cell difference off";
+// Needs review
 "Settings.balanceAmperage" = "Balance amperage";
+// Needs review
 "Settings.balanceChargingAmperage" = "Balance charging amperage";
+// Needs review
 "Settings.bmsCellHighProtect" = "Cell high protect";
+// Needs review
 "Settings.bmsCellHighRecover" = "Cell high recover";
+// Needs review
 "Settings.bmsL2CellHighProtect" = "Cell high protect level 2";
+// Needs review
 "Settings.bmsL2CellHighRecover" = "Cell high recover level 2";
+// Needs review
 "Settings.bmsPackVoltageHighProtect" = "Pack voltage high protect";
+// Needs review
 "Settings.bmsPackVoltageHighRecover" = "Pack voltage high recover";
+// Needs review
 "Settings.bmsCellLowProtect" = "Cell low protect";
+// Needs review
 "Settings.bmsCellLowRecover" = "Cell low recover";
+// Needs review
 "Settings.bmsL2CellLowProtect" = "Cell low protect level 2";
+// Needs review
 "Settings.bmsL2CellLowRecover" = "Cell low recover level 2";
+// Needs review
 "Settings.bmsPackVoltageLowProtect" = "Pack voltage low protect";
+// Needs review
 "Settings.bmsPackVoltageLowRecover" = "Pack voltage low recover";
+// Needs review
 "Settings.bmsChargeTempHighProtect" = "Charge temperature high protect";
+// Needs review
 "Settings.bmsChargeTempHighRecover" = "Charge temperature high recover";
+// Needs review
 "Settings.bmsDischargeTempHighProtect" = "Discharge temperature high protect";
+// Needs review
 "Settings.bmsDischargeTempHighRecover" = "Discharge temperature high recover";
+// Needs review
 "Settings.bmsMOSTempHighProtect" = "MOS temperature high protect";
+// Needs review
 "Settings.bmsMOSTempHighRecover" = "MOS temperature high recover";
+// Needs review
 "Settings.bmsChargeTempLowProtect" = "Charge temperature low protect";
+// Needs review
 "Settings.bmsChargeTempLowRecover" = "Charge temperature low recover";
+// Needs review
 "Settings.bmsDischargeTempLowProtect" = "Discharge temperature low protect";
+// Needs review
 "Settings.bmsDischargeTempLowRecover" = "Discharge temperature low recover";
+// Needs review
 "Settings.bmsChargeOverAmperageProtect" = "Charge over amperage protect";
+// Needs review
 "Settings.bmsChargeOverAmperageProtectDelay" = "Charge over amperage protect delay";
+// Needs review
 "Settings.bmsDischargeOverAmperageProtect" = "Discharge over amperage protect";
+// Needs review
 "Settings.bmsDischargeOverAmperageProtectDelay" = "Discharge over amperage protect delay";
+// Needs review
 "Settings.bmsL2DischargeOverAmperageProtect" = "Discharge over amperage protect level 2";
+// Needs review
 "Settings.bmsL2DischargeOverAmperageProtectDelay" = "Discharge over amperage protect delay level 2";
+// Needs review
 "Settings.bmsShortCircuitProtect" = "Short circuit protect";
+// Needs review
 "Settings.bmsShortCircuitProtectDelay" = "Short circuit protect delay";
+// Needs review
 "Settings.amperageSettings" = "Amperage settings";
+// Needs review
 "Settings.voltageSettings" = "Voltage settings";
+// Needs review
 "Settings.temperatureSettings" = "Temperature settings";
+// Needs review
 "Settings.volumeButtons" = "Volume buttons";
+// Needs review
 "Settings.increaseVolume" = "Increase volume";
+// Needs review
 "Settings.decreaseVolume" = "Decrease volume";
+// Needs review
 "Settings.batteryCorrection" = "Battery correction";
+// Needs review
 "Settings.batteryCorrectionDetail" = "Affects the calculation of the battery level";
+// Needs review
 "Settings.cellVoltage100" = "Cell voltage for 100%";
+// Needs review
 "Settings.cellVoltage0" = "Cell voltage for 0%";
+// Needs review
 "Settings.useDischargeCurve" = "Use discharge curve";
+// Needs review
 "Settings.liveActivity" = "Live Activity";
+// Needs review
 "Settings.liveActivityDescription" = "Live Activity widget on lock screen and Dynamic Island";
+// Needs review
 "Settings.breakingAmperage" = "Braking amperage";
+// Needs review
 "Settings.extremeMode" = "Extreme mode";
+// Needs review
 "Settings.rotationControl" = "Rotation control";
+// Needs review
 "Settings.breakingAmperageDetail" = "The force with which the motor will be decelerated from the current rotational speed to a stop. It is activated by pressing the motor stop button when the extreme mode is active";
+// Needs review
 "Settings.extremeModeDetail" = "It uses the capabilities of the firmware to perform extreme functions, for example, controlled braking. Not for regular driving";
+// Needs review
 "Settings.rotationControlDetail" = "A function for the Front Flip trick. If this function is enabled, the EUC will count 360 degrees of rotation from the position it was in when the motor stop button was pressed. When the function is disabled, the wheel is turned on by pressing the motor stop button again";
+// Needs review
 "Settings.customDashboardMinTiles" = "At least one tile is needed to display the dashboard";
+// Needs review
 "Settings.advancedSettings" = "Advanced settings";
+// Needs review
 "Settings.horizonKP" = "Horizon KP";
+// Needs review
 "Settings.horizonKI" = "Horizon KI";
+// Needs review
 "Settings.horizonKD" = "Horizon KD";
+// Needs review
 "Settings.horizonDynamicCompensation" = "Horizon dynamic compensation";
+// Needs review
 "Settings.horizonDynamicCompensationFilter" = "Horizon dynamic compensation filter";
+// Needs review
 "Settings.accelerationCompensation" = "Acceleration compensation";
+// Needs review
 "Settings.turnCompensation" = "Turn compensation";
+// Needs review
 "Settings.currentKP" = "Current KP";
+// Needs review
 "Settings.currentKI" = "Current KI";
+// Needs review
 "Settings.currentDKP" = "Current DKP";
+// Needs review
 "Settings.currentDKI" = "Current DKI";
+// Needs review
 "Settings.rotationAngle" = "Rotation angle";
+// Needs review
 "Settings.advancedSettingsDetails" = "Activation of 'Engineering settings'. Enabling this function switches the wheel to advanced settings mode. For the settings to be applied, you must set the pedals to 'Soft' mode.";
+// Needs review
 "Settings.horizonKPDetails" = "Horizon Hold PID Proportional Gain";
+// Needs review
 "Settings.horizonKIDetails" = "Horizon hold controller PID integral gain";
+// Needs review
 "Settings.horizonKDDetails" = "Horizon hold PID differential gain";
+// Needs review
 "Settings.horizonDynamicCompensationDetails" = "Dynamic horizon angle compensation";
+// Needs review
 "Settings.horizonDynamicCompensationFilterDetails" = "Dynamic horizon compensation filter coefficient";
+// Needs review
 "Settings.accelerationCompensationDetails" = "Compensation for horizon deviations caused by wheel acceleration/deceleration";
+// Needs review
 "Settings.turnCompensationDetails" = "Compensation for horizon deviations caused by wheel turn";
+// Needs review
 "Settings.currentKPDetails" = "Proportional gain of PID motor Q current ";
+// Needs review
 "Settings.currentKIDetails" = "Integral gain of PID motor Q current";
+// Needs review
 "Settings.currentDKPDetails" = "Proportional gain of PID motor D current";
+// Needs review
 "Settings.currentDKIDetails" = "Integral gain of PID motor D current";
+// Needs review
 "Settings.rotationAngleDetails" = "The angle the wheel must rotate to engage when performing a Front Flip trick. Activated when the Rotation Control function is activated";
+// Needs review
 "Settings.useSoftwarePWM" = "Software PWM";
+// Needs review
 "Settings.useSoftwarePWMDetails" = "Use software PWM instead hardware";
+// Needs review
 "Settings.supportUs" = "Support us";
+// Needs review
 "Settings.mirrorThirdEye" = "Mirror «Third Eye»";
+// Needs review
 "Settings.topValue" = "Top value";
+// Needs review
 "Settings.bottomValue" = "Bottom value";
+// Needs review
 "Settings.showTitles" = "Show titles";
+// Needs review
 "Settings.deviceSearch" = "Device search...";
+// Needs review
 "Settings.value" = "Value";
+// Needs review
 "Settings.regularText" = "Regular text";
+// Needs review
 "Settings.largeText" = "Large text";
+// Needs review
 "Settings.extraLargeText" = "Extra large text";
+// Needs review
 "Settings.segment" = "Segment";
+// Needs review
 "Settings.autoBrightness" = "Auto Brightness";
+// Needs review
 "Settings.trickMode" = "Trick mode";
+// Needs review
 "Settings.noTrick" = "No trick";
+// Needs review
 "Settings.frontFlip" = "Front Flip";
+// Needs review
 "Settings.backFlip" = "Back Flip";
 "Settings.wearableIntegration" = "先进可穿戴设备集成";
 "Settings.wearableIntegrationDescription" = "ActiveLook 和 Third Eye 的整合";
