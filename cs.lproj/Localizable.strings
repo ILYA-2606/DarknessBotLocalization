@@ -712,7 +712,7 @@
 "Settings.shutdownTime" = "Čas vypnutí";
 "Settings.shutdownTimeDetail" = "Automatické vypnutí zařízení";
 "Settings.smartAlarms" = "Chytré výstrahy";
-"Settings.smartAlarmsDescription" = "Výstrahy na rychlost se budou lineárně snižovat s klesající baterií.\nAž na 80 % původní hodnoty";
+"Settings.smartAlarmsDescription" = "Výstrahy na rychlost se budou lineárně snižovat s klesající baterií.\nAž na 80%% původní hodnoty";
 "Settings.sound" = "Zvuk";
 "Settings.speedCorrection" = "Korekce rychlosti";
 "Settings.speedCorrectionDetail" = "Ovlivňuje zobrazení aktuální, průměrné a maximální rychlosti";
