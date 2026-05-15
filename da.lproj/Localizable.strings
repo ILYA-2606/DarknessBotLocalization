@@ -113,9 +113,11 @@
 "Profile.electroClubUploaded" = "Turen er blevet uploadet til electro.club-portalen! Vil du se den?";
 "Profile.noInternetConnection" = "Ingen internet forbindelse";
 "Profile.serverIncorrectResponse" = "Serveren sendte et forkert svar";
+// Needs review
 "Rate.appVersion" = "App version";
 "Rate.dontShowAgain" = "Vis ikke igen";
 "Rate.emailSubject" = "DarknessBot problem rapport";
+// Needs review
 "Rate.iosVersion" = "iOS version";
 "Rate.likeAppQuestion" = "Kan du li' appen?";
 "Rate.likeQuestion" = "Kan du li' DarknessBot?";
@@ -466,8 +468,10 @@
 "Settings.batteryHealth" = "Batteritilstand";
 "Settings.batteryInfo" = "Batteri info";
 "Settings.batteryPercent" = "Batteri procent";
+// Needs review
 "Settings.batteryVersion" = "Battery version";
 "Settings.batteryVoltage" = "Batterispænding (V)";
+// Needs review
 "Settings.bleVersion" = "BLE version";
 "Settings.bluetoothConnectHelp" = "Opret forbindelse til enheden i iOS-indstillinger / Bluetooth";
 "Settings.bluetoothLengthMessage" = "Bluetooth-parringskoden skal indeholde %i tal";
@@ -475,6 +479,7 @@
 "Settings.bluetoothPincode" = "Bluetooth-parringskode";
 "Settings.bluetoothPincodeDetail" = "Konfiguration, ændring og nulstilling af enhedens pinkode";
 "Settings.bluetoothSpeaker" = "Bluetooth-højttaler";
+// Needs review
 "Settings.bmsVersion" = "BMS version";
 "Settings.brakeLights" = "Bremselys";
 "Settings.brakeLightsDetail" = "Aktivering af bremsesignalet";
@@ -712,7 +717,8 @@
 "Settings.shutdownTime" = "Nedlukningstid";
 "Settings.shutdownTimeDetail" = "Automatisk nedlukning af enheden";
 "Settings.smartAlarms" = "Smarte alarmer";
-"Settings.smartAlarmsDescription" = "Hastighedsalarmerne vil falde lineært, efterhånden som enhedens spænding falder.\nOp til 80 % af den oprindelige værdi";
+// Needs review
+"Settings.smartAlarmsDescription" = "Hastighedsalarmerne vil falde lineært, efterhånden som enhedens spænding falder.\nOp til 80%% af den oprindelige værdi";
 "Settings.sound" = "Lyd";
 "Settings.speedCorrection" = "Hastighedskorrektion";
 "Settings.speedCorrectionDetail" = "Påvirker visningen af ​​den aktuelle, gennemsnitlige og maksimale hastighed";
