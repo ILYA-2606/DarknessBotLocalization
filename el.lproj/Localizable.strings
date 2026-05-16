@@ -513,7 +513,6 @@
 "Settings.create" = "Δημιουργία";
 "Settings.credits" = "Ευχαριστίες";
 "Settings.creditsDetail" = "Προσπαθήστε να βρείτε το όνομά σας";
-// Needs review
 "Settings.cruiseControl" = "Cruise control";
 "Settings.cruiseControlDetail" = "Ενεργοποίηση λειτουργίας σταθερής ταχύτητας";
 "Settings.csvSharing" = "Εξαγωγή διαδρομών";
