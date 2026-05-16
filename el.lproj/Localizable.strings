@@ -63,7 +63,7 @@
 "Profile.icloudAllowAccess" = "Να επιτρέπεται η πρόσβαση";
 "Profile.icloudAllowAccessDescription" = "Για να χρησιμοποιήσετε κοινωνικά δίκτυα επιτρέψτε πρόσβαση στο iCloud";
 "Profile.icloudHowTo" = "Πως να επιτρέψετε πρόσβαση";
-"Profile.icloudHowToDescription" = "Σε επιτραπέζιους υπολογιστές ή iPad, μεταβείτε στον ιστότοπο https://www.icloud.com/settings/\nΣυνδεθείτε με το email και τον κωδικό πρόσβασής σας στο iCloud.\nΑναζητήστε την ενότητα 'Για προχωρημένους'\nΜεταβείτε στη 'Διαχείριση εφαρμογών που μπορούν να σας αναζητήσουν'\nΕνεργοποιήστε την εναλλαγή εφαρμογής DarknessBot\nΣτη συνέχεια, ελέγξτε τις Ρυθμίσεις iOS / Apple ID / iCloud - Οι εναλλαγές DarknessBot και iCloudDrive θα πρέπει να είναι ενεργοποιημένες.";
+"Profile.icloudHowToDescription" = "Σε επιτραπέζιους υπολογιστές ή iPad, μεταβείτε στον ιστότοπο https://www.icloud.com/settings/\nΣυνδεθείτε με το email και τον κωδικό πρόσβασής σας στο iCloud.\nΑναζητήστε την ενότητα 'Για προχωρημένους'\nΜεταβείτε στη 'Διαχείριση εφαρμογών που μπορούν να σας αναζητήσουν'\nΕνεργοποιήστε την εναλλαγή εφ��ρμογής DarknessBot\nΣτη συνέχεια, ελέγξτε τις Ρυθμίσεις iOS / Apple ID / iCloud - Οι εναλλαγές DarknessBot και iCloudDrive θα πρέπει να είναι ενεργοποιημένες.";
 "Profile.imageBig" = "Το μέγεθος της εικόνας είναι πολύ μεγάλο";
 "Profile.imageSmall" = "Το μέγεθος της εικόνας είναι πολύ μικρό";
 "Profile.invalidPhone" = "Μη έγκυρη μορφή αριθμού τηλεφώνου";
@@ -282,16 +282,13 @@
 "Devices.untilDischarge" = "Μέχρι την αποφόρτιση";
 "Devices.untilCharge" = "Μέχρι την πλήρη φόρτιση";
 "Devices.resetEstimationMessage" = "Ο υπολογισμός του χρόνου φόρτισης/αποφόρτισης και της υπολειπόμενης απόστασης θα ξεκινήσει ξανά από αυτή τη στιγμή. Είστε βέβαιοι ότι θέλετε να επαναφέρετε τον υπολογισμό;";
-// Needs review
-"Devices.dischargeEstimationInfix" = "in";
+"Devices.dischargeEstimationInfix" = "σε";
 "Devices.sec" = "s";
 "Devices.energyConsumption" = "Κατανάλωση ενέργειας";
 "Devices.gettingServices" = "Λήψη υπηρεσιών...";
 "Devices.gpsSpeed" = "Ταχύτητα GPS";
-// Needs review
-"Devices.pressToConfirm" = "Press the button on the handlebar to confirm";
-// Needs review
-"Devices.authAdoEbike" = "Please connect the transport in the ADO EBIKE app";
+"Devices.pressToConfirm" = "Πατήστε το κουμπί στο τιμόνι για επιβεβαίωση";
+"Devices.authAdoEbike" = "Συνδέστε τη μεταφορά στην εφαρμογή ADO EBIKE";
 "Intro.next" = "Επόμενο";
 "Intro.nice" = "Ωραία";
 "Intro.premiumTitle" = "Premium";
@@ -438,7 +435,7 @@
 "Settings.alarmsDescription" = "Συναγερμοί με ταχύτητα, ένταση, ισχύ, θερμοκρασία και PWM";
 "Settings.alarmsModeOff1" = "Ανενεργό πρώτο";
 "Settings.alarmsModeOff2" = "Ανενεργό πρώτο δεύτερο";
-"Settings.alarmsModeOn" = "Ενεργό";
+"Settings.alarmsModeOn" = "Ενερ��ό";
 "Settings.all" = "Όλα";
 "Settings.appAlarms" = "Συναγερμοί εφαρμογής";
 "Settings.appAlarmsDetail" = "Σε %@";
@@ -454,8 +451,7 @@
 "Settings.automaticTrackRecordingDetail" = "Η καταγραφή διαδρομής μπορεί να επηρεάσει τον χρόνο εκτέλεσης %@";
 "Settings.automaticTripReset" = "Αυτόματη επαναφορά καταγραφής διαδρομής";
 "Settings.automaticTripResetDetail" = "Μια νέα καταγραφή θα ξεκινήσει μετά το τάιμ άουτ";
-// Needs review
-"Settings.avas" = "Acoustic Vehicle Alerting System";
+"Settings.avas" = "Σύστημα ακουστικής ειδοποίησης οχήματος";
 "Settings.balancing" = "Εξισορρόπηση";
 "Settings.batteryAmperage" = "Αμπέρ μπαταρίας";
 "Settings.batteryCapacity" = "Χωρητικότητα μπαταρίας";
@@ -559,8 +555,7 @@
 "Settings.exceededBattery" = "Επίπεδο μπαταρίας";
 "Settings.exceededPower" = "Υπέρβαση ισχύος";
 "Settings.exceededPWM" = "Υπέρβαση του επιπέδου διαμόρφωσης πλάτους παλμού";
-// Needs review
-"Settings.exceededSpeed" = "Speed exceeded";
+"Settings.exceededSpeed" = "Υπέρβαση ταχύτητας";
 "Settings.exceededTemperature" = "Υπέρβαση θερμοκρασίας";
 "Settings.experimentalMessage" = "Αυτή η ρύθμιση είναι πειραματική. Το DarknessBot και ο προμηθευτής συσκευών δεν ευθύνονται για το αποτέλεσμα της αλλαγής αυτής της παραμέτρου";
 "Settings.failedChangeValue" = "Αποτυχία αλλαγής τιμής";
@@ -621,7 +616,7 @@
 "Settings.mileageEstimation" = "Εκτίμηση χιλιομέτρων";
 "Settings.mileageEstimationDetail" = "Καθορίστε τα χιλιόμετρα με μία μόνο φόρτιση μπαταρίας για να αυξήσετε την ακρίβεια του υπολογισμού των υπολειπόμενων χιλιομέτρων";
 "Settings.mileageEstimationDynamic" = "Δυναμική εκτίμηση χιλιομέτρων";
-"Settings.mileageEstimationDynamicDetail" = "Τα εναπομείναντα χιλιόμετρα θα υπολογιστούν δυναμικά ανάλογα με το στυλ οδήγησης για την τελευταία φορά";
+"Settings.mileageEstimationDynamicDetail" = "Τα εναπομείναντα χιλιόμετρα θα υπολογιστούν δυναμικά ανάλογα με το ��τυλ οδήγησης για την τελευταία φορά";
 "Settings.model" = "Μοντέλο";
 "Settings.musicVolumeAudioDevices" = "Συσκευές ήχου";
 "Settings.musicVolumeControl" = "Αυτόματη ένταση ήχου";
@@ -727,17 +722,14 @@
 "Settings.mileageCorrection" = "Διόρθωση χιλιομέτρων";
 "Settings.mileageCorrectionDetail" = "Επηρεάζει την εμφάνιση της μονής και της συνολικής χιλιομετρικής απόστασης";
 "Settings.splashScreen" = "Αρχική οθόνη";
-// Needs review
-"Settings.splashScreenDisabling" = "Disabling splash screen";
+"Settings.splashScreenDisabling" = "Απενεργοποίηση οθόνης εκκίνησης";
 "Settings.splashScreenDetail" = "Εμφάνιση υποδείξεων και προωθήσεων κατά την εκκίνηση της εφαρμογής";
 "Settings.splashScreenDescription" = "Δυνατότητα απενεργοποίησης της splash screen";
 "Settings.support" = "Υποστήριξη";
 "Settings.systemLanguage" = "Γλώσσα συστήματος";
 "Settings.temperatureUnit" = "Μονάδα Θερμοκρασίας";
-// Needs review
-"Settings.testDrive" = "Test drive";
-// Needs review
-"Settings.testDriveDetail" = "Move the slider to check the sound";
+"Settings.testDrive" = "Δοκιμαστική οδήγηση";
+"Settings.testDriveDetail" = "Μετακινήστε το για να ελέγξετε τον ήχο";
 "Settings.theme" = "Θέμα";
 "Settings.themeDetail" = "Δυνατότητα εφαρμογής θεμάτων εφαρμογής";
 "Settings.themeAuto" = "Αυτόματο Θέμα";
@@ -861,30 +853,18 @@
 "Settings.rotationAngleDetails" = "Η γωνία που ο τροχός πρέπει να περιστραφεί για να ενεργοποιηθεί όταν εκτελείται το κόλπο Front Flip. Ενεργοποιείται όταν ενεργοποιηθεί η λειτουργία Έλεγχος περιστροφής.";
 "Settings.useSoftwarePWM" = "Λογισμικό PWM";
 "Settings.useSoftwarePWMDetails" = "Χρησιμοποιήστε λογισμικό PWM αντί για υλικό";
-// Needs review
-"Settings.supportUs" = "Support us";
-// Needs review
-"Settings.mirrorThirdEye" = "Mirror «Third Eye»";
-// Needs review
-"Settings.topValue" = "Top value";
-// Needs review
-"Settings.bottomValue" = "Bottom value";
-// Needs review
-"Settings.showTitles" = "Show titles";
-// Needs review
-"Settings.deviceSearch" = "Device search...";
-// Needs review
-"Settings.value" = "Value";
-// Needs review
-"Settings.regularText" = "Regular text";
-// Needs review
-"Settings.largeText" = "Large text";
-// Needs review
-"Settings.extraLargeText" = "Extra large text";
-// Needs review
-"Settings.segment" = "Segment";
-// Needs review
-"Settings.autoBrightness" = "Auto Brightness";
+"Settings.supportUs" = "Υποστηρίξτε μας";
+"Settings.mirrorThirdEye" = "Καθρέπτης «Third Eye»";
+"Settings.topValue" = "Μέγιστη τιμή";
+"Settings.bottomValue" = "Ελάχιστη τιμή";
+"Settings.showTitles" = "Εμφάνιση τίτλων";
+"Settings.deviceSearch" = "Αναζήτηση συσκευής...";
+"Settings.value" = "Τιμή";
+"Settings.regularText" = "Κανονικό κείμενο";
+"Settings.largeText" = "Μεγάλο κείμενο";
+"Settings.extraLargeText" = "Πολύ μεγάλο κείμενο";
+"Settings.segment" = "Τμήμα";
+"Settings.autoBrightness" = "Αυτόματη φωτεινότητα";
 // Needs review
 "Settings.trickMode" = "Trick mode";
 // Needs review
@@ -895,33 +875,19 @@
 "Settings.backFlip" = "Back Flip";
 "Settings.wearableIntegration" = "Προηγμένη ενσωμάτωση φορετών συσκευών";
 "Settings.wearableIntegrationDescription" = "Ενσωμάτωση ActiveLook και Τρίτου Ματιού";
-// Needs review
-"Settings.time" = "Time";
-// Needs review
-"Settings.updateAvailable" = "Update available";
-// Needs review
-"Settings.newFromDeveloper" = "New from the developer";
-// Needs review
-"Settings.new" = "New";
-// Needs review
-"Settings.dependence" = "Dependence";
-// Needs review
-"Settings.dependenceDetail" = "The metric from which the engine sound will be calculated";
-// Needs review
-"Settings.informationAlarms" = "Information alarms";
+"Settings.time" = "Χρόνος";
+"Settings.updateAvailable" = "Διαθέσιμη ενημέρωση";
+"Settings.newFromDeveloper" = "Νέο από τον προγραμματιστή";
+"Settings.new" = "Νέο";
+"Settings.dependence" = "Εξάρτηση";
+"Settings.dependenceDetail" = "Η μέτρηση από την οποία θα υπολογιστεί ο ήχος του κινητήρα";
+"Settings.informationAlarms" = "Συναγερμοί πληροφοριών";
 // Needs review
 "Settings.foundObjects" = "Found objects";
-// Needs review
-"Settings.relativeSpeed" = "Relative speed";
-// Needs review
-"Settings.distance" = "Distance";
-// Needs review
-"Settings.dangerApproachSpeed" = "Danger approach speed";
-// Needs review
-"Settings.dangerDistance" = "Danger distance";
-// Needs review
-"Settings.noObjectsFound" = "No objects found";
-// Needs review
-"Settings.maxDetectDistance" = "Max detect distance";
-// Needs review
-"Settings.nearestObject" = "Nearest object";
+"Settings.relativeSpeed" = "Σχετική ταχύτητα";
+"Settings.distance" = "Απόσταση";
+"Settings.dangerApproachSpeed" = "Ταχύτητα προσέγγισης κινδύνου";
+"Settings.dangerDistance" = "Απόσταση κινδύνου";
+"Settings.noObjectsFound" = "Δεν βρέθηκαν αντικείμενα";
+"Settings.maxDetectDistance" = "Μέγιστη απόσταση ανίχνευσης";
+"Settings.nearestObject" = "Πλησιέστερο αντικείμενο";
