@@ -297,7 +297,7 @@
 "Intro.premiumExpiredDescription" = "Μπορείτε να αγοράσετε το Premium για να συνεχίσετε να χρησιμοποιείτε όλες τις λειτουργίες επί πληρωμή της εφαρμογής";
 "Intro.later" = "Αργότερα";
 "Intro.buyPremium" = "Αγοράστε Premium";
-"Intro.feature1Title" = "Υποστήριξη για νέες συσκευές";
+"Intro.feature1Title" = "Υποστήρι��η για νέες συσκευές";
 "Intro.feature1Description" = "- Garmin Varia";
 "Intro.help1" = "Πριν οδηγήσετε, μην ξεχνάτε την προστασία";
 "Intro.help2" = "Μπορείτε να ορίσετε μια διαδρομή στο χάρτη με ένα παρατεταμένο πάτημα";
@@ -432,7 +432,7 @@
 "Settings.about" = "Πληροφορίες";
 "Settings.activationDate" = "Ημερομηνία ενεργοποίησης";
 "Settings.alarms" = "Συναγερμοί";
-"Settings.alarmsDescription" = "Συναγερμοί με ταχύτητα, ένταση, ισχύ, θερμοκρασία και PWM";
+"Settings.alarmsDescription" = "Συναγερμοί με ��αχύτητα, ένταση, ισχύ, θερμοκρασία και PWM";
 "Settings.alarmsModeOff1" = "Ανενεργό πρώτο";
 "Settings.alarmsModeOff2" = "Ανενεργό πρώτο δεύτερο";
 "Settings.alarmsModeOn" = "Ενεργό";
@@ -616,7 +616,7 @@
 "Settings.mileageEstimation" = "Εκτίμηση χιλιομέτρων";
 "Settings.mileageEstimationDetail" = "Καθορίστε τα χιλιόμετρα με μία μόνο φόρτιση μπαταρίας για να αυξήσετε την ακρίβεια του υπολογισμού των υπολειπόμενων χιλιομέτρων";
 "Settings.mileageEstimationDynamic" = "Δυναμική εκτίμηση χιλιομέτρων";
-"Settings.mileageEstimationDynamicDetail" = "Τα εναπομείναντα χιλιόμετρα θα υπολογιστούν δυναμικά ��νάλογα με το στυλ οδήγησης για την τελευταία φορά";
+"Settings.mileageEstimationDynamicDetail" = "Τα εναπομείναντα χιλιόμετρα θα υπολογιστούν δυναμικά ανάλογα με το στυλ οδήγησης για την τελευταία φορά";
 "Settings.model" = "Μοντέλο";
 "Settings.musicVolumeAudioDevices" = "Συσκευές ήχου";
 "Settings.musicVolumeControl" = "Αυτόματη ένταση ήχου";
