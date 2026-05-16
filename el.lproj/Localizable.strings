@@ -357,7 +357,7 @@
 "Diagnostic.discharging" = "Αποφορτίζει";
 "Diagnostic.normal" = "Κανονικά";
 "Diagnostic.pressureSensorError1" = "Αισθητήρας Χάθηκε αισθητήρας ή αισθητήρας κατεστραμμένος, αυτός ο αισθητήρας είναι απενεργοποιημένος";
-"Diagnostic.pressureSensorError2" = "Τα δεδομένα αισθητήρα αισθητήρα αντιστρέφον��αι ή σφάλμα γραμμής, αυτός ο αισθητήρας είναι απενεργοποιημένος";
+"Diagnostic.pressureSensorError2" = "Τα δεδομένα αισθητήρα αισθητήρα αντιστρέφονται ή σφάλμα γραμμής, αυτός ο αισθητήρας είναι απενεργοποιημένος";
 "Diagnostic.currentError" = "Το ρεύμα εξόδου είναι πολύ μεγάλο, οδηγήστε προσεκτικά";
 "Diagnostic.temperatureError" = "Η θερμοκρασία είναι πολύ υψηλή, σταματήστε και οδηγήστε μετά τη μείωση της θερμοκρασίας";
 "Diagnostic.motorPhaseLineError" = "Βραχυκύκλωμα εξόδου φάσης μητρικής πλακέτας";
@@ -615,7 +615,7 @@
 "Settings.maxSpeedModeDescription" = "Ρύθμιση της ταχύτητας στο μέγιστο επίπεδο και ρύθμιση ειδοποίησης ακριβώς κάτω από τη μέγιστη ταχύτητα;";
 "Settings.mileageEstimation" = "Εκτίμηση χιλιομέτρων";
 "Settings.mileageEstimationDetail" = "Καθορίστε τα χιλιόμετρα με μία μόνο φόρτιση μπαταρίας για να αυξήσετε την ακρίβεια του υπολογισμού των υπολειπόμενων χιλιομέτρων";
-"Settings.mileageEstimationDynamic" = "Δυναμική εκτίμηση χιλιομέτρων";
+"Settings.mileageEstimationDynamic" = "Δυνα��ική εκτίμηση χιλιομέτρων";
 "Settings.mileageEstimationDynamicDetail" = "Τα εναπομείναντα χιλιόμετρα θα υπολογιστούν δυναμικά ανάλογα με το στυλ οδήγησης για την τελευταία φορά";
 "Settings.model" = "Μοντέλο";
 "Settings.musicVolumeAudioDevices" = "Συσκευές ήχου";
