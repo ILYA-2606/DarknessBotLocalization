@@ -432,7 +432,7 @@
 "Settings.about" = "Πληροφορίες";
 "Settings.activationDate" = "Ημερομηνία ενεργοποίησης";
 "Settings.alarms" = "Συναγερμοί";
-"Settings.alarmsDescription" = "Συναγερμοί με ��αχύτητα, ένταση, ισχύ, θερμοκρασία και PWM";
+"Settings.alarmsDescription" = "Συναγερμοί με ταχύτητα, ένταση, ισχύ, θερμοκρασία και PWM";
 "Settings.alarmsModeOff1" = "Ανενεργό πρώτο";
 "Settings.alarmsModeOff2" = "Ανενεργό πρώτο δεύτερο";
 "Settings.alarmsModeOn" = "Ενεργό";
