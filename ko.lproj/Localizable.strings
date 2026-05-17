@@ -344,15 +344,15 @@
 "Devices.dischargeEstimationInfix" = "in";
 "Devices.sec" = "s";
 // Needs review
-"Devices.energyConsumption" = "Energy consumption";
+"Devices.energyConsumption" = "에너지 소비";
 // Needs review
-"Devices.gettingServices" = "Getting services...";
+"Devices.gettingServices" = "서비스를 받는 것...";
 // Needs review
-"Devices.gpsSpeed" = "GPS Speed";
+"Devices.gpsSpeed" = "GPS 속도";
 // Needs review
-"Devices.pressToConfirm" = "Press the button on the handlebar to confirm";
+"Devices.pressToConfirm" = "핸들바 버튼을 눌러 확인해 보세요";
 // Needs review
-"Devices.authAdoEbike" = "Please connect the transport in the ADO EBIKE app";
+"Devices.authAdoEbike" = "ADO EBIKE 앱에서 교통편을 연결해 주세요";
 "Intro.next" = "다음";
 "Intro.nice" = "좋아요!";
 "Intro.premiumTitle" = "프리미엄";
@@ -362,53 +362,53 @@
 "Intro.later" = "나중에";
 "Intro.buyPremium" = "프리미엄 구입";
 // Needs review
-"Intro.feature1Title" = "Support for new devices";
+"Intro.feature1Title" = "신제품 지원";
 "Intro.feature1Description" = "- Garmin Varia";
 // Needs review
-"Intro.help1" = "Before driving, do not forget about protection";
+"Intro.help1" = "운전하기 전에 보호 기능을 잊지 마세요";
 // Needs review
-"Intro.help2" = "You can set a route on the map with a long tap";
+"Intro.help2" = "길게 탭하면 지도에 경로를 설정할 수 있습니다";
 // Needs review
-"Intro.help3" = "Use the limited speed mode according to local traffic regulations";
+"Intro.help3" = "지역 교통 규정에 따라 제한 속도 모드를 사용하세요";
 // Needs review
-"Intro.help4" = "A new trip is created automatically after a pause of at least 6 hours";
+"Intro.help4" = "최소 6시간 이상 일시정지가 지나면 자동으로 새로운 여행이 생성됩니다";
 // Needs review
-"Intro.help5" = "Use the demo mode to get acquainted with all the features of the app";
+"Intro.help5" = "데모 모드를 통해 앱의 모든 기능을 익히세요";
 // Needs review
-"Intro.help6" = "Smart alarms reduce the maximum speed in proportion to the battery level";
+"Intro.help6" = "스마트 경보기는 배터리 잔량에 비례하여 최대 속도를 줄입니다";
 // Needs review
-"Intro.help7" = "Through offline mode, you can view metrics without connecting to an electrotransport";
+"Intro.help7" = "오프라인 모드를 통해 전기수송에 연결하지 않고도 메트릭을 확인할 수 있습니다";
 // Needs review
-"Intro.help8" = "Export of logs and routes is available from Trips";
+"Intro.help8" = "Trips에서 통나무와 경로의 내보내기가 가능합니다";
 // Needs review
-"Intro.help9" = "Trips with a route are marked with the relevant icon";
+"Intro.help9" = "경로가 지정된 여행은 해당 아이콘으로 표시됩니다";
 // Needs review
-"Intro.onboardingTitle" = "Allow access";
+"Intro.onboardingTitle" = "접근 허용";
 // Needs review
-"Intro.onboardingMessage" = "in order to get full featured application";
+"Intro.onboardingMessage" = "완전한 기능을 갖춘 애플리케이션을 얻기 위해";
 // Needs review
-"Intro.onboardingContinue" = "Continue";
+"Intro.onboardingContinue" = "계속";
 // Needs review
-"Intro.onboardingContinueMessage" = "check all permissions to continue";
+"Intro.onboardingContinueMessage" = "계속하려면 모든 권한을 확인해";
 // Needs review
-"Intro.allow" = "Allow";
+"Intro.allow" = "허락해";
 "Intro.bluetooth" = "Bluetooth";
 // Needs review
-"Intro.location" = "Location";
+"Intro.location" = "위치";
 "Intro.cloudkit" = "CloudKit";
 // Needs review
-"Intro.notification" = "Notifications";
+"Intro.notification" = "알림";
 // Needs review
-"Intro.tracking" = "Tracking";
+"Intro.tracking" = "추적";
 // Needs review
-"Intro.bluetoothDescription" = "For connecting to electrotransport";
+"Intro.bluetoothDescription" = "전기운송 연결";
 // Needs review
-"Intro.geolocationDescription" = "For recording routes and the operation of an automatic torch";
+"Intro.geolocationDescription" = "경로 기록 및 자동 손전등 작동을 위한";
 "Intro.cloudkitDescription" = "클라우드 프로필,사용자 맵 및 등급에 액세스하려면";
 // Needs review
-"Intro.notificationDescription" = "For notifications about the connection to electrotransport";
+"Intro.notificationDescription" = "전기전송 연결 알림을 위해";
 // Needs review
-"Intro.trackingDescription" = "We use this data to improve the application";
+"Intro.trackingDescription" = "이 데이터를 활용해 애플리케이션을 개선합니다";
 "Intro.justLifetime" = "평생 동안 %@";
 "Intro.trialStartedTitle" = "%i일 프리미엄 체험 시작됨";
 "Intro.trialStartedSubtitle" = "체험 기간이 종료된 후에도 앱은 계속 무료로 사용 가능합니다.\n\n프리미엄에 포함된 기능";
@@ -416,29 +416,29 @@
 "Diagnostic.diagnostic" = "특수 증상";
 "Diagnostic.motorTemperature" = "모터 온도";
 // Needs review
-"Diagnostic.batteryValid" = "Valid";
+"Diagnostic.batteryValid" = "유효합니다";
 // Needs review
-"Diagnostic.batteryActivated" = "Activated";
+"Diagnostic.batteryActivated" = "활성화됨";
 // Needs review
-"Diagnostic.batteryChargeProtection" = "Charge protection";
+"Diagnostic.batteryChargeProtection" = "전하 보호";
 // Needs review
-"Diagnostic.batteryChargingActivated" = "Charging activated";
+"Diagnostic.batteryChargingActivated" = "충전 활성화";
 // Needs review
-"Diagnostic.batteryRegisterWriteLock" = "Register write lock";
+"Diagnostic.batteryRegisterWriteLock" = "레지스터 쓰기 잠금장치";
 // Needs review
-"Diagnostic.batteryChargerInserted" = "Charger inserted";
+"Diagnostic.batteryChargerInserted" = "충전기 삽입";
 // Needs review
-"Diagnostic.batteryDischargeError" = "Discharge error";
+"Diagnostic.batteryDischargeError" = "방전 오차";
 // Needs review
-"Diagnostic.batteryOvervoltage" = "Overvoltage";
+"Diagnostic.batteryOvervoltage" = "과전압";
 // Needs review
-"Diagnostic.batteryOverheat" = "Overheat";
+"Diagnostic.batteryOverheat" = "과열";
 // Needs review
-"Diagnostic.batteryChargeError" = "Charge error";
+"Diagnostic.batteryChargeError" = "전하 오차";
 // Needs review
-"Diagnostic.batteryUVError" = "UV error";
+"Diagnostic.batteryUVError" = "자외선 오차";
 // Needs review
-"Diagnostic.batteryNA" = "Not available";
+"Diagnostic.batteryNA" = "불가";
 "Diagnostic.batteryTemperature" = "배터리 온도";
 "Diagnostic.mainBoardTemperature" = "메인보드 온도";
 "Diagnostic.motorHallSensor" = "모터 홀 센서";
@@ -467,226 +467,226 @@
 "Diagnostic.highVoltage" = "전압이 너무 높으므로 장시간 내리막 길을 가지 마십시오";
 "Diagnostic.inProgress" = "진행중";
 // Needs review
-"Diagnostic.ninebotError10" = "Abnormal communication between instrument panel and main control, please check related wiring";
+"Diagnostic.ninebotError10" = "계기판과 주 제어 장치 간 비정상적인 통신, 관련 배선을 확인해 주세요";
 // Needs review
-"Diagnostic.ninebotError11" = "Abnormal A phase current sampling of the motor, please check the main control panel";
+"Diagnostic.ninebotError11" = "모터의 비정상적인 A상 전류 샘플링, 주 제어판을 확인해 주세요";
 // Needs review
-"Diagnostic.ninebotError12" = "Abnormal B phase current sampling of the motor, please check the main control panel";
+"Diagnostic.ninebotError12" = "모터의 비정상적인 B 상 전류 샘플링, 주 제어판을 확인해 주세요";
 // Needs review
-"Diagnostic.ninebotError13" = "Abnormal C phase current sampling of the motor, please check the main control panel";
+"Diagnostic.ninebotError13" = "모터의 비정상적인 C 상 전류 샘플링, 주 제어판을 확인해 주세요";
 // Needs review
-"Diagnostic.ninebotError14" = "Abnormal accelerator Hall, please check accelerator twist grip, instrument panel and related wiring";
+"Diagnostic.ninebotError14" = "비정상 가속기 홀, 가속기 트위스트 그립, 계기판 및 관련 배선을 확인해 주세요";
 // Needs review
-"Diagnostic.ninebotError15" = "Abnormal brake Hall, please check brake twist grip, instrument panel and related wiring";
+"Diagnostic.ninebotError15" = "비정상적인 브레이크 홀, 브레이크 트위스트 그립, 계기판 및 관련 배선을 확인해 주세요";
 // Needs review
-"Diagnostic.ninebotError16" = "Built-in battery abnormality in MOS switch, please check the main control panel";
+"Diagnostic.ninebotError16" = "MOS 스위치에 내장 배터리 이상 있으니 메인 컨트롤 패널을 확인해 주세요";
 // Needs review
-"Diagnostic.ninebotError17" = "External battery abnormality in MOS switch, please check the main control panel";
+"Diagnostic.ninebotError17" = "MOS 스위치에 외부 배터리 이상 발생, 메인 제어판을 확인해 주세요";
 // Needs review
-"Diagnostic.ninebotError18" = "Abnormal motor Hall, please check motor, main control panel and related wiring";
+"Diagnostic.ninebotError18" = "비정상 모터 홀, 모터, 주 제어판 및 관련 배선을 점검해 주세요";
 // Needs review
-"Diagnostic.ninebotError19" = "Built-in battery abnormality in voltage detection, please check built-in battery, main control panel and related wiring";
+"Diagnostic.ninebotError19" = "전압 감지 시 내장 배터리 이상 발생, 내장 배터리, 주 제어판 및 관련 배선을 확인해 주세요";
 // Needs review
-"Diagnostic.ninebotError20" = "External battery abnormality in voltage detection, please check external battery, main control panel and related wiring";
+"Diagnostic.ninebotError20" = "전압 감지에서 외부 배터리 이상 발생, 외부 배터리, 주 제어판 및 관련 배선을 확인해 주세요";
 // Needs review
-"Diagnostic.ninebotError21" = "Built-in battery abnormality in communication, please check built-in battery, main control panel and related wiring";
+"Diagnostic.ninebotError21" = "통신 시 내장 배터리 이상 발생, 내장 배터리, 주 제어판 및 관련 배선을 꼭 확인하세요";
 // Needs review
-"Diagnostic.ninebotError22" = "Built-in battery password is wrong, please replace the battery";
+"Diagnostic.ninebotError22" = "내장 배터리 비밀번호가 틀렸으니 배터리를 교체해 주세요";
 // Needs review
-"Diagnostic.ninebotError23" = "Built-in battery is in default serial number, please replace the battery";
+"Diagnostic.ninebotError23" = "내장 배터리는 기본 시리얼 번호로 되어 있으니 배터리를 교체해 주세요";
 // Needs review
-"Diagnostic.ninebotError24" = "System voltage detection abnormality, please check the main control panel";
+"Diagnostic.ninebotError24" = "시스템 전압 감지 이상, 주 제어판을 확인해 주세요";
 // Needs review
-"Diagnostic.ninebotError26" = "Flash save error, please check the main control panel";
+"Diagnostic.ninebotError26" = "플래시 저장 오류, 메인 제어판을 확인해 주세요";
 // Needs review
-"Diagnostic.ninebotError27" = "Master control password is wrong, please replace the main control panel";
+"Diagnostic.ninebotError27" = "마스터 컨트롤 비밀번호가 잘못됐으니, 메인 컨트롤 패널을 교체해 주세요";
 // Needs review
-"Diagnostic.ninebotError28" = "Short circuit in motor driven upper MOS bridge, please check the main control panel";
+"Diagnostic.ninebotError28" = "모터 구동 상부 MOS 브리지에 단락이 발생했으니, 메인 제어판을 확인해 주세요";
 // Needs review
-"Diagnostic.ninebotError29" = "Failure in motor driven bottom MOS bridge, please check the main control panel";
+"Diagnostic.ninebotError29" = "모터 구동 하단 MOS 브리지에 고장이 발생했으니, 메인 제어판을 확인해 주세요";
 // Needs review
-"Diagnostic.ninebotError31" = "Program skip error, please check the main control panel";
+"Diagnostic.ninebotError31" = "프로그램 건너뛰기 오류, 메인 제어판을 확인해 주세요";
 // Needs review
-"Diagnostic.ninebotError35" = "Vehicle is in default serial number, please replace the main control panel";
+"Diagnostic.ninebotError35" = "차량은 기본 일련번호입니다. 메인 제어판을 교체해 주세요";
 // Needs review
-"Diagnostic.ninebotError36" = "2+4 connector failure or external battery charging wire failure";
+"Diagnostic.ninebotError36" = "2+4 커넥터 고장 또는 외부 배터리 충전 와이어 고장";
 // Needs review
-"Diagnostic.ninebotError37" = "Charging base failure or built-in battery charging wire failure";
+"Diagnostic.ninebotError37" = "충전 베이스 고장 또는 내장 배터리 충전 와이어 고장";
 // Needs review
-"Diagnostic.ninebotError38" = "The charging protection function fails, and there is still charging current after turning off";
+"Diagnostic.ninebotError38" = "충전 보호 기능이 작동하지 않고, 전원을 끄고도 충전 전류가 남아 있습니다";
 // Needs review
-"Diagnostic.ninebotError39" = "Built-in battery temperature sensor abnormality, please replace the battery";
+"Diagnostic.ninebotError39" = "내장 배터리 온도 센서 이상 발생, 배터리를 교체해 주세요";
 // Needs review
-"Diagnostic.ninebotError40" = "Controller temperature sensor abnormality, please check the main control panel";
+"Diagnostic.ninebotError40" = "컨트롤러 온도 센서 이상 발생, 메인 제어판을 확인해 주세요";
 // Needs review
-"Diagnostic.ninebotError41" = "External battery temperature sensor abnormality, please replace the battery";
+"Diagnostic.ninebotError41" = "외부 배터리 온도 센서 이상 발생, 배터리를 교체해 주세요";
 // Needs review
-"Diagnostic.ninebotError42" = "External battery abnormality in communication, please check external battery, main control panel and related wiring";
+"Diagnostic.ninebotError42" = "통신 시 외부 배터리 이상 발생, 외부 배터리, 메인 제어판 및 관련 배선을 점검해 주세요";
 // Needs review
-"Diagnostic.ninebotError43" = "External battery password is wrong, please replace the battery";
+"Diagnostic.ninebotError43" = "외부 배터리 비밀번호가 잘못됐으니 배터리를 교체해 주세요";
 // Needs review
-"Diagnostic.ninebotError44" = "External battery is in default serial number, please replace the battery";
+"Diagnostic.ninebotError44" = "외장 배터리는 기본 시리얼 번호로 되어 있으니 배터리를 교체해 주세요";
 // Needs review
-"Diagnostic.ninebotError45" = "Built-in battery is overdischarge, please replace the battery";
+"Diagnostic.ninebotError45" = "내장 배터리가 과방전되었으니 배터리를 교체해 주세요";
 // Needs review
-"Diagnostic.ninebotError46" = "External battery is overdischarge, please replace the battery";
+"Diagnostic.ninebotError46" = "외부 배터리가 과방전되었으니 배터리를 교체해 주세요";
 // Needs review
-"Diagnostic.ninebotError47" = "Built-in battery BMS is broken,please replace the battery";
+"Diagnostic.ninebotError47" = "내장 배터리 BMS가 고장 났으니 배터리를 교체해 주세요";
 // Needs review
-"Diagnostic.ninebotError48" = "External battery BMS is broken please replace the battery";
+"Diagnostic.ninebotError48" = "외장 배터리 BMS가 고장 났습니다. 배터리를 교체해 주세요.";
 // Needs review
-"Diagnostic.ninebotError49" = "Built-in battery firmware version is old, please replace the battery or update firmware";
+"Diagnostic.ninebotError49" = "내장 배터리 펌웨어 버전이 오래되었으니 배터리를 교체하거나 펌웨어를 업데이트하세요";
 // Needs review
-"Diagnostic.ninebotError50" = "External battery firmware version is old, please replace the battery or update firmware";
+"Diagnostic.ninebotError50" = "외장 배터리 펌웨어 버전이 오래되었으니, 배터리를 교체하거나 펌웨어를 업데이트해 주세요";
 // Needs review
-"Diagnostic.ninebotError51" = "Main controller and goose head doesn’t match with each other";
+"Diagnostic.ninebotError51" = "메인 컨트롤러와 거위 머리가 서로 맞지 않습니다";
 // Needs review
-"Diagnostic.temperatureMos" = "MOS temperature";
+"Diagnostic.temperatureMos" = "온도를 측정하지 마세요";
 // Needs review
-"Diagnostic.temperatureMosEnv" = "MOS environment temperature";
+"Diagnostic.temperatureMosEnv" = "MOS 환경 온도";
 // Needs review
-"Diagnostic.batteryType" = "Battery type";
+"Diagnostic.batteryType" = "배터리 종류";
 // Needs review
-"Diagnostic.batteryCellCount" = "Cell count";
+"Diagnostic.batteryCellCount" = "세포 수";
 // Needs review
-"AppData.allAppData" = "All app data";
+"AppData.allAppData" = "모든 앱 데이터";
 // Needs review
-"AppData.allData" = "All data";
+"AppData.allData" = "모든 데이터";
 // Needs review
-"AppData.allMetrics" = "All metrics";
+"AppData.allMetrics" = "모든 지표";
 // Needs review
-"AppData.allTracks" = "All tracks";
+"AppData.allTracks" = "모든 트랙";
 // Needs review
-"AppData.allTrips" = "All trips";
+"AppData.allTrips" = "모든 여행";
 // Needs review
-"AppData.allUsers" = "All users";
+"AppData.allUsers" = "모든 사용자";
 // Needs review
-"AppData.appData" = "App data";
+"AppData.appData" = "앱 데이터";
 // Needs review
-"AppData.loading" = "Loading...";
+"AppData.loading" = "로딩 중...";
 // Needs review
-"AppData.exportTrips" = "Export trips";
+"AppData.exportTrips" = "수출 항해";
 // Needs review
-"AppData.exportTripsDetail" = "Save trips to a file";
+"AppData.exportTripsDetail" = "파일 전송 저장";
 // Needs review
-"AppData.importTrips" = "Import trips";
+"AppData.importTrips" = "수입 여행";
 // Needs review
-"AppData.importTripsDetail" = "Load trips from a file";
+"AppData.importTripsDetail" = "파일에서의 로드 트립";
 // Needs review
-"AppData.importTripsError" = "Please select the file with the extension 'dbb'";
+"AppData.importTripsError" = "확장자 'dbb'를 가진 파일을 선택해 주세요";
 // Needs review
-"AppData.importTripsSuccess" = "Trips imported successfully";
+"AppData.importTripsSuccess" = "성공적으로 수입된 여행들";
 // Needs review
-"AppData.storageOptimization" = "Storage optimization";
+"AppData.storageOptimization" = "스토리지 최적화";
 // Needs review
-"AppData.storageOptimizationDetail" = "Application performance improvements. Metrics older than the last two days will be combined with a frequency of 1 hour";
+"AppData.storageOptimizationDetail" = "애플리케이션 성능 향상. 최근 이틀보다 오래된 지표는 1시간 빈도와 결합됩니다";
 // Needs review
-"AppData.start" = "Start";
+"AppData.start" = "시작";
 // Needs review
-"AppData.storageOptimizationQuestion" = "Do you really want to start optimizing storage?";
+"AppData.storageOptimizationQuestion" = "정말로 저장 최적화를 시작하고 싶으신가요?";
 // Needs review
-"AppData.storageOptimizationMessage" = "The app storage already takes up a lot of space. Go to storage optimization?";
+"AppData.storageOptimizationMessage" = "앱 저장 공간은 이미 많은 공간을 차지하고 있습니다. 스토리지 최적화로 가야 할까요?";
 // Needs review
-"AppData.storageOptimizationSuccess" = "Storage has been successfully optimized";
+"AppData.storageOptimizationSuccess" = "저장 공간은 성공적으로 최적화되었습니다";
 "Settings.about" = "정보";
 "Settings.activationDate" = "활성화 날짜";
 "Settings.alarms" = "알람";
 // Needs review
-"Settings.alarmsDescription" = "Alarms by speed, amperage, power, temperature and PWM";
+"Settings.alarmsDescription" = "속도, 전류, 전력, 온도 및 PWM에 따른 경보";
 "Settings.alarmsModeOff1" = "첫 번째";
 "Settings.alarmsModeOff2" = "두 번째";
 "Settings.alarmsModeOn" = "활성화됨";
 "Settings.all" = "모두";
 // Needs review
-"Settings.appAlarms" = "App Alarms";
+"Settings.appAlarms" = "앱 알람";
 // Needs review
-"Settings.appAlarmsDetail" = "On %@";
+"Settings.appAlarmsDetail" = "기준 %@";
 // Needs review
-"Settings.appAlarmsTransfer" = "Alarms have been moved to the device settings";
+"Settings.appAlarmsTransfer" = "알람이 장치 설정으로 이동되었습니다";
 // Needs review
-"Settings.appearance" = "Appearance";
+"Settings.appearance" = "외형";
 "Settings.application" = "어플리케이션";
 "Settings.appsByDP" = "개발자의 다른 앱";
 // Needs review
-"Settings.appsByDPDetail" = "Other apps from us";
+"Settings.appsByDPDetail" = "저희의 다른 앱들";
 // Needs review
-"Settings.appVibroAlarmsDetail" = "On %@ and Apple Watch";
+"Settings.appVibroAlarmsDetail" = "%@와 애플 워치에서";
 "Settings.assemblyDate" = "조립 일자";
 "Settings.automatic" = "자동";
 // Needs review
-"Settings.automaticTrackRecording" = "Automatic GPS track recording";
+"Settings.automaticTrackRecording" = "자동 GPS 추적 기록";
 // Needs review
-"Settings.automaticTrackRecordingDetail" = "Track recording may affect the running time %@";
+"Settings.automaticTrackRecordingDetail" = "트랙 녹음은 재생 시간 에 영향을 줄 수 있습니다 %@";
 // Needs review
-"Settings.automaticTripReset" = "Automatic trip reset";
+"Settings.automaticTripReset" = "자동 여행 리셋";
 // Needs review
-"Settings.automaticTripResetDetail" = "A new trip will be started after the timeout";
+"Settings.automaticTripResetDetail" = "타임아웃 후 새로운 여행이 시작될 것입니다";
 // Needs review
-"Settings.avas" = "Acoustic Vehicle Alerting System";
+"Settings.avas" = "음향 차량 경보 시스템";
 // Needs review
-"Settings.balancing" = "Balancing";
+"Settings.balancing" = "밸런싱";
 // Needs review
-"Settings.batteryAmperage" = "Battery amperage";
+"Settings.batteryAmperage" = "배터리 전류";
 "Settings.batteryCapacity" = "배터리 용량";
 "Settings.batteryCellAverageVoltage" = "평균 셀 전압";
 "Settings.batteryCellDeltaVoltage" = "델타 셀 전압";
 "Settings.batteryCellsVoltage" = "셀 전압";
 // Needs review
-"Settings.batteryChargeCount" = "Charge count";
+"Settings.batteryChargeCount" = "전하 횟수";
 "Settings.batteryCurrentCapacity" = "현재 용량";
 "Settings.batteryCycles" = "배터리 수명";
 "Settings.batteryDesignCapacity" = "설계 용량";
 // Needs review
-"Settings.batteryDetail" = "Specify for accurate calculation of the remaining mileage";
+"Settings.batteryDetail" = "남은 주행 거리를 정확히 계산하려면 명시하세요";
 // Needs review
-"Settings.batteryHealth" = "Battery health";
+"Settings.batteryHealth" = "배터리 상태";
 "Settings.batteryInfo" = "배터리 정보";
 // Needs review
-"Settings.batteryPercent" = "Battery percent";
+"Settings.batteryPercent" = "배터리 잔량";
 // Needs review
-"Settings.batteryVersion" = "Battery Version";
+"Settings.batteryVersion" = "배터리 버전";
 "Settings.batteryVoltage" = "배터리 전압";
 "Settings.bleVersion" = "BLE 버전";
 // Needs review
-"Settings.bluetoothConnectHelp" = "Connect to the device in the iOS Settings / Bluetooth";
+"Settings.bluetoothConnectHelp" = "iOS 설정 / 블루투스에서 기기에 연결하세요";
 "Settings.bluetoothLengthMessage" = "블루투스 페어링 코드는 %i 개의 숫자를 포함해야합니다";
 "Settings.bluetoothMusic" = "블루투스 음악";
 "Settings.bluetoothPincode" = "블루투스 페어링 코드";
 // Needs review
-"Settings.bluetoothPincodeDetail" = "Configuring, changing, and resetting the device pincode";
+"Settings.bluetoothPincodeDetail" = "장치 핀코드 설정, 변경 및 초기화";
 "Settings.bluetoothSpeaker" = "블루투스 스피커";
 "Settings.bmsVersion" = "BMS 버전";
 "Settings.brakeLights" = "브레이크등";
 // Needs review
-"Settings.brakeLightsDetail" = "Enabling the brake signal";
+"Settings.brakeLightsDetail" = "브레이크 신호 활성화";
 // Needs review
-"Settings.brand" = "Brand";
+"Settings.brand" = "브랜드";
 // Needs review
-"Settings.brightness" = "Brightness";
+"Settings.brightness" = "밝기";
 // Needs review
-"Settings.brightnessDetail" = "Changes the brightness of the front headlight";
+"Settings.brightnessDetail" = "전면 헤드라이트 밝기 변경";
 "Settings.brightnessDisplayDetail" = "화면 밝기를 조절합니다.";
 "Settings.bugReport" = "버그리포트";
 "Settings.byAmperage" = "전류에 의해";
 // Needs review
-"Settings.byBattery" = "By battery";
+"Settings.byBattery" = "포대별";
 // Needs review
-"Settings.byBatteryDetail" = "Triggered when the battery charge is exceeded";
+"Settings.byBatteryDetail" = "배터리 충전량이 초과되면 트리거됩니다";
 "Settings.byPower" = "출력에 의해";
 // Needs review
-"Settings.byPWM" = "By PWM";
+"Settings.byPWM" = "PWM 작성";
 // Needs review
-"Settings.byPWMDetail" = "Percentage of motor usage. To prevent cutoff recommended to install no more than 80%";
+"Settings.byPWMDetail" = "모터 사용량의 비율. 차단을 방지하기 위해 80%를 넘지 않는 것이 권장됩니다";
 "Settings.bySpeed" = "속도에 의해";
 "Settings.byTemperature" = "온도에 의해";
 // Needs review
-"Settings.byTemperatureDetail" = "Works only when driving";
+"Settings.byTemperatureDetail" = "운전할 때만 작동합니다";
 "Settings.cacheMessage" = "장치의 캐시 데이터는 언제든지 지울 수 있지만 일정 기간 동안의 그래프를 표시하려면 필요합니다. 백그라운드 애플리케이션은 저장된 데이터의 양을 최적화합니다.";
 "Settings.cacheQuestion" = "정말로 이 장치에 대한 캐시를 제거하시겠습니까?";
 "Settings.cachesMessage" = "장치의 캐시 데이터는 언제든지 지울 수 있지만 일정 기간 동안의 그래프를 표시하려면 필요합니다. 백그라운드 애플리케이션은 저장된 데이터의 양을 최적화합니다";
 "Settings.cachesQuestion" = "정말로 모든 장치에 대한 캐시를 제거하시겠습니까?";
 // Needs review
-"Settings.calibrate" = "Calibrate";
+"Settings.calibrate" = "보정";
 "Settings.calibration" = "수평 교정";
 "Settings.calibrationInstruction" = "적용'버튼을 누릅니다. 귀하의 장치가 꺼집니다.\n수직 및 수평 레벨에서 위치,아래 레벨을 사용할 수 있습니다. 그런 다음 그것을 전환.\n당신이 중지 경고음을들을 때까지 이 위치에 장치를 누르고 있습니다. 교정 완료!";
 "Settings.cameraQuality" = "카메라 품질";
@@ -695,283 +695,283 @@
 "Settings.change" = "변경";
 "Settings.changesMessage" = "변경한 내용은 장치를 다시 시작한 후에 적용됩니다";
 // Needs review
-"Settings.chooseFile" = "Choose file...";
+"Settings.chooseFile" = "파일을 선택하세요...";
 "Settings.clear" = "청소";
 // Needs review
-"Settings.configureModel" = "Configure your device model in the settings";
+"Settings.configureModel" = "설정에서 장치 모델을 설정하세요";
 "Settings.connectToDualshock" = "아이폰 iOS 설정에서 DUALSHOCK에 연결";
 "Settings.contactSupport" = "지원 문의";
 // Needs review
-"Settings.contactSupportDetail" = "Report bug or feature request";
+"Settings.contactSupportDetail" = "버그 또는 기능 요청 신고";
 "Settings.create" = "생성";
 "Settings.credits" = "도움주신분들";
 // Needs review
-"Settings.creditsDetail" = "Try to find your name";
+"Settings.creditsDetail" = "네 이름을 찾아보려고 해";
 "Settings.cruiseControl" = "크루즈 컨트롤";
 // Needs review
-"Settings.cruiseControlDetail" = "Enabling constant speed mode";
+"Settings.cruiseControlDetail" = "일정 속도 모드 활성화";
 // Needs review
-"Settings.csvSharing" = "Trips export";
+"Settings.csvSharing" = "여행 수출";
 // Needs review
-"Settings.csvSharingDetail" = "Sharing trips in CSV";
+"Settings.csvSharingDetail" = "CSV 여행 공유";
 // Needs review
-"Settings.customBeep" = "Custom beep";
+"Settings.customBeep" = "커스텀 삑 소리";
 // Needs review
-"Settings.customBeepBicycle" = "Bicycle";
+"Settings.customBeepBicycle" = "자전거";
 // Needs review
-"Settings.customBeepCar" = "Car";
+"Settings.customBeepCar" = "자동차";
 // Needs review
-"Settings.customBeepCucaracha" = "Cucaracha";
+"Settings.customBeepCucaracha" = "바퀴벌레";
 // Needs review
-"Settings.customBeepDetail" = "Replaces the device's beep";
+"Settings.customBeepDetail" = "기기의 삐 소리를 대체합니다";
 // Needs review
-"Settings.customBeepPromo" = "Beep is not supported by the device, but you can configure a custom beep in the settings";
+"Settings.customBeepPromo" = "기기에서는 삐 소리를 지원하지 않지만, 설정에서 맞춤 삐 소리를 설정할 수 있습니다";
 // Needs review
-"Settings.customBeepTruck" = "Truck";
+"Settings.customBeepTruck" = "트럭";
 // Needs review
-"Settings.customDashboard" = "Custom Dashboard";
+"Settings.customDashboard" = "커스텀 대시보드";
 // Needs review
-"Settings.customDashboardDetail" = "Selecting tiles to display and adjusting the size";
+"Settings.customDashboardDetail" = "표시할 타일을 선택하고 크기를 조정하기";
 // Needs review
-"Settings.customDashboardDescription" = "Flexible adjustment of tile sizes on the dashboard. Zoom in on the tiles with two fingers. Two-finger tap for fullscreen mode";
+"Settings.customDashboardDescription" = "대시보드에서 타일 크기를 유연하게 조정할 수 있습니다. 두 손가락으로 타일을 확대하세요. 두 손가락으로 탭하면 전체 화면 모드가 가능합니다";
 // Needs review
-"Settings.customDashboardZoomDetail" = "Flexible adjustment of tile sizes on the dashboard. Zoom in on the tiles with two fingers";
+"Settings.customDashboardZoomDetail" = "대시보드에서 타일 크기를 유연하게 조정할 수 있습니다. 두 손가락으로 타일을 확대해 보세요";
 "Settings.customFirmwares" = "맞춤형 펌웨어";
 // Needs review
-"Settings.deviceAlarms" = "Device alarms";
+"Settings.deviceAlarms" = "장치 알람";
 // Needs review
-"Settings.deviceAlarmsDetail" = "Speeding alarms on your device";
+"Settings.deviceAlarmsDetail" = "기기에서 과속 경보";
 // Needs review
-"Settings.deviceName" = "Device Name";
+"Settings.deviceName" = "장치 이름";
 // Needs review
-"Settings.deviceNameDetail" = "Applied locally to the application";
+"Settings.deviceNameDetail" = "신청서에 로컬 적용";
 // Needs review
-"Settings.deviceNameDescription" = "Ability to rename devices";
+"Settings.deviceNameDescription" = "장치 이름 변경 기능";
 // Needs review
-"Settings.deviceWork" = "Device work";
+"Settings.deviceWork" = "장치 작업";
 "Settings.disabled" = "비활성화";
 // Needs review
-"Settings.disconnectQuestion" = "Are you sure you want to disconnect?";
+"Settings.disconnectQuestion" = "정말 끊고 싶은 거야?";
 // Needs review
-"Settings.donate" = "Donate";
+"Settings.donate" = "기부";
 "Settings.dontRemoveLogs" = "로그 파일을 제거하지 마십시오";
 "Settings.dontSleep" = "잠자기 수행";
 // Needs review
-"Settings.dontSleepDetail" = "Don't allow device screen turning off";
+"Settings.dontSleepDetail" = "기기 화면이 꺼지는 것을 허용하지 마세요";
 // Needs review
-"Settings.downhillAssistance" = "Downhill assistance";
+"Settings.downhillAssistance" = "내리막 보조";
 // Needs review
-"Settings.downhillAssistanceDetail" = "Automatic braking during downhill";
+"Settings.downhillAssistanceDetail" = "내리막 중 자동 제동";
 // Needs review
-"Settings.downloadApp" = "Download app";
+"Settings.downloadApp" = "다운로드 앱";
 // Needs review
-"Settings.editMetrics" = "Edit metrics";
+"Settings.editMetrics" = "편집 지표";
 // Needs review
-"Settings.enabled" = "Enabled";
+"Settings.enabled" = "활성화됨";
 "Settings.engineSound" = "엔진 소리";
 // Needs review
-"Settings.engineSoundDetail" = "AVAS with a choice of presets. Consulted with the developers of racing games to simulate the engine sounds";
+"Settings.engineSoundDetail" = "프리셋 선택 가능한 AVAS. 엔진 사운드를 시뮬레이션하기 위해 레이싱 게임 개발자들과 상담했습니다";
 "Settings.equalizerMode" = "이퀄라이저 모드";
 "Settings.exceededAmperage" = "전류량 초과";
 // Needs review
-"Settings.exceededBattery" = "Battery level";
+"Settings.exceededBattery" = "배터리 레벨";
 "Settings.exceededPower" = "출력 초과";
 // Needs review
-"Settings.exceededPWM" = "PWM level exceeded";
+"Settings.exceededPWM" = "PWM 수준 초과";
 "Settings.exceededSpeed" = "속도 초과";
 "Settings.exceededTemperature" = "온도 초과";
 "Settings.experimentalMessage" = "이 설정은 실험적입니다. 따라서 DarknessBot 및 제조사는 이 매개변수를 변경한 결과에 대해 책임을 지지 않습니다.";
 "Settings.failedChangeValue" = "값을 변경하는데 실패하였습니다";
 "Settings.featureRequest" = "기능 요청";
 // Needs review
-"Settings.firmwareUsesMiles" = "Firmware uses miles";
+"Settings.firmwareUsesMiles" = "펌웨어는 마일리지를 사용합니다";
 "Settings.flicClick" = "딸깍 하는 소리";
 "Settings.flicDoubleClick" = "더블클릭";
 "Settings.flicHold" = "잡고 있다";
 "Settings.flicInstruction" = "Flic이 연결될 때까지 길게 누르세요. 10초 이내로 완료될 것입니다.";
 "Settings.freeForMonth" = "월 무료";
 // Needs review
-"Settings.fromDevice" = "From device";
+"Settings.fromDevice" = "장치에서";
 // Needs review
-"Settings.fromDeviceDetail" = "If the firmware of the device allows it";
+"Settings.fromDeviceDetail" = "기기 펌웨어가 허용한다면";
 // Needs review
-"Settings.garminMessage" = "To update the list of connected Garmin devices, open the Garmin Connect IQ app";
+"Settings.garminMessage" = "연결된 가민 기기 목록을 업데이트하려면 가민 커넥트 IQ 앱을 열어";
 // Needs review
-"Settings.graphs" = "Graphs";
+"Settings.graphs" = "그래프";
 // Needs review
-"Settings.graphsDescription" = "Viewing graphs for a long period up to a year";
+"Settings.graphsDescription" = "최대 1년까지 장기간 그래프를 보기";
 "Settings.graphsMessage" = "이제 지난해에 대한 그래프를 볼 수 있습니다.";
 "Settings.handle" = "핸들";
 // Needs review
-"Settings.handleDetail" = "Locking the motor when lifting the device";
+"Settings.handleDetail" = "장치를 들어 올릴 때 모터 잠기기";
 // Needs review
-"Settings.handleMode" = "Handle mode";
+"Settings.handleMode" = "핸들 모드";
 "Settings.homekitAdding" = "홈 애플리케이션에 HomeKit 액세서리를 추가 할 수 있습니다";
 "Settings.homekitButton" = "홈킷 버튼";
 "Settings.homekitOutlet" = "홈킷 아울렛";
 "Settings.imperialSystem" = "영국 단위계";
 // Needs review
-"Settings.imperialSystemDetail" = "Use miles instead of meters";
+"Settings.imperialSystemDetail" = "미터 대신 마일을 사용하세요";
 // Needs review
-"Settings.inappPurchases" = "In-app purchases";
+"Settings.inappPurchases" = "인앱 구매";
 // Needs review
-"Settings.information" = "Information";
+"Settings.information" = "정보";
 "Settings.inputNewCode" = "새 코드를 입력해주세요";
 "Settings.instruction" = "설명";
 "Settings.integration" = "통합";
 // Needs review
-"Settings.language" = "Language";
+"Settings.language" = "언어";
 "Settings.learned" = "학습";
 "Settings.learning" = "학습중";
 "Settings.libraries" = "서드파티";
 "Settings.lightsColors" = "빛 색상";
 // Needs review
-"Settings.lightsDetail" = "Selecting the LED strip illumination";
+"Settings.lightsDetail" = "LED 스트립 조명 선택";
 // Needs review
-"Settings.lightSensor" = "Light sensor";
+"Settings.lightSensor" = "빛 센서";
 // Needs review
-"Settings.lightSensorDetail" = "Automatically turn on the device's torch depending on the light level";
+"Settings.lightSensorDetail" = "조명 수준에 따라 자동으로 기기의 손전등을 켜세요";
 "Settings.lightsMode" = "조명 모드";
 "Settings.lightsTypeColorfulBreathing" = "화려한 숨쉬기";
 "Settings.lightsTypeColorfulFlowing" = "화려한 흐름";
 "Settings.lightsTypeColorfulRotating" = "화려한 회전";
 "Settings.limitedSpeed" = "속도 제한";
 // Needs review
-"Settings.limitedSpeedDetail" = "Replaces the maximum speed in limit mode";
+"Settings.limitedSpeedDetail" = "제한 모드에서 최대 속도를 대체합니다";
 "Settings.limitMode" = "제한 모드";
 // Needs review
-"Settings.limitModeDetail" = "For training and legal restrictions";
+"Settings.limitModeDetail" = "훈련 및 법적 제한을 위해";
 "Settings.lockMode" = "잠금 모드";
 "Settings.lockOrientation" = "잠금 방향";
 // Needs review
-"Settings.lockOrientationDetail" = "Prevent phone screen orientation changing";
+"Settings.lockOrientationDetail" = "휴대폰 화면 방향 변경을 방지하세요";
 // Needs review
-"Settings.logs" = "Logs";
+"Settings.logs" = "로그";
 // Needs review
-"Settings.lowLatencyMode" = "Low latency mode";
+"Settings.lowLatencyMode" = "저지연 모드";
 // Needs review
-"Settings.maxRollAngle" = "Max Roll Angle";
+"Settings.maxRollAngle" = "맥스 롤 앵글";
 // Needs review
-"Settings.maxRollAngleDetail" = "Tilt sideways to turn off. Not recommended to set more than 45 degrees";
+"Settings.maxRollAngleDetail" = "옆으로 기울여서 꺼지세요. 45도 이상으로 설정하는 것은 권장하지 않습니다";
 "Settings.maxSpeed" = "최대 속도";
 // Needs review
-"Settings.maxSpeedDetail" = "Maximum speed of movement";
+"Settings.maxSpeedDetail" = "최대 이동 속도";
 "Settings.maxSpeedMode" = "최대 속도 모드";
 "Settings.maxSpeedModeDescription" = "속도를 최고 수준으로 조정하고 바로 아래 경보 설정을 하시겠습니까?";
 // Needs review
-"Settings.mileageEstimation" = "Mileage estimation";
+"Settings.mileageEstimation" = "주행거리 추정";
 // Needs review
-"Settings.mileageEstimationDetail" = "Specify the mileage on a single battery charge to increase the accuracy of calculating the remaining mileage";
+"Settings.mileageEstimationDetail" = "한 번의 배터리 충전에 대한 주행 거리를 지정하면 남은 주행 거리 계산의 정확도가 높아집니다";
 // Needs review
-"Settings.mileageEstimationDynamic" = "Dynamic mileage estimation";
+"Settings.mileageEstimationDynamic" = "동적 주행 거리 추정";
 // Needs review
-"Settings.mileageEstimationDynamicDetail" = "Remaining mileage will be calculated dynamically depending on the driving style for the last time";
+"Settings.mileageEstimationDynamicDetail" = "남은 주행 거리는 운전 스타일에 따라 마지막으로 동적으로 계산됩니다";
 "Settings.model" = "모델";
 // Needs review
-"Settings.musicVolumeAudioDevices" = "Audio devices";
+"Settings.musicVolumeAudioDevices" = "오디오 장치";
 "Settings.musicVolumeControl" = "자동 볼륨";
 // Needs review
-"Settings.musicVolumeControlDetail" = "Music volume will be changed by speed";
+"Settings.musicVolumeControlDetail" = "음악 볼륨은 속도에 따라 변할 것입니다";
 // Needs review
-"Settings.musicVolumeExternalAddedDescription" = "Now the automatic volume only works on the added audio devices";
+"Settings.musicVolumeExternalAddedDescription" = "이제 자동 볼륨은 추가된 오디오 장치에서만 작동합니다";
 // Needs review
-"Settings.musicVolumeExternalAllDescription" = "Now the automatic volume works on all connected audio devices.\nYou can add connected audio devices so that the automatic volume only works with them";
+"Settings.musicVolumeExternalAllDescription" = "이제 자동 볼륨은 연결된 모든 오디오 장치에서 작동합니다.\n연결된 오디오 장치를 추가하면 자동 볼륨이 해당 기기에서만 작동하도록 할 수 있습니다";
 // Needs review
-"Settings.musicVolumeHideIndicator" = "Hide the system volume indicator";
+"Settings.musicVolumeHideIndicator" = "시스템 볼륨 표시기를 숨기기";
 // Needs review
-"Settings.musicVolumeLevel" = "Volume level";
+"Settings.musicVolumeLevel" = "볼륨 레벨";
 // Needs review
-"Settings.musicVolumeMaxLevel" = "Maximum volume level";
+"Settings.musicVolumeMaxLevel" = "최대 볼륨 레벨";
 // Needs review
-"Settings.musicVolumeMinLevel" = "Minimum volume level";
+"Settings.musicVolumeMinLevel" = "최소 볼륨 레벨";
 "Settings.neuralNetwork" = "신경망";
 // Needs review
-"Settings.neuralNetworkDetail" = "Use neural network for remaining mileage calculation";
+"Settings.neuralNetworkDetail" = "남은 주행 거리 계산에는 신경망을 사용하세요";
 "Settings.neuralNetworkMessage" = "DarknessBot은 신경망을 사용하여 남은 주행거리를 계산하기 때문에 더 많이 주행하고 기록을 남길수록 남은 주행거리가 더 정확하게 계산됩니다.";
 // Needs review
-"Settings.nextTrack" = "Next track";
+"Settings.nextTrack" = "다음 트랙";
 "Settings.nobody" = "아무도 아니에요";
 "Settings.officialSite" = "공식 사이트";
 "Settings.onConnection" = "연결";
 "Settings.onDisconnection" = "연결 해제시";
 // Needs review
-"Settings.onlyAfterSunset" = "Only after sunset";
+"Settings.onlyAfterSunset" = "해가 진 후에만";
 // Needs review
-"Settings.onlyAfterSunsetDetail" = "Torch will automatically switch only in the dark time of day";
+"Settings.onlyAfterSunsetDetail" = "손전등은 어두운 시간대에만 자동으로 전환됩니다";
 "Settings.openApp" = "앱 열기";
 // Needs review
-"Settings.other" = "Other";
+"Settings.other" = "기타";
 // Needs review
-"Settings.outletDelay" = "Pre-charging time before switching off";
+"Settings.outletDelay" = "전원을 끄기 전 사전 충전 시간";
 // Needs review
-"Settings.outletDelayEnabled" = "Pre-charging before switching off";
+"Settings.outletDelayEnabled" = "전원을 끄기 전에 미리 충전하세요";
 // Needs review
-"Settings.participationRatings" = "Participation in ratings";
+"Settings.participationRatings" = "시청률 참여";
 "Settings.pedalHorizontal" = "발판 수평 방향";
 // Needs review
-"Settings.pedalHorizontalDetail" = "Pitch angle";
+"Settings.pedalHorizontalDetail" = "피치 각도";
 // Needs review
-"Settings.playPause" = "Play/Pause";
+"Settings.playPause" = "재생/일시정지";
 // Needs review
-"Settings.premium" = "Premium";
+"Settings.premium" = "프리미엄";
 // Needs review
-"Settings.premiumDescription" = "All current and upcoming paid features";
+"Settings.premiumDescription" = "현재 및 향후 유료 콘텐츠 전부";
 // Needs review
-"Settings.premiumFeatureTitle" = "This is a Premium feature";
+"Settings.premiumFeatureTitle" = "이것은 프리미엄 기능입니다";
 // Needs review
-"Settings.premiumIncludes" = "Premium includes";
+"Settings.premiumIncludes" = "프리미엄 포함";
 "Settings.premiumMessage" = "이제 유료 앱의 모든 기능을 사용할 수 있습니다";
 // Needs review
-"Settings.previousTrack" = "Previous track";
+"Settings.previousTrack" = "이전 트랙";
 "Settings.privacy" = "프라이버시";
 // Needs review
-"Settings.privacyLocationAccuracyDetail" = "Increases battery consumption";
+"Settings.privacyLocationAccuracyDetail" = "배터리 소모 증가";
 // Needs review
-"Settings.privacyLocationAccuracyMessage" = "Improved location accuracy";
+"Settings.privacyLocationAccuracyMessage" = "향상된 위치 정확도";
 // Needs review
-"Settings.privacyLocationBackgroundDetail" = "It is necessary for the tracker to work correctly and update the route";
+"Settings.privacyLocationBackgroundDetail" = "트래커가 올바르게 작동하고 경로를 업데이트하는 것이 필요합니다";
 // Needs review
-"Settings.privacyLocationBackgroundMessage" = "Use location update in the background";
+"Settings.privacyLocationBackgroundMessage" = "백그라운드에서 위치 업데이트를 사용하세요";
 "Settings.privacyLocationMessage" = "다른 사람이 내 위치를 볼 수 있습니다";
 "Settings.privacySocialMessage" = "다른 사람이 내 소셜 프로필을 볼 수 있습니다";
 "Settings.purchaseAlarms" = "알람을 구입 하시겠습니까?";
 // Needs review
-"Settings.purchaseBeep" = "Purchase custom beep?";
+"Settings.purchaseBeep" = "커스텀 삐 소리를 구매할까요?";
 // Needs review
-"Settings.purchaseCustomDashboard" = "Purchase Custom Dashboard?";
+"Settings.purchaseCustomDashboard" = "커스텀 대시보드를 구매하시나요?";
 "Settings.purchased" = "구매됨";
 // Needs review
-"Settings.purchaseEngineSound" = "Purchase Engine Sound?";
+"Settings.purchaseEngineSound" = "엔진 사운드를 구매하시나요?";
 // Needs review
-"Settings.purchaseGooglePlay" = "In-app purchases are only available in the release version from Google Play. You can install the version from Google Play, purchase purchases, then install the beta version. Purchases will be activated in the beta version";
+"Settings.purchaseGooglePlay" = "인앱 구매는 구글 플레이의 출시 버전에서만 가능합니다. 구글 플레이에서 버전을 설치하고, 구매 후 베타 버전을 설치할 수 있습니다. 구매는 베타 버전에서 활성화됩니다";
 "Settings.purchaseGraphs" = "그래프 보기를 구매하시겠습니까?";
 // Needs review
-"Settings.purchaseMusicVolumeControl" = "Purchase music volume control?";
+"Settings.purchaseMusicVolumeControl" = "음악 볼륨 조절 장치를 구매하시나요?";
 // Needs review
-"Settings.purchasePremium" = "Purchase Premium?";
+"Settings.purchasePremium" = "프리미엄 구매?";
 "Settings.purchaseRecorder" = "화면 녹화를 구매하시겠습니까?";
 // Needs review
-"Settings.purchaseSandbox" = "In-app purchases are only available in the version from the App Store. You can install the version from the App Store over the current one, get purchases, then install the beta version over App Store version. In-app purchases will be activated in the beta version";
+"Settings.purchaseSandbox" = "앱 내 구매는 앱 스토어 버전에서만 제공됩니다. 현재 버전 위에 앱 스토어에서 설치한 버전을 구매한 후, 앱 스토어 버전에 베타 버전을 설치할 수 있습니다. 베타 버전에서는 인앱 구매가 활성화됩니다";
 "Settings.purchaseTheme" = "테마를 구매하시겠습니까?";
 "Settings.purchaseTorchAuto" = "자동 손전등을 구입하시겠습니까?";
 "Settings.purchaseTracker" = "GPS 추적기를 구매하시겠습니까?";
 // Needs review
-"Settings.pwmCorrection" = "PWM correction";
+"Settings.pwmCorrection" = "PWM 보정";
 // Needs review
-"Settings.pwmCorrectionDetail" = "Affects the calculation of the PWM value";
+"Settings.pwmCorrectionDetail" = "PWM 값 계산에 영향을 미칩니다";
 // Needs review
-"Settings.pwmCorrectionMessage" = "On a full battery, %@ PWM will be reached at a speed of %@ with the selected correction:";
+"Settings.pwmCorrectionMessage" = "배터리가 가득 찼을 때, 선택한 보정 방법으로 %@ PWM이 %@ 속도에 도달합니다:";
 // Needs review
-"Settings.pwmHowTo" = "How to adjust the PWM";
+"Settings.pwmHowTo" = "PWM 조정 방법";
 // Needs review
-"Settings.pwmHowToDescription" = "Fully charge the EUC\nAccelerate until the third EUC's alarm appears\nCheck the speed at which the alarm occurred\nThis speed corresponds to 80%% of the PWM for your EUC\nAdjust the PWM percentage according to the received speed";
+"Settings.pwmHowToDescription" = "EUC를 완전히 충전하세요\n세 번째 EUC의 경보가 울릴 때까지 가속하세요\n경보가 발생한 속도를 확인하세요\n이 속도는 EUC PWM의 80%에 해당합니다\n수신 속도에 따라 PWM 비율을 조정하세요";
 // Needs review
-"Settings.pwmHowToDetail" = "With the correct setup, EUC cutout at motor reason will be no earlier than at 100%% PWM";
+"Settings.pwmHowToDetail" = "올바른 설정만 하면 모터 이유에서 EUC 컷아웃이 100% PWM 이상은 아닙니다";
 "Settings.questionType" = "질문 유형";
 "Settings.record" = "기록";
 "Settings.recorder" = "비디오 레코더";
 // Needs review
-"Settings.recorderDetail" = "Recording video from a camera with metrics overlay";
+"Settings.recorderDetail" = "메트릭 오버레이가 적용된 카메라에서 영상 녹화";
 "Settings.recorderCameraMode" = "녹화 기능이 없는 카메라 모드";
 "Settings.recorderChromakey" = "블랙 크로마키 화면";
 "Settings.recorderFlipMode" = "미러 모드";
@@ -981,34 +981,34 @@
 "Settings.records" = "기록";
 "Settings.recuperationMode" = "회복 모드";
 // Needs review
-"Settings.recuperationModeDetail" = "Regenerative braking level";
+"Settings.recuperationModeDetail" = "회생 제동 수준";
 "Settings.restore" = "복원하다";
 // Needs review
-"Settings.restoreDetail" = "If you previously made a purchase on another device, you can restore your purchases";
+"Settings.restoreDetail" = "이전에 다른 기기에서 구매한 적이 있다면, 구매한 내용을 복원할 수 있습니다";
 "Settings.restoredMessage" = "구매 복원됨";
 // Needs review
-"Settings.restorePurchases" = "Restore purchases";
+"Settings.restorePurchases" = "구매 복원";
 // Needs review
-"Settings.rideSettings" = "Ride settings";
+"Settings.rideSettings" = "놀이기 설정";
 "Settings.ridingMode" = "라이딩 모드";
 // Needs review
-"Settings.ridingModeDetail" = "Affects the rigidity of the horizon retention";
+"Settings.ridingModeDetail" = "수평선 유지의 강성에 영향을 미칩니다";
 // Needs review
-"Settings.ridingModeEco" = "Eco";
+"Settings.ridingModeEco" = "에코";
 "Settings.ridingModeHard" = "딱딱한";
 // Needs review
-"Settings.ridingModePedestrian" = "Pedestrian";
+"Settings.ridingModePedestrian" = "보행자";
 // Needs review
-"Settings.ridingModeScooterDetail" = "Switching the driving speed mode";
+"Settings.ridingModeScooterDetail" = "주행 속도 모드 전환";
 "Settings.ridingModeSoft" = "부드러운";
 // Needs review
-"Settings.ridingModeSport" = "Sport";
+"Settings.ridingModeSport" = "스포츠";
 // Needs review
-"Settings.ridingModeStandard" = "Standard";
+"Settings.ridingModeStandard" = "표준";
 // Needs review
-"Settings.safeMode" = "Safe mode";
+"Settings.safeMode" = "안전 모드";
 // Needs review
-"Settings.safeModeDetail" = "Enables speed limit on low charge";
+"Settings.safeModeDetail" = "저용량 충전 시 속도 제한 활성화";
 "Settings.send" = "보내기";
 "Settings.serialNumber" = "일련 번호";
 "Settings.shareLogs" = "로그 데이터 보내기";
@@ -1016,65 +1016,65 @@
 "Settings.showLogs" = "로그 보기";
 "Settings.shutdownTime" = "종료 시간";
 // Needs review
-"Settings.shutdownTimeDetail" = "Automatic shutdown of the device";
+"Settings.shutdownTimeDetail" = "장치 자동 종료";
 "Settings.smartAlarms" = "스마트 알람";
 "Settings.smartAlarmsDescription" = "속도 경고는 장치의 충전량이 감소함에 따라 선형적으로 감소합니다. \n 원래 값의 최대 80 %";
 "Settings.sound" = "소리";
 // Needs review
-"Settings.speedCorrection" = "Speed correction";
+"Settings.speedCorrection" = "속도 보정";
 // Needs review
-"Settings.speedCorrectionDetail" = "Affects the display of the current, average, and maximum speed";
+"Settings.speedCorrectionDetail" = "전류, 평균 속도, 최대 속도 표시에 영향을 미칩니다";
 // Needs review
-"Settings.mileageCorrection" = "Mileage correction";
+"Settings.mileageCorrection" = "마일리지 보정";
 // Needs review
-"Settings.mileageCorrectionDetail" = "Affects the display of the single and total mileage";
+"Settings.mileageCorrectionDetail" = "단일 주행 거리와 총 주행 거리 표시에 영향을 미칩니다";
 // Needs review
-"Settings.splashScreen" = "Intro";
+"Settings.splashScreen" = "소개";
 // Needs review
-"Settings.splashScreenDisabling" = "Disabling splash screen";
+"Settings.splashScreenDisabling" = "스플래시 화면 비활성화";
 // Needs review
-"Settings.splashScreenDetail" = "Showing hints and promos during app launch";
+"Settings.splashScreenDetail" = "앱 출시 시 힌트와 프로모션 표시";
 // Needs review
-"Settings.splashScreenDescription" = "Ability to disable the splashscreen";
+"Settings.splashScreenDescription" = "스플래시 스크린 비활성화 기능";
 // Needs review
-"Settings.support" = "Support";
+"Settings.support" = "지원";
 // Needs review
-"Settings.systemLanguage" = "System language";
+"Settings.systemLanguage" = "시스템 언어";
 "Settings.temperatureUnit" = "온도 단위";
 // Needs review
-"Settings.testDrive" = "Test drive";
+"Settings.testDrive" = "시승";
 // Needs review
-"Settings.testDriveDetail" = "Move the slider to check the sound";
+"Settings.testDriveDetail" = "슬라이더를 움직여 소리를 확인하세요";
 "Settings.theme" = "주제";
 // Needs review
-"Settings.themeDetail" = "Ability to apply app themes";
+"Settings.themeDetail" = "앱 테마 적용 기능";
 "Settings.themeAuto" = "자동 테마";
 // Needs review
-"Settings.themeAutoDetail" = "Automatic change theme by sunrise/sunset";
+"Settings.themeAutoDetail" = "일출/일몰 기준 자동 테마 변경";
 // Needs review
-"Settings.themeAutoSystemDetail" = "Automatic switching when the system theme changes";
+"Settings.themeAutoSystemDetail" = "시스템 테마가 변경될 때 자동 전환";
 "Settings.themeBlack" = "블랙";
 "Settings.themeDefault" = "기본값";
 "Settings.themeMessage" = "이제 응용 프로그램 설정에서 테마를 변경할 수 있습니다";
 "Settings.themeNight" = "다크";
 // Needs review
-"Settings.tiltback" = "Tiltback";
+"Settings.tiltback" = "틸트백";
 // Needs review
-"Settings.tiltbackDetail" = "Speed at which the tiltback will occur";
+"Settings.tiltbackDetail" = "틸트백이 일어나는 속도";
 "Settings.torchAuto" = "자동 손전등";
 // Needs review
-"Settings.torchAutoDetail" = "Automatically turn on the device's torch when driving after sunset";
+"Settings.torchAutoDetail" = "해가 진 후 운전할 때 자동으로 기기의 손전등을 켜세요";
 // Needs review
-"Settings.torchAutoOffSpeed" = "Maximum speed for turn off";
+"Settings.torchAutoOffSpeed" = "오프 시 최대 속도";
 // Needs review
-"Settings.torchAutoOffSpeedDetail" = "Torch will turn off automatically if the speed is lower";
+"Settings.torchAutoOffSpeedDetail" = "속도가 낮으면 토치가 자동으로 꺼집니다";
 // Needs review
-"Settings.torchAutoOnSpeed" = "Minimum speed to turn on";
+"Settings.torchAutoOnSpeed" = "켜기 최소 속도";
 // Needs review
-"Settings.torchAutoOnSpeedDetail" = "Torch will turn on automatically if the speed is higher";
+"Settings.torchAutoOnSpeedDetail" = "속도가 더 빨라지면 손전등이 자동으로 켜집니다";
 "Settings.translate" = "옮김";
 // Needs review
-"Settings.translateDetail" = "Tap if you notice an error in the translation";
+"Settings.translateDetail" = "번역에 오류가 있으면 탭하세요";
 "Settings.turnOffOutlet" = "배터리 잔량이 일정 수준에 도달하면 전원을 끄십시오.";
 "Settings.unpair" = "페어링 해제";
 "Settings.version" = "판올림";
@@ -1082,257 +1082,257 @@
 "Settings.vibrateConnection" = "연결시 진동";
 "Settings.vibrateSpeed" = "고속으로 진동";
 // Needs review
-"Settings.vibrateWatch" = "Vibrate on Watch";
+"Settings.vibrateWatch" = "감시에서 진동";
 // Needs review
-"Settings.vibrateWatchDetail" = "Works only when the watch screen is active";
+"Settings.vibrateWatchDetail" = "시계 화면이 활성화되어 있을 때만 작동합니다";
 "Settings.vibration" = "진동";
 "Settings.voice" = "음성 경보";
 "Settings.voiceAlarms" = "음성 경보";
 "Settings.voiceControl" = "음성 제어";
 // Needs review
-"Settings.voiceControlDetail" = "Enable Bluetooth music and voice alarms";
+"Settings.voiceControlDetail" = "블루투스 음악 및 음성 알람 활성화";
 "Settings.volume" = "용량";
 // Needs review
-"Settings.volumeDetail" = "Device speaker volume";
+"Settings.volumeDetail" = "장치 스피커 볼륨";
 // Needs review
-"Settings.trackerDetail" = "Records geolocation during the trip. The working time of your device may be reduced";
+"Settings.trackerDetail" = "여행 중 위치 기록. 기기의 작동 시간이 단축될 수 있습니다";
 // Needs review
-"Settings.dashboardRow" = "Row";
+"Settings.dashboardRow" = "로우";
 // Needs review
-"Settings.tilesOrder" = "Tiles order";
+"Settings.tilesOrder" = "타일 순서";
 // Needs review
-"Settings.fastSettings" = "Fast settings";
+"Settings.fastSettings" = "빠른 설정";
 // Needs review
-"Settings.balanceSettings" = "Balance settings";
+"Settings.balanceSettings" = "밸런스 설정";
 // Needs review
-"Settings.cellBalanceLimit" = "Cell balance limit";
+"Settings.cellBalanceLimit" = "셀 잔액 한도";
 // Needs review
-"Settings.chargingCellBalanceStart" = "Charging cell balance start";
+"Settings.chargingCellBalanceStart" = "충전 셀 잔액 시작";
 // Needs review
-"Settings.cellDiffOn" = "Cell difference on";
+"Settings.cellDiffOn" = "셀 차이";
 // Needs review
-"Settings.cellDiffOff" = "Cell difference off";
+"Settings.cellDiffOff" = "셀 차이 꺼짐";
 // Needs review
-"Settings.balanceAmperage" = "Balance amperage";
+"Settings.balanceAmperage" = "밸런스 전류";
 // Needs review
-"Settings.balanceChargingAmperage" = "Balance charging amperage";
+"Settings.balanceChargingAmperage" = "잔액 충전 전류";
 // Needs review
-"Settings.bmsCellHighProtect" = "Cell high protect";
+"Settings.bmsCellHighProtect" = "셀 하이 프로텍트";
 // Needs review
-"Settings.bmsCellHighRecover" = "Cell high recover";
+"Settings.bmsCellHighRecover" = "셀 하이 리커버";
 // Needs review
-"Settings.bmsL2CellHighProtect" = "Cell high protect level 2";
+"Settings.bmsL2CellHighProtect" = "셀 하이 프로텍트 레벨 2";
 // Needs review
-"Settings.bmsL2CellHighRecover" = "Cell high recover level 2";
+"Settings.bmsL2CellHighRecover" = "셀 하이 리커버리 레벨 2";
 // Needs review
-"Settings.bmsPackVoltageHighProtect" = "Pack voltage high protect";
+"Settings.bmsPackVoltageHighProtect" = "팩 전압 고보호";
 // Needs review
-"Settings.bmsPackVoltageHighRecover" = "Pack voltage high recover";
+"Settings.bmsPackVoltageHighRecover" = "팩 전압 고회수";
 // Needs review
-"Settings.bmsCellLowProtect" = "Cell low protect";
+"Settings.bmsCellLowProtect" = "셀 로우 프로텍트";
 // Needs review
-"Settings.bmsCellLowRecover" = "Cell low recover";
+"Settings.bmsCellLowRecover" = "셀 저 회복";
 // Needs review
-"Settings.bmsL2CellLowProtect" = "Cell low protect level 2";
+"Settings.bmsL2CellLowProtect" = "셀 저보호 레벨 2";
 // Needs review
-"Settings.bmsL2CellLowRecover" = "Cell low recover level 2";
+"Settings.bmsL2CellLowRecover" = "셀 저 회복 레벨 2";
 // Needs review
-"Settings.bmsPackVoltageLowProtect" = "Pack voltage low protect";
+"Settings.bmsPackVoltageLowProtect" = "팩 전압 저보호";
 // Needs review
-"Settings.bmsPackVoltageLowRecover" = "Pack voltage low recover";
+"Settings.bmsPackVoltageLowRecover" = "팩 전압 저 회수";
 // Needs review
-"Settings.bmsChargeTempHighProtect" = "Charge temperature high protect";
+"Settings.bmsChargeTempHighProtect" = "충전 온도, 높은 보호";
 // Needs review
-"Settings.bmsChargeTempHighRecover" = "Charge temperature high recover";
+"Settings.bmsChargeTempHighRecover" = "충전 온도 높음 회복";
 // Needs review
-"Settings.bmsDischargeTempHighProtect" = "Discharge temperature high protect";
+"Settings.bmsDischargeTempHighProtect" = "배출 온도 높은 보호";
 // Needs review
-"Settings.bmsDischargeTempHighRecover" = "Discharge temperature high recover";
+"Settings.bmsDischargeTempHighRecover" = "배출 온도 높고 회수";
 // Needs review
-"Settings.bmsMOSTempHighProtect" = "MOS temperature high protect";
+"Settings.bmsMOSTempHighProtect" = "MOS 온도 높은 보호";
 // Needs review
-"Settings.bmsMOSTempHighRecover" = "MOS temperature high recover";
+"Settings.bmsMOSTempHighRecover" = "MOS 온도 높은 회수";
 // Needs review
-"Settings.bmsChargeTempLowProtect" = "Charge temperature low protect";
+"Settings.bmsChargeTempLowProtect" = "충전 온도 낮고 보호 장치";
 // Needs review
-"Settings.bmsChargeTempLowRecover" = "Charge temperature low recover";
+"Settings.bmsChargeTempLowRecover" = "충전 온도 낮음 회수";
 // Needs review
-"Settings.bmsDischargeTempLowProtect" = "Discharge temperature low protect";
+"Settings.bmsDischargeTempLowProtect" = "배출 온도 낮음 보호";
 // Needs review
-"Settings.bmsDischargeTempLowRecover" = "Discharge temperature low recover";
+"Settings.bmsDischargeTempLowRecover" = "배출 온도 저 회수";
 // Needs review
-"Settings.bmsChargeOverAmperageProtect" = "Charge over amperage protect";
+"Settings.bmsChargeOverAmperageProtect" = "전류 대비 전하 보호";
 // Needs review
-"Settings.bmsChargeOverAmperageProtectDelay" = "Charge over amperage protect delay";
+"Settings.bmsChargeOverAmperageProtectDelay" = "전류 대비 전하 보호 지연";
 // Needs review
-"Settings.bmsDischargeOverAmperageProtect" = "Discharge over amperage protect";
+"Settings.bmsDischargeOverAmperageProtect" = "전류 초과 방전 보호";
 // Needs review
-"Settings.bmsDischargeOverAmperageProtectDelay" = "Discharge over amperage protect delay";
+"Settings.bmsDischargeOverAmperageProtectDelay" = "전류 초과 방전 보호 지연";
 // Needs review
-"Settings.bmsL2DischargeOverAmperageProtect" = "Discharge over amperage protect level 2";
+"Settings.bmsL2DischargeOverAmperageProtect" = "전류 초과 방전 보호 레벨 2";
 // Needs review
-"Settings.bmsL2DischargeOverAmperageProtectDelay" = "Discharge over amperage protect delay level 2";
+"Settings.bmsL2DischargeOverAmperageProtectDelay" = "전류 초과 방전 보호 지연 레벨 2";
 // Needs review
-"Settings.bmsShortCircuitProtect" = "Short circuit protect";
+"Settings.bmsShortCircuitProtect" = "단락 보호";
 // Needs review
-"Settings.bmsShortCircuitProtectDelay" = "Short circuit protect delay";
+"Settings.bmsShortCircuitProtectDelay" = "단락 보호 지연";
 // Needs review
-"Settings.amperageSettings" = "Amperage settings";
+"Settings.amperageSettings" = "전류 설정";
 // Needs review
-"Settings.voltageSettings" = "Voltage settings";
+"Settings.voltageSettings" = "전압 설정";
 // Needs review
-"Settings.temperatureSettings" = "Temperature settings";
+"Settings.temperatureSettings" = "온도 설정";
 // Needs review
-"Settings.volumeButtons" = "Volume buttons";
+"Settings.volumeButtons" = "볼륨 버튼";
 // Needs review
-"Settings.increaseVolume" = "Increase volume";
+"Settings.increaseVolume" = "볼륨 증가";
 // Needs review
-"Settings.decreaseVolume" = "Decrease volume";
+"Settings.decreaseVolume" = "볼륨 감소";
 // Needs review
-"Settings.batteryCorrection" = "Battery correction";
+"Settings.batteryCorrection" = "배터리 보정";
 // Needs review
-"Settings.batteryCorrectionDetail" = "Affects the calculation of the battery level";
+"Settings.batteryCorrectionDetail" = "배터리 레벨 계산에 영향을 미칩니다";
 // Needs review
-"Settings.cellVoltage100" = "Cell voltage for 100%";
+"Settings.cellVoltage100" = "셀 전압은 100%";
 // Needs review
-"Settings.cellVoltage0" = "Cell voltage for 0%";
+"Settings.cellVoltage0" = "셀 전압 0%";
 // Needs review
-"Settings.useDischargeCurve" = "Use discharge curve";
+"Settings.useDischargeCurve" = "방전 곡선 사용";
 // Needs review
-"Settings.liveActivity" = "Live Activity";
+"Settings.liveActivity" = "라이브 액티비티";
 // Needs review
-"Settings.liveActivityDescription" = "Live Activity widget on lock screen and Dynamic Island";
+"Settings.liveActivityDescription" = "잠금 화면과 다이내믹 아일랜드의 라이브 액티비티 위젯";
 // Needs review
-"Settings.breakingAmperage" = "Braking amperage";
+"Settings.breakingAmperage" = "제동 전류";
 // Needs review
-"Settings.extremeMode" = "Extreme mode";
+"Settings.extremeMode" = "익스트림 모드";
 // Needs review
-"Settings.rotationControl" = "Rotation control";
+"Settings.rotationControl" = "회전 제어";
 // Needs review
-"Settings.breakingAmperageDetail" = "The force with which the motor will be decelerated from the current rotational speed to a stop. It is activated by pressing the motor stop button when the extreme mode is active";
+"Settings.breakingAmperageDetail" = "모터가 현재 회전 속도에서 정지할 때까지 감속되는 힘입니다. 극한 모드가 활성화된 상태에서 모터 정지 버튼을 눌러 활성화됩니다";
 // Needs review
-"Settings.extremeModeDetail" = "It uses the capabilities of the firmware to perform extreme functions, for example, controlled braking. Not for regular driving";
+"Settings.extremeModeDetail" = "펌웨어의 기능을 활용해 제어된 제동과 같은 극한의 기능을 수행합니다. 일반 운전에는 적합하지 않습니다";
 // Needs review
-"Settings.rotationControlDetail" = "A function for the Front Flip trick. If this function is enabled, the EUC will count 360 degrees of rotation from the position it was in when the motor stop button was pressed. When the function is disabled, the wheel is turned on by pressing the motor stop button again";
+"Settings.rotationControlDetail" = "프론트 플립 트릭의 기능입니다. 이 기능이 활성화되면 EUC는 모터 정지 버튼을 눌렀을 때 위치에서 360도 회전을 계산합니다. 기능이 비활성화되면 모터 정지 버튼을 다시 눌러 휠을 켭니다";
 // Needs review
-"Settings.customDashboardMinTiles" = "At least one tile is needed to display the dashboard";
+"Settings.customDashboardMinTiles" = "대시보드를 표시하려면 최소 하나의 타일이 필요합니다";
 // Needs review
-"Settings.advancedSettings" = "Advanced settings";
+"Settings.advancedSettings" = "고급 설정";
 // Needs review
-"Settings.horizonKP" = "Horizon KP";
+"Settings.horizonKP" = "호라이즌 KP";
 // Needs review
-"Settings.horizonKI" = "Horizon KI";
+"Settings.horizonKI" = "호라이즌 KI";
 // Needs review
-"Settings.horizonKD" = "Horizon KD";
+"Settings.horizonKD" = "호라이즌 KD";
 // Needs review
-"Settings.horizonDynamicCompensation" = "Horizon dynamic compensation";
+"Settings.horizonDynamicCompensation" = "수평선 동적 보상";
 // Needs review
-"Settings.horizonDynamicCompensationFilter" = "Horizon dynamic compensation filter";
+"Settings.horizonDynamicCompensationFilter" = "수평선 동적 보상 필터";
 // Needs review
-"Settings.accelerationCompensation" = "Acceleration compensation";
+"Settings.accelerationCompensation" = "가속 보상";
 // Needs review
-"Settings.turnCompensation" = "Turn compensation";
+"Settings.turnCompensation" = "턴 보상";
 // Needs review
-"Settings.currentKP" = "Current KP";
+"Settings.currentKP" = "현재 KP";
 // Needs review
-"Settings.currentKI" = "Current KI";
+"Settings.currentKI" = "현재 KI";
 // Needs review
-"Settings.currentDKP" = "Current DKP";
+"Settings.currentDKP" = "현재 DKP";
 // Needs review
-"Settings.currentDKI" = "Current DKI";
+"Settings.currentDKI" = "현재 DKI";
 // Needs review
-"Settings.rotationAngle" = "Rotation angle";
+"Settings.rotationAngle" = "회전 각도";
 // Needs review
-"Settings.advancedSettingsDetails" = "Activation of 'Engineering settings'. Enabling this function switches the wheel to advanced settings mode. For the settings to be applied, you must set the pedals to 'Soft' mode.";
+"Settings.advancedSettingsDetails" = "'엔지니어링 설정' 활성화. 이 기능을 활성화하면 휠이 고급 설정 모드로 전환됩니다. 설정을 적용하려면 페달을 '소프트' 모드로 설정해야 합니다.";
 // Needs review
-"Settings.horizonKPDetails" = "Horizon Hold PID Proportional Gain";
+"Settings.horizonKPDetails" = "지평선 홀드 PID 비례 이득";
 // Needs review
-"Settings.horizonKIDetails" = "Horizon hold controller PID integral gain";
+"Settings.horizonKIDetails" = "호라이즌 홀드 컨트롤러 PID 적분 이득";
 // Needs review
-"Settings.horizonKDDetails" = "Horizon hold PID differential gain";
+"Settings.horizonKDDetails" = "호라이즌 홀드 PID 차동 이득";
 // Needs review
-"Settings.horizonDynamicCompensationDetails" = "Dynamic horizon angle compensation";
+"Settings.horizonDynamicCompensationDetails" = "동적 수평선 각도 보상";
 // Needs review
-"Settings.horizonDynamicCompensationFilterDetails" = "Dynamic horizon compensation filter coefficient";
+"Settings.horizonDynamicCompensationFilterDetails" = "동적 수평선 보상 필터 계수";
 // Needs review
-"Settings.accelerationCompensationDetails" = "Compensation for horizon deviations caused by wheel acceleration/deceleration";
+"Settings.accelerationCompensationDetails" = "바퀴 가속/감속으로 인한 수평선 편차에 대한 보상";
 // Needs review
-"Settings.turnCompensationDetails" = "Compensation for horizon deviations caused by wheel turn";
+"Settings.turnCompensationDetails" = "휠 회전으로 인한 수평선 편차에 대한 보상";
 // Needs review
-"Settings.currentKPDetails" = "Proportional gain of PID motor Q current ";
+"Settings.currentKPDetails" = "PID 모터 Q 전류의 비례 이득";
 // Needs review
-"Settings.currentKIDetails" = "Integral gain of PID motor Q current";
+"Settings.currentKIDetails" = "PID 모터 Q 전류의 정분 이득";
 // Needs review
-"Settings.currentDKPDetails" = "Proportional gain of PID motor D current";
+"Settings.currentDKPDetails" = "PID 모터 D 전류의 비례 이득";
 // Needs review
-"Settings.currentDKIDetails" = "Integral gain of PID motor D current";
+"Settings.currentDKIDetails" = "PID 모터 D 전류의 적분 이득";
 // Needs review
-"Settings.rotationAngleDetails" = "The angle the wheel must rotate to engage when performing a Front Flip trick. Activated when the Rotation Control function is activated";
+"Settings.rotationAngleDetails" = "프론트 플립 트릭을 수행할 때 바퀴가 맞물리기 위해 회전해야 하는 각도입니다. 회전 제어 기능이 활성화되면";
 // Needs review
-"Settings.useSoftwarePWM" = "Software PWM";
+"Settings.useSoftwarePWM" = "소프트웨어 PWM";
 // Needs review
-"Settings.useSoftwarePWMDetails" = "Use software PWM instead hardware";
+"Settings.useSoftwarePWMDetails" = "하드웨어 대신 소프트웨어 PWM을 사용하세요";
 // Needs review
-"Settings.supportUs" = "Support us";
+"Settings.supportUs" = "우리를 응원해 주세요";
 // Needs review
-"Settings.mirrorThirdEye" = "Mirror «Third Eye»";
+"Settings.mirrorThirdEye" = "거울 «제3의 눈»";
 // Needs review
-"Settings.topValue" = "Top value";
+"Settings.topValue" = "최고 가치";
 // Needs review
-"Settings.bottomValue" = "Bottom value";
+"Settings.bottomValue" = "하단 가치";
 // Needs review
-"Settings.showTitles" = "Show titles";
+"Settings.showTitles" = "쇼 타이틀";
 // Needs review
-"Settings.deviceSearch" = "Device search...";
+"Settings.deviceSearch" = "장치 검색...";
 // Needs review
-"Settings.value" = "Value";
+"Settings.value" = "가치";
 // Needs review
-"Settings.regularText" = "Regular text";
+"Settings.regularText" = "정규 본문";
 // Needs review
-"Settings.largeText" = "Large text";
+"Settings.largeText" = "큰 텍스트";
 // Needs review
-"Settings.extraLargeText" = "Extra large text";
+"Settings.extraLargeText" = "초대형 텍스트";
 // Needs review
-"Settings.segment" = "Segment";
+"Settings.segment" = "구간";
 // Needs review
-"Settings.autoBrightness" = "Auto Brightness";
+"Settings.autoBrightness" = "자동 밝기";
 // Needs review
-"Settings.trickMode" = "Trick mode";
+"Settings.trickMode" = "트릭 모드";
 // Needs review
-"Settings.noTrick" = "No trick";
+"Settings.noTrick" = "속임수는 없어";
 // Needs review
-"Settings.frontFlip" = "Front Flip";
+"Settings.frontFlip" = "프론트 플립";
 // Needs review
-"Settings.backFlip" = "Back Flip";
+"Settings.backFlip" = "백플립";
 "Settings.wearableIntegration" = "고급 웨어러블 기기 통합";
 "Settings.wearableIntegrationDescription" = "ActiveLook 및 Third Eye 통합";
 // Needs review
-"Settings.time" = "Time";
+"Settings.time" = "시간";
 // Needs review
-"Settings.updateAvailable" = "Update available";
+"Settings.updateAvailable" = "업데이트 가능";
 // Needs review
-"Settings.newFromDeveloper" = "New from the developer";
+"Settings.newFromDeveloper" = "개발사에서 신제품으로 나왔습니다";
 // Needs review
-"Settings.new" = "New";
+"Settings.new" = "신규";
 // Needs review
-"Settings.dependence" = "Dependence";
+"Settings.dependence" = "의존성";
 // Needs review
-"Settings.dependenceDetail" = "The metric from which the engine sound will be calculated";
+"Settings.dependenceDetail" = "엔진 소리를 계산하는 지표";
 // Needs review
-"Settings.informationAlarms" = "Information alarms";
+"Settings.informationAlarms" = "정보 경보";
 // Needs review
-"Settings.foundObjects" = "Found objects";
+"Settings.foundObjects" = "발견된 물건들";
 // Needs review
-"Settings.relativeSpeed" = "Relative speed";
+"Settings.relativeSpeed" = "상대 속도";
 // Needs review
-"Settings.distance" = "Distance";
+"Settings.distance" = "거리";
 // Needs review
-"Settings.dangerApproachSpeed" = "Danger approach speed";
+"Settings.dangerApproachSpeed" = "위험 접근 속도";
 // Needs review
-"Settings.dangerDistance" = "Danger distance";
+"Settings.dangerDistance" = "위험 거리";
 // Needs review
-"Settings.noObjectsFound" = "No objects found";
+"Settings.noObjectsFound" = "물건은 발견되지 않았습니다";
 // Needs review
-"Settings.maxDetectDistance" = "Max detect distance";
+"Settings.maxDetectDistance" = "최대 탐지 거리";
 // Needs review
-"Settings.nearestObject" = "Nearest object";
+"Settings.nearestObject" = "가장 가까운 물체";
