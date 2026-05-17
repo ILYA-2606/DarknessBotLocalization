@@ -875,20 +875,20 @@
 "Settings.dependence" = "Avhengighet";
 "Settings.dependenceDetail" = "Metrikken som motorlyden beregnes fra";
 // Needs review
-"Settings.informationAlarms" = "Information alarms";
+"Settings.informationAlarms" = "Informasjonsalarmer";
 // Needs review
-"Settings.foundObjects" = "Found objects";
+"Settings.foundObjects" = "Funnede gjenstander";
 // Needs review
-"Settings.relativeSpeed" = "Relative speed";
+"Settings.relativeSpeed" = "Relativ hastighet";
 // Needs review
-"Settings.distance" = "Distance";
+"Settings.distance" = "Avstand";
 // Needs review
-"Settings.dangerApproachSpeed" = "Danger approach speed";
+"Settings.dangerApproachSpeed" = "Farlig innflygingshastighet";
 // Needs review
-"Settings.dangerDistance" = "Danger distance";
+"Settings.dangerDistance" = "Fareavstand";
 // Needs review
-"Settings.noObjectsFound" = "No objects found";
+"Settings.noObjectsFound" = "Ingen gjenstander funnet";
 // Needs review
-"Settings.maxDetectDistance" = "Max detect distance";
+"Settings.maxDetectDistance" = "Maksimal deteksjonsavstand";
 // Needs review
-"Settings.nearestObject" = "Nearest object";
+"Settings.nearestObject" = "Nærmeste objekt";
