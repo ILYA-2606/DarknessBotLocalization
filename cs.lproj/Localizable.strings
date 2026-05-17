@@ -720,7 +720,7 @@
 "Settings.mileageCorrectionDetail" = "Ovlivňuje zobrazení jednotlivých a celkových ujetých kilometrů";
 "Settings.splashScreen" = "Spouštěcí obrazovka";
 // Needs review
-"Settings.splashScreenDisabling" = "Disabling splash screen";
+"Settings.splashScreenDisabling" = "Vypnutí úvodní obrazovky";
 "Settings.splashScreenDetail" = "Zobrazování tipů a promo akcí během spouštění aplikace";
 "Settings.splashScreenDescription" = "Možnost deaktivovat spouštěcí obrazovku";
 "Settings.support" = "Podpora";
@@ -870,32 +870,32 @@
 "Settings.wearableIntegration" = "Pokročilá integrace nositelných zařízení";
 "Settings.wearableIntegrationDescription" = "Integrace ActiveLook a Third Eye";
 // Needs review
-"Settings.time" = "Time";
+"Settings.time" = "Čas";
 // Needs review
-"Settings.updateAvailable" = "Update available";
+"Settings.updateAvailable" = "Aktualizace k dispozici";
 // Needs review
-"Settings.newFromDeveloper" = "New from the developer";
+"Settings.newFromDeveloper" = "Novinka od vývojáře";
 // Needs review
-"Settings.new" = "New";
+"Settings.new" = "Nové";
 // Needs review
-"Settings.dependence" = "Dependence";
+"Settings.dependence" = "Závislost";
 // Needs review
-"Settings.dependenceDetail" = "The metric from which the engine sound will be calculated";
+"Settings.dependenceDetail" = "Metrika, ze které bude vypočítán zvuk motoru";
 // Needs review
-"Settings.informationAlarms" = "Information alarms";
+"Settings.informationAlarms" = "Informační poplachy";
 // Needs review
-"Settings.foundObjects" = "Found objects";
+"Settings.foundObjects" = "Nalezené předměty";
 // Needs review
-"Settings.relativeSpeed" = "Relative speed";
+"Settings.relativeSpeed" = "Relativní rychlost";
 // Needs review
-"Settings.distance" = "Distance";
+"Settings.distance" = "Vzdálenost";
 // Needs review
-"Settings.dangerApproachSpeed" = "Danger approach speed";
+"Settings.dangerApproachSpeed" = "Rychlost nebezpečného přiblížení";
 // Needs review
-"Settings.dangerDistance" = "Danger distance";
+"Settings.dangerDistance" = "Vzdálenost nebezpečí";
 // Needs review
-"Settings.noObjectsFound" = "No objects found";
+"Settings.noObjectsFound" = "Žádné předměty nalezeny";
 // Needs review
-"Settings.maxDetectDistance" = "Max detect distance";
+"Settings.maxDetectDistance" = "Maximální detekční vzdálenost";
 // Needs review
-"Settings.nearestObject" = "Nearest object";
+"Settings.nearestObject" = "Nejbližší objekt";

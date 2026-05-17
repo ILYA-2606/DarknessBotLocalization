@@ -16,13 +16,13 @@
 "Firmware.upToDate" = "A firmware naprakész";
 "Firmware.whatsNew" = "Újdonságok";
 // Needs review
-"Firmware.selectFirmware" = "Select the firmware";
+"Firmware.selectFirmware" = "Válaszd ki a firmware-t";
 // Needs review
-"Firmware.select" = "Select";
+"Firmware.select" = "Válogatás";
 // Needs review
-"Firmware.updateMessage" = "Update the firmware?";
+"Firmware.updateMessage" = "Frissíteni a firmware-t?";
 // Needs review
-"Firmware.noFirmwares" = "No firmwares available";
+"Firmware.noFirmwares" = "Nincs firmware";
 "Common.add" = "Hozzáad";
 "Common.apply" = "Alkalmaz";
 "Common.cancel" = "Mégse";
@@ -46,7 +46,7 @@
 "Common.yes" = "Igen";
 "Common.trips" = "Túrák";
 // Needs review
-"Common.copied" = "Copied";
+"Common.copied" = "Másolva";
 "Profile.addFriend" = "Barátokhoz ad";
 "Profile.birthday" = "Születésnap";
 "Profile.cantImageSelected" = "Ez a kép nem választható";
@@ -102,36 +102,36 @@
 "Profile.yourFriend" = "Barátod";
 "Profile.yourPhoto" = "Fényképed";
 // Needs review
-"Profile.electroClubDetails" = "Log in to sync your trips with the electro.club portal";
+"Profile.electroClubDetails" = "Jelentkezz be, hogy szinkronizáld az utazásaidat a electro.club portállal";
 "Profile.email" = "Email";
 // Needs review
-"Profile.password" = "Password";
+"Profile.password" = "Jelszó";
 // Needs review
-"Profile.loggedAs" = "You are logged in as";
+"Profile.loggedAs" = "Be vagy jelentkezve, mint";
 // Needs review
-"Profile.logIn" = "Log in";
+"Profile.logIn" = "Bejelentkezés";
 "Profile.logout" = "Logout";
 // Needs review
-"Profile.autoSyncTrips" = "Automatically sync new trips";
+"Profile.autoSyncTrips" = "Automatikus szinkronizálás új utazásokat";
 // Needs review
-"Profile.autoSyncTripsDetail" = "Each new trip will be synchronized only after its completion";
+"Profile.autoSyncTripsDetail" = "Minden új utazást csak a befejezés után szinkronizálnak";
 "Profile.garage" = "Garage";
 // Needs review
-"Profile.mainTransport" = "Main";
+"Profile.mainTransport" = "Fő";
 // Needs review
-"Profile.electroClubUploadQuestion" = "Are you sure you want to upload this trip to electro.club?";
+"Profile.electroClubUploadQuestion" = "Biztos vagy benne, hogy fel akarod tölteni ezt az utazást electro.club-re?";
 // Needs review
-"Profile.electroClubNeedAccount" = "To upload this trip to the portal, you need to log in to electro.club";
+"Profile.electroClubNeedAccount" = "Ahhoz, hogy feltöltsd ezt az utazást a portálra, be kell jelentkezned electro.club";
 // Needs review
-"Profile.createAccount" = "Create account";
+"Profile.createAccount" = "Fiók létrehozása";
 // Needs review
-"Profile.restorePassword" = "Restore password";
+"Profile.restorePassword" = "Jelszó visszaállítása";
 // Needs review
-"Profile.electroClubUploaded" = "The trip has been successfully uploaded to the electro.club portal! Do you want to view it?";
+"Profile.electroClubUploaded" = "Az utazás sikeresen feltöltötte a electro.club portálra! Meg akarod nézni?";
 // Needs review
-"Profile.noInternetConnection" = "No Internet connection";
+"Profile.noInternetConnection" = "Nincs internetkapcsolat";
 // Needs review
-"Profile.serverIncorrectResponse" = "Server sent an incorrect response";
+"Profile.serverIncorrectResponse" = "A szerver hibás választ küldött";
 "Rate.appVersion" = "Alkalmazás verzió";
 "Rate.dontShowAgain" = "Ne mutasd többször";
 "Rate.emailSubject" = "DarknessBot probléma bejelentés";
@@ -172,29 +172,29 @@
 "Map.users" = "Felhasználók";
 "Map.tracker" = "Útvonal rögzítő";
 // Needs review
-"Map.track" = "Track";
+"Map.track" = "Pálya";
 "Map.tracks" = "Útvonalak";
 "Map.recordTrack" = "Útvonal rögzítése";
 // Needs review
-"Map.trackerBackgroundLocation" = "DarknessBot collects location data to enable GPS data in CSV logs when the app is running in the background or when the screen is off. GPS data is not collected when electrotransport is disconnected. The tracker works even when the app is minimized, so you need to allow full location access ‘Allow all the time’";
+"Map.trackerBackgroundLocation" = "A DarknessBot helyadatokat gyűjt, hogy lehetővé tegye a GPS adatokat CSV naplókban, amikor az alkalmazás háttérben fut vagy a képernyő ki van kapcsolva. GPS-adatokat nem gyűjtenek, amikor az elektrotranszport le van kapcsolva. A tracker akkor is működik, ha az alkalmazás minimalizált, ezért teljes helyhozzáférést kell engedélyezned 'Engedélyezd mindig'";
 // Needs review
-"Map.removeTripQuestion" = "Are you sure you want to delete this trip?";
+"Map.removeTripQuestion" = "Biztos vagy benne, hogy törölni akarod ezt az utazást?";
 "Map.macAddress" = "MAC address";
 // Needs review
-"Map.macAddressDetail" = "Link the MAC address to your transport in electro.club to link the track to the transport on the portal. Tap to copy the MAC address";
+"Map.macAddressDetail" = "Kapcsold a MAC címet a electro.club-es szállítóhoz, hogy a pályát a portálon lévő szállítóhoz kövessd. Érintsd meg a MAC cím másolását";
 // Needs review
-"Map.notSelected" = "Not selected";
+"Map.notSelected" = "Nem választották ki";
 // Needs review
-"Map.connectedDevice" = "Connected device";
+"Map.connectedDevice" = "Csatlakoztatott eszköz";
 "Map.euc" = "EUC";
 // Needs review
-"Map.scooter" = "Scooter";
+"Map.scooter" = "Rollerek";
 "Map.segway" = "Segway";
 "Map.minisegway" = "Mini Segway";
 "Map.skate" = "Skate";
 "Map.smartBMS" = "Smart BMS";
 // Needs review
-"Map.anyDevice" = "Any device";
+"Map.anyDevice" = "Bármilyen eszköz";
 "Devices.a" = "A";
 "Devices.averageSpeed" = "Átlag sebesség";
 "Devices.battery" = "Akkumlátor";
@@ -216,7 +216,7 @@
 "Devices.current" = "Áram";
 "Devices.d" = "n";
 // Needs review
-"Devices.dashboardConfirmation" = "Please confirm connection with dashboard button on your scooter";
+"Devices.dashboardConfirmation" = "Kérjük, erősítsék meg a kapcsolatot a robogója műszerfal gombjával";
 "Devices.day" = "nap";
 "Devices.days" = "nap";
 "Devices.demo" = "Demo";
@@ -229,7 +229,7 @@
 "Devices.enter" = "Belépés";
 "Devices.fahrenheit" = "°F";
 // Needs review
-"Devices.founded" = "Found";
+"Devices.founded" = "Megtalálták";
 "Devices.h" = "ó";
 "Devices.firmwareNotSupported" = "Az eszköz firmware-je nem támogatott";
 "Devices.firmwareNotSupportedDetail" = "Ellenőrizd, hogy az eszköz típusa és a választott firmware egyezik a támogatottak listájában találhatóval";
@@ -272,9 +272,9 @@
 "Devices.requiresPincode" = "Az eszközhöz pin kód szükséges";
 "Devices.reset" = "Nulláz";
 // Needs review
-"Devices.tripReset" = "Trip reset";
+"Devices.tripReset" = "Utazás visszaállítása";
 // Needs review
-"Devices.resetQuestion" = "Are you sure you want to reset this value? You can also start a new trip";
+"Devices.resetQuestion" = "Biztos vagy benne, hogy ezt az értéket vissza akarod állítani? Új utazást is kezdhetsz";
 "Devices.roll" = "Dőlés";
 "Devices.searching" = "Eszközök keresése...";
 "Devices.singleMileage" = "Aktuális távolság";
@@ -291,7 +291,7 @@
 "Devices.totalMileage" = "Teljes távolság";
 "Devices.totalRuntime" = "Teljes üzemidő";
 // Needs review
-"Devices.trialPeriod" = "Free Premium: %@ left";
+"Devices.trialPeriod" = "Ingyenes Díj: %@ bal";
 "Devices.turnOff" = "Kikapcsol";
 "Devices.v" = "V";
 "Devices.view" = "Megnéz";
@@ -306,38 +306,38 @@
 "Devices.years" = "év";
 "Devices.yesterday" = "Tegnap";
 // Needs review
-"Devices.batteryOptimizationTitle" = "Battery optimization detected";
+"Devices.batteryOptimizationTitle" = "Akkumulátoroptimalizálás észlelve";
 // Needs review
-"Devices.batteryOptimizationMessage" = "Disable optimization in settings to improve app performance";
+"Devices.batteryOptimizationMessage" = "Kapcsold ki az optimalizálást a beállításokban az alkalmazás teljesítményének javítása érdekében";
 // Needs review
-"Devices.inmotionV11Update" = "For security reasons, it is recommended to update your V11 to version 1.4.15 or newer with InMotion app";
+"Devices.inmotionV11Update" = "Biztonsági okokból ajánlott, hogy frissítsd a V11-et 1.4.15-ös vagy újabb verzióra az InMotion alkalmazással";
 // Needs review
-"Devices.notificationChannelName" = "Status";
+"Devices.notificationChannelName" = "Státusz";
 // Needs review
-"Devices.notificationChannelDescription" = "Notification of connection status";
+"Devices.notificationChannelDescription" = "Kapcsolati állapot értesítése";
 // Needs review
-"Devices.notificationPermissionMessage" = "Provide access to notifications to monitor the connection status and improve the work in the background mode";
+"Devices.notificationPermissionMessage" = "Hozzáférést biztosíts értesítésekhez, hogy nyomon kövesd a kapcsolat állapotát és javítsd a háttérben végzett munkát";
 // Needs review
-"Devices.locationPermissionMessage" = "Grant access to geolocation";
+"Devices.locationPermissionMessage" = "Hozzáférés a geolokációhoz";
 // Needs review
-"Devices.untilDischarge" = "Until discharge";
+"Devices.untilDischarge" = "A leszerelésig";
 // Needs review
-"Devices.untilCharge" = "Until full charge";
+"Devices.untilCharge" = "Egészen a teljes feltöltésig";
 // Needs review
-"Devices.resetEstimationMessage" = "The calculation of the time to charge/discharge and the remaining mileage will start again from this moment. Are you sure you want to reset the calculation?";
+"Devices.resetEstimationMessage" = "A töltés/kitöltés ideje és a megmaradt kilométer kiszámítása ettől a pillanattól kezd újra. Biztos vagy benne, hogy vissza akarod állítani a számítást?";
 // Needs review
 "Devices.dischargeEstimationInfix" = "in";
 "Devices.sec" = "s";
 // Needs review
-"Devices.energyConsumption" = "Energy consumption";
+"Devices.energyConsumption" = "Energiafogyasztás";
 // Needs review
-"Devices.gettingServices" = "Getting services...";
+"Devices.gettingServices" = "Szolgáltatások megszerzése...";
 // Needs review
-"Devices.gpsSpeed" = "GPS Speed";
+"Devices.gpsSpeed" = "GPS sebesség";
 // Needs review
-"Devices.pressToConfirm" = "Press the button on the handlebar to confirm";
+"Devices.pressToConfirm" = "Nyomd meg a kormányon lévő gombot, hogy megerősítsd";
 // Needs review
-"Devices.authAdoEbike" = "Please connect the transport in the ADO EBIKE app";
+"Devices.authAdoEbike" = "Kérjük, kapcsolja össze a szállítást az ADO EBIKE alkalmazásban";
 "Intro.next" = "Következő";
 "Intro.nice" = "Hurrá!";
 "Intro.premiumTitle" = "Prémium";
@@ -347,7 +347,7 @@
 "Intro.later" = "Később";
 "Intro.buyPremium" = "Prémium megvásárlása";
 // Needs review
-"Intro.feature1Title" = "Support for new devices";
+"Intro.feature1Title" = "Új eszközök támogatása";
 "Intro.feature1Description" = "- Garmin Varia";
 "Intro.help1" = "Vezetés előtt ne feledkezz meg a védőfelszerelés használatáról";
 "Intro.help2" = "Hosszú érintéssel beállíthatod a térképen az útvonalat";
@@ -358,33 +358,33 @@
 "Intro.help7" = "Offline módban megtekintheted a metrikákat, anélkül, hogy csatlakoznál az eszközhöz";
 "Intro.help8" = "Naplók és útvonalak exportálása elérhető a Túrák menüpontban";
 // Needs review
-"Intro.help9" = "Trips with a route are marked with the relevant icon";
+"Intro.help9" = "Az útvonallal rendelkező utazásokat a megfelelő ikonnal jelölik";
 // Needs review
-"Intro.onboardingTitle" = "Allow access";
+"Intro.onboardingTitle" = "Hozzáférés engedélyezése";
 // Needs review
-"Intro.onboardingMessage" = "in order to get full featured application";
+"Intro.onboardingMessage" = "hogy teljes funkciójú alkalmazást kapjunk";
 // Needs review
-"Intro.onboardingContinue" = "Continue";
+"Intro.onboardingContinue" = "Folytatás";
 // Needs review
-"Intro.onboardingContinueMessage" = "check all permissions to continue";
+"Intro.onboardingContinueMessage" = "Ellenőrizd az összes jogosultságot a folytatáshoz";
 // Needs review
-"Intro.allow" = "Allow";
+"Intro.allow" = "Engedd meg";
 "Intro.bluetooth" = "Bluetooth";
 "Intro.location" = "Location";
 "Intro.cloudkit" = "CloudKit";
 // Needs review
-"Intro.notification" = "Notifications";
+"Intro.notification" = "Értesítések";
 // Needs review
-"Intro.tracking" = "Tracking";
+"Intro.tracking" = "Követés";
 // Needs review
-"Intro.bluetoothDescription" = "For connecting to electrotransport";
+"Intro.bluetoothDescription" = "Az elektrotranszporthoz való csatlakozáshoz";
 // Needs review
-"Intro.geolocationDescription" = "For recording routes and the operation of an automatic torch";
+"Intro.geolocationDescription" = "Útvonalak rögzítésére és automatikus fályalás működtetésére";
 "Intro.cloudkitDescription" = "A felhőprofil, a felhasználói térkép és az értékelések elérése";
 // Needs review
-"Intro.notificationDescription" = "For notifications about the connection to electrotransport";
+"Intro.notificationDescription" = "Az elektrotranszporthoz való csatlakozásról szóló értesítésekhez";
 // Needs review
-"Intro.trackingDescription" = "We use this data to improve the application";
+"Intro.trackingDescription" = "Ezeket az adatokat az alkalmazás fejlesztésére használjuk";
 "Intro.justLifetime" = "Csak %@ Élettartam";
 "Intro.trialStartedTitle" = "%i napos prémium próbaidőszak elkezdődött";
 "Intro.trialStartedSubtitle" = "A próbaidőszak befejezése után az alkalmazás továbbra is ingyenesen fog működni.\n\nA prémium szolgáltatásai";
@@ -396,11 +396,11 @@
 "Diagnostic.batteryChargeProtection" = "Töltés védelem";
 "Diagnostic.batteryChargingActivated" = "Töltés aktív";
 // Needs review
-"Diagnostic.batteryRegisterWriteLock" = "Register write lock";
+"Diagnostic.batteryRegisterWriteLock" = "Regiszter írási zár";
 // Needs review
-"Diagnostic.batteryChargerInserted" = "Charger inserted";
+"Diagnostic.batteryChargerInserted" = "Töltő behelyezése";
 // Needs review
-"Diagnostic.batteryDischargeError" = "Discharge error";
+"Diagnostic.batteryDischargeError" = "Kiszabadulási hiba";
 "Diagnostic.batteryOvervoltage" = "Túlfeszültség";
 "Diagnostic.batteryOverheat" = "Túlmelegedés";
 "Diagnostic.batteryChargeError" = "Töltés hiba";
@@ -434,86 +434,86 @@
 "Diagnostic.highVoltage" = "Magas töltöttség, kérjük kerülje a hosszú leejtőket";
 "Diagnostic.inProgress" = "Folyamatban";
 // Needs review
-"Diagnostic.ninebotError10" = "Abnormal communication between instrument panel and main control, please check related wiring";
+"Diagnostic.ninebotError10" = "Rendellenes kommunikáció a műszerfal és a fővezérlő között, kérjük, ellenőrizze a kapcsolódó vezetékeket";
 // Needs review
-"Diagnostic.ninebotError11" = "Abnormal A phase current sampling of the motor, please check the main control panel";
+"Diagnostic.ninebotError11" = "Rendellenes A fázisáramú mintavétel a motorból, kérjük, ellenőrizze a fő vezérlőpultot";
 // Needs review
-"Diagnostic.ninebotError12" = "Abnormal B phase current sampling of the motor, please check the main control panel";
+"Diagnostic.ninebotError12" = "Rendellenes B-fázisú áram mintavétele a motorból, kérjük, ellenőrizze a fő vezérlőpultot";
 // Needs review
-"Diagnostic.ninebotError13" = "Abnormal C phase current sampling of the motor, please check the main control panel";
+"Diagnostic.ninebotError13" = "Rendellenes C fázisú áram mintavétele a motorból, kérjük, ellenőrizze a fő vezérlőpultot";
 // Needs review
-"Diagnostic.ninebotError14" = "Abnormal accelerator Hall, please check accelerator twist grip, instrument panel and related wiring";
+"Diagnostic.ninebotError14" = "Rendellenes gyorsító csarnok, kérem, ellenőrizze a gázcsavar fogását, műszerfalat és kapcsolódó vezetékeket";
 // Needs review
-"Diagnostic.ninebotError15" = "Abnormal brake Hall, please check brake twist grip, instrument panel and related wiring";
+"Diagnostic.ninebotError15" = "Rendellenes fékcsarnok, kérem, ellenőrizze a fékcsavarást, a markolatot, a műszerfalat és a kapcsolódó vezetékeket";
 // Needs review
-"Diagnostic.ninebotError16" = "Built-in battery abnormality in MOS switch, please check the main control panel";
+"Diagnostic.ninebotError16" = "Beépített akkumulátor rendellenesség a MOS kapcsolóban, kérlek, ellenőrizd a fő vezérlőpanelt";
 // Needs review
-"Diagnostic.ninebotError17" = "External battery abnormality in MOS switch, please check the main control panel";
+"Diagnostic.ninebotError17" = "Külső akkumulátor rendellenesség a MOS kapcsolóban, kérem, ellenőrizze a fő vezérlőpanelt";
 // Needs review
-"Diagnostic.ninebotError18" = "Abnormal motor Hall, please check motor, main control panel and related wiring";
+"Diagnostic.ninebotError18" = "Rendellenes motorház, kérem, ellenőrizze a motort, a fővezérlőpultot és a kapcsolódó vezetékeket";
 // Needs review
-"Diagnostic.ninebotError19" = "Built-in battery abnormality in voltage detection, please check built-in battery, main control panel and related wiring";
+"Diagnostic.ninebotError19" = "Beépített akkumulátor-rendellenesség a feszültségérzékelésben, kérjük, ellenőrizze a beépített akkumulátort, a fővezérlőpultot és a kapcsolódó vezetékeket";
 // Needs review
-"Diagnostic.ninebotError20" = "External battery abnormality in voltage detection, please check external battery, main control panel and related wiring";
+"Diagnostic.ninebotError20" = "Külső akkumulátor rendellenesség a feszültségérzékelésben, kérjük, ellenőrizze a külső akkumulátort, a fővezérlőpultot és a kapcsolódó vezetékeket";
 // Needs review
-"Diagnostic.ninebotError21" = "Built-in battery abnormality in communication, please check built-in battery, main control panel and related wiring";
+"Diagnostic.ninebotError21" = "Beépített akkumulátor rendellenesség a kommunikációban, kérjük, ellenőrizze a beépített akkumulátort, a fővezérlőpultot és a kapcsolódó vezetékeket";
 // Needs review
-"Diagnostic.ninebotError22" = "Built-in battery password is wrong, please replace the battery";
+"Diagnostic.ninebotError22" = "A beépített akkumulátor jelszó hibás, kérlek, cseréld ki az akkumulátort";
 // Needs review
-"Diagnostic.ninebotError23" = "Built-in battery is in default serial number, please replace the battery";
+"Diagnostic.ninebotError23" = "A beépített akkumulátor alapértelmezett sorozatszámban van, kérjük, cserélje ki az akkumulátort";
 // Needs review
-"Diagnostic.ninebotError24" = "System voltage detection abnormality, please check the main control panel";
+"Diagnostic.ninebotError24" = "Rendszerfeszültség-érzékelő rendellenesség, kérjük, ellenőrizze a fő vezérlőpultot";
 // Needs review
-"Diagnostic.ninebotError26" = "Flash save error, please check the main control panel";
+"Diagnostic.ninebotError26" = "Flash mentés hiba, kérlek, nézd meg a fő vezérlőpanelt";
 // Needs review
-"Diagnostic.ninebotError27" = "Master control password is wrong, please replace the main control panel";
+"Diagnostic.ninebotError27" = "A fő vezérlő jelszó hibás, kérem, cserélje ki a fő vezérlőpanelt";
 // Needs review
-"Diagnostic.ninebotError28" = "Short circuit in motor driven upper MOS bridge, please check the main control panel";
+"Diagnostic.ninebotError28" = "Rövidzárlat a motorhajtású felső MOS hídon, kérem, ellenőrizze a fő vezérlőpanelt";
 // Needs review
-"Diagnostic.ninebotError29" = "Failure in motor driven bottom MOS bridge, please check the main control panel";
+"Diagnostic.ninebotError29" = "Meghibásodás a motorhajtású alsó MOS hídon, kérem, ellenőrizze a fő vezérlőpanelt";
 // Needs review
-"Diagnostic.ninebotError31" = "Program skip error, please check the main control panel";
+"Diagnostic.ninebotError31" = "Program kiugrás hiba, kérlek, ellenőrizd a fő vezérlőpanelt";
 // Needs review
-"Diagnostic.ninebotError35" = "Vehicle is in default serial number, please replace the main control panel";
+"Diagnostic.ninebotError35" = "A jármű alapértelmezett sorozatszámban van, kérjük, cserélje ki a fő vezérlőpultot";
 // Needs review
-"Diagnostic.ninebotError36" = "2+4 connector failure or external battery charging wire failure";
+"Diagnostic.ninebotError36" = "2+4 csatlakozó hiba vagy külső akkumulátortöltő vezeték meghibásodása";
 // Needs review
-"Diagnostic.ninebotError37" = "Charging base failure or built-in battery charging wire failure";
+"Diagnostic.ninebotError37" = "Töltési bázis meghibásodása vagy beépített akkumulátortöltővezeték meghibásodása";
 // Needs review
-"Diagnostic.ninebotError38" = "The charging protection function fails, and there is still charging current after turning off";
+"Diagnostic.ninebotError38" = "A töltésvédelmi funkció meghibásodik, és a kikapcsolás után is van töltési áram";
 // Needs review
-"Diagnostic.ninebotError39" = "Built-in battery temperature sensor abnormality, please replace the battery";
+"Diagnostic.ninebotError39" = "Beépített akkumulátor hőmérséklet-érzékelő rendellenesség, kérem, cserélje ki az akkumulátort";
 // Needs review
-"Diagnostic.ninebotError40" = "Controller temperature sensor abnormality, please check the main control panel";
+"Diagnostic.ninebotError40" = "Vezérlő hőmérséklet-érzékelő rendellenessége, kérem, ellenőrizze a fő vezérlőpanelt";
 // Needs review
-"Diagnostic.ninebotError41" = "External battery temperature sensor abnormality, please replace the battery";
+"Diagnostic.ninebotError41" = "Külső akkumulátor hőmérséklet-érzékelő rendellenesség, kérem, cserélje ki az akkumulátort";
 // Needs review
-"Diagnostic.ninebotError42" = "External battery abnormality in communication, please check external battery, main control panel and related wiring";
+"Diagnostic.ninebotError42" = "Külső akkumulátor rendellenesség a kommunikációban, kérjük, ellenőrizze a külső akkumulátort, a fővezérlőpultot és a kapcsolódó vezetékeket";
 // Needs review
-"Diagnostic.ninebotError43" = "External battery password is wrong, please replace the battery";
+"Diagnostic.ninebotError43" = "A külső akkumulátor jelszó hibás, kérem, cserélje ki az akkumulátort";
 // Needs review
-"Diagnostic.ninebotError44" = "External battery is in default serial number, please replace the battery";
+"Diagnostic.ninebotError44" = "A külső akkumulátor alapértelmezett sorozatszámban van, kérjük, cseréld ki az akkumulátort";
 // Needs review
-"Diagnostic.ninebotError45" = "Built-in battery is overdischarge, please replace the battery";
+"Diagnostic.ninebotError45" = "A beépített akkumulátor túlkisülés, kérem, cserélje ki az akkumulátort";
 // Needs review
-"Diagnostic.ninebotError46" = "External battery is overdischarge, please replace the battery";
+"Diagnostic.ninebotError46" = "A külső akkumulátor túlkitöltést jelent, kérem, cserélje ki az akkumulátort";
 // Needs review
-"Diagnostic.ninebotError47" = "Built-in battery BMS is broken,please replace the battery";
+"Diagnostic.ninebotError47" = "A beépített akkumulátor BMS elromlott, kérem, cserélje ki az akkumulátort";
 // Needs review
-"Diagnostic.ninebotError48" = "External battery BMS is broken please replace the battery";
+"Diagnostic.ninebotError48" = "Külső akkumulátor BMS hibás, kérlek cseréld ki az akkumulátort";
 // Needs review
-"Diagnostic.ninebotError49" = "Built-in battery firmware version is old, please replace the battery or update firmware";
+"Diagnostic.ninebotError49" = "A beépített akkumulátor firmware verzió régi, kérlek, cseréld ki az akkumulátort vagy frissítsd a firmware-t";
 "Diagnostic.ninebotError50" = "External battery firmware version is old, please replace the battery or update firmware";
 // Needs review
-"Diagnostic.ninebotError51" = "Main controller and goose head doesn’t match with each other";
+"Diagnostic.ninebotError51" = "A fő kontroller és a libafej nem egyezik egymással";
 // Needs review
-"Diagnostic.temperatureMos" = "MOS temperature";
+"Diagnostic.temperatureMos" = "NE MELEGÍTSD";
 // Needs review
-"Diagnostic.temperatureMosEnv" = "MOS environment temperature";
+"Diagnostic.temperatureMosEnv" = "MOS környezeti hőmérséklet";
 // Needs review
-"Diagnostic.batteryType" = "Battery type";
+"Diagnostic.batteryType" = "Akkumulátor típus";
 // Needs review
-"Diagnostic.batteryCellCount" = "Cell count";
+"Diagnostic.batteryCellCount" = "Sejtszám";
 "AppData.allAppData" = "Összes app adat";
 "AppData.allData" = "Összes adat";
 "AppData.allMetrics" = "Összes metrika";
@@ -523,34 +523,34 @@
 "AppData.appData" = "App adat";
 "AppData.loading" = "Betöltés...";
 // Needs review
-"AppData.exportTrips" = "Export trips";
+"AppData.exportTrips" = "Exportutak";
 // Needs review
-"AppData.exportTripsDetail" = "Save trips to a file";
+"AppData.exportTripsDetail" = "Mentés egy fájlba";
 // Needs review
-"AppData.importTrips" = "Import trips";
+"AppData.importTrips" = "Importutazások";
 // Needs review
-"AppData.importTripsDetail" = "Load trips from a file";
+"AppData.importTripsDetail" = "Fájlból történő betöltési utazások";
 // Needs review
-"AppData.importTripsError" = "Please select the file with the extension 'dbb'";
+"AppData.importTripsError" = "Kérjük, válassza ki a 'dbb' kiterjesztésű fájlt";
 // Needs review
-"AppData.importTripsSuccess" = "Trips imported successfully";
+"AppData.importTripsSuccess" = "Sikeresen behozott utazások";
 // Needs review
-"AppData.storageOptimization" = "Storage optimization";
+"AppData.storageOptimization" = "Tárolás optimalizálása";
 // Needs review
-"AppData.storageOptimizationDetail" = "Application performance improvements. Metrics older than the last two days will be combined with a frequency of 1 hour";
+"AppData.storageOptimizationDetail" = "Alkalmazás teljesítményének javítása. Az elmúlt két napnál régebbi mutatókat 1 órás gyakorisággal kombináljuk";
 // Needs review
-"AppData.start" = "Start";
+"AppData.start" = "Kezdés";
 // Needs review
-"AppData.storageOptimizationQuestion" = "Do you really want to start optimizing storage?";
+"AppData.storageOptimizationQuestion" = "Tényleg szeretnéd elkezdeni a tárolás optimalizálását?";
 // Needs review
-"AppData.storageOptimizationMessage" = "The app storage already takes up a lot of space. Go to storage optimization?";
+"AppData.storageOptimizationMessage" = "Az alkalmazástárhely már így is sok helyet foglal. A tárolás optimalizálására menj?";
 // Needs review
-"AppData.storageOptimizationSuccess" = "Storage has been successfully optimized";
+"AppData.storageOptimizationSuccess" = "A tárolás sikeresen optimalizált";
 "Settings.about" = "Rólunk";
 "Settings.activationDate" = "Aktiválás dátuma";
 "Settings.alarms" = "Figyelmeztetések";
 // Needs review
-"Settings.alarmsDescription" = "Alarms by speed, amperage, power, temperature and PWM";
+"Settings.alarmsDescription" = "Riasztások sebesség, áramerő, teljesítmény, hőmérséklet és PWM szerint";
 "Settings.alarmsModeOff1" = "Első tiltva";
 "Settings.alarmsModeOff2" = "Első kettő tiltva";
 "Settings.alarmsModeOn" = "Engedélyezve";
@@ -562,22 +562,22 @@
 "Settings.application" = "Alkalmazás";
 "Settings.appsByDP" = "Darkness Production alkalmazások";
 // Needs review
-"Settings.appsByDPDetail" = "Other apps from us";
+"Settings.appsByDPDetail" = "Egyéb alkalmazások tőlünk";
 "Settings.appVibroAlarmsDetail" = "%@ -n és Apple Watch-on";
 "Settings.assemblyDate" = "Összeépítés dátuma";
 "Settings.automatic" = "Automatikus";
 "Settings.automaticTrackRecording" = "Autómatikus GPS útvonal rögzítés";
 // Needs review
-"Settings.automaticTrackRecordingDetail" = "Track recording may affect the running time %@";
+"Settings.automaticTrackRecordingDetail" = "A sávfelvétel befolyásolhatja a futási idő %-át %@";
 "Settings.automaticTripReset" = "Autómatikus túra újraindítás";
 // Needs review
-"Settings.automaticTripResetDetail" = "A new trip will be started after the timeout";
+"Settings.automaticTripResetDetail" = "Az időnév után új utazás indul";
 // Needs review
-"Settings.avas" = "Acoustic Vehicle Alerting System";
+"Settings.avas" = "Akusztikus jármű riasztó rendszer";
 // Needs review
-"Settings.balancing" = "Balancing";
+"Settings.balancing" = "Kiegyensúlyozás";
 // Needs review
-"Settings.batteryAmperage" = "Battery amperage";
+"Settings.batteryAmperage" = "Akkumulátor áramerértéke";
 "Settings.batteryCapacity" = "Akkumlátor kapacítás";
 "Settings.batteryCellAverageVoltage" = "Átlagos cella feszültség";
 "Settings.batteryCellDeltaVoltage" = "Cellák feszültség eltérése";
@@ -609,24 +609,24 @@
 "Settings.bugReport" = "Hibajelentés";
 "Settings.byAmperage" = "Áramerősség alapján";
 // Needs review
-"Settings.byBattery" = "By battery";
+"Settings.byBattery" = "Akkumulátor szerint";
 // Needs review
-"Settings.byBatteryDetail" = "Triggered when the battery charge is exceeded";
+"Settings.byBatteryDetail" = "Akkor aktiválódik, ha az akkumulátor töltöttsége túllép";
 // Needs review
-"Settings.byPower" = "By power";
+"Settings.byPower" = "Hatalommal";
 // Needs review
-"Settings.byPWM" = "By PWM";
+"Settings.byPWM" = "PWM által";
 "Settings.byPWMDetail" = "Motorteljesítmény százalékban. Ajánlott 80%% alatt tartani, a túlterhelés elkerülése érdekében";
 "Settings.bySpeed" = "Sebesség alapján";
 // Needs review
-"Settings.byTemperature" = "By temperature";
+"Settings.byTemperature" = "Hőmérséklet szerint";
 "Settings.byTemperatureDetail" = "Csak menet közben";
 "Settings.cacheMessage" = "Eszköz előzmények. Bármikor törölheted ezeket az adatokat. Szükségesek a hosszabb távú grafikonokhoz. Háttérben az alkalmazás optimalizálja az előzmények által foglalt területet";
 "Settings.cacheQuestion" = "Biztos törölni szeretnéd az előzményeket ehez az eszközhöz?";
 "Settings.cachesMessage" = "Eszköz előzmények. Bármikor törölheted ezeket az adatokat. Szükségesek a hosszabb távú grafikonokhoz. Háttérben az alkalmazás optimalizálja az előzmények által foglalt területet";
 "Settings.cachesQuestion" = "Biztos törölni szeretnéd az előzményeket az összes eszközhöz?";
 // Needs review
-"Settings.calibrate" = "Calibrate";
+"Settings.calibrate" = "Kalibrál";
 "Settings.calibration" = "Kalibráció";
 "Settings.calibrationInstruction" = "Érintsd meg az 'Alkalmaz' gombot, majd a készülék kikapcsol.\nÁllítsd az eszközt függőlegesen és vízszintesen a megfelelő állapotba.\nKapcsold be az eszközt ebben az állapotban.\nTartsd a készüléket ebben a helyzetben, amíg nem hallja a hangjelzést.\nKalibrálás kész!";
 "Settings.cameraQuality" = "Kamera minőség";
@@ -635,89 +635,89 @@
 "Settings.change" = "Módosít";
 "Settings.changesMessage" = "A módosítások az eszköz újraindítása után lépnek érvénybe";
 // Needs review
-"Settings.chooseFile" = "Choose file...";
+"Settings.chooseFile" = "Válassz fájlt...";
 "Settings.clear" = "Töröl";
 "Settings.configureModel" = "Configure your device model in the settings";
 "Settings.connectToDualshock" = "Csatlakozz a DualShock-hoz, az iOS beállításokban";
 // Needs review
-"Settings.contactSupport" = "Contact support";
+"Settings.contactSupport" = "Kapcsolatfelvétel ügyfélszolgálattal";
 // Needs review
-"Settings.contactSupportDetail" = "Report bug or feature request";
+"Settings.contactSupportDetail" = "Jelentés hibát vagy funkciókérést";
 "Settings.create" = "Készít";
 "Settings.credits" = "Köszönetnyílvánítás";
 // Needs review
-"Settings.creditsDetail" = "Try to find your name";
+"Settings.creditsDetail" = "Próbáld meg megtalálni a nevedet";
 "Settings.cruiseControl" = "Tempomat";
 // Needs review
-"Settings.cruiseControlDetail" = "Enabling constant speed mode";
+"Settings.cruiseControlDetail" = "Állandó sebességű mód engedélyezése";
 // Needs review
-"Settings.csvSharing" = "Trips export";
+"Settings.csvSharing" = "Utazások exportja";
 // Needs review
-"Settings.csvSharingDetail" = "Sharing trips in CSV";
+"Settings.csvSharingDetail" = "Utazások megosztása CSV-ben";
 "Settings.customBeep" = "Custom beep";
 "Settings.customBeepBicycle" = "Bicycle";
 "Settings.customBeepCar" = "Car";
 "Settings.customBeepCucaracha" = "Cucaracha";
 // Needs review
-"Settings.customBeepDetail" = "Replaces the device's beep";
+"Settings.customBeepDetail" = "Kicseréli az eszköz sípolását";
 // Needs review
-"Settings.customBeepPromo" = "Beep is not supported by the device, but you can configure a custom beep in the settings";
+"Settings.customBeepPromo" = "A sípolás nem támogatott az eszközben, de a beállításokban beállíthatsz egy egyedi sípolást";
 "Settings.customBeepTruck" = "Truck";
 // Needs review
-"Settings.customDashboard" = "Custom Dashboard";
+"Settings.customDashboard" = "Egyedi irányítópult";
 // Needs review
-"Settings.customDashboardDetail" = "Selecting tiles to display and adjusting the size";
+"Settings.customDashboardDetail" = "A csempék kiválasztása és a méret beállítása";
 // Needs review
-"Settings.customDashboardDescription" = "Flexible adjustment of tile sizes on the dashboard. Zoom in on the tiles with two fingers. Two-finger tap for fullscreen mode";
+"Settings.customDashboardDescription" = "Rugalmas csempe méretbeállítása a műszerfalon. Két ujjal nagyítsd be a csempéket. Kétujjas érintés a teljes képernyős módhoz";
 // Needs review
-"Settings.customDashboardZoomDetail" = "Flexible adjustment of tile sizes on the dashboard. Zoom in on the tiles with two fingers";
+"Settings.customDashboardZoomDetail" = "Rugalmas csempe méretbeállítása a műszerfalon. Két ujjal nagyítsd meg a csempéket";
 "Settings.customFirmwares" = "Egyedi Firmware";
 // Needs review
-"Settings.deviceAlarms" = "Device alarms";
+"Settings.deviceAlarms" = "Eszközriasztók";
 // Needs review
-"Settings.deviceAlarmsDetail" = "Speeding alarms on your device";
+"Settings.deviceAlarmsDetail" = "Sebességjelzők az eszközödön";
 // Needs review
-"Settings.deviceName" = "Device Name";
+"Settings.deviceName" = "Eszköz neve";
 // Needs review
-"Settings.deviceNameDetail" = "Applied locally to the application";
+"Settings.deviceNameDetail" = "Helyi alkalmazásra alkalmazva";
 // Needs review
-"Settings.deviceNameDescription" = "Ability to rename devices";
+"Settings.deviceNameDescription" = "Eszközök átnevezésének lehetősége";
 // Needs review
-"Settings.deviceWork" = "Device work";
+"Settings.deviceWork" = "Eszközmunka";
 "Settings.disabled" = "Kikapcsolt";
 // Needs review
-"Settings.disconnectQuestion" = "Are you sure you want to disconnect?";
+"Settings.disconnectQuestion" = "Biztos vagy benne, hogy le akarod választani?";
 "Settings.donate" = "Donate";
 // Needs review
-"Settings.dontRemoveLogs" = "Please don't remove logs file";
+"Settings.dontRemoveLogs" = "Kérlek, ne távolítsd el a naplófájlt";
 "Settings.dontSleep" = "Telefon ébrentartása";
 // Needs review
-"Settings.dontSleepDetail" = "Don't allow device screen turning off";
+"Settings.dontSleepDetail" = "Ne engedd, hogy az eszköz képernyője kikapcsoljon";
 "Settings.downhillAssistance" = "Downhill assistance";
 // Needs review
-"Settings.downhillAssistanceDetail" = "Automatic braking during downhill";
+"Settings.downhillAssistanceDetail" = "Automatikus fékezés lejtőben";
 // Needs review
-"Settings.downloadApp" = "Download app";
+"Settings.downloadApp" = "Alkalmazás letöltése";
 // Needs review
-"Settings.editMetrics" = "Edit metrics";
+"Settings.editMetrics" = "Mutatók szerkesztése";
 // Needs review
-"Settings.enabled" = "Enabled";
+"Settings.enabled" = "Engedélyezve";
 "Settings.engineSound" = "Motorhang";
 // Needs review
-"Settings.engineSoundDetail" = "AVAS with a choice of presets. Consulted with the developers of racing games to simulate the engine sounds";
+"Settings.engineSoundDetail" = "AVAS előbeállításokkal. A versenyjátékok fejlesztőivel konzultáltunk, hogy szimuláljuk a motor hangjait";
 "Settings.equalizerMode" = "Equalizer mód";
 // Needs review
-"Settings.exceededAmperage" = "Amperage exceeded";
+"Settings.exceededAmperage" = "Amperrám túlmutatott";
 // Needs review
-"Settings.exceededBattery" = "Battery level";
+"Settings.exceededBattery" = "Akkumulátorszint";
 // Needs review
-"Settings.exceededPower" = "Power exceeded";
+"Settings.exceededPower" = "Túlteljesített teljesítmény";
 // Needs review
-"Settings.exceededPWM" = "PWM level exceeded";
+"Settings.exceededPWM" = "A PWM szint túlmutatott";
 // Needs review
-"Settings.exceededSpeed" = "Speed exceeded";
+"Settings.exceededSpeed" = "Sebesség túlmutatása";
 // Needs review
-"Settings.exceededTemperature" = "Temperature exceeded";
+"Settings.exceededTemperature" = "A hőmérséklet túlmutatkozott";
 "Settings.experimentalMessage" = "Kisérleti beállítás! A DarknessBot és az eszköz készítője semmilyen felelőséget nem vállal a paraméter állításából adódó műküdésekért";
 "Settings.failedChangeValue" = "Nem sikerült módosítani az értéket";
 "Settings.featureRequest" = "Funkció igény";
@@ -728,260 +728,260 @@
 "Settings.flicInstruction" = "Nyomd meg és tartsd lenyomva a Flic-et, amíg csatlakozik. Ez nem tart tovább 10 másodpercnél.";
 "Settings.freeForMonth" = "Ingyenes egy hónapig";
 // Needs review
-"Settings.fromDevice" = "From device";
+"Settings.fromDevice" = "Eszközből";
 "Settings.fromDeviceDetail" = "If the firmware of the device allows it";
 // Needs review
-"Settings.garminMessage" = "To update the list of connected Garmin devices, open the Garmin Connect IQ app";
+"Settings.garminMessage" = "A csatlakoztatott Garmin eszközök listájának frissítéséhez nyisd meg a Garmin Connect IQ alkalmazást";
 "Settings.graphs" = "Graphs";
 // Needs review
-"Settings.graphsDescription" = "Viewing graphs for a long period up to a year";
+"Settings.graphsDescription" = "Grafikonok nézése hosszú ideig, akár egy évig";
 "Settings.graphsMessage" = "Mostmár megtekintheted a grafikonokat az elmúlt évhez";
 "Settings.handle" = "Kipörgésgátló";
 // Needs review
-"Settings.handleDetail" = "Locking the motor when lifting the device";
+"Settings.handleDetail" = "A motor zárolása az eszköz emelésekor";
 // Needs review
-"Settings.handleMode" = "Handle mode";
+"Settings.handleMode" = "Kezelő mód";
 // Needs review
-"Settings.homekitAdding" = "You can add HomeKit accessory in Home application";
+"Settings.homekitAdding" = "HomeKit kiegészítő hozzáadhat a Home alkalmazásban";
 // Needs review
-"Settings.homekitButton" = "HomeKit Button";
+"Settings.homekitButton" = "HomeKit gomb";
 "Settings.homekitOutlet" = "HomeKit Outlet";
 "Settings.imperialSystem" = "Angolszász értékek";
 // Needs review
-"Settings.imperialSystemDetail" = "Use miles instead of meters";
+"Settings.imperialSystemDetail" = "Használj mérföldeket a méterek helyett";
 // Needs review
-"Settings.inappPurchases" = "In-app purchases";
+"Settings.inappPurchases" = "Alkalmazáson belüli vásárlások";
 // Needs review
-"Settings.information" = "Information";
+"Settings.information" = "Információk";
 "Settings.inputNewCode" = "Írj be új kódot";
 "Settings.instruction" = "Instrukciók";
 "Settings.integration" = "Integráció";
 // Needs review
-"Settings.language" = "Language";
+"Settings.language" = "Nyelv";
 "Settings.learned" = "Optimalizálva";
 "Settings.learning" = "Optimalizáció...";
 "Settings.libraries" = "Külső alkalmazáskönyvtárak";
 "Settings.lightsColors" = "Fény színek";
 // Needs review
-"Settings.lightsDetail" = "Selecting the LED strip illumination";
+"Settings.lightsDetail" = "A LED csíkos világítás kiválasztása";
 // Needs review
-"Settings.lightSensor" = "Light sensor";
+"Settings.lightSensor" = "Fényérzékelő";
 // Needs review
-"Settings.lightSensorDetail" = "Automatically turn on the device's torch depending on the light level";
+"Settings.lightSensorDetail" = "Automatikusan kapcsold be az eszköz lámpáját a fényszinttől függően";
 "Settings.lightsMode" = "Fény mód";
 "Settings.lightsTypeColorfulBreathing" = "Színes pulzáló";
 "Settings.lightsTypeColorfulFlowing" = "Színes áramló";
 "Settings.lightsTypeColorfulRotating" = "Színes forgó";
 "Settings.limitedSpeed" = "Korlátozott sebesség";
 // Needs review
-"Settings.limitedSpeedDetail" = "Replaces the maximum speed in limit mode";
+"Settings.limitedSpeedDetail" = "A maximális sebességet helyettesíti a limit módban";
 "Settings.limitMode" = "Korlátozási mód";
 // Needs review
-"Settings.limitModeDetail" = "For training and legal restrictions";
+"Settings.limitModeDetail" = "Képzés és jogi korlátozások miatt";
 "Settings.lockMode" = "Zárolási mód";
 "Settings.lockOrientation" = "Képernyő forgatás zárolása";
 // Needs review
-"Settings.lockOrientationDetail" = "Prevent phone screen orientation changing";
+"Settings.lockOrientationDetail" = "Megakadályozd a telefon képernyő irányváltását";
 "Settings.logs" = "Logs";
 // Needs review
-"Settings.lowLatencyMode" = "Low latency mode";
+"Settings.lowLatencyMode" = "Alacsony késleltetésű mód";
 // Needs review
-"Settings.maxRollAngle" = "Max Roll Angle";
+"Settings.maxRollAngle" = "Maximális gurulási szög";
 // Needs review
-"Settings.maxRollAngleDetail" = "Tilt sideways to turn off. Not recommended to set more than 45 degrees";
+"Settings.maxRollAngleDetail" = "Oldalra billented, hogy kikapcsolj. Nem ajánlott 45 foknál fölé állítani";
 "Settings.maxSpeed" = "Végsebesség";
 // Needs review
-"Settings.maxSpeedDetail" = "Maximum speed of movement";
+"Settings.maxSpeedDetail" = "Maximális mozgási sebesség";
 "Settings.maxSpeedMode" = "Maximális sebesség mód";
 "Settings.maxSpeedModeDescription" = "Sebesség limit maximálisra állítása. Figyelmeztető jelzés a maximális sebességen";
 // Needs review
-"Settings.mileageEstimation" = "Mileage estimation";
+"Settings.mileageEstimation" = "Kilométerbecslés";
 // Needs review
-"Settings.mileageEstimationDetail" = "Specify the mileage on a single battery charge to increase the accuracy of calculating the remaining mileage";
+"Settings.mileageEstimationDetail" = "Egyetlen akkumulátortöltésnél megadjuk a kilométert, hogy pontosabb legyen a maradék kilométer kiszámítása";
 // Needs review
-"Settings.mileageEstimationDynamic" = "Dynamic mileage estimation";
+"Settings.mileageEstimationDynamic" = "Dinamikus kilométerbecslés";
 // Needs review
-"Settings.mileageEstimationDynamicDetail" = "Remaining mileage will be calculated dynamically depending on the driving style for the last time";
+"Settings.mileageEstimationDynamicDetail" = "A megmaradt kilométert dinamikusan számítják ki a vezetési stílustól függően utoljára";
 "Settings.model" = "Típus";
 // Needs review
-"Settings.musicVolumeAudioDevices" = "Audio devices";
+"Settings.musicVolumeAudioDevices" = "Hangeszközök";
 "Settings.musicVolumeControl" = "Automatikus hangerő";
 // Needs review
-"Settings.musicVolumeControlDetail" = "Music volume will be changed by speed";
+"Settings.musicVolumeControlDetail" = "A zene hangerője a sebesség szerint változik";
 // Needs review
-"Settings.musicVolumeExternalAddedDescription" = "Now the automatic volume only works on the added audio devices";
+"Settings.musicVolumeExternalAddedDescription" = "Most az automatikus hangerő csak a hozzáadott hangkészülékeken működik";
 // Needs review
-"Settings.musicVolumeExternalAllDescription" = "Now the automatic volume works on all connected audio devices.\nYou can add connected audio devices so that the automatic volume only works with them";
+"Settings.musicVolumeExternalAllDescription" = "Most az automatikus hangerő minden csatlakoztatott hangkészüléken működik.\nCsatlakoztatott hangszereket is hozzáadhatsz, így az automatikus hangerő csak velük működik";
 // Needs review
-"Settings.musicVolumeHideIndicator" = "Hide the system volume indicator";
+"Settings.musicVolumeHideIndicator" = "Rejtsd el a rendszer hangerőjelzőjét";
 // Needs review
-"Settings.musicVolumeLevel" = "Volume level";
+"Settings.musicVolumeLevel" = "Hangerőszint";
 // Needs review
-"Settings.musicVolumeMaxLevel" = "Maximum volume level";
+"Settings.musicVolumeMaxLevel" = "Maximális hangerő";
 // Needs review
-"Settings.musicVolumeMinLevel" = "Minimum volume level";
+"Settings.musicVolumeMinLevel" = "Minimális hangerő";
 "Settings.neuralNetwork" = "Mesterséges intelligencia";
 // Needs review
-"Settings.neuralNetworkDetail" = "Use neural network for remaining mileage calculation";
+"Settings.neuralNetworkDetail" = "Használj neurális hálózatot a maradék kilométerek számításához";
 "Settings.neuralNetworkMessage" = "A DarknessBot mesterséges intelligenciát (betanított neurális hálózatot) használ a megtehető távolság számításához. Több adatból pontosabb eredményekkel szolgálhatunk.";
 // Needs review
-"Settings.nextTrack" = "Next track";
+"Settings.nextTrack" = "Következő szám";
 "Settings.nobody" = "Senki";
 "Settings.officialSite" = "Honlap";
 "Settings.onConnection" = "Kapcsolódáskor";
 "Settings.onDisconnection" = "Lekapcsoláskor";
 // Needs review
-"Settings.onlyAfterSunset" = "Only after sunset";
+"Settings.onlyAfterSunset" = "Csak napnyugta után";
 // Needs review
-"Settings.onlyAfterSunsetDetail" = "Torch will automatically switch only in the dark time of day";
+"Settings.onlyAfterSunsetDetail" = "A Fáklya csak sötét napszakban vált automatikusan";
 "Settings.openApp" = "Nyissa meg az alkalmazást";
 // Needs review
-"Settings.other" = "Other";
+"Settings.other" = "Egyéb";
 // Needs review
-"Settings.outletDelay" = "Pre-charging time before switching off";
+"Settings.outletDelay" = "Előtöltési idő a kikapcsolás előtt";
 // Needs review
-"Settings.outletDelayEnabled" = "Pre-charging before switching off";
+"Settings.outletDelayEnabled" = "Előtöltés kikapcsolás előtt";
 // Needs review
-"Settings.participationRatings" = "Participation in ratings";
+"Settings.participationRatings" = "Részvétel a nézettségekben";
 "Settings.pedalHorizontal" = "A pedál vízszintes állása";
 "Settings.pedalHorizontalDetail" = "Pitch angle";
 "Settings.playPause" = "Play/Pause";
 "Settings.premium" = "Premium";
 // Needs review
-"Settings.premiumDescription" = "All current and upcoming paid features";
+"Settings.premiumDescription" = "Minden jelenlegi és közelgő fizetős funkció";
 "Settings.premiumFeatureTitle" = "This is a Premium feature";
 "Settings.premiumIncludes" = "Premium includes";
 "Settings.premiumMessage" = "Mostmár minden fizetős szolgáltatást használhatsz";
 // Needs review
-"Settings.previousTrack" = "Previous track";
+"Settings.previousTrack" = "Előző szám";
 "Settings.privacy" = "Adatvédelem";
 // Needs review
-"Settings.privacyLocationAccuracyDetail" = "Increases battery consumption";
+"Settings.privacyLocationAccuracyDetail" = "Növeli az akkumulátorfogyasztást";
 "Settings.privacyLocationAccuracyMessage" = "Improved location accuracy";
 // Needs review
-"Settings.privacyLocationBackgroundDetail" = "It is necessary for the tracker to work correctly and update the route";
+"Settings.privacyLocationBackgroundDetail" = "Szükséges, hogy a nyomkövető megfelelően működjön és frissítse az útvonalat";
 // Needs review
-"Settings.privacyLocationBackgroundMessage" = "Use location update in the background";
+"Settings.privacyLocationBackgroundMessage" = "Használd a háttérben a helyfrissítést";
 "Settings.privacyLocationMessage" = "Ki láthatja a helyszíned?";
 "Settings.privacySocialMessage" = "Ki láthatja a profilod?";
 "Settings.purchaseAlarms" = "Megvásárlod a riasztások?";
 // Needs review
-"Settings.purchaseBeep" = "Purchase custom beep?";
+"Settings.purchaseBeep" = "Egyedi sípolást vásárolni?";
 // Needs review
-"Settings.purchaseCustomDashboard" = "Purchase Custom Dashboard?";
+"Settings.purchaseCustomDashboard" = "Egyedi irányítópult vásárlása?";
 "Settings.purchased" = "Megvásárolt";
 // Needs review
-"Settings.purchaseEngineSound" = "Purchase Engine Sound?";
+"Settings.purchaseEngineSound" = "Motor Sound vásárlása?";
 // Needs review
-"Settings.purchaseGooglePlay" = "In-app purchases are only available in the release version from Google Play. You can install the version from Google Play, purchase purchases, then install the beta version. Purchases will be activated in the beta version";
+"Settings.purchaseGooglePlay" = "Az alkalmazáson belüli vásárlások csak a Google Play kiadásában elérhetők. Telepítheted a verziót a Google Play-ről, vásárolhatsz vásárlást, majd telepítheted a béta verziót. A vásárlások aktiválódnak a béta verzióban";
 "Settings.purchaseGraphs" = "Megvásárlod a grafikonok csomagot?";
 // Needs review
-"Settings.purchaseMusicVolumeControl" = "Purchase music volume control?";
+"Settings.purchaseMusicVolumeControl" = "Zene hangerőszabályzó vásárlása?";
 "Settings.purchasePremium" = "Purchase Premium?";
 "Settings.purchaseRecorder" = "Megvásárlod a képernyő felvevőt?";
 // Needs review
-"Settings.purchaseSandbox" = "In-app purchases are only available in the version from the App Store. You can install the version from the App Store over the current one, get purchases, then install the beta version over App Store version. In-app purchases will be activated in the beta version";
+"Settings.purchaseSandbox" = "Az alkalmazáson belüli vásárlások csak az App Store verziójában érhetők el. Az App Store-ból telepítheted a verziót a jelenlegi verzió fölé, vásárolhatsz, majd telepítheted a béta verziót az App Store verzió fölé. Az alkalmazáson belüli vásárlások aktiválódnak a béta verzióban";
 "Settings.purchaseTheme" = "Megvásárlod a kinézeteket?";
 "Settings.purchaseTorchAuto" = "Megvásárlod az autómatikus világítás csomagot?";
 "Settings.purchaseTracker" = "Megvásárlod a GPS Tracker-t?";
 // Needs review
-"Settings.pwmCorrection" = "PWM correction";
+"Settings.pwmCorrection" = "PWM javítás";
 // Needs review
-"Settings.pwmCorrectionDetail" = "Affects the calculation of the PWM value";
+"Settings.pwmCorrectionDetail" = "Befolyásolja a PWM érték számítását";
 // Needs review
-"Settings.pwmCorrectionMessage" = "On a full battery, %@ PWM will be reached at a speed of %@ with the selected correction:";
+"Settings.pwmCorrectionMessage" = "Teljes akkumulátor esetén a %@ PWM elérhető %@ sebességgel a kiválasztott korrekcióval:";
 // Needs review
-"Settings.pwmHowTo" = "How to adjust the PWM";
+"Settings.pwmHowTo" = "Hogyan állítsuk be a PWM-et";
 // Needs review
-"Settings.pwmHowToDescription" = "Fully charge the EUC\nAccelerate until the third EUC's alarm appears\nCheck the speed at which the alarm occurred\nThis speed corresponds to 80%% of the PWM for your EUC\nAdjust the PWM percentage according to the received speed";
+"Settings.pwmHowToDescription" = "Teljes feltöltés az EUC-t\nGyorsíts, amíg a harmadik EUC riasztása meg nem érkezik\nEllenőrizd a riasztás sebességét\nEz a sebesség az EUC PWM-jének 80%-ának felel meg\nÁllítsd be a PWM százalékot a befogadott sebesség szerint";
 // Needs review
-"Settings.pwmHowToDetail" = "With the correct setup, EUC cutout at motor reason will be no earlier than at 100%% PWM";
+"Settings.pwmHowToDetail" = "A megfelelő beállítással az EUC levágása motoros oknál nem lesz hamarabb, mint 100%%-os PWM";
 "Settings.questionType" = "Question type";
 "Settings.record" = "bejegyzés";
 "Settings.recorder" = "Videó rögzítő";
 // Needs review
-"Settings.recorderDetail" = "Recording video from a camera with metrics overlay";
+"Settings.recorderDetail" = "Videófelvétel kamerából metrikus átfedéssel";
 "Settings.recorderCameraMode" = "Kamera mód felvétel nélkül";
 // Needs review
-"Settings.recorderChromakey" = "Black chromakey screen";
+"Settings.recorderChromakey" = "Fekete kromakey képernyő";
 "Settings.recorderFlipMode" = "Tükör mód";
 // Needs review
-"Settings.recorderLeftSideWidgets" = "Left side widgets";
+"Settings.recorderLeftSideWidgets" = "Bal oldali widgetek";
 "Settings.recorderMessage" = "Mostmár tudsz videót rögziteni a főképernyőn";
 "Settings.recorderRightSideWidgets" = "Right side widgets";
 "Settings.records" = "bejegyzés";
 "Settings.recuperationMode" = "Rekuperációs mód";
 // Needs review
-"Settings.recuperationModeDetail" = "Regenerative braking level";
+"Settings.recuperationModeDetail" = "Regeneratív fékezési szint";
 "Settings.restore" = "Visszaállít";
 // Needs review
-"Settings.restoreDetail" = "If you previously made a purchase on another device, you can restore your purchases";
+"Settings.restoreDetail" = "Ha korábban más eszközön vásároltál, visszaállíthatod a vásárlásaidat";
 "Settings.restoredMessage" = "Vásárlások visszaállítva";
 // Needs review
-"Settings.restorePurchases" = "Restore purchases";
+"Settings.restorePurchases" = "Vásárlások helyreállítása";
 // Needs review
-"Settings.rideSettings" = "Ride settings";
+"Settings.rideSettings" = "Játékbeállítások";
 "Settings.ridingMode" = "Vezetési mód";
 // Needs review
-"Settings.ridingModeDetail" = "Affects the rigidity of the horizon retention";
+"Settings.ridingModeDetail" = "Befolyásolja a horizont megtartásának merevségét";
 "Settings.ridingModeEco" = "Eco";
 "Settings.ridingModeHard" = "Kemény";
 "Settings.ridingModePedestrian" = "Pedestrian";
 // Needs review
-"Settings.ridingModeScooterDetail" = "Switching the driving speed mode";
+"Settings.ridingModeScooterDetail" = "A vezetési sebesség módjának váltása";
 "Settings.ridingModeSoft" = "Puha";
 "Settings.ridingModeSport" = "Sport";
 "Settings.ridingModeStandard" = "Standard";
 // Needs review
-"Settings.safeMode" = "Safe mode";
+"Settings.safeMode" = "Biztonságos mód";
 // Needs review
-"Settings.safeModeDetail" = "Enables speed limit on low charge";
+"Settings.safeModeDetail" = "Alacsony töltéssel engedélyezi a sebességkorlátozást";
 "Settings.send" = "Send";
 "Settings.serialNumber" = "Sorozatszám";
 "Settings.shareLogs" = "Rendszernapló megosztása";
 "Settings.shop" = "Bolt";
 "Settings.showLogs" = "Mutasd a logokat";
 // Needs review
-"Settings.shutdownTime" = "Shutdown time";
+"Settings.shutdownTime" = "Leállási idő";
 // Needs review
-"Settings.shutdownTimeDetail" = "Automatic shutdown of the device";
+"Settings.shutdownTimeDetail" = "Az eszköz automatikus leállítása";
 // Needs review
-"Settings.smartAlarms" = "Smart alarms";
+"Settings.smartAlarms" = "Okos riasztók";
 // Needs review
-"Settings.smartAlarmsDescription" = "The speed alerts will decrease linearly as the device's charge decreases.\nUp to 80%% of the original value";
+"Settings.smartAlarmsDescription" = "A sebességriasztások lineárisan csökkennek, ahogy az eszköz töltése csökken.\nAz eredeti érték akár 80%%-a is";
 "Settings.sound" = "Hang";
 // Needs review
-"Settings.speedCorrection" = "Speed correction";
+"Settings.speedCorrection" = "Sebességkorrekció";
 // Needs review
-"Settings.speedCorrectionDetail" = "Affects the display of the current, average, and maximum speed";
+"Settings.speedCorrectionDetail" = "Befolyásolja az áram, átlag és maximális sebesség megjelenítését";
 // Needs review
-"Settings.mileageCorrection" = "Mileage correction";
+"Settings.mileageCorrection" = "Kilométerkorrekció";
 // Needs review
-"Settings.mileageCorrectionDetail" = "Affects the display of the single and total mileage";
+"Settings.mileageCorrectionDetail" = "Befolyásolja az egyetlen és az összkilométer megjelenítését";
 "Settings.splashScreen" = "Intro";
 // Needs review
-"Settings.splashScreenDisabling" = "Disabling splash screen";
+"Settings.splashScreenDisabling" = "Kikapcsolás splash-képernyő";
 // Needs review
-"Settings.splashScreenDetail" = "Showing hints and promos during app launch";
+"Settings.splashScreenDetail" = "Tippek és promóciók megjelenítése az alkalmazás indulásakor";
 // Needs review
-"Settings.splashScreenDescription" = "Ability to disable the splashscreen";
+"Settings.splashScreenDescription" = "Lehetőség a splashscreen letiltására";
 // Needs review
-"Settings.support" = "Support";
+"Settings.support" = "Támogatás";
 // Needs review
-"Settings.systemLanguage" = "System language";
+"Settings.systemLanguage" = "Rendszernyelv";
 "Settings.temperatureUnit" = "Hőmérséklet mértékegység";
 // Needs review
-"Settings.testDrive" = "Test drive";
+"Settings.testDrive" = "Tesztvezetés";
 // Needs review
-"Settings.testDriveDetail" = "Move the slider to check the sound";
+"Settings.testDriveDetail" = "Mozgasd a csúszkát, hogy ellenőrizzed a hangot";
 "Settings.theme" = "Kinézet";
 // Needs review
-"Settings.themeDetail" = "Ability to apply app themes";
+"Settings.themeDetail" = "Alkalmazás témák alkalmazásának lehetősége";
 "Settings.themeAuto" = "Autómatikus kinézet";
 // Needs review
-"Settings.themeAutoDetail" = "Automatic change theme by sunrise/sunset";
+"Settings.themeAutoDetail" = "Automatikus témaváltás napkelte/naplemente szerint";
 // Needs review
-"Settings.themeAutoSystemDetail" = "Automatic switching when the system theme changes";
+"Settings.themeAutoSystemDetail" = "Automatikus váltás, amikor a rendszer témája változik";
 "Settings.themeBlack" = "Fekete";
 "Settings.themeDefault" = "Alapértelmezett";
 "Settings.themeMessage" = "Mostmar változtathatod a kinézetet az alkalmazás beállitásai között";
@@ -989,21 +989,21 @@
 // Needs review
 "Settings.tiltback" = "Tiltback";
 // Needs review
-"Settings.tiltbackDetail" = "Speed at which the tiltback will occur";
+"Settings.tiltbackDetail" = "A fordulósebesség, amellyel a tiltés bekövetkezik";
 "Settings.torchAuto" = "Autómatikus világítás";
 // Needs review
-"Settings.torchAutoDetail" = "Automatically turn on the device's torch when driving after sunset";
+"Settings.torchAutoDetail" = "Automatikusan kapcsold be az eszköz lámpáját naplemente után vezetéskor";
 // Needs review
-"Settings.torchAutoOffSpeed" = "Maximum speed for turn off";
+"Settings.torchAutoOffSpeed" = "Maximális sebesség a kikapcsoláshoz";
 // Needs review
-"Settings.torchAutoOffSpeedDetail" = "Torch will turn off automatically if the speed is lower";
+"Settings.torchAutoOffSpeedDetail" = "A lámpa automatikusan kikapcsol, ha a sebesség alacsonyabb";
 // Needs review
-"Settings.torchAutoOnSpeed" = "Minimum speed to turn on";
+"Settings.torchAutoOnSpeed" = "Minimális sebesség a bekapcsoláshoz";
 // Needs review
-"Settings.torchAutoOnSpeedDetail" = "Torch will turn on automatically if the speed is higher";
+"Settings.torchAutoOnSpeedDetail" = "A lámpa automatikusan bekapcsol, ha a sebesség magasabb";
 "Settings.translate" = "Fordítás";
 // Needs review
-"Settings.translateDetail" = "Tap if you notice an error in the translation";
+"Settings.translateDetail" = "Érintsd meg, ha hibát észlelsz a fordításban";
 "Settings.turnOffOutlet" = "Kapcsolja ki, amikor az akkumulátor eléri a";
 "Settings.unpair" = "Kettyenés";
 "Settings.version" = "Verzió";
@@ -1011,218 +1011,218 @@
 "Settings.vibrateConnection" = "Rezgés kapcsolódáskor";
 "Settings.vibrateSpeed" = "Rezgés sebességhez";
 // Needs review
-"Settings.vibrateWatch" = "Vibrate on Watch";
+"Settings.vibrateWatch" = "Rezgés a Figyelés";
 // Needs review
-"Settings.vibrateWatchDetail" = "Works only when the watch screen is active";
+"Settings.vibrateWatchDetail" = "Csak akkor működik, ha az óra képernyője aktív";
 "Settings.vibration" = "Rezgés";
 // Needs review
-"Settings.voice" = "Voice";
+"Settings.voice" = "Hang";
 "Settings.voiceAlarms" = "Voice riasztások";
 "Settings.voiceControl" = "Hangvezérlés";
 // Needs review
-"Settings.voiceControlDetail" = "Enable Bluetooth music and voice alarms";
+"Settings.voiceControlDetail" = "Kapcsold be a Bluetooth zenét és hangriasztó rendszert";
 "Settings.volume" = "Hangerő";
 // Needs review
-"Settings.volumeDetail" = "Device speaker volume";
+"Settings.volumeDetail" = "Készülék hangszóró hangerő";
 // Needs review
-"Settings.trackerDetail" = "Records geolocation during the trip. The working time of your device may be reduced";
+"Settings.trackerDetail" = "Rögzíti a földrajzi helymeghatározást az utazás során. Az eszköz működési ideje csökkenhet";
 "Settings.dashboardRow" = "Row";
 // Needs review
-"Settings.tilesOrder" = "Tiles order";
+"Settings.tilesOrder" = "Csempék sorrendje";
 // Needs review
-"Settings.fastSettings" = "Fast settings";
+"Settings.fastSettings" = "Gyors beállítások";
 // Needs review
-"Settings.balanceSettings" = "Balance settings";
+"Settings.balanceSettings" = "Egyensúlybeállítások";
 // Needs review
-"Settings.cellBalanceLimit" = "Cell balance limit";
+"Settings.cellBalanceLimit" = "Sejtegyensúly korlát";
 // Needs review
-"Settings.chargingCellBalanceStart" = "Charging cell balance start";
+"Settings.chargingCellBalanceStart" = "Töltőcella egyenleg kezdete";
 // Needs review
-"Settings.cellDiffOn" = "Cell difference on";
+"Settings.cellDiffOn" = "Sejtkülönbség a";
 // Needs review
-"Settings.cellDiffOff" = "Cell difference off";
+"Settings.cellDiffOff" = "Cellakülönbség kikapcsolva";
 // Needs review
-"Settings.balanceAmperage" = "Balance amperage";
+"Settings.balanceAmperage" = "Egyensúlyi áramerő";
 // Needs review
-"Settings.balanceChargingAmperage" = "Balance charging amperage";
+"Settings.balanceChargingAmperage" = "Egyensúlyi töltési áramerő";
 // Needs review
-"Settings.bmsCellHighProtect" = "Cell high protect";
+"Settings.bmsCellHighProtect" = "Cell magas védelem";
 // Needs review
-"Settings.bmsCellHighRecover" = "Cell high recover";
+"Settings.bmsCellHighRecover" = "Sejtmagas regeneráció";
 // Needs review
-"Settings.bmsL2CellHighProtect" = "Cell high protect level 2";
+"Settings.bmsL2CellHighProtect" = "Cella magas védelem szintje 2";
 // Needs review
-"Settings.bmsL2CellHighRecover" = "Cell high recover level 2";
+"Settings.bmsL2CellHighRecover" = "Sejtmagas helyreállítás szintje 2";
 // Needs review
-"Settings.bmsPackVoltageHighProtect" = "Pack voltage high protect";
+"Settings.bmsPackVoltageHighProtect" = "Csomagfeszültség magas védelme";
 // Needs review
-"Settings.bmsPackVoltageHighRecover" = "Pack voltage high recover";
+"Settings.bmsPackVoltageHighRecover" = "Csomagfeszültség magas visszanyerése";
 // Needs review
-"Settings.bmsCellLowProtect" = "Cell low protect";
+"Settings.bmsCellLowProtect" = "Cell alacsony védelem";
 // Needs review
-"Settings.bmsCellLowRecover" = "Cell low recover";
+"Settings.bmsCellLowRecover" = "Sejt alacsony helyreállítás";
 // Needs review
-"Settings.bmsL2CellLowProtect" = "Cell low protect level 2";
+"Settings.bmsL2CellLowProtect" = "Cell alacsony védelem szintje 2";
 // Needs review
-"Settings.bmsL2CellLowRecover" = "Cell low recover level 2";
+"Settings.bmsL2CellLowRecover" = "Sejt alacsony helyreállítási szintje 2";
 // Needs review
-"Settings.bmsPackVoltageLowProtect" = "Pack voltage low protect";
+"Settings.bmsPackVoltageLowProtect" = "Csomagfeszültség alacsony védelem";
 // Needs review
-"Settings.bmsPackVoltageLowRecover" = "Pack voltage low recover";
+"Settings.bmsPackVoltageLowRecover" = "Csomagfeszültség alacsony visszanyerése";
 // Needs review
-"Settings.bmsChargeTempHighProtect" = "Charge temperature high protect";
+"Settings.bmsChargeTempHighProtect" = "Töltés hőmérséklete magas védelem";
 // Needs review
-"Settings.bmsChargeTempHighRecover" = "Charge temperature high recover";
+"Settings.bmsChargeTempHighRecover" = "Töltés hőmérséklete magas visszanyerése";
 // Needs review
-"Settings.bmsDischargeTempHighProtect" = "Discharge temperature high protect";
+"Settings.bmsDischargeTempHighProtect" = "Kisülési hőmérséklet magas védelem";
 // Needs review
-"Settings.bmsDischargeTempHighRecover" = "Discharge temperature high recover";
+"Settings.bmsDischargeTempHighRecover" = "A kisülési hőmérséklet magas visszanyerése";
 // Needs review
-"Settings.bmsMOSTempHighProtect" = "MOS temperature high protect";
+"Settings.bmsMOSTempHighProtect" = "MOS hőmérsékleti magas védelem";
 // Needs review
-"Settings.bmsMOSTempHighRecover" = "MOS temperature high recover";
+"Settings.bmsMOSTempHighRecover" = "MOS hőmérséklet magas helyreállítás";
 // Needs review
-"Settings.bmsChargeTempLowProtect" = "Charge temperature low protect";
+"Settings.bmsChargeTempLowProtect" = "Töltés hőmérséklete alacsony védelem";
 // Needs review
-"Settings.bmsChargeTempLowRecover" = "Charge temperature low recover";
+"Settings.bmsChargeTempLowRecover" = "Töltés hőmérséklete alacsony helyreállítása";
 // Needs review
-"Settings.bmsDischargeTempLowProtect" = "Discharge temperature low protect";
+"Settings.bmsDischargeTempLowProtect" = "Kisülési hőmérséklet alacsony védelem";
 // Needs review
-"Settings.bmsDischargeTempLowRecover" = "Discharge temperature low recover";
+"Settings.bmsDischargeTempLowRecover" = "A kisülési hőmérséklet alacsony visszanyerése";
 // Needs review
-"Settings.bmsChargeOverAmperageProtect" = "Charge over amperage protect";
+"Settings.bmsChargeOverAmperageProtect" = "Töltés áramerő felett védelem";
 // Needs review
-"Settings.bmsChargeOverAmperageProtectDelay" = "Charge over amperage protect delay";
+"Settings.bmsChargeOverAmperageProtectDelay" = "Töltés áramerő felett védelem késleltetése";
 // Needs review
-"Settings.bmsDischargeOverAmperageProtect" = "Discharge over amperage protect";
+"Settings.bmsDischargeOverAmperageProtect" = "Áramerő elleni kiömlés védelem";
 // Needs review
-"Settings.bmsDischargeOverAmperageProtectDelay" = "Discharge over amperage protect delay";
+"Settings.bmsDischargeOverAmperageProtectDelay" = "Áramerőtúli kiütés késleltetés";
 // Needs review
-"Settings.bmsL2DischargeOverAmperageProtect" = "Discharge over amperage protect level 2";
+"Settings.bmsL2DischargeOverAmperageProtect" = "Áramerő feletti kiömlés 2-es szintű védelem";
 // Needs review
-"Settings.bmsL2DischargeOverAmperageProtectDelay" = "Discharge over amperage protect delay level 2";
+"Settings.bmsL2DischargeOverAmperageProtectDelay" = "Áramerő feletti kiütés késleltetési szint 2";
 // Needs review
-"Settings.bmsShortCircuitProtect" = "Short circuit protect";
+"Settings.bmsShortCircuitProtect" = "Rövidzárlat védelem";
 // Needs review
-"Settings.bmsShortCircuitProtectDelay" = "Short circuit protect delay";
+"Settings.bmsShortCircuitProtectDelay" = "Rövidzárlat elleni késleltetés";
 // Needs review
-"Settings.amperageSettings" = "Amperage settings";
+"Settings.amperageSettings" = "Áramerő beállítások";
 // Needs review
-"Settings.voltageSettings" = "Voltage settings";
+"Settings.voltageSettings" = "Feszültségbeállítások";
 // Needs review
-"Settings.temperatureSettings" = "Temperature settings";
+"Settings.temperatureSettings" = "Hőmérséklet-beállítások";
 // Needs review
-"Settings.volumeButtons" = "Volume buttons";
+"Settings.volumeButtons" = "Hangerő gombok";
 // Needs review
-"Settings.increaseVolume" = "Increase volume";
+"Settings.increaseVolume" = "Növeld a hangerőt";
 // Needs review
-"Settings.decreaseVolume" = "Decrease volume";
+"Settings.decreaseVolume" = "Hangerő csökkentése";
 // Needs review
-"Settings.batteryCorrection" = "Battery correction";
+"Settings.batteryCorrection" = "Akkumulátor korrigálás";
 // Needs review
-"Settings.batteryCorrectionDetail" = "Affects the calculation of the battery level";
+"Settings.batteryCorrectionDetail" = "Befolyásolja az akkumulátor szint számítását";
 // Needs review
-"Settings.cellVoltage100" = "Cell voltage for 100%";
+"Settings.cellVoltage100" = "Cella feszültség 100%%-os";
 // Needs review
-"Settings.cellVoltage0" = "Cell voltage for 0%";
+"Settings.cellVoltage0" = "Cella feszültség 0%-kal";
 // Needs review
-"Settings.useDischargeCurve" = "Use discharge curve";
+"Settings.useDischargeCurve" = "Használj kisülési görbét";
 // Needs review
-"Settings.liveActivity" = "Live Activity";
+"Settings.liveActivity" = "Élő tevékenység";
 // Needs review
-"Settings.liveActivityDescription" = "Live Activity widget on lock screen and Dynamic Island";
+"Settings.liveActivityDescription" = "Élő Aktivitás widget a zárolási képernyőn és a Dynamic Island";
 // Needs review
-"Settings.breakingAmperage" = "Braking amperage";
+"Settings.breakingAmperage" = "Fékáram";
 // Needs review
-"Settings.extremeMode" = "Extreme mode";
+"Settings.extremeMode" = "Extrém mód";
 // Needs review
-"Settings.rotationControl" = "Rotation control";
+"Settings.rotationControl" = "Forgásvezérlés";
 // Needs review
-"Settings.breakingAmperageDetail" = "The force with which the motor will be decelerated from the current rotational speed to a stop. It is activated by pressing the motor stop button when the extreme mode is active";
+"Settings.breakingAmperageDetail" = "Az az erő, amellyel a motor az aktuális forgási sebességtől megállásig lassítható. A motor megállítás gombjának megnyomásával aktiválódik, amikor az extrém mód aktív.";
 "Settings.extremeModeDetail" = "It uses the capabilities of the firmware to perform extreme functions, for example, controlled braking. Not for regular driving";
 // Needs review
-"Settings.rotationControlDetail" = "A function for the Front Flip trick. If this function is enabled, the EUC will count 360 degrees of rotation from the position it was in when the motor stop button was pressed. When the function is disabled, the wheel is turned on by pressing the motor stop button again";
+"Settings.rotationControlDetail" = "Egy funkció az Front Flip trükk számára. Ha ez a funkció be van kapcsolva, az EUC 360 fokos forgástávolságot számol attól a pozíciótól, ahol a motor megállító gomb megnyomása alatt volt. Amikor a funkció letiltva, a kereket a motorstop gomb újranyomásával kapcsolják be";
 // Needs review
-"Settings.customDashboardMinTiles" = "At least one tile is needed to display the dashboard";
+"Settings.customDashboardMinTiles" = "Legalább egy csempe szükséges a műszerfal megjelenítéséhez";
 // Needs review
-"Settings.advancedSettings" = "Advanced settings";
+"Settings.advancedSettings" = "Fejlett beállítások";
 "Settings.horizonKP" = "Horizon KP";
 "Settings.horizonKI" = "Horizon KI";
 "Settings.horizonKD" = "Horizon KD";
 // Needs review
-"Settings.horizonDynamicCompensation" = "Horizon dynamic compensation";
+"Settings.horizonDynamicCompensation" = "Horizont dinamikai kompenzáció";
 // Needs review
-"Settings.horizonDynamicCompensationFilter" = "Horizon dynamic compensation filter";
+"Settings.horizonDynamicCompensationFilter" = "Horizon dinamikus kompenzációs szűrő";
 // Needs review
-"Settings.accelerationCompensation" = "Acceleration compensation";
+"Settings.accelerationCompensation" = "Gyorsulási kompenzáció";
 // Needs review
-"Settings.turnCompensation" = "Turn compensation";
+"Settings.turnCompensation" = "Körkompenzáció";
 // Needs review
-"Settings.currentKP" = "Current KP";
+"Settings.currentKP" = "Jelenlegi KP";
 // Needs review
-"Settings.currentKI" = "Current KI";
+"Settings.currentKI" = "Jelenlegi KI";
 // Needs review
-"Settings.currentDKP" = "Current DKP";
+"Settings.currentDKP" = "Jelenlegi DKP";
 // Needs review
-"Settings.currentDKI" = "Current DKI";
+"Settings.currentDKI" = "Jelenlegi DKI";
 // Needs review
-"Settings.rotationAngle" = "Rotation angle";
+"Settings.rotationAngle" = "Forgásszög";
 // Needs review
-"Settings.advancedSettingsDetails" = "Activation of 'Engineering settings'. Enabling this function switches the wheel to advanced settings mode. For the settings to be applied, you must set the pedals to 'Soft' mode.";
+"Settings.advancedSettingsDetails" = "A 'Mérnöki beállítások' aktiválása. Ennek a funkciónak a bekapcsolásával a kormány fejlett beállítások módra vált. A beállítások alkalmazásához a pedálokat 'Lágy' módra kell állítani.";
 // Needs review
-"Settings.horizonKPDetails" = "Horizon Hold PID Proportional Gain";
+"Settings.horizonKPDetails" = "Horizon Hold PID arányos nyereség";
 // Needs review
-"Settings.horizonKIDetails" = "Horizon hold controller PID integral gain";
+"Settings.horizonKIDetails" = "Horizont hold kontroller PID integrál erősítése";
 // Needs review
-"Settings.horizonKDDetails" = "Horizon hold PID differential gain";
+"Settings.horizonKDDetails" = "Horizont PID differenciálnyereség";
 // Needs review
-"Settings.horizonDynamicCompensationDetails" = "Dynamic horizon angle compensation";
+"Settings.horizonDynamicCompensationDetails" = "Dinamikus horizontszög-kompenzáció";
 // Needs review
-"Settings.horizonDynamicCompensationFilterDetails" = "Dynamic horizon compensation filter coefficient";
+"Settings.horizonDynamicCompensationFilterDetails" = "Dinamikus horizontkompenzációs szűrőegyüttható";
 // Needs review
-"Settings.accelerationCompensationDetails" = "Compensation for horizon deviations caused by wheel acceleration/deceleration";
+"Settings.accelerationCompensationDetails" = "A kerék gyorsulása/lassulása által okozott horizonteltérések kompenzációja";
 // Needs review
-"Settings.turnCompensationDetails" = "Compensation for horizon deviations caused by wheel turn";
+"Settings.turnCompensationDetails" = "A kerékforgatás által okozott horizonteltérések kompenzálása";
 // Needs review
-"Settings.currentKPDetails" = "Proportional gain of PID motor Q current ";
+"Settings.currentKPDetails" = "A PID motor Q áramának arányos erősítése";
 // Needs review
-"Settings.currentKIDetails" = "Integral gain of PID motor Q current";
+"Settings.currentKIDetails" = "A PID motor Q-áramának integrált erősítése";
 // Needs review
-"Settings.currentDKPDetails" = "Proportional gain of PID motor D current";
+"Settings.currentDKPDetails" = "A PID motor D áramának arányos erősítése";
 // Needs review
-"Settings.currentDKIDetails" = "Integral gain of PID motor D current";
+"Settings.currentDKIDetails" = "A PID motor D áramának integrált erősítése";
 // Needs review
-"Settings.rotationAngleDetails" = "The angle the wheel must rotate to engage when performing a Front Flip trick. Activated when the Rotation Control function is activated";
+"Settings.rotationAngleDetails" = "Az a szög, amit a keréknek forgatnia kell ahhoz, hogy bekapcsolódjon egy Front Flip trükk végrehajtása során. Aktiválódik, amikor a Rotation Control funkció aktiválódik";
 // Needs review
-"Settings.useSoftwarePWM" = "Software PWM";
+"Settings.useSoftwarePWM" = "Szoftver PWM";
 // Needs review
-"Settings.useSoftwarePWMDetails" = "Use software PWM instead hardware";
+"Settings.useSoftwarePWMDetails" = "Használj szoftveres PWM-et hardver helyett";
 // Needs review
-"Settings.supportUs" = "Support us";
+"Settings.supportUs" = "Támogasson minket";
 "Settings.mirrorThirdEye" = "Mirror «Third Eye»";
 // Needs review
-"Settings.topValue" = "Top value";
+"Settings.topValue" = "A legjobb érték";
 // Needs review
-"Settings.bottomValue" = "Bottom value";
+"Settings.bottomValue" = "Alsó érték";
 // Needs review
-"Settings.showTitles" = "Show titles";
+"Settings.showTitles" = "Műsorcímek";
 // Needs review
-"Settings.deviceSearch" = "Device search...";
+"Settings.deviceSearch" = "Eszközkeresés...";
 // Needs review
-"Settings.value" = "Value";
+"Settings.value" = "Érték";
 // Needs review
-"Settings.regularText" = "Regular text";
+"Settings.regularText" = "Normál szöveg";
 // Needs review
-"Settings.largeText" = "Large text";
+"Settings.largeText" = "Nagy szöveg";
 // Needs review
-"Settings.extraLargeText" = "Extra large text";
+"Settings.extraLargeText" = "Extra nagy szöveg";
 "Settings.segment" = "Segment";
 // Needs review
-"Settings.autoBrightness" = "Auto Brightness";
+"Settings.autoBrightness" = "Automatikus fényerő";
 // Needs review
-"Settings.trickMode" = "Trick mode";
+"Settings.trickMode" = "Trükk mód";
 // Needs review
-"Settings.noTrick" = "No trick";
+"Settings.noTrick" = "Semmi trükk";
 // Needs review
 "Settings.frontFlip" = "Front Flip";
 // Needs review
@@ -1230,32 +1230,32 @@
 "Settings.wearableIntegration" = "Fejlett viselhető eszközök integrációja";
 "Settings.wearableIntegrationDescription" = "ActiveLook és Harmadik Szem integráció";
 // Needs review
-"Settings.time" = "Time";
+"Settings.time" = "Idő";
 // Needs review
-"Settings.updateAvailable" = "Update available";
+"Settings.updateAvailable" = "Frissítés elérhető";
 // Needs review
-"Settings.newFromDeveloper" = "New from the developer";
+"Settings.newFromDeveloper" = "Újdonság a fejlesztőtől";
 // Needs review
-"Settings.new" = "New";
+"Settings.new" = "Új";
 // Needs review
-"Settings.dependence" = "Dependence";
+"Settings.dependence" = "Függőség";
 // Needs review
-"Settings.dependenceDetail" = "The metric from which the engine sound will be calculated";
+"Settings.dependenceDetail" = "Az a mérőszám, amelyből a motor hangját kiszámítják";
 // Needs review
-"Settings.informationAlarms" = "Information alarms";
+"Settings.informationAlarms" = "Információs riasztások";
 // Needs review
-"Settings.foundObjects" = "Found objects";
+"Settings.foundObjects" = "Talált tárgyak";
 // Needs review
-"Settings.relativeSpeed" = "Relative speed";
+"Settings.relativeSpeed" = "Relatív sebesség";
 // Needs review
-"Settings.distance" = "Distance";
+"Settings.distance" = "Távolság";
 // Needs review
-"Settings.dangerApproachSpeed" = "Danger approach speed";
+"Settings.dangerApproachSpeed" = "Veszélyes megközelítési sebesség";
 // Needs review
-"Settings.dangerDistance" = "Danger distance";
+"Settings.dangerDistance" = "Veszélytávolság";
 // Needs review
-"Settings.noObjectsFound" = "No objects found";
+"Settings.noObjectsFound" = "Nem talált tárgyat";
 // Needs review
-"Settings.maxDetectDistance" = "Max detect distance";
+"Settings.maxDetectDistance" = "Maximális távolság észlelése";
 // Needs review
-"Settings.nearestObject" = "Nearest object";
+"Settings.nearestObject" = "Legközelebbi objektum";

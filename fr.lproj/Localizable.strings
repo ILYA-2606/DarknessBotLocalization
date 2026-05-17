@@ -160,9 +160,9 @@
 "Map.macAddress" = "Adresse MAC";
 "Map.macAddressDetail" = "Liez l'adresse MAC à votre véhicule dans electro.club pour lier le trajet au véhicule dans le portal. Touchez pour copier l'adresse MAC";
 // Needs review
-"Map.notSelected" = "Not selected";
+"Map.notSelected" = "Non sélectionné";
 // Needs review
-"Map.connectedDevice" = "Connected device";
+"Map.connectedDevice" = "Dispositif connecté";
 "Map.euc" = "EUC";
 "Map.scooter" = "Scooter";
 "Map.segway" = "Segway";
@@ -170,7 +170,7 @@
 "Map.skate" = "Skate";
 "Map.smartBMS" = "Smart BMS";
 // Needs review
-"Map.anyDevice" = "Any device";
+"Map.anyDevice" = "N’importe quel appareil";
 "Devices.a" = "A";
 "Devices.averageSpeed" = "Vitesse moyenne";
 "Devices.battery" = "Batterie";
@@ -290,11 +290,11 @@
 "Devices.energyConsumption" = "Consommation d'énergie";
 "Devices.gettingServices" = "Récupération des services...";
 // Needs review
-"Devices.gpsSpeed" = "GPS Speed";
+"Devices.gpsSpeed" = "Vitesse GPS";
 // Needs review
 "Devices.pressToConfirm" = "Appuyez sur le bouton du guidon pour confirmer";
 // Needs review
-"Devices.authAdoEbike" = "Please connect the transport in the ADO EBIKE app";
+"Devices.authAdoEbike" = "Veuillez connecter le transport via l’application ADO EBIKE";
 "Intro.next" = "Suivant";
 "Intro.nice" = "Parfait!";
 "Intro.premiumTitle" = "Premium";
@@ -304,7 +304,7 @@
 "Intro.later" = "Plus tard";
 "Intro.buyPremium" = "Acheter la version Premium";
 // Needs review
-"Intro.feature1Title" = "Support for new devices";
+"Intro.feature1Title" = "Prise en charge des nouveaux appareils";
 "Intro.feature1Description" = "- Garmin Varia";
 "Intro.help1" = "Avant de partir, n'oubliez pas votre protection";
 "Intro.help2" = "Appuyer longuement sur la carte pour créer un trajet";
@@ -316,29 +316,29 @@
 "Intro.help8" = "L'export des logs et des trajets est disponible depuis l'onglet Trajets";
 "Intro.help9" = "Les trajets avec un parcours sont marqués de l'icône correspondante";
 // Needs review
-"Intro.onboardingTitle" = "Allow access";
+"Intro.onboardingTitle" = "Autoriser l’accès";
 // Needs review
-"Intro.onboardingMessage" = "in order to get full featured application";
+"Intro.onboardingMessage" = "pour obtenir une application complète";
 // Needs review
-"Intro.onboardingContinue" = "Continue";
+"Intro.onboardingContinue" = "Continuez";
 // Needs review
-"Intro.onboardingContinueMessage" = "check all permissions to continue";
+"Intro.onboardingContinueMessage" = "vérifiez toutes les permissions pour continuer";
 // Needs review
-"Intro.allow" = "Allow";
+"Intro.allow" = "Permettre";
 "Intro.bluetooth" = "Bluetooth";
 "Intro.location" = "Location";
 "Intro.cloudkit" = "CloudKit";
 "Intro.notification" = "Notifications";
 "Intro.tracking" = "Tracking";
 // Needs review
-"Intro.bluetoothDescription" = "For connecting to electrotransport";
+"Intro.bluetoothDescription" = "Pour se connecter à l’électrotransport";
 // Needs review
-"Intro.geolocationDescription" = "For recording routes and the operation of an automatic torch";
+"Intro.geolocationDescription" = "Pour enregistrer les itinéraires et le fonctionnement d’une lampe de poche automatique";
 "Intro.cloudkitDescription" = "Pour accéder au profil cloud, à la carte des utilisateurs et aux classements";
 // Needs review
-"Intro.notificationDescription" = "For notifications about the connection to electrotransport";
+"Intro.notificationDescription" = "Pour les notifications concernant la connexion à l’électrotransport";
 // Needs review
-"Intro.trackingDescription" = "We use this data to improve the application";
+"Intro.trackingDescription" = "Nous utilisons ces données pour améliorer l’application";
 "Intro.justLifetime" = "Juste %@ à vie";
 "Intro.trialStartedTitle" = "%i-jours Essai Premium commencé";
 "Intro.trialStartedSubtitle" = "Après la période d'essai, l'application continuera de fonctionner gratuitement.\n\nFonctionnalités incluses dans Premium";
@@ -440,22 +440,22 @@
 "AppData.importTripsError" = "Merci de choisir un fichier avec l'extension 'dbb'";
 "AppData.importTripsSuccess" = "Trajets importés avec succès";
 // Needs review
-"AppData.storageOptimization" = "Storage optimization";
+"AppData.storageOptimization" = "Optimisation du stockage";
 // Needs review
-"AppData.storageOptimizationDetail" = "Application performance improvements. Metrics older than the last two days will be combined with a frequency of 1 hour";
+"AppData.storageOptimizationDetail" = "Améliorations des performances des applications. Les indicateurs plus anciens que les deux derniers jours seront combinés avec une fréquence d'1 heure";
 // Needs review
-"AppData.start" = "Start";
+"AppData.start" = "Début";
 // Needs review
-"AppData.storageOptimizationQuestion" = "Do you really want to start optimizing storage?";
+"AppData.storageOptimizationQuestion" = "Voulez-vous vraiment commencer à optimiser le stockage ?";
 // Needs review
-"AppData.storageOptimizationMessage" = "The app storage already takes up a lot of space. Go to storage optimization?";
+"AppData.storageOptimizationMessage" = "Le stockage de l’application prend déjà beaucoup de place. Passer à l’optimisation du stockage ?";
 // Needs review
-"AppData.storageOptimizationSuccess" = "Storage has been successfully optimized";
+"AppData.storageOptimizationSuccess" = "Le stockage a été optimisé avec succès";
 "Settings.about" = "À propos";
 "Settings.activationDate" = "Date d'activation";
 "Settings.alarms" = "Alarmes";
 // Needs review
-"Settings.alarmsDescription" = "Alarms by speed, amperage, power, temperature and PWM";
+"Settings.alarmsDescription" = "Alarmes par vitesse, ampérage, puissance, température et PWM";
 "Settings.alarmsModeOff1" = "Première désactivée";
 "Settings.alarmsModeOff2" = "Deux premières désactivées";
 "Settings.alarmsModeOn" = "Activées";
@@ -508,9 +508,9 @@
 "Settings.bugReport" = "Rapport d'erreurs";
 "Settings.byAmperage" = "Par ampérage";
 // Needs review
-"Settings.byBattery" = "By battery";
+"Settings.byBattery" = "Par batterie";
 // Needs review
-"Settings.byBatteryDetail" = "Triggered when the battery charge is exceeded";
+"Settings.byBatteryDetail" = "Déclenché lorsque la charge de la batterie est dépassée";
 "Settings.byPower" = "Par puissance";
 "Settings.byPWM" = "Par PWM";
 "Settings.byPWMDetail" = "Pourcentage de moteur utilisé. Pas + de 80%% recommandé pour éviter les cut-off";
@@ -551,7 +551,7 @@
 "Settings.customBeepTruck" = "Camion";
 "Settings.customDashboard" = "Tableau de bord personnalisé";
 // Needs review
-"Settings.customDashboardDetail" = "Selecting tiles to display and adjusting the size";
+"Settings.customDashboardDetail" = "Sélectionner les tuiles à afficher et ajuster la taille";
 "Settings.customDashboardDescription" = "Ajustement dynamique de la taille des tuiles sur le tableau de bord. Utilisez 2 doigts pour un zoomer sur les tuiles. Tapez avec 2 doigts pour activer le mode Plein Écran";
 "Settings.customDashboardZoomDetail" = "Ajustement dynamique de la taille des tuiles sur le tableau de bord. Utilisez 2 doigts pour un zoomer sur les tuiles";
 "Settings.customFirmwares" = "Firmwares modifiés";
@@ -560,7 +560,7 @@
 "Settings.deviceName" = "Nom de l'appareil";
 "Settings.deviceNameDetail" = "S'applique localement dans l'application";
 // Needs review
-"Settings.deviceNameDescription" = "Ability to rename devices";
+"Settings.deviceNameDescription" = "Possibilité de renommer les appareils";
 "Settings.deviceWork" = "Fonctionnement de l'appareil";
 "Settings.disabled" = "Désactivé";
 "Settings.disconnectQuestion" = "Êtes-vous sûr de vouloir déconnecter ?";
@@ -575,11 +575,11 @@
 "Settings.enabled" = "Activé";
 "Settings.engineSound" = "Son du moteur";
 // Needs review
-"Settings.engineSoundDetail" = "AVAS with a choice of presets. Consulted with the developers of racing games to simulate the engine sounds";
+"Settings.engineSoundDetail" = "AVAS avec un choix de préréglages. A consulté les développeurs de jeux de course pour simuler les sons du moteur";
 "Settings.equalizerMode" = "Mode égaliseur";
 "Settings.exceededAmperage" = "Ampérage excessif";
 // Needs review
-"Settings.exceededBattery" = "Battery level";
+"Settings.exceededBattery" = "Niveau de batterie";
 "Settings.exceededPower" = "Puissance excessive";
 "Settings.exceededPWM" = "Niveau de PWM excessif";
 "Settings.exceededSpeed" = "Vitesse excessive";
@@ -637,7 +637,7 @@
 "Settings.maxRollAngleDetail" = "Incliner sur le côté pour éteindre. Il n'est pas recommandé de choisir un angle supérieur à 45 degrés";
 "Settings.maxSpeed" = "Vitesse maximale";
 // Needs review
-"Settings.maxSpeedDetail" = "Maximum speed of movement";
+"Settings.maxSpeedDetail" = "Vitesse maximale de déplacement";
 "Settings.maxSpeedMode" = "Mode Vitesse Max";
 "Settings.maxSpeedModeDescription" = "Régler la vitesse à son niveau maximal et régler l’alerte juste en-dessous de cette limite?";
 "Settings.mileageEstimation" = "Estimation de kilométrage";
@@ -709,7 +709,7 @@
 "Settings.record" = "Enregistrement";
 "Settings.recorder" = "Enregistrement vidéo";
 // Needs review
-"Settings.recorderDetail" = "Recording video from a camera with metrics overlay";
+"Settings.recorderDetail" = "Enregistrement vidéo d’une caméra avec une superposition métrique";
 "Settings.recorderCameraMode" = "Mode caméra sans enregistrement";
 "Settings.recorderChromakey" = "Écran noir pour mode Chromakey";
 "Settings.recorderFlipMode" = "Mode miroir";
@@ -751,16 +751,16 @@
 "Settings.mileageCorrectionDetail" = "Impact l'affichage du kilométrage restant unique et total";
 "Settings.splashScreen" = "Écran d'accueil";
 // Needs review
-"Settings.splashScreenDisabling" = "Disabling splash screen";
+"Settings.splashScreenDisabling" = "Désactivation de l’écran d’accueil";
 "Settings.splashScreenDetail" = "Astuces et promotions au démarrage de l'application";
 // Needs review
-"Settings.splashScreenDescription" = "Ability to disable the splashscreen";
+"Settings.splashScreenDescription" = "Possibilité de désactiver l’écran d’accueil";
 // Needs review
-"Settings.support" = "Support";
+"Settings.support" = "Soutien";
 "Settings.systemLanguage" = "Langue système";
 "Settings.temperatureUnit" = "Unité de température";
 // Needs review
-"Settings.testDrive" = "Test drive";
+"Settings.testDrive" = "Essai routier";
 "Settings.testDriveDetail" = "Bougez le curseur pour vérifier le volume du son";
 "Settings.theme" = "Thème";
 "Settings.themeDetail" = "Possibilité d'appliquer des thèmes";
@@ -802,116 +802,116 @@
 "Settings.fastSettings" = "Paramètres rapides";
 "Settings.balanceSettings" = "Paramètres d'équilibrage";
 // Needs review
-"Settings.cellBalanceLimit" = "Cell balance limit";
+"Settings.cellBalanceLimit" = "Limite d’équilibre cellulaire";
 // Needs review
-"Settings.chargingCellBalanceStart" = "Charging cell balance start";
+"Settings.chargingCellBalanceStart" = "Démarrage du solde de la cellule de charge";
 // Needs review
-"Settings.cellDiffOn" = "Cell difference on";
+"Settings.cellDiffOn" = "Différence cellulaire sur";
 // Needs review
-"Settings.cellDiffOff" = "Cell difference off";
+"Settings.cellDiffOff" = "Différence cellulaire désactivée";
 // Needs review
-"Settings.balanceAmperage" = "Balance amperage";
+"Settings.balanceAmperage" = "Ampérage d’équilibrage";
 // Needs review
-"Settings.balanceChargingAmperage" = "Balance charging amperage";
+"Settings.balanceChargingAmperage" = "Ampérage de charge équilibré";
 // Needs review
-"Settings.bmsCellHighProtect" = "Cell high protect";
+"Settings.bmsCellHighProtect" = "Protection à haute protection cellulaire";
 // Needs review
-"Settings.bmsCellHighRecover" = "Cell high recover";
+"Settings.bmsCellHighRecover" = "Cellule haute récupération";
 // Needs review
-"Settings.bmsL2CellHighProtect" = "Cell high protect level 2";
+"Settings.bmsL2CellHighProtect" = "Cell high protect niveau 2";
 // Needs review
-"Settings.bmsL2CellHighRecover" = "Cell high recover level 2";
+"Settings.bmsL2CellHighRecover" = "Cellule haute réhabilitation niveau 2";
 // Needs review
-"Settings.bmsPackVoltageHighProtect" = "Pack voltage high protect";
+"Settings.bmsPackVoltageHighProtect" = "Protection haute tension du pack";
 // Needs review
-"Settings.bmsPackVoltageHighRecover" = "Pack voltage high recover";
+"Settings.bmsPackVoltageHighRecover" = "Récupération haute tension du pack";
 // Needs review
-"Settings.bmsCellLowProtect" = "Cell low protect";
+"Settings.bmsCellLowProtect" = "Protection cellulaire faible";
 // Needs review
-"Settings.bmsCellLowRecover" = "Cell low recover";
+"Settings.bmsCellLowRecover" = "Récupération basse cellulaire";
 // Needs review
-"Settings.bmsL2CellLowProtect" = "Cell low protect level 2";
+"Settings.bmsL2CellLowProtect" = "Protection cellulaire faible niveau 2";
 // Needs review
-"Settings.bmsL2CellLowRecover" = "Cell low recover level 2";
+"Settings.bmsL2CellLowRecover" = "Cellule faible niveau de récupération 2";
 // Needs review
-"Settings.bmsPackVoltageLowProtect" = "Pack voltage low protect";
+"Settings.bmsPackVoltageLowProtect" = "Protection basse tension du pack";
 // Needs review
-"Settings.bmsPackVoltageLowRecover" = "Pack voltage low recover";
+"Settings.bmsPackVoltageLowRecover" = "Récupération basse tension du paquet";
 // Needs review
-"Settings.bmsChargeTempHighProtect" = "Charge temperature high protect";
+"Settings.bmsChargeTempHighProtect" = "Température de charge haute protection";
 // Needs review
-"Settings.bmsChargeTempHighRecover" = "Charge temperature high recover";
+"Settings.bmsChargeTempHighRecover" = "Température de charge à haute récupération";
 // Needs review
-"Settings.bmsDischargeTempHighProtect" = "Discharge temperature high protect";
+"Settings.bmsDischargeTempHighProtect" = "Température de refoulement haute protection";
 // Needs review
-"Settings.bmsDischargeTempHighRecover" = "Discharge temperature high recover";
+"Settings.bmsDischargeTempHighRecover" = "Température de décharge élevée";
 // Needs review
-"Settings.bmsMOSTempHighProtect" = "MOS temperature high protect";
+"Settings.bmsMOSTempHighProtect" = "Haute protection contre la température MOS";
 // Needs review
-"Settings.bmsMOSTempHighRecover" = "MOS temperature high recover";
+"Settings.bmsMOSTempHighRecover" = "Régénération élevée de température MOS";
 // Needs review
-"Settings.bmsChargeTempLowProtect" = "Charge temperature low protect";
+"Settings.bmsChargeTempLowProtect" = "Température de charge faible protection";
 // Needs review
-"Settings.bmsChargeTempLowRecover" = "Charge temperature low recover";
+"Settings.bmsChargeTempLowRecover" = "Faible récupération de température de charge";
 // Needs review
-"Settings.bmsDischargeTempLowProtect" = "Discharge temperature low protect";
+"Settings.bmsDischargeTempLowProtect" = "Température de décharge : faible protection";
 // Needs review
-"Settings.bmsDischargeTempLowRecover" = "Discharge temperature low recover";
+"Settings.bmsDischargeTempLowRecover" = "Température de décharge : faible récupération";
 // Needs review
-"Settings.bmsChargeOverAmperageProtect" = "Charge over amperage protect";
+"Settings.bmsChargeOverAmperageProtect" = "Protection contre charge sur ampérage";
 // Needs review
-"Settings.bmsChargeOverAmperageProtectDelay" = "Charge over amperage protect delay";
+"Settings.bmsChargeOverAmperageProtectDelay" = "Délai de protection charge sur ampérage";
 // Needs review
-"Settings.bmsDischargeOverAmperageProtect" = "Discharge over amperage protect";
+"Settings.bmsDischargeOverAmperageProtect" = "Protection par décharge sur ampérage";
 // Needs review
-"Settings.bmsDischargeOverAmperageProtectDelay" = "Discharge over amperage protect delay";
+"Settings.bmsDischargeOverAmperageProtectDelay" = "Délai de protection par décharge sur ampérage";
 // Needs review
-"Settings.bmsL2DischargeOverAmperageProtect" = "Discharge over amperage protect level 2";
+"Settings.bmsL2DischargeOverAmperageProtect" = "Protection de décharge sur ampérage niveau 2";
 // Needs review
-"Settings.bmsL2DischargeOverAmperageProtectDelay" = "Discharge over amperage protect delay level 2";
+"Settings.bmsL2DischargeOverAmperageProtectDelay" = "Décharge sur ampérage protection niveau de délai 2";
 // Needs review
-"Settings.bmsShortCircuitProtect" = "Short circuit protect";
+"Settings.bmsShortCircuitProtect" = "Protection contre les courts-circuits";
 // Needs review
-"Settings.bmsShortCircuitProtectDelay" = "Short circuit protect delay";
+"Settings.bmsShortCircuitProtectDelay" = "Délai de protection contre les courts-circuits";
 "Settings.amperageSettings" = "Paramètres d'ampérage";
 "Settings.voltageSettings" = "Paramètres de voltage";
 "Settings.temperatureSettings" = "Paramètres de température";
 // Needs review
 "Settings.volumeButtons" = "Volume buttons";
 // Needs review
-"Settings.increaseVolume" = "Increase volume";
+"Settings.increaseVolume" = "Augmentation du volume";
 // Needs review
-"Settings.decreaseVolume" = "Decrease volume";
+"Settings.decreaseVolume" = "Diminution du volume";
 // Needs review
-"Settings.batteryCorrection" = "Battery correction";
+"Settings.batteryCorrection" = "Correction de la batterie";
 // Needs review
-"Settings.batteryCorrectionDetail" = "Affects the calculation of the battery level";
+"Settings.batteryCorrectionDetail" = "Influence le calcul du niveau de batterie";
 // Needs review
-"Settings.cellVoltage100" = "Cell voltage for 100%";
+"Settings.cellVoltage100" = "Tension de la cellule à 100 %";
 // Needs review
-"Settings.cellVoltage0" = "Cell voltage for 0%";
+"Settings.cellVoltage0" = "Tension de la cellule pour 0 %";
 // Needs review
-"Settings.useDischargeCurve" = "Use discharge curve";
+"Settings.useDischargeCurve" = "Utiliser la courbe de débit";
 // Needs review
-"Settings.liveActivity" = "Live Activity";
+"Settings.liveActivity" = "Activité en direct";
 // Needs review
-"Settings.liveActivityDescription" = "Live Activity widget on lock screen and Dynamic Island";
+"Settings.liveActivityDescription" = "Widget Activité en direct sur l’écran de verrouillage et Dynamic Island";
 // Needs review
-"Settings.breakingAmperage" = "Braking amperage";
+"Settings.breakingAmperage" = "Ampérage de freinage";
 // Needs review
-"Settings.extremeMode" = "Extreme mode";
+"Settings.extremeMode" = "Mode extrême";
 // Needs review
-"Settings.rotationControl" = "Rotation control";
+"Settings.rotationControl" = "Contrôle de la rotation";
 // Needs review
-"Settings.breakingAmperageDetail" = "The force with which the motor will be decelerated from the current rotational speed to a stop. It is activated by pressing the motor stop button when the extreme mode is active";
+"Settings.breakingAmperageDetail" = "La force avec laquelle le moteur sera ralenti de la vitesse de rotation actuelle jusqu’à l’arrêt. Il s’active en appuyant sur le bouton d’arrêt du moteur lorsque le mode extrême est actif";
 // Needs review
-"Settings.extremeModeDetail" = "It uses the capabilities of the firmware to perform extreme functions, for example, controlled braking. Not for regular driving";
+"Settings.extremeModeDetail" = "Il utilise les capacités du firmware pour effectuer des fonctions extrêmes, par exemple le freinage contrôlé. Pas pour la conduite normale";
 // Needs review
-"Settings.rotationControlDetail" = "A function for the Front Flip trick. If this function is enabled, the EUC will count 360 degrees of rotation from the position it was in when the motor stop button was pressed. When the function is disabled, the wheel is turned on by pressing the motor stop button again";
+"Settings.rotationControlDetail" = "Une fonction pour l’effet du Front Flip. Si cette fonction est activée, l’EUC compte 360 degrés de rotation depuis la position où il se trouvait au moment où le bouton d’arrêt du moteur a été pressé. Lorsque la fonction est désactivée, le volant est allumé en appuyant à nouveau sur le bouton d’arrêt du moteur";
 // Needs review
-"Settings.customDashboardMinTiles" = "At least one tile is needed to display the dashboard";
+"Settings.customDashboardMinTiles" = "Au moins une tuile est nécessaire pour afficher le tableau de bord";
 // Needs review
-"Settings.advancedSettings" = "Advanced settings";
+"Settings.advancedSettings" = "Paramètres avancés";
 // Needs review
 "Settings.horizonKP" = "Horizon KP";
 // Needs review
@@ -919,84 +919,84 @@
 // Needs review
 "Settings.horizonKD" = "Horizon KD";
 // Needs review
-"Settings.horizonDynamicCompensation" = "Horizon dynamic compensation";
+"Settings.horizonDynamicCompensation" = "Compensation dynamique de l’horizon";
 // Needs review
-"Settings.horizonDynamicCompensationFilter" = "Horizon dynamic compensation filter";
+"Settings.horizonDynamicCompensationFilter" = "Filtre de compensation dynamique de l’horizon";
 // Needs review
-"Settings.accelerationCompensation" = "Acceleration compensation";
+"Settings.accelerationCompensation" = "Compensation d’accélération";
 // Needs review
-"Settings.turnCompensation" = "Turn compensation";
+"Settings.turnCompensation" = "Compensation de virage";
 // Needs review
-"Settings.currentKP" = "Current KP";
+"Settings.currentKP" = "KP actuel";
 // Needs review
-"Settings.currentKI" = "Current KI";
+"Settings.currentKI" = "KI actuel";
 // Needs review
-"Settings.currentDKP" = "Current DKP";
+"Settings.currentDKP" = "DKP actuel";
 // Needs review
-"Settings.currentDKI" = "Current DKI";
+"Settings.currentDKI" = "DKI actuel";
 // Needs review
-"Settings.rotationAngle" = "Rotation angle";
+"Settings.rotationAngle" = "Angle de rotation";
 // Needs review
-"Settings.advancedSettingsDetails" = "Activation of 'Engineering settings'. Enabling this function switches the wheel to advanced settings mode. For the settings to be applied, you must set the pedals to 'Soft' mode.";
+"Settings.advancedSettingsDetails" = "Activation des « Paramètres d’ingénierie ». Activer cette fonction permet de passer le volant en mode réglages avancés. Pour que les réglages soient appliqués, vous devez mettre les pédales en mode « Soft ».";
 // Needs review
-"Settings.horizonKPDetails" = "Horizon Hold PID Proportional Gain";
+"Settings.horizonKPDetails" = "Gain proportionnel de la PID à l’horizon";
 // Needs review
-"Settings.horizonKIDetails" = "Horizon hold controller PID integral gain";
+"Settings.horizonKIDetails" = "Gain intégré PID du contrôleur de maintien horizon";
 // Needs review
-"Settings.horizonKDDetails" = "Horizon hold PID differential gain";
+"Settings.horizonKDDetails" = "Gain différentiel PID de maintien horizon";
 // Needs review
-"Settings.horizonDynamicCompensationDetails" = "Dynamic horizon angle compensation";
+"Settings.horizonDynamicCompensationDetails" = "Compensation dynamique de l’angle d’horizon";
 // Needs review
-"Settings.horizonDynamicCompensationFilterDetails" = "Dynamic horizon compensation filter coefficient";
+"Settings.horizonDynamicCompensationFilterDetails" = "Coefficient de filtre de compensation d’horizon dynamique";
 // Needs review
-"Settings.accelerationCompensationDetails" = "Compensation for horizon deviations caused by wheel acceleration/deceleration";
+"Settings.accelerationCompensationDetails" = "Compensation des déviations d’horizon causées par l’accélération/décélération des roues";
 // Needs review
-"Settings.turnCompensationDetails" = "Compensation for horizon deviations caused by wheel turn";
+"Settings.turnCompensationDetails" = "Compensation des écarts d’horizon causés par le virage des roues";
 // Needs review
-"Settings.currentKPDetails" = "Proportional gain of PID motor Q current ";
+"Settings.currentKPDetails" = "Gain proportionnel du courant Q du moteur PID";
 // Needs review
-"Settings.currentKIDetails" = "Integral gain of PID motor Q current";
+"Settings.currentKIDetails" = "Gain intégral du courant Q du moteur PID";
 // Needs review
-"Settings.currentDKPDetails" = "Proportional gain of PID motor D current";
+"Settings.currentDKPDetails" = "Gain proportionnel du courant D du moteur PID";
 // Needs review
-"Settings.currentDKIDetails" = "Integral gain of PID motor D current";
+"Settings.currentDKIDetails" = "Gain intégral du courant D du moteur PID";
 // Needs review
-"Settings.rotationAngleDetails" = "The angle the wheel must rotate to engage when performing a Front Flip trick. Activated when the Rotation Control function is activated";
+"Settings.rotationAngleDetails" = "L’angle de rotation de la roue doit s’engager lors d’un tour de Front Flip. Activé lorsque la fonction de contrôle de rotation est activée";
 // Needs review
-"Settings.useSoftwarePWM" = "Software PWM";
+"Settings.useSoftwarePWM" = "PWM logiciel";
 // Needs review
-"Settings.useSoftwarePWMDetails" = "Use software PWM instead hardware";
+"Settings.useSoftwarePWMDetails" = "Utilisez un logiciel PWM au lieu du matériel";
 // Needs review
-"Settings.supportUs" = "Support us";
+"Settings.supportUs" = "Soutenez-nous";
 // Needs review
-"Settings.mirrorThirdEye" = "Mirror «Third Eye»";
+"Settings.mirrorThirdEye" = "Miroir « Troisième Œil »";
 // Needs review
-"Settings.topValue" = "Top value";
+"Settings.topValue" = "Valeur maximale";
 // Needs review
-"Settings.bottomValue" = "Bottom value";
+"Settings.bottomValue" = "Valeur inférieure";
 // Needs review
-"Settings.showTitles" = "Show titles";
+"Settings.showTitles" = "Titres des émissions";
 // Needs review
-"Settings.deviceSearch" = "Device search...";
+"Settings.deviceSearch" = "Recherche d’appareil...";
 // Needs review
-"Settings.value" = "Value";
+"Settings.value" = "Valeur";
 // Needs review
-"Settings.regularText" = "Regular text";
+"Settings.regularText" = "Texte régulier";
 // Needs review
-"Settings.largeText" = "Large text";
+"Settings.largeText" = "Texte volumineux";
 // Needs review
-"Settings.extraLargeText" = "Extra large text";
+"Settings.extraLargeText" = "Texte extra grand";
 "Settings.segment" = "Segment";
 // Needs review
-"Settings.autoBrightness" = "Auto Brightness";
+"Settings.autoBrightness" = "Luminosité automatique";
 // Needs review
-"Settings.trickMode" = "Trick mode";
+"Settings.trickMode" = "Mode trick";
 // Needs review
-"Settings.noTrick" = "No trick";
+"Settings.noTrick" = "Pas de piège";
 // Needs review
-"Settings.frontFlip" = "Front Flip";
+"Settings.frontFlip" = "Salto-avant";
 // Needs review
-"Settings.backFlip" = "Back Flip";
+"Settings.backFlip" = "Saltos arrière";
 "Settings.wearableIntegration" = "intégration avancée des dispositifs portables";
 "Settings.wearableIntegrationDescription" = "Intégration d'ActiveLook et du Troisième Œil";
 // Needs review

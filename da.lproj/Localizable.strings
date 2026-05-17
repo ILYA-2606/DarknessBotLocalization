@@ -114,11 +114,11 @@
 "Profile.noInternetConnection" = "Ingen internet forbindelse";
 "Profile.serverIncorrectResponse" = "Serveren sendte et forkert svar";
 // Needs review
-"Rate.appVersion" = "App version";
+"Rate.appVersion" = "App-version";
 "Rate.dontShowAgain" = "Vis ikke igen";
 "Rate.emailSubject" = "DarknessBot problem rapport";
 // Needs review
-"Rate.iosVersion" = "iOS version";
+"Rate.iosVersion" = "iOS-version";
 "Rate.likeAppQuestion" = "Kan du li' appen?";
 "Rate.likeQuestion" = "Kan du li' DarknessBot?";
 "Rate.likeYou" = "Vi kan også godt li'dig :)";
@@ -469,10 +469,10 @@
 "Settings.batteryInfo" = "Batteri info";
 "Settings.batteryPercent" = "Batteri procent";
 // Needs review
-"Settings.batteryVersion" = "Battery version";
+"Settings.batteryVersion" = "Batteriversion";
 "Settings.batteryVoltage" = "Batterispænding (V)";
 // Needs review
-"Settings.bleVersion" = "BLE version";
+"Settings.bleVersion" = "BLE-versionen";
 "Settings.bluetoothConnectHelp" = "Opret forbindelse til enheden i iOS-indstillinger / Bluetooth";
 "Settings.bluetoothLengthMessage" = "Bluetooth-parringskoden skal indeholde %i tal";
 "Settings.bluetoothMusic" = "Bluetooth musik";
@@ -480,7 +480,7 @@
 "Settings.bluetoothPincodeDetail" = "Konfiguration, ændring og nulstilling af enhedens pinkode";
 "Settings.bluetoothSpeaker" = "Bluetooth-højttaler";
 // Needs review
-"Settings.bmsVersion" = "BMS version";
+"Settings.bmsVersion" = "BMS-version";
 "Settings.brakeLights" = "Bremselys";
 "Settings.brakeLightsDetail" = "Aktivering af bremsesignalet";
 "Settings.brand" = "Mærke";
@@ -875,30 +875,30 @@
 "Settings.wearableIntegrationDescription" = "ActiveLook og Third Eye-integration";
 "Settings.time" = "Tid";
 // Needs review
-"Settings.updateAvailable" = "Update available";
+"Settings.updateAvailable" = "Opdatering tilgængelig";
 // Needs review
-"Settings.newFromDeveloper" = "New from the developer";
+"Settings.newFromDeveloper" = "Nyt fra udvikleren";
 // Needs review
-"Settings.new" = "New";
+"Settings.new" = "Ny";
 // Needs review
-"Settings.dependence" = "Dependence";
+"Settings.dependence" = "Afhængighed";
 // Needs review
-"Settings.dependenceDetail" = "The metric from which the engine sound will be calculated";
+"Settings.dependenceDetail" = "Den metrik, hvorfra motorlyden beregnes,";
 // Needs review
-"Settings.informationAlarms" = "Information alarms";
+"Settings.informationAlarms" = "Informationsalarmer";
 // Needs review
-"Settings.foundObjects" = "Found objects";
+"Settings.foundObjects" = "Fundne genstande";
 // Needs review
-"Settings.relativeSpeed" = "Relative speed";
+"Settings.relativeSpeed" = "Relativ hastighed";
 // Needs review
-"Settings.distance" = "Distance";
+"Settings.distance" = "Afstand";
 // Needs review
-"Settings.dangerApproachSpeed" = "Danger approach speed";
+"Settings.dangerApproachSpeed" = "Fareindflyvningshastighed";
 // Needs review
-"Settings.dangerDistance" = "Danger distance";
+"Settings.dangerDistance" = "Fareafstand";
 // Needs review
-"Settings.noObjectsFound" = "No objects found";
+"Settings.noObjectsFound" = "Ingen genstande fundet";
 // Needs review
-"Settings.maxDetectDistance" = "Max detect distance";
+"Settings.maxDetectDistance" = "Maksimal detekteret afstand";
 // Needs review
-"Settings.nearestObject" = "Nearest object";
+"Settings.nearestObject" = "Nærmeste objekt";

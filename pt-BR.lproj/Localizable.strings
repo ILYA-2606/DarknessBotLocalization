@@ -877,7 +877,7 @@
 // Needs review
 "Settings.turnCompensationDetails" = "Compensation for horizon deviations caused by wheel turn";
 // Needs review
-"Settings.currentKPDetails" = "Proportional gain of PID motor Q current ";
+"Settings.currentKPDetails" = "Proportional gain of PID motor Q current";
 // Needs review
 "Settings.currentKIDetails" = "Integral gain of PID motor Q current";
 // Needs review
