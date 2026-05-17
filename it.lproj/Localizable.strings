@@ -16,13 +16,13 @@
 "Firmware.upToDate" = "Il tuo firmware è aggiornato";
 "Firmware.whatsNew" = "Novità";
 // Needs review
-"Firmware.selectFirmware" = "Select the firmware";
+"Firmware.selectFirmware" = "Seleziona il firmware";
 // Needs review
-"Firmware.select" = "Select";
+"Firmware.select" = "Seleziona";
 // Needs review
-"Firmware.updateMessage" = "Update the firmware?";
+"Firmware.updateMessage" = "Aggiornare il firmware?";
 // Needs review
-"Firmware.noFirmwares" = "No firmwares available";
+"Firmware.noFirmwares" = "Nessun firmware disponibile";
 "Common.add" = "Aggiungi";
 "Common.apply" = "Conferma";
 "Common.cancel" = "Annulla";
@@ -46,7 +46,7 @@
 "Common.yes" = "Sì";
 "Common.trips" = "Viaggi";
 // Needs review
-"Common.copied" = "Copied";
+"Common.copied" = "Copiato";
 "Profile.addFriend" = "Aggiungi agli amici";
 "Profile.birthday" = "Compleanno";
 "Profile.cantImageSelected" = "Impossibile selezionare questa immagine";
@@ -102,28 +102,28 @@
 "Profile.yourFriend" = "Tuo amico";
 "Profile.yourPhoto" = "La tua foto";
 // Needs review
-"Profile.electroClubDetails" = "Log in to sync your trips with the electro.club portal";
+"Profile.electroClubDetails" = "Accedi per sincronizzare i tuoi viaggi con il portale electro.club";
 "Profile.email" = "Email";
 "Profile.password" = "Password";
 // Needs review
-"Profile.loggedAs" = "You are logged in as";
+"Profile.loggedAs" = "Sei connesso come";
 "Profile.logIn" = "Log in";
 "Profile.logout" = "Logout";
 "Profile.autoSyncTrips" = "Automatically sync new trips";
 // Needs review
-"Profile.autoSyncTripsDetail" = "Each new trip will be synchronized only after its completion";
+"Profile.autoSyncTripsDetail" = "Ogni nuovo viaggio sarà sincronizzato solo dopo il completamento";
 "Profile.garage" = "Garage";
 "Profile.mainTransport" = "Main";
 // Needs review
-"Profile.electroClubUploadQuestion" = "Are you sure you want to upload this trip to electro.club?";
+"Profile.electroClubUploadQuestion" = "Sei sicuro di voler caricare questo viaggio su electro.club?";
 // Needs review
-"Profile.electroClubNeedAccount" = "To upload this trip to the portal, you need to log in to electro.club";
+"Profile.electroClubNeedAccount" = "Per caricare questo viaggio sul portale, devi accedere a electro.club";
 "Profile.createAccount" = "Create account";
 "Profile.restorePassword" = "Restore password";
 // Needs review
-"Profile.electroClubUploaded" = "The trip has been successfully uploaded to the electro.club portal! Do you want to view it?";
+"Profile.electroClubUploaded" = "Il viaggio è stato caricato con successo sul portale electro.club! Vuoi vederlo?";
 // Needs review
-"Profile.noInternetConnection" = "No Internet connection";
+"Profile.noInternetConnection" = "Nessuna connessione Internet";
 "Profile.serverIncorrectResponse" = "Server sent an incorrect response";
 "Rate.appVersion" = "Versione dell'applicazione";
 "Rate.dontShowAgain" = "Non mostrare più";
@@ -168,12 +168,12 @@
 "Map.tracks" = "Percorsi";
 "Map.recordTrack" = "Registra il percorso";
 // Needs review
-"Map.trackerBackgroundLocation" = "DarknessBot collects location data to enable GPS data in CSV logs when the app is running in the background or when the screen is off. GPS data is not collected when electrotransport is disconnected. The tracker works even when the app is minimized, so you need to allow full location access ‘Allow all the time’";
+"Map.trackerBackgroundLocation" = "DarknessBot raccoglie dati di posizione per abilitare i dati GPS nei log CSV quando l'app è in esecuzione in background o quando lo schermo è spento. I dati GPS non vengono raccolti quando l'electrotransport è disconnesso. Il tracker funziona anche quando l'app è minimizzata, quindi devi consentire l'accesso completo alla posizione 'Consenti sempre'";
 // Needs review
-"Map.removeTripQuestion" = "Are you sure you want to delete this trip?";
+"Map.removeTripQuestion" = "Sei sicuro di voler cancellare questo viaggio?";
 "Map.macAddress" = "MAC address";
 // Needs review
-"Map.macAddressDetail" = "Link the MAC address to your transport in electro.club to link the track to the transport on the portal. Tap to copy the MAC address";
+"Map.macAddressDetail" = "Collega l'indirizzo MAC al tuo trasporto in electro.club per collegare il binario al trasporto sul portale. Tocca per copiare l'indirizzo MAC";
 "Map.notSelected" = "Not selected";
 "Map.connectedDevice" = "Connected device";
 "Map.euc" = "EUC";
@@ -204,7 +204,7 @@
 "Devices.current" = "Corrente";
 "Devices.d" = "g";
 // Needs review
-"Devices.dashboardConfirmation" = "Please confirm connection with dashboard button on your scooter";
+"Devices.dashboardConfirmation" = "Per favore conferma la connessione con il pulsante del cruscotto sul tuo scooter";
 "Devices.day" = "giorno";
 "Devices.days" = "giorni";
 "Devices.demo" = "Demo";
@@ -221,7 +221,7 @@
 "Devices.firmwareNotSupported" = "Il firmware attuale del dispositivo non è supportato";
 "Devices.firmwareNotSupportedDetail" = "Assicurati che il modello del tuo veicolo, o il firmware, sia presente nella lista dei dispositivi supportati";
 // Needs review
-"Devices.bleFirmwareNotSupportedDetail" = "It is likely that an unsupported version of the BLE firmware is installed on your electrotransport model. Versions 1.3.1 or lower are supported. You can change the BLE firmware via the XiaoFlasher app";
+"Devices.bleFirmwareNotSupportedDetail" = "È probabile che una versione non supportata del firmware BLE sia installata sul tuo modello di electrotransport. Sono supportate versioni 1.3.1 o inferiori. Puoi cambiare il firmware BLE tramite l'app XiaoFlasher";
 "Devices.hardwareNotSupported" = "Hardware non supportato";
 "Devices.hour" = "ora";
 "Devices.hours" = "ore";
@@ -260,7 +260,7 @@
 "Devices.reset" = "Reset";
 "Devices.tripReset" = "Trip reset";
 // Needs review
-"Devices.resetQuestion" = "Are you sure you want to reset this value? You can also start a new trip";
+"Devices.resetQuestion" = "Sei sicuro di voler resettare questo valore? Puoi anche iniziare un nuovo viaggio";
 "Devices.roll" = "Roll";
 "Devices.searching" = "Ricerca dispositivi in corso...";
 "Devices.singleMileage" = "Distanza Percorsa";
@@ -277,7 +277,7 @@
 "Devices.totalMileage" = "Distanza Totale";
 "Devices.totalRuntime" = "Durata Totale";
 // Needs review
-"Devices.trialPeriod" = "Free Premium: %@ left";
+"Devices.trialPeriod" = "Premium gratuito: %@ left.";
 "Devices.turnOff" = "Spegni";
 "Devices.v" = "V";
 "Devices.view" = "Visualizza";
@@ -293,27 +293,27 @@
 "Devices.yesterday" = "Ieri";
 "Devices.batteryOptimizationTitle" = "Battery optimization detected";
 // Needs review
-"Devices.batteryOptimizationMessage" = "Disable optimization in settings to improve app performance";
+"Devices.batteryOptimizationMessage" = "Disattiva l'ottimizzazione nelle impostazioni per migliorare le prestazioni dell'app";
 // Needs review
-"Devices.inmotionV11Update" = "For security reasons, it is recommended to update your V11 to version 1.4.15 or newer with InMotion app";
+"Devices.inmotionV11Update" = "Per motivi di sicurezza, si consiglia di aggiornare la versione 11 alla versione 1.4.15 o successiva con l'app InMotion";
 "Devices.notificationChannelName" = "Status";
 "Devices.notificationChannelDescription" = "Notification of connection status";
 // Needs review
-"Devices.notificationPermissionMessage" = "Provide access to notifications to monitor the connection status and improve the work in the background mode";
+"Devices.notificationPermissionMessage" = "Fornire accesso alle notifiche per monitorare lo stato della connessione e migliorare il lavoro in modalità background";
 "Devices.locationPermissionMessage" = "Grant access to geolocation";
 "Devices.untilDischarge" = "Until discharge";
 "Devices.untilCharge" = "Until full charge";
 // Needs review
-"Devices.resetEstimationMessage" = "The calculation of the time to charge/discharge and the remaining mileage will start again from this moment. Are you sure you want to reset the calculation?";
+"Devices.resetEstimationMessage" = "Il calcolo del tempo di carica/scarica e del chilometraggio rimanente ricomincerà da questo momento. Sei sicuro di voler resettare il calcolo?";
 "Devices.dischargeEstimationInfix" = "in";
 "Devices.sec" = "s";
 "Devices.energyConsumption" = "Energy consumption";
 "Devices.gettingServices" = "Getting services...";
 "Devices.gpsSpeed" = "GPS Speed";
 // Needs review
-"Devices.pressToConfirm" = "Press the button on the handlebar to confirm";
+"Devices.pressToConfirm" = "Premi il pulsante sul manubrio per confermare";
 // Needs review
-"Devices.authAdoEbike" = "Please connect the transport in the ADO EBIKE app";
+"Devices.authAdoEbike" = "Si prega di collegare il trasporto tramite l'app ADO EBIKE";
 "Intro.next" = "Avanti";
 "Intro.nice" = "Bene!";
 "Intro.premiumTitle" = "Premium";
@@ -323,7 +323,7 @@
 "Intro.later" = "Più tardi";
 "Intro.buyPremium" = "Acquista Premium";
 // Needs review
-"Intro.feature1Title" = "Support for new devices";
+"Intro.feature1Title" = "Supporto per nuovi dispositivi";
 "Intro.feature1Description" = "- Garmin Varia";
 "Intro.help1" = "Prima di guidare, non dimenticarti delle protezioni";
 "Intro.help2" = "Puoi impostare un percorso sulla mappa tenendo premuto il dito";
@@ -336,10 +336,10 @@
 "Intro.help9" = "I viaggi con un tragitto sono contrassegnati con la rispettiva icona";
 "Intro.onboardingTitle" = "Allow access";
 // Needs review
-"Intro.onboardingMessage" = "in order to get full featured application";
+"Intro.onboardingMessage" = "per ottenere l'applicazione completa";
 "Intro.onboardingContinue" = "Continue";
 // Needs review
-"Intro.onboardingContinueMessage" = "check all permissions to continue";
+"Intro.onboardingContinueMessage" = "Controlla tutti i permessi per continuare";
 "Intro.allow" = "Allow";
 "Intro.bluetooth" = "Bluetooth";
 "Intro.location" = "Location";
@@ -348,12 +348,12 @@
 "Intro.tracking" = "Tracking";
 "Intro.bluetoothDescription" = "For connecting to electrotransport";
 // Needs review
-"Intro.geolocationDescription" = "For recording routes and the operation of an automatic torch";
+"Intro.geolocationDescription" = "Per registrare i percorsi e il funzionamento di una torcia automatica";
 "Intro.cloudkitDescription" = "Per accedere al profilo Cloud, alla mappa degli utenti e alle classifiche";
 // Needs review
-"Intro.notificationDescription" = "For notifications about the connection to electrotransport";
+"Intro.notificationDescription" = "Per notifiche sulla connessione all'elettrotrasporto";
 // Needs review
-"Intro.trackingDescription" = "We use this data to improve the application";
+"Intro.trackingDescription" = "Utilizziamo questi dati per migliorare l'applicazione";
 "Intro.justLifetime" = "Solo %@ Vita";
 "Intro.trialStartedTitle" = "Iniziata la prova Premium di %i giorni";
 "Intro.trialStartedSubtitle" = "Dopo aver completato la prova, l'app continuerà a funzionare gratuitamente.\n\nFunzionalità incluse nella versione Premium";
@@ -400,78 +400,78 @@
 "Diagnostic.highVoltage" = "La tensione è troppo alta, sì prega di non andare in discesa per troppo tempo";
 "Diagnostic.inProgress" = "In corso";
 // Needs review
-"Diagnostic.ninebotError10" = "Abnormal communication between instrument panel and main control, please check related wiring";
+"Diagnostic.ninebotError10" = "Comunicazione anomala tra il quadro strumenti e il controllo principale, per favore verifica i cablaggi correlati";
 // Needs review
-"Diagnostic.ninebotError11" = "Abnormal A phase current sampling of the motor, please check the main control panel";
+"Diagnostic.ninebotError11" = "Campionamento di corrente di fase A anomala del motore, controlla il pannello di controllo principale";
 // Needs review
-"Diagnostic.ninebotError12" = "Abnormal B phase current sampling of the motor, please check the main control panel";
+"Diagnostic.ninebotError12" = "Campionamento anomalo di corrente in fase B del motore, si prega di controllare il pannello di controllo principale";
 // Needs review
-"Diagnostic.ninebotError13" = "Abnormal C phase current sampling of the motor, please check the main control panel";
+"Diagnostic.ninebotError13" = "Campionamento di corrente in fase C anomala del motore, si prega di controllare il pannello di controllo principale";
 // Needs review
-"Diagnostic.ninebotError14" = "Abnormal accelerator Hall, please check accelerator twist grip, instrument panel and related wiring";
+"Diagnostic.ninebotError14" = "Acceleratore anomalio Hall, per favore verifica la presa a torsione dell'acceleratore, il pannello strumenti e i collegati";
 // Needs review
-"Diagnostic.ninebotError15" = "Abnormal brake Hall, please check brake twist grip, instrument panel and related wiring";
+"Diagnostic.ninebotError15" = "Frenata anormale, si prega di controllare la presa a rotazione dei freni, il quadro strumenti e i collegati cablaggi";
 // Needs review
-"Diagnostic.ninebotError16" = "Built-in battery abnormality in MOS switch, please check the main control panel";
+"Diagnostic.ninebotError16" = "Anomalia della batteria integrata nell'interruttore MOS, controlla il pannello di controllo principale";
 // Needs review
-"Diagnostic.ninebotError17" = "External battery abnormality in MOS switch, please check the main control panel";
+"Diagnostic.ninebotError17" = "Anomalia della batteria esterna nell'interruttore MOS, controlla il pannello di controllo principale";
 // Needs review
-"Diagnostic.ninebotError18" = "Abnormal motor Hall, please check motor, main control panel and related wiring";
+"Diagnostic.ninebotError18" = "Sala motore anomala, si prega di controllare motore, pannello di controllo principale e collegati";
 // Needs review
-"Diagnostic.ninebotError19" = "Built-in battery abnormality in voltage detection, please check built-in battery, main control panel and related wiring";
+"Diagnostic.ninebotError19" = "Anomalia della batteria integrata nel rilevamento della tensione, si prega di controllare la batteria integrata, il pannello di controllo principale e i collegati cablaggi";
 // Needs review
-"Diagnostic.ninebotError20" = "External battery abnormality in voltage detection, please check external battery, main control panel and related wiring";
+"Diagnostic.ninebotError20" = "Anomalia nella batteria esterna nel rilevamento della tensione, si prega di controllare la batteria esterna, il pannello di controllo principale e i collegati cablaggi";
 // Needs review
-"Diagnostic.ninebotError21" = "Built-in battery abnormality in communication, please check built-in battery, main control panel and related wiring";
+"Diagnostic.ninebotError21" = "Anomalia nella batteria integrata nella comunicazione, per favore verifica la batteria integrata, il pannello di controllo principale e i collegati";
 // Needs review
-"Diagnostic.ninebotError22" = "Built-in battery password is wrong, please replace the battery";
+"Diagnostic.ninebotError22" = "La password della batteria integrata è sbagliata, per favore sostituisci la batteria";
 // Needs review
-"Diagnostic.ninebotError23" = "Built-in battery is in default serial number, please replace the battery";
+"Diagnostic.ninebotError23" = "La batteria integrata è nel numero di serie predefinito, per favore sostituisci la batteria";
 // Needs review
-"Diagnostic.ninebotError24" = "System voltage detection abnormality, please check the main control panel";
+"Diagnostic.ninebotError24" = "Anomalia nel rilevamento della tensione di sistema, controlla il pannello di controllo principale";
 // Needs review
-"Diagnostic.ninebotError26" = "Flash save error, please check the main control panel";
+"Diagnostic.ninebotError26" = "Errore di salvataggio flash, controlla il pannello di controllo principale";
 // Needs review
-"Diagnostic.ninebotError27" = "Master control password is wrong, please replace the main control panel";
+"Diagnostic.ninebotError27" = "La password del controllo master è sbagliata, per favore sostituisci il pannello di controllo principale";
 // Needs review
-"Diagnostic.ninebotError28" = "Short circuit in motor driven upper MOS bridge, please check the main control panel";
+"Diagnostic.ninebotError28" = "Corto circuito nel ponte MOS superiore azionato da motore, si prega di controllare il pannello di controllo principale";
 // Needs review
-"Diagnostic.ninebotError29" = "Failure in motor driven bottom MOS bridge, please check the main control panel";
+"Diagnostic.ninebotError29" = "Guasto al ponte MOS inferiore azionato dal motore, controlla il pannello di controllo principale";
 // Needs review
-"Diagnostic.ninebotError31" = "Program skip error, please check the main control panel";
+"Diagnostic.ninebotError31" = "Errore di salto programma, controlla il pannello di controllo principale";
 // Needs review
-"Diagnostic.ninebotError35" = "Vehicle is in default serial number, please replace the main control panel";
+"Diagnostic.ninebotError35" = "Il veicolo è nel numero di serie predefinito, per favore sostituisci il pannello di controllo principale";
 "Diagnostic.ninebotError36" = "2+4 connector failure or external battery charging wire failure";
 // Needs review
-"Diagnostic.ninebotError37" = "Charging base failure or built-in battery charging wire failure";
+"Diagnostic.ninebotError37" = "Guasto alla base di ricarica o guasto al filo di ricarica della batteria integrato";
 // Needs review
-"Diagnostic.ninebotError38" = "The charging protection function fails, and there is still charging current after turning off";
+"Diagnostic.ninebotError38" = "La funzione di protezione contro la carica fallisce e c'è ancora corrente di carica dopo lo spegnimento";
 // Needs review
-"Diagnostic.ninebotError39" = "Built-in battery temperature sensor abnormality, please replace the battery";
+"Diagnostic.ninebotError39" = "Anomalia nel sensore di temperatura della batteria integrato, per favore sostituisci la batteria";
 // Needs review
-"Diagnostic.ninebotError40" = "Controller temperature sensor abnormality, please check the main control panel";
+"Diagnostic.ninebotError40" = "Anomalia del sensore di temperatura del controller, controlla il pannello di controllo principale";
 // Needs review
-"Diagnostic.ninebotError41" = "External battery temperature sensor abnormality, please replace the battery";
+"Diagnostic.ninebotError41" = "Anomalia nel sensore di temperatura della batteria esterna, per favore sostituisci la batteria";
 // Needs review
-"Diagnostic.ninebotError42" = "External battery abnormality in communication, please check external battery, main control panel and related wiring";
+"Diagnostic.ninebotError42" = "Anomalia nella batteria esterna nella comunicazione, per favore controlla batteria esterna, pannello di controllo principale e collegati";
 // Needs review
-"Diagnostic.ninebotError43" = "External battery password is wrong, please replace the battery";
+"Diagnostic.ninebotError43" = "La password della batteria esterna è sbagliata, per favore sostituisci la batteria";
 // Needs review
-"Diagnostic.ninebotError44" = "External battery is in default serial number, please replace the battery";
+"Diagnostic.ninebotError44" = "La batteria esterna è nel numero di serie predefinito, per favore sostituisci la batteria";
 // Needs review
-"Diagnostic.ninebotError45" = "Built-in battery is overdischarge, please replace the battery";
+"Diagnostic.ninebotError45" = "La batteria integrata è in sovrascarica, per favore sostituisci la batteria";
 // Needs review
-"Diagnostic.ninebotError46" = "External battery is overdischarge, please replace the battery";
+"Diagnostic.ninebotError46" = "La batteria esterna è in eccesso di scarica, per favore sostituisci la batteria";
 // Needs review
-"Diagnostic.ninebotError47" = "Built-in battery BMS is broken,please replace the battery";
+"Diagnostic.ninebotError47" = "La batteria integrata BMS è rotta, per favore sostituisci la batteria";
 // Needs review
-"Diagnostic.ninebotError48" = "External battery BMS is broken please replace the battery";
+"Diagnostic.ninebotError48" = "La batteria esterna BMS è rotta, per favore sostituisci la batteria";
 // Needs review
-"Diagnostic.ninebotError49" = "Built-in battery firmware version is old, please replace the battery or update firmware";
+"Diagnostic.ninebotError49" = "La versione del firmware della batteria integrata è vecchia, per favore sostituisci la batteria o aggiorna il firmware";
 // Needs review
-"Diagnostic.ninebotError50" = "External battery firmware version is old, please replace the battery or update firmware";
+"Diagnostic.ninebotError50" = "La versione del firmware della batteria esterna è vecchia, per favore sostituisci la batteria o aggiorna il firmware";
 // Needs review
-"Diagnostic.ninebotError51" = "Main controller and goose head doesn’t match with each other";
+"Diagnostic.ninebotError51" = "Il controller principale e la testa d'oca non si abbinano tra loro";
 "Diagnostic.temperatureMos" = "MOS temperature";
 "Diagnostic.temperatureMosEnv" = "MOS environment temperature";
 "Diagnostic.batteryType" = "Battery type";
@@ -485,30 +485,30 @@
 "AppData.appData" = "Dati dell'app";
 "AppData.loading" = "Caricamento...";
 // Needs review
-"AppData.exportTrips" = "Export trips";
+"AppData.exportTrips" = "Viaggi di esportazione";
 // Needs review
-"AppData.exportTripsDetail" = "Save trips to a file";
+"AppData.exportTripsDetail" = "Salva i viaggi su un file";
 "AppData.importTrips" = "Import trips";
 // Needs review
-"AppData.importTripsDetail" = "Load trips from a file";
+"AppData.importTripsDetail" = "Caricamento dei viaggi da un file";
 // Needs review
-"AppData.importTripsError" = "Please select the file with the extension 'dbb'";
+"AppData.importTripsError" = "Per favore, seleziona il file con l'estensione 'dbb'";
 "AppData.importTripsSuccess" = "Trips imported successfully";
 "AppData.storageOptimization" = "Storage optimization";
 // Needs review
-"AppData.storageOptimizationDetail" = "Application performance improvements. Metrics older than the last two days will be combined with a frequency of 1 hour";
+"AppData.storageOptimizationDetail" = "Miglioramenti nelle prestazioni delle applicazioni. Le metriche più vecchie degli ultimi due giorni saranno combinate con una frequenza di 1 ora";
 "AppData.start" = "Start";
 // Needs review
-"AppData.storageOptimizationQuestion" = "Do you really want to start optimizing storage?";
+"AppData.storageOptimizationQuestion" = "Vuoi davvero iniziare a ottimizzare lo storage?";
 // Needs review
-"AppData.storageOptimizationMessage" = "The app storage already takes up a lot of space. Go to storage optimization?";
+"AppData.storageOptimizationMessage" = "Lo spazio di archiviazione dell'app occupa già molto spazio. Passare all'ottimizzazione dello storage?";
 // Needs review
-"AppData.storageOptimizationSuccess" = "Storage has been successfully optimized";
+"AppData.storageOptimizationSuccess" = "Lo storage è stato ottimizzato con successo";
 "Settings.about" = "About";
 "Settings.activationDate" = "Data di attivazione";
 "Settings.alarms" = "Allarmi";
 // Needs review
-"Settings.alarmsDescription" = "Alarms by speed, amperage, power, temperature and PWM";
+"Settings.alarmsDescription" = "Allarmi per velocità, amperaggio, potenza, temperatura e PWM";
 "Settings.alarmsModeOff1" = "Primo disabilitato";
 "Settings.alarmsModeOff2" = "Primi due disabilitati";
 "Settings.alarmsModeOn" = "Abilitati";
@@ -527,7 +527,7 @@
 "Settings.automaticTrackRecordingDetail" = "La registrazione del percorso potrebbe influire sulla durata %@";
 "Settings.automaticTripReset" = "Reset automatico del viaggio";
 // Needs review
-"Settings.automaticTripResetDetail" = "A new trip will be started after the timeout";
+"Settings.automaticTripResetDetail" = "Dopo il timeout inizierà un nuovo viaggio";
 "Settings.avas" = "Acoustic Vehicle Alerting System";
 "Settings.balancing" = "Bilanciamento";
 "Settings.batteryAmperage" = "Amperaggio della batteria";
@@ -563,7 +563,7 @@
 "Settings.byAmperage" = "Per amperaggio";
 "Settings.byBattery" = "By battery";
 // Needs review
-"Settings.byBatteryDetail" = "Triggered when the battery charge is exceeded";
+"Settings.byBatteryDetail" = "Attivata quando la carica della batteria è superata";
 "Settings.byPower" = "Per potenza";
 "Settings.byPWM" = "Per PWM";
 "Settings.byPWMDetail" = "Percentuale di utilizzo del motore. Al fine di evitare cutoff si consiglia di impostare non più dell'80%";
@@ -585,7 +585,7 @@
 "Settings.chooseFile" = "Choose file...";
 "Settings.clear" = "Elimina";
 // Needs review
-"Settings.configureModel" = "Configure your device model in the settings";
+"Settings.configureModel" = "Configura il modello del dispositivo nelle impostazioni";
 "Settings.connectToDualshock" = "Connetti DualShock nelle impostazioni iOS";
 "Settings.contactSupport" = "Contatta il supporto";
 "Settings.contactSupportDetail" = "Segnala bug o richiedi nuove funzionalità";
@@ -595,25 +595,25 @@
 "Settings.cruiseControl" = "Controllo della velocità";
 "Settings.cruiseControlDetail" = "Abilitazione della modalità a velocità costante";
 // Needs review
-"Settings.csvSharing" = "Trips export";
+"Settings.csvSharing" = "Viaggi esportazione";
 // Needs review
-"Settings.csvSharingDetail" = "Sharing trips in CSV";
+"Settings.csvSharingDetail" = "Viaggi di condivisione in CSV";
 "Settings.customBeep" = "Custom beep";
 "Settings.customBeepBicycle" = "Bicycle";
 "Settings.customBeepCar" = "Car";
 "Settings.customBeepCucaracha" = "Cucaracha";
 // Needs review
-"Settings.customBeepDetail" = "Replaces the device's beep";
+"Settings.customBeepDetail" = "Sostituisce il segnale acustico del dispositivo";
 // Needs review
-"Settings.customBeepPromo" = "Beep is not supported by the device, but you can configure a custom beep in the settings";
+"Settings.customBeepPromo" = "Il segnale acustico non è supportato dal dispositivo, ma puoi configurare un segnale acustico personalizzato nelle impostazioni";
 "Settings.customBeepTruck" = "Truck";
 "Settings.customDashboard" = "Custom Dashboard";
 // Needs review
-"Settings.customDashboardDetail" = "Selecting tiles to display and adjusting the size";
+"Settings.customDashboardDetail" = "Selezionare le tessere da visualizzare e regolare la dimensione";
 // Needs review
-"Settings.customDashboardDescription" = "Flexible adjustment of tile sizes on the dashboard. Zoom in on the tiles with two fingers. Two-finger tap for fullscreen mode";
+"Settings.customDashboardDescription" = "Regolazione flessibile delle dimensioni delle piastrelle sul cruscotto. Zooma sulle piastrelle con due dita. Tocco a due dita per la modalità a schermo intero";
 // Needs review
-"Settings.customDashboardZoomDetail" = "Flexible adjustment of tile sizes on the dashboard. Zoom in on the tiles with two fingers";
+"Settings.customDashboardZoomDetail" = "Regolazione flessibile delle dimensioni delle piastrelle sul cruscotto. Zooma sulle piastrelle con due dita";
 "Settings.customFirmwares" = "Firmware personalizzato";
 "Settings.deviceAlarms" = "Avvisi dispositivo";
 "Settings.deviceAlarmsDetail" = "Allarmi di velocità per il tuo dispositivo";
@@ -623,7 +623,7 @@
 "Settings.deviceWork" = "Lavoro dispositivo";
 "Settings.disabled" = "Disabilitato";
 // Needs review
-"Settings.disconnectQuestion" = "Are you sure you want to disconnect?";
+"Settings.disconnectQuestion" = "Sei sicuro di voler disconnetterti?";
 "Settings.donate" = "Donate";
 "Settings.dontRemoveLogs" = "Per favore non rimuovere i file di log";
 "Settings.dontSleep" = "Non andare in 'sleep'";
@@ -635,7 +635,7 @@
 "Settings.enabled" = "Enabled";
 "Settings.engineSound" = "Suono del motore";
 // Needs review
-"Settings.engineSoundDetail" = "AVAS with a choice of presets. Consulted with the developers of racing games to simulate the engine sounds";
+"Settings.engineSoundDetail" = "AVAS con una scelta di preset. Ha collaborato con gli sviluppatori di giochi di corse per simulare i suoni del motore";
 "Settings.equalizerMode" = "Modalità di equalizzazione";
 "Settings.exceededAmperage" = "Amperaggio eccessivo";
 "Settings.exceededBattery" = "Battery level";
@@ -657,7 +657,7 @@
 "Settings.garminMessage" = "Per aggiornare la lista dei dispositivi Garmin connessi, apri l'app Garmin Connect IQ";
 "Settings.graphs" = "Graphs";
 // Needs review
-"Settings.graphsDescription" = "Viewing graphs for a long period up to a year";
+"Settings.graphsDescription" = "Visualizzazione dei grafici per un lungo periodo fino a un anno";
 "Settings.graphsMessage" = "Ora puoi vedere i grafici per l'ultimo anno";
 "Settings.handle" = "Maniglia";
 "Settings.handleDetail" = "Blocco del motore quando il dispositivo viene sollevato";
@@ -701,10 +701,10 @@
 "Settings.maxSpeedModeDescription" = "Regola la velocità al massimo e imposta un avviso appena prima la velocità massima";
 "Settings.mileageEstimation" = "Mileage estimation";
 // Needs review
-"Settings.mileageEstimationDetail" = "Specify the mileage on a single battery charge to increase the accuracy of calculating the remaining mileage";
+"Settings.mileageEstimationDetail" = "Specifica il chilometraggio su una singola carica della batteria per aumentare la precisione nel calcolo del chilometraggio rimanente";
 "Settings.mileageEstimationDynamic" = "Dynamic mileage estimation";
 // Needs review
-"Settings.mileageEstimationDynamicDetail" = "Remaining mileage will be calculated dynamically depending on the driving style for the last time";
+"Settings.mileageEstimationDynamicDetail" = "Il chilometraggio rimanente sarà calcolato dinamicamente a seconda dello stile di guida per l'ultima volta";
 "Settings.model" = "Modello";
 "Settings.musicVolumeAudioDevices" = "Dispositivi audio";
 "Settings.musicVolumeControl" = "Volume automatico";
@@ -725,7 +725,7 @@
 "Settings.onDisconnection" = "Alla disconnessione";
 "Settings.onlyAfterSunset" = "Only after sunset";
 // Needs review
-"Settings.onlyAfterSunsetDetail" = "Torch will automatically switch only in the dark time of day";
+"Settings.onlyAfterSunsetDetail" = "La torcia si accende automaticamente solo nell'ora buia del giorno";
 "Settings.openApp" = "Apri l'app";
 "Settings.other" = "Altro";
 "Settings.outletDelay" = "Tempo di precarica prima dello spegnimento";
@@ -736,9 +736,9 @@
 "Settings.playPause" = "Play/Pausa";
 "Settings.premium" = "Premium";
 // Needs review
-"Settings.premiumDescription" = "All current and upcoming paid features";
+"Settings.premiumDescription" = "Tutte le funzionalità a pagamento attuali e in arrivo";
 // Needs review
-"Settings.premiumFeatureTitle" = "This is a Premium feature";
+"Settings.premiumFeatureTitle" = "Questa è una funzione Premium";
 "Settings.premiumIncludes" = "Premium includes";
 "Settings.premiumMessage" = "Ora è possibile utilizzare tutte le funzionalità a pagamento";
 "Settings.previousTrack" = "Canzone precedente";
@@ -752,11 +752,11 @@
 "Settings.purchaseAlarms" = "Vuoi acquistare gli avvisi?";
 "Settings.purchaseBeep" = "Purchase custom beep?";
 // Needs review
-"Settings.purchaseCustomDashboard" = "Purchase Custom Dashboard?";
+"Settings.purchaseCustomDashboard" = "Acquistare una dashboard personalizzata?";
 "Settings.purchased" = "Acquistato";
 "Settings.purchaseEngineSound" = "Purchase Engine Sound?";
 // Needs review
-"Settings.purchaseGooglePlay" = "In-app purchases are only available in the release version from Google Play. You can install the version from Google Play, purchase purchases, then install the beta version. Purchases will be activated in the beta version";
+"Settings.purchaseGooglePlay" = "Gli acquisti in-app sono disponibili solo nella versione di rilascio da Google Play. Puoi installare la versione da Google Play, acquistare acquisti e poi installare la versione beta. Gli acquisti saranno attivati nella versione beta";
 "Settings.purchaseGraphs" = "Acquistare la funzione grafici?";
 "Settings.purchaseMusicVolumeControl" = "Vuoi acquistare il controllo del volume della musica?";
 "Settings.purchasePremium" = "Vuoi acquistare la versione Premium?";
@@ -775,7 +775,7 @@
 "Settings.record" = "registra";
 "Settings.recorder" = "Registrazione Video";
 // Needs review
-"Settings.recorderDetail" = "Recording video from a camera with metrics overlay";
+"Settings.recorderDetail" = "Registrazione video da una telecamera con sovrapposizione di metriche";
 "Settings.recorderCameraMode" = "Modalità camera senza registrazione";
 "Settings.recorderChromakey" = "Schermo in chiave cromatica nera";
 "Settings.recorderFlipMode" = "Modalità specchio";
@@ -796,7 +796,7 @@
 "Settings.ridingModeHard" = "Duro";
 "Settings.ridingModePedestrian" = "Pedestrian";
 // Needs review
-"Settings.ridingModeScooterDetail" = "Switching the driving speed mode";
+"Settings.ridingModeScooterDetail" = "Cambio della modalità di velocità di guida";
 "Settings.ridingModeSoft" = "Morbido";
 "Settings.ridingModeSport" = "Sport";
 "Settings.ridingModeStandard" = "Standard";
@@ -816,25 +816,25 @@
 "Settings.speedCorrectionDetail" = "Influisce sulla visualizzazione della corrente, della media e massima velocità";
 "Settings.mileageCorrection" = "Mileage correction";
 // Needs review
-"Settings.mileageCorrectionDetail" = "Affects the display of the single and total mileage";
+"Settings.mileageCorrectionDetail" = "Influisce sulla visualizzazione del chilometraggio singolo e totale";
 "Settings.splashScreen" = "Schermata iniziale";
 "Settings.splashScreenDisabling" = "Disabling splash screen";
 "Settings.splashScreenDetail" = "Mostra suggerimenti e promozioni durante l'avvio dell'app";
 // Needs review
-"Settings.splashScreenDescription" = "Ability to disable the splashscreen";
+"Settings.splashScreenDescription" = "Possibilità di disattivare la schermata iniziale";
 "Settings.support" = "Supporto";
 "Settings.systemLanguage" = "System language";
 "Settings.temperatureUnit" = "Unità di Temperatura";
 "Settings.testDrive" = "Test drive";
 // Needs review
-"Settings.testDriveDetail" = "Move the slider to check the sound";
+"Settings.testDriveDetail" = "Muovi il cursore per controllare il suono";
 "Settings.theme" = "Tema";
 // Needs review
-"Settings.themeDetail" = "Ability to apply app themes";
+"Settings.themeDetail" = "Possibilità di applicare temi di app";
 "Settings.themeAuto" = "Tema Automatico";
 "Settings.themeAutoDetail" = "Cambio automatico del tema all'alba e tramonto";
 // Needs review
-"Settings.themeAutoSystemDetail" = "Automatic switching when the system theme changes";
+"Settings.themeAutoSystemDetail" = "Commutazione automatica quando cambia il tema del sistema";
 "Settings.themeBlack" = "Nero";
 "Settings.themeDefault" = "Default";
 "Settings.themeMessage" = "Ora è possibile cambiare i temi dalle impostazioni dell'applicazione";
@@ -844,13 +844,13 @@
 "Settings.torchAuto" = "Torcia automatica";
 "Settings.torchAutoDetail" = "Accendi automaticamente la torcia del dispositivo quando guidi dopo il tramonto";
 // Needs review
-"Settings.torchAutoOffSpeed" = "Maximum speed for turn off";
+"Settings.torchAutoOffSpeed" = "Velocità massima per spegnimento";
 // Needs review
-"Settings.torchAutoOffSpeedDetail" = "Torch will turn off automatically if the speed is lower";
+"Settings.torchAutoOffSpeedDetail" = "La torcia si spegnerà automaticamente se la velocità è inferiore";
 // Needs review
-"Settings.torchAutoOnSpeed" = "Minimum speed to turn on";
+"Settings.torchAutoOnSpeed" = "Velocità minima per accendere";
 // Needs review
-"Settings.torchAutoOnSpeedDetail" = "Torch will turn on automatically if the speed is higher";
+"Settings.torchAutoOnSpeedDetail" = "La torcia si accenderà automaticamente se la velocità è maggiore";
 "Settings.translate" = "Traduci";
 "Settings.translateDetail" = "Fai tap se hai notato un errore nella traduzione";
 "Settings.turnOffOutlet" = "Spegnere quando la batteria è carica";
@@ -869,7 +869,7 @@
 "Settings.volume" = "Volume";
 "Settings.volumeDetail" = "Volume dello speaker del dispositivo";
 // Needs review
-"Settings.trackerDetail" = "Records geolocation during the trip. The working time of your device may be reduced";
+"Settings.trackerDetail" = "Registra la geolocalizzazione durante il viaggio. Il tempo di lavoro del tuo dispositivo potrebbe essere ridotto";
 "Settings.dashboardRow" = "Row";
 "Settings.tilesOrder" = "Tiles order";
 "Settings.fastSettings" = "Fast settings";
@@ -918,26 +918,26 @@
 "Settings.decreaseVolume" = "Decrease volume";
 "Settings.batteryCorrection" = "Battery correction";
 // Needs review
-"Settings.batteryCorrectionDetail" = "Affects the calculation of the battery level";
+"Settings.batteryCorrectionDetail" = "Influisce sul calcolo del livello della batteria";
 "Settings.cellVoltage100" = "Cell voltage for 100%";
 "Settings.cellVoltage0" = "Cell voltage for 0%";
 "Settings.useDischargeCurve" = "Use discharge curve";
 "Settings.liveActivity" = "Live Activity";
 // Needs review
-"Settings.liveActivityDescription" = "Live Activity widget on lock screen and Dynamic Island";
+"Settings.liveActivityDescription" = "Widget Attività Live sulla schermata di blocco e Dynamic Island";
 "Settings.breakingAmperage" = "Braking amperage";
 "Settings.extremeMode" = "Extreme mode";
 "Settings.rotationControl" = "Rotation control";
 // Needs review
-"Settings.breakingAmperageDetail" = "The force with which the motor will be decelerated from the current rotational speed to a stop. It is activated by pressing the motor stop button when the extreme mode is active";
+"Settings.breakingAmperageDetail" = "La forza con cui il motore verrà decelerato dalla velocità di rotazione attuale fino all'arresto. Si attiva premendo il pulsante di arresto del motore quando la modalità estrema è attiva";
 // Needs review
-"Settings.extremeModeDetail" = "It uses the capabilities of the firmware to perform extreme functions, for example, controlled braking. Not for regular driving";
+"Settings.extremeModeDetail" = "Utilizza le capacità del firmware per eseguire funzioni estreme, ad esempio la frenata controllata. Non per la guida normale";
 // Needs review
-"Settings.rotationControlDetail" = "A function for the Front Flip trick. If this function is enabled, the EUC will count 360 degrees of rotation from the position it was in when the motor stop button was pressed. When the function is disabled, the wheel is turned on by pressing the motor stop button again";
+"Settings.rotationControlDetail" = "Una funzione per il trucco del Front Flip. Se questa funzione è attivata, l'EUC conterà 360 gradi di rotazione dalla posizione in cui si trovava quando è stato premuto il pulsante di arresto del motore. Quando la funzione viene disabilitata, il volante viene acceso premendo nuovamente il pulsante di arresto del motore";
 // Needs review
-"Settings.customDashboardMinTiles" = "At least one tile is needed to display the dashboard";
+"Settings.customDashboardMinTiles" = "Serve almeno una casella per mostrare il cruscotto";
 // Needs review
-"Settings.advancedSettings" = "Advanced settings";
+"Settings.advancedSettings" = "Impostazioni avanzate";
 "Settings.horizonKP" = "Horizon KP";
 "Settings.horizonKI" = "Horizon KI";
 "Settings.horizonKD" = "Horizon KD";
@@ -951,22 +951,22 @@
 "Settings.currentDKI" = "Current DKI";
 "Settings.rotationAngle" = "Rotation angle";
 // Needs review
-"Settings.advancedSettingsDetails" = "Activation of 'Engineering settings'. Enabling this function switches the wheel to advanced settings mode. For the settings to be applied, you must set the pedals to 'Soft' mode.";
+"Settings.advancedSettingsDetails" = "Attivazione delle 'Impostazioni ingegneristiche'. Abilitando questa funzione il volante si passa alla modalità impostazioni avanzate. Per applicare le impostazioni, devi impostare i pedali in modalità 'Soft'.";
 "Settings.horizonKPDetails" = "Horizon Hold PID Proportional Gain";
 "Settings.horizonKIDetails" = "Horizon hold controller PID integral gain";
 "Settings.horizonKDDetails" = "Horizon hold PID differential gain";
 "Settings.horizonDynamicCompensationDetails" = "Dynamic horizon angle compensation";
 "Settings.horizonDynamicCompensationFilterDetails" = "Dynamic horizon compensation filter coefficient";
 // Needs review
-"Settings.accelerationCompensationDetails" = "Compensation for horizon deviations caused by wheel acceleration/deceleration";
+"Settings.accelerationCompensationDetails" = "Compensazione per deviazioni dell'orizzonte causate dall'accelerazione/decelerazione delle ruote";
 // Needs review
-"Settings.turnCompensationDetails" = "Compensation for horizon deviations caused by wheel turn";
+"Settings.turnCompensationDetails" = "Compensazione per deviazioni dell'orizzonte causate dalla rotazione delle ruote";
 "Settings.currentKPDetails" = "Proportional gain of PID motor Q current ";
 "Settings.currentKIDetails" = "Integral gain of PID motor Q current";
 "Settings.currentDKPDetails" = "Proportional gain of PID motor D current";
 "Settings.currentDKIDetails" = "Integral gain of PID motor D current";
 // Needs review
-"Settings.rotationAngleDetails" = "The angle the wheel must rotate to engage when performing a Front Flip trick. Activated when the Rotation Control function is activated";
+"Settings.rotationAngleDetails" = "L'angolo che la ruota deve ruotare per incastrarsi durante un trick di Front Flip. Attivato quando la funzione di Controllo della Rotazione è attivata";
 "Settings.useSoftwarePWM" = "Software PWM";
 "Settings.useSoftwarePWMDetails" = "Use software PWM instead hardware";
 "Settings.supportUs" = "Support us";
@@ -988,32 +988,32 @@
 "Settings.wearableIntegration" = "Integrazione avanzata di dispositivi indossabili";
 "Settings.wearableIntegrationDescription" = "Integrazione di ActiveLook e Third Eye";
 // Needs review
-"Settings.time" = "Time";
+"Settings.time" = "Tempo";
 // Needs review
-"Settings.updateAvailable" = "Update available";
+"Settings.updateAvailable" = "Aggiornamento disponibile";
 // Needs review
-"Settings.newFromDeveloper" = "New from the developer";
+"Settings.newFromDeveloper" = "Novità dallo sviluppatore";
 // Needs review
-"Settings.new" = "New";
+"Settings.new" = "Nuovo";
 // Needs review
-"Settings.dependence" = "Dependence";
+"Settings.dependence" = "Dipendenza";
 // Needs review
-"Settings.dependenceDetail" = "The metric from which the engine sound will be calculated";
+"Settings.dependenceDetail" = "La metrica da cui verrà calcolata la base del suono del motore";
 // Needs review
-"Settings.informationAlarms" = "Information alarms";
+"Settings.informationAlarms" = "Allarmi informativi";
 // Needs review
-"Settings.foundObjects" = "Found objects";
+"Settings.foundObjects" = "Oggetti trovati";
 // Needs review
-"Settings.relativeSpeed" = "Relative speed";
+"Settings.relativeSpeed" = "Velocità relativa";
 // Needs review
-"Settings.distance" = "Distance";
+"Settings.distance" = "Distanza";
 // Needs review
-"Settings.dangerApproachSpeed" = "Danger approach speed";
+"Settings.dangerApproachSpeed" = "Velocità di avvicinamento pericolosa";
 // Needs review
-"Settings.dangerDistance" = "Danger distance";
+"Settings.dangerDistance" = "Distanza di pericolo";
 // Needs review
-"Settings.noObjectsFound" = "No objects found";
+"Settings.noObjectsFound" = "Nessun oggetto trovato";
 // Needs review
-"Settings.maxDetectDistance" = "Max detect distance";
+"Settings.maxDetectDistance" = "Distanza massima di rilevamento";
 // Needs review
-"Settings.nearestObject" = "Nearest object";
+"Settings.nearestObject" = "Oggetto più vicino";
