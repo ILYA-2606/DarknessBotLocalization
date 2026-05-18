@@ -341,7 +341,7 @@
 // Needs review
 "Devices.resetEstimationMessage" = "충전/방전 시간과 남은 주행 거리의 계산이 이 순간부터 다시 시작됩니다. 계산을 리셋하고 싶은 게 확실한가요?";
 // Needs review
-"Devices.dischargeEstimationInfix" = "in";
+"Devices.dischargeEstimationInfix" = "그 안에";
 "Devices.sec" = "s";
 // Needs review
 "Devices.energyConsumption" = "에너지 소비";
@@ -600,7 +600,7 @@
 // Needs review
 "Settings.appAlarms" = "앱 알람";
 // Needs review
-"Settings.appAlarmsDetail" = "기준 %@";
+"Settings.appAlarmsDetail" = "기준 % @";
 // Needs review
 "Settings.appAlarmsTransfer" = "알람이 장치 설정으로 이동되었습니다";
 // Needs review
@@ -616,7 +616,7 @@
 // Needs review
 "Settings.automaticTrackRecording" = "자동 GPS 추적 기록";
 // Needs review
-"Settings.automaticTrackRecordingDetail" = "트랙 녹음은 재생 시간 에 영향을 줄 수 있습니다 %@";
+"Settings.automaticTrackRecordingDetail" = "트랙 녹음은 재생 시간 에 영향을 줄 수 있습니다 % @";
 // Needs review
 "Settings.automaticTripReset" = "자동 여행 리셋";
 // Needs review
