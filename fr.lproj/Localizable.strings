@@ -159,9 +159,7 @@
 "Map.removeTripQuestion" = "Êtes-vous sûr de vouloir supprimer ce trajet?";
 "Map.macAddress" = "Adresse MAC";
 "Map.macAddressDetail" = "Liez l'adresse MAC à votre véhicule dans electro.club pour lier le trajet au véhicule dans le portal. Touchez pour copier l'adresse MAC";
-// Needs review
-"Map.notSelected" = "Non sélectionné";
-// Needs review
+"Map.notSelected" = "Pas sélectionné";
 "Map.connectedDevice" = "Dispositif connecté";
 "Map.euc" = "EUC";
 "Map.scooter" = "Scooter";
@@ -169,7 +167,6 @@
 "Map.minisegway" = "Mini Segway";
 "Map.skate" = "Skate";
 "Map.smartBMS" = "Smart BMS";
-// Needs review
 "Map.anyDevice" = "N’importe quel appareil";
 "Devices.a" = "A";
 "Devices.averageSpeed" = "Vitesse moyenne";
@@ -289,12 +286,9 @@
 "Devices.sec" = "s";
 "Devices.energyConsumption" = "Consommation d'énergie";
 "Devices.gettingServices" = "Récupération des services...";
-// Needs review
 "Devices.gpsSpeed" = "Vitesse GPS";
-// Needs review
 "Devices.pressToConfirm" = "Appuyez sur le bouton du guidon pour confirmer";
-// Needs review
-"Devices.authAdoEbike" = "Veuillez connecter le transport via l’application ADO EBIKE";
+"Devices.authAdoEbike" = "Veuillez connecter le moyen de transport dans l’app ADO EBIKE";
 "Intro.next" = "Suivant";
 "Intro.nice" = "Parfait!";
 "Intro.premiumTitle" = "Premium";
@@ -303,7 +297,6 @@
 "Intro.premiumExpiredDescription" = "Vous pouvez acheter la version Premium pour continuer à utiliser toutes les fonctionnalités payantes de l'application";
 "Intro.later" = "Plus tard";
 "Intro.buyPremium" = "Acheter la version Premium";
-// Needs review
 "Intro.feature1Title" = "Prise en charge des nouveaux appareils";
 "Intro.feature1Description" = "- Garmin Varia";
 "Intro.help1" = "Avant de partir, n'oubliez pas votre protection";
@@ -315,29 +308,20 @@
 "Intro.help7" = "En mode Hors-Ligne, vous pouvez consulter les données sans vous connecter à votre véhicule électrique";
 "Intro.help8" = "L'export des logs et des trajets est disponible depuis l'onglet Trajets";
 "Intro.help9" = "Les trajets avec un parcours sont marqués de l'icône correspondante";
-// Needs review
 "Intro.onboardingTitle" = "Autoriser l’accès";
-// Needs review
 "Intro.onboardingMessage" = "pour obtenir une application complète";
-// Needs review
 "Intro.onboardingContinue" = "Continuez";
-// Needs review
-"Intro.onboardingContinueMessage" = "vérifiez toutes les permissions pour continuer";
-// Needs review
+"Intro.onboardingContinueMessage" = "vérifiez toutes les autorisations pour continuer";
 "Intro.allow" = "Permettre";
 "Intro.bluetooth" = "Bluetooth";
 "Intro.location" = "Location";
 "Intro.cloudkit" = "CloudKit";
 "Intro.notification" = "Notifications";
 "Intro.tracking" = "Tracking";
-// Needs review
-"Intro.bluetoothDescription" = "Pour se connecter à l’électrotransport";
-// Needs review
-"Intro.geolocationDescription" = "Pour enregistrer les itinéraires et le fonctionnement d’une lampe de poche automatique";
+"Intro.bluetoothDescription" = "Pour se connecter au moyen de transport";
+"Intro.geolocationDescription" = "Pour enregistrer les itinéraires avec l'activation du phare auto";
 "Intro.cloudkitDescription" = "Pour accéder au profil cloud, à la carte des utilisateurs et aux classements";
-// Needs review
-"Intro.notificationDescription" = "Pour les notifications concernant la connexion à l’électrotransport";
-// Needs review
+"Intro.notificationDescription" = "Pour les notifications de la connexion au moyen de transport";
 "Intro.trackingDescription" = "Nous utilisons ces données pour améliorer l’application";
 "Intro.justLifetime" = "Juste %@ à vie";
 "Intro.trialStartedTitle" = "%i-jours Essai Premium commencé";
@@ -439,23 +423,16 @@
 "AppData.importTripsDetail" = "Charger les trajets depuis un fichier";
 "AppData.importTripsError" = "Merci de choisir un fichier avec l'extension 'dbb'";
 "AppData.importTripsSuccess" = "Trajets importés avec succès";
-// Needs review
 "AppData.storageOptimization" = "Optimisation du stockage";
-// Needs review
-"AppData.storageOptimizationDetail" = "Améliorations des performances des applications. Les indicateurs plus anciens que les deux derniers jours seront combinés avec une fréquence d'1 heure";
-// Needs review
+"AppData.storageOptimizationDetail" = "Améliorations des performances de l'app, les données antérieures aux deux derniers jours seront réduites à une valeur par heure";
 "AppData.start" = "Début";
-// Needs review
 "AppData.storageOptimizationQuestion" = "Voulez-vous vraiment commencer à optimiser le stockage ?";
-// Needs review
-"AppData.storageOptimizationMessage" = "Le stockage de l’application prend déjà beaucoup de place. Passer à l’optimisation du stockage ?";
-// Needs review
-"AppData.storageOptimizationSuccess" = "Le stockage a été optimisé avec succès";
+"AppData.storageOptimizationMessage" = "Les données de l’app prennent beaucoup de place, réduire le volume des données ?";
+"AppData.storageOptimizationSuccess" = "Le stockage a été réduit avec succès";
 "Settings.about" = "À propos";
 "Settings.activationDate" = "Date d'activation";
 "Settings.alarms" = "Alarmes";
-// Needs review
-"Settings.alarmsDescription" = "Alarmes par vitesse, ampérage, puissance, température et PWM";
+"Settings.alarmsDescription" = "Alarmes par vitesse, courant, puissance, température et PWM";
 "Settings.alarmsModeOff1" = "Première désactivée";
 "Settings.alarmsModeOff2" = "Deux premières désactivées";
 "Settings.alarmsModeOn" = "Activées";
@@ -507,9 +484,7 @@
 "Settings.brightnessDisplayDetail" = "Modifie la luminosité de l'écran";
 "Settings.bugReport" = "Rapport d'erreurs";
 "Settings.byAmperage" = "Par ampérage";
-// Needs review
-"Settings.byBattery" = "Par batterie";
-// Needs review
+"Settings.byBattery" = "Avec batterie";
 "Settings.byBatteryDetail" = "Déclenché lorsque la charge de la batterie est dépassée";
 "Settings.byPower" = "Par puissance";
 "Settings.byPWM" = "Par PWM";
@@ -550,7 +525,6 @@
 "Settings.customBeepPromo" = "Le klaxon n'est pas supporté par l'appareil mais vous pouvez configurer un klaxon personnalisé dans les paramètres";
 "Settings.customBeepTruck" = "Camion";
 "Settings.customDashboard" = "Tableau de bord personnalisé";
-// Needs review
 "Settings.customDashboardDetail" = "Sélectionner les tuiles à afficher et ajuster la taille";
 "Settings.customDashboardDescription" = "Ajustement dynamique de la taille des tuiles sur le tableau de bord. Utilisez 2 doigts pour un zoomer sur les tuiles. Tapez avec 2 doigts pour activer le mode Plein Écran";
 "Settings.customDashboardZoomDetail" = "Ajustement dynamique de la taille des tuiles sur le tableau de bord. Utilisez 2 doigts pour un zoomer sur les tuiles";
@@ -559,7 +533,6 @@
 "Settings.deviceAlarmsDetail" = "Alarmes de vitesse sur votre appareil";
 "Settings.deviceName" = "Nom de l'appareil";
 "Settings.deviceNameDetail" = "S'applique localement dans l'application";
-// Needs review
 "Settings.deviceNameDescription" = "Possibilité de renommer les appareils";
 "Settings.deviceWork" = "Fonctionnement de l'appareil";
 "Settings.disabled" = "Désactivé";
@@ -578,7 +551,6 @@
 "Settings.engineSoundDetail" = "AVAS avec un choix de préréglages. A consulté les développeurs de jeux de course pour simuler les sons du moteur";
 "Settings.equalizerMode" = "Mode égaliseur";
 "Settings.exceededAmperage" = "Ampérage excessif";
-// Needs review
 "Settings.exceededBattery" = "Niveau de batterie";
 "Settings.exceededPower" = "Puissance excessive";
 "Settings.exceededPWM" = "Niveau de PWM excessif";
@@ -636,7 +608,6 @@
 "Settings.maxRollAngle" = "Angle de roulement max";
 "Settings.maxRollAngleDetail" = "Incliner sur le côté pour éteindre. Il n'est pas recommandé de choisir un angle supérieur à 45 degrés";
 "Settings.maxSpeed" = "Vitesse maximale";
-// Needs review
 "Settings.maxSpeedDetail" = "Vitesse maximale de déplacement";
 "Settings.maxSpeedMode" = "Mode Vitesse Max";
 "Settings.maxSpeedModeDescription" = "Régler la vitesse à son niveau maximal et régler l’alerte juste en-dessous de cette limite?";
@@ -708,8 +679,7 @@
 "Settings.questionType" = "Type de question";
 "Settings.record" = "Enregistrement";
 "Settings.recorder" = "Enregistrement vidéo";
-// Needs review
-"Settings.recorderDetail" = "Enregistrement vidéo d’une caméra avec une superposition métrique";
+"Settings.recorderDetail" = "Enregistrement vidéo avec données en surimpression";
 "Settings.recorderCameraMode" = "Mode caméra sans enregistrement";
 "Settings.recorderChromakey" = "Écran noir pour mode Chromakey";
 "Settings.recorderFlipMode" = "Mode miroir";
@@ -750,16 +720,12 @@
 "Settings.mileageCorrection" = "Correction du kilométrage restant";
 "Settings.mileageCorrectionDetail" = "Impact l'affichage du kilométrage restant unique et total";
 "Settings.splashScreen" = "Écran d'accueil";
-// Needs review
 "Settings.splashScreenDisabling" = "Désactivation de l’écran d’accueil";
 "Settings.splashScreenDetail" = "Astuces et promotions au démarrage de l'application";
-// Needs review
 "Settings.splashScreenDescription" = "Possibilité de désactiver l’écran d’accueil";
-// Needs review
-"Settings.support" = "Soutien";
+"Settings.support" = "Support";
 "Settings.systemLanguage" = "Langue système";
 "Settings.temperatureUnit" = "Unité de température";
-// Needs review
 "Settings.testDrive" = "Essai routier";
 "Settings.testDriveDetail" = "Bougez le curseur pour vérifier le volume du son";
 "Settings.theme" = "Thème";
@@ -801,22 +767,14 @@
 "Settings.tilesOrder" = "Ordre des tuiles";
 "Settings.fastSettings" = "Paramètres rapides";
 "Settings.balanceSettings" = "Paramètres d'équilibrage";
-// Needs review
-"Settings.cellBalanceLimit" = "Limite d’équilibre cellulaire";
-// Needs review
-"Settings.chargingCellBalanceStart" = "Démarrage du solde de la cellule de charge";
-// Needs review
-"Settings.cellDiffOn" = "Différence cellulaire sur";
-// Needs review
-"Settings.cellDiffOff" = "Différence cellulaire désactivée";
-// Needs review
-"Settings.balanceAmperage" = "Ampérage d’équilibrage";
-// Needs review
-"Settings.balanceChargingAmperage" = "Ampérage de charge équilibré";
-// Needs review
-"Settings.bmsCellHighProtect" = "Protection à haute protection cellulaire";
-// Needs review
-"Settings.bmsCellHighRecover" = "Cellule haute récupération";
+"Settings.cellBalanceLimit" = "Limite d’équilibrage batterie";
+"Settings.chargingCellBalanceStart" = "Début équilibrage batterie";
+"Settings.cellDiffOn" = "Ecart de tension activée";
+"Settings.cellDiffOff" = "Ecart de tension désactivée";
+"Settings.balanceAmperage" = "Courant d’équilibrage";
+"Settings.balanceChargingAmperage" = "Courant d’équilibrage en charge";
+"Settings.bmsCellHighProtect" = "Protection contre surtension";
+"Settings.bmsCellHighRecover" = "récupération d'accus à tension élévés";
 // Needs review
 "Settings.bmsL2CellHighProtect" = "Cell high protect niveau 2";
 // Needs review
