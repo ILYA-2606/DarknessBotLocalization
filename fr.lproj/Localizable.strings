@@ -920,70 +920,38 @@
 "Settings.currentDKIDetails" = "Gain intégral du courant D du moteur PID";
 // Needs review
 "Settings.rotationAngleDetails" = "L’angle de rotation de la roue doit s’engager lors d’un tour de Front Flip. Activé lorsque la fonction de contrôle de rotation est activée";
-// Needs review
 "Settings.useSoftwarePWM" = "PWM logiciel";
-// Needs review
-"Settings.useSoftwarePWMDetails" = "Utilisez un logiciel PWM au lieu du matériel";
-// Needs review
+"Settings.useSoftwarePWMDetails" = "Utilisez le PWM logiciel au lieu du matériel";
 "Settings.supportUs" = "Soutenez-nous";
-// Needs review
 "Settings.mirrorThirdEye" = "Miroir « Troisième Œil »";
-// Needs review
 "Settings.topValue" = "Valeur maximale";
-// Needs review
 "Settings.bottomValue" = "Valeur inférieure";
-// Needs review
-"Settings.showTitles" = "Titres des émissions";
-// Needs review
+"Settings.showTitles" = "Montrer les titres";
 "Settings.deviceSearch" = "Recherche d’appareil...";
-// Needs review
 "Settings.value" = "Valeur";
-// Needs review
-"Settings.regularText" = "Texte régulier";
-// Needs review
-"Settings.largeText" = "Texte volumineux";
-// Needs review
-"Settings.extraLargeText" = "Texte extra grand";
+"Settings.regularText" = "Taille texte normal";
+"Settings.largeText" = "Taille texte grand";
+"Settings.extraLargeText" = "Taille texte très grand";
 "Settings.segment" = "Segment";
-// Needs review
 "Settings.autoBrightness" = "Luminosité automatique";
-// Needs review
 "Settings.trickMode" = "Mode trick";
-// Needs review
-"Settings.noTrick" = "Pas de piège";
-// Needs review
+"Settings.noTrick" = "Mode trick inactif ";
 "Settings.frontFlip" = "Salto-avant";
-// Needs review
-"Settings.backFlip" = "Saltos arrière";
+"Settings.backFlip" = "Salto arrière";
 "Settings.wearableIntegration" = "intégration avancée des dispositifs portables";
 "Settings.wearableIntegrationDescription" = "Intégration d'ActiveLook et du Troisième Œil";
-// Needs review
 "Settings.time" = "Temps";
-// Needs review
 "Settings.updateAvailable" = "Mise à jour disponible";
-// Needs review
 "Settings.newFromDeveloper" = "Nouveauté du développeur";
-// Needs review
 "Settings.new" = "Nouveau";
-// Needs review
 "Settings.dependence" = "Dépendance";
-// Needs review
 "Settings.dependenceDetail" = "La métrique à partir de laquelle le son du moteur sera calculé";
-// Needs review
 "Settings.informationAlarms" = "Alarmes d'information";
-// Needs review
 "Settings.foundObjects" = "Objets trouvés";
-// Needs review
 "Settings.relativeSpeed" = "Vitesse relative";
-// Needs review
 "Settings.distance" = "Distance";
-// Needs review
 "Settings.dangerApproachSpeed" = "Vitesse d'approche dangereuse";
-// Needs review
-"Settings.dangerDistance" = "Distance de danger";
-// Needs review
+"Settings.dangerDistance" = "Distance du danger";
 "Settings.noObjectsFound" = "Aucun objet trouvé";
-// Needs review
 "Settings.maxDetectDistance" = "Distance de détection maximale";
-// Needs review
 "Settings.nearestObject" = "Objet le plus proche";
