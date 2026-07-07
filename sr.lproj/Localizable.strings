@@ -673,7 +673,8 @@
 "Settings.pwmCorrectionDetail" = "Utiče na izračunavanje PWM vrednosti";
 "Settings.pwmCorrectionMessage" = "Pri punoj bateriji, %@ PWM će biti postignut pri brzini od %@ sa odabranom korekcijom:";
 "Settings.pwmHowTo" = "Kako podesiti PWM";
-"Settings.pwmHowToDescription" = "Potpuno napunite uređaj\nUbrzajte dok se ne pojavi treći alarm na uređaju\nProverite brzinu na kojoj se pojavio alarm\nOva brzina odgovara 80%% PWM-a za vaš uređaj\nPodesite procenat PWM-a prema dobijenoj brzini";
+// Needs review
+"Settings.pwmHowToDescription" = "Fully charge the EUC\nLift the EUC and spin it in the air\nThe maximum value of the PWM should be about 110%%\nOpen Settings / Device / Adjust the PWM and change the percentage. If the maximum value of the PWM was less than 110%%, then reduce the percentage. If more than - increase it";
 "Settings.pwmHowToDetail" = "Sa pravilnim podešavanjem, uređaj neće prekinuti rad motora pre nego što dostigne 100%% PWM-a";
 "Settings.questionType" = "Tip pitanja";
 "Settings.record" = "zapis";

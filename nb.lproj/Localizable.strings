@@ -673,7 +673,8 @@
 "Settings.pwmCorrectionDetail" = "Påvirker beregningen av PWM-verdien";
 "Settings.pwmCorrectionMessage" = "Med fullt batteri vil %@ PWM nås ved en hastighet på %@ med valgt korreksjon:";
 "Settings.pwmHowTo" = "Hvordan justere PWM";
-"Settings.pwmHowToDescription" = "Lad EUC-en helt opp\nAkseler til den tredje alarmen fra EUC-en vises\nSjekk hastigheten alarmen oppstod ved\nDenne hastigheten tilsvarer 80%% av PWM for din EUC\nJuster PWM-prosenten etter den mottatte hastigheten";
+// Needs review
+"Settings.pwmHowToDescription" = "Full lading av EUC\nLøft EUC-en og snurr den i luften\nMaksimal verdi for PWM bør være omtrent 110%%\nÅpne innstillinger / Enhet / Juster PWM og endre prosentandelen. Hvis maksimal verdi av PWM var under 110%%, reduser du prosentandelen. Hvis mer enn - øk den";
 "Settings.pwmHowToDetail" = "Med riktig oppsett vil EUC-utkoblingen fra motor ikke skje før ved 100%% PWM";
 "Settings.questionType" = "Spørsmålstype";
 "Settings.record" = "ta opp";

@@ -964,7 +964,7 @@
 // Needs review
 "Settings.pwmHowTo" = "PWM 조정 방법";
 // Needs review
-"Settings.pwmHowToDescription" = "EUC를 완전히 충전하세요\n세 번째 EUC의 경보가 울릴 때까지 가속하세요\n경보가 발생한 속도를 확인하세요\n이 속도는 EUC PWM의 80%에 해당합니다\n수신 속도에 따라 PWM 비율을 조정하세요";
+"Settings.pwmHowToDescription" = "EUC를 완전히 충전하세요\nEUC를 들어 올려서 공중에서 돌려\nPWM의 최대 값은 약 110%%여야 합니다\n설정 / 장치 / PWM을 조정하고 비율을 변경하세요. PWM의 최대 값이 110%% 미만이라면 그 비율을 낮추세요. 만약 그 이상이라면 - 더 늘리세요";
 // Needs review
 "Settings.pwmHowToDetail" = "올바른 설정만 하면 모터 이유에서 EUC 컷아웃이 100% PWM 이상은 아닙니다";
 "Settings.questionType" = "질문 유형";

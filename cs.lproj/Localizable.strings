@@ -673,7 +673,8 @@
 "Settings.pwmCorrectionDetail" = "Má vliv na výpočet hodnoty PWM";
 "Settings.pwmCorrectionMessage" = "Při plně nabité baterii bude s vybranou korekcí dosaženo %@ PWM při rychlosti %@";
 "Settings.pwmHowTo" = "Jak nastavit PWM";
-"Settings.pwmHowToDescription" = "Plně nabijte EUC\nZrychlujte, dokud se neobjeví třetí výstraha EUC\nZkontrolujte rychlost, při které k výstraze došlo\nTato rychlost odpovídá 80 % PWM pro vaše EUC\nUpravte procento PWM podle přijaté rychlosti";
+// Needs review
+"Settings.pwmHowToDescription" = "Plně nabít EUC\nZvedněte EUC a roztočte ho ve vzduchu\nMaximální hodnota PWM by měla být asi 110%%.\nOtevřete nastavení / zařízení / upravte PWM a změňte procenta. Pokud maximální hodnota PWM byla nižší než 110%%, snížila se tato hodnota. Pokud je to více než – zvyšte to";
 "Settings.pwmHowToDetail" = "Se správným nastavením, EUC nevypne motor dříve než při 100%% PWM";
 "Settings.questionType" = "Typ otázky";
 "Settings.record" = "záznam";

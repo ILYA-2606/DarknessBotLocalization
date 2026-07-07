@@ -683,7 +683,8 @@
 "Settings.pwmCorrectionDetail" = "Betrifft die PWM Berechnung";
 "Settings.pwmCorrectionMessage" = "Bei voller Batterie %@ PWM werden erreicht bei einer Geschwindigkeit von %@ mit der ausgewählten Korrektur";
 "Settings.pwmHowTo" = "Wie die PWM eingestellt werden";
-"Settings.pwmHowToDescription" = "Lade Dein EUC voll und beschleunige bis der dritte Alarm hochkommt und check dessen Geschwindigkeit.\nDiese Geschw. entspricht 80%% des PWM für Dein EUC.\nStelle die PWM ein entsprechend der ermittelten Geschwindigkeit";
+// Needs review
+"Settings.pwmHowToDescription" = "Lade den EUC vollständig auf\nHeben Sie das EUC an und drehen Sie es in der Luft\nDer maximale Wert des PWM sollte etwa 110%% betragen.\nÖffne die Einstellungen / Gerät / Passe das PWM an und ändere den Prozentsatz. Wenn der maximale Wert des PWM unter 110%% lag, sollte der Prozentsatz reduziert werden. Wenn mehr als – erhöhe sie";
 "Settings.pwmHowToDetail" = "Mit den korrekten Einstellungen wird das EUC nicht eher als 100%% PWM einen cutoff haben";
 "Settings.questionType" = "Art der Meldung";
 "Settings.record" = "Aufnahme";

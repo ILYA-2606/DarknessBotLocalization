@@ -674,7 +674,8 @@
 "Settings.pwmCorrectionDetail" = "Affecte le calcul de la valeur du PWM";
 "Settings.pwmCorrectionMessage" = "Avec une batterie pleine, %@ PWM sera atteint à une vitesse de %@ avec la correction choisie:";
 "Settings.pwmHowTo" = "Comment ajuster le PWM";
-"Settings.pwmHowToDescription" = "Chargez complètement la roue\nAccélérez jusqu'à ce que la troisième alarme de la roue se déclenche\nVérifiez la vitesse à laquelle l'alarme s'est déclenchée\nCette vitesse correspond à 80%% du PWM de votre roue\nAjustez le pourcentage de PWM sur la base de la vitesse reçue";
+// Needs review
+"Settings.pwmHowToDescription" = "Chargez complètement l’EUC\nSoulevez l’EUC et faites-le tourner en l’air\nLa valeur maximale du PWM devrait être d’environ 110%%\nOuvre les paramètres / Appareil / Ajuste le PWM et change le pourcentage. Si la valeur maximale de la PWM était inférieure à 110%%, alors réduisez le pourcentage. Si plus que - augmente-le";
 "Settings.pwmHowToDetail" = "Avec un réglage correct, la coupure du moteur ne se produira pas avant d'atteindre 100%% du PWM";
 "Settings.questionType" = "Type de question";
 "Settings.record" = "Enregistrement";
