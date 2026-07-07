@@ -693,7 +693,7 @@
 "Settings.pwmCorrectionMessage" = "Com a bateria totalmente carregada, %@ PWM será atingido na velocidade %@ com a correção selecionada:";
 "Settings.pwmHowTo" = "Como ajustar o PWM";
 // Needs review
-"Settings.pwmHowToDescription" = "Fully charges the device\nSpeed up until you hear the third level of beep\nCheck the speed at which the alarm sounded\nThis speed corresponds to 80%% of the PWM for your device\nAdjust the percentage of PWM according to the received speed";
+"Settings.pwmHowToDescription" = "Fully charge the EUC\nLift the EUC and spin it in the air\nThe maximum value of the PWM should be about 110%%\nOpen Settings / Device / Adjust the PWM and change the percentage. If the maximum value of the PWM was less than 110%%, then reduce the percentage. If more than - increase it";
 "Settings.pwmHowToDetail" = "Com a configuração correta, o dispositivo não irá cortar o motor antes de atingir 100%% do PWM";
 "Settings.questionType" = "Tipo de pergunta";
 "Settings.record" = "gravar";

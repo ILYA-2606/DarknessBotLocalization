@@ -769,7 +769,8 @@
 "Settings.pwmCorrectionDetail" = "Influisce sul calcolo del valore PWM";
 "Settings.pwmCorrectionMessage" = "Con la batteria carica, con la correzione selezionata %@ PWM sarà raggiunto alla velocità di %@:";
 "Settings.pwmHowTo" = "Come regolare il PWM";
-"Settings.pwmHowToDescription" = "Ricarica al massimo il tuo monociclo\nAccelera fino alla visualizzazione del terzo avviso\nControlla la velocità alla quale l'avviso è comparso\nQuesto avviso corrisponde all'80%% del PWM per il tuo monociclo\nRegola la percentuale del PWM in base alla velocità registrata";
+// Needs review
+"Settings.pwmHowToDescription" = "Carica completamente l'EUC\nSolleva l'EUC e fallo girare in aria\nIl valore massimo della PWM dovrebbe essere circa il 110%%.\nApri Impostazioni / Dispositivo / Regola il PWM e cambia la percentuale. Se il valore massimo della PWM era inferiore al 110%%, allora riduci la percentuale. Se è superiore a - aumentalo";
 "Settings.pwmHowToDetail" = "Con la corretta impostazione, i cutoff del monociclo per ragioni di motore, non avverranno prima del 100%% del PWM";
 "Settings.questionType" = "Tipo di domanda";
 "Settings.record" = "registra";
