@@ -871,7 +871,8 @@
 "Settings.pwmCorrectionDetail" = "影响PWM值的计算";
 "Settings.pwmCorrectionMessage" = "在充满电的情况下，%@ PWM将以 %@ 的速度通过选定的校正达到：";
 "Settings.pwmHowTo" = "如何调整PWM";
-"Settings.pwmHowToDescription" = "给轮子充满电\n加速直到第三级轮子的警报出现\n检查发生警报的速度\n此速度对应于您的轮子PWM的80%\n根据收到的速度调整PWM百分比";
+// Needs review
+"Settings.pwmHowToDescription" = "给EUC充满电\n抬起EUC，在空中旋转\nPWM的最大值应约为110%%。\n打开设置 / 设备 / 调整PWM并更改百分比。如果PWM的最大值低于110%%，则降低百分比。如果超过——增加";
 "Settings.pwmHowToDetail" = "如果设置正确，电机原因的轮子断电将不早于100%% PWM";
 "Settings.questionType" = "问题类型";
 "Settings.record" = "一条记录";
