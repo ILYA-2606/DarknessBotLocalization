@@ -673,7 +673,7 @@
 "Settings.pwmCorrectionDetail" = "Affects the calculation of the PWM value";
 "Settings.pwmCorrectionMessage" = "On a full battery, %@ PWM will be reached at a speed of %@ with the selected correction:";
 "Settings.pwmHowTo" = "How to adjust the PWM";
-"Settings.pwmHowToDescription" = "Fully charge the EUC\nAccelerate until the third EUC's alarm appears\nCheck the speed at which the alarm occurred\nThis speed corresponds to 80%% of the PWM for your EUC\nAdjust the PWM percentage according to the received speed";
+"Settings.pwmHowToDescription" = "Fully charge the EUC\nLift the EUC and spin it in the air\nThe maximum value of the PWM should be about 110%\nOpen Settings / Device / Adjust the PWM and change the percentage. If the maximum value of the PWM was less than 110%, then reduce the percentage. If more than - increase it";
 "Settings.pwmHowToDetail" = "With the correct setup, EUC cutout at motor reason will be no earlier than at 100%% PWM";
 "Settings.questionType" = "Question type";
 "Settings.record" = "record";

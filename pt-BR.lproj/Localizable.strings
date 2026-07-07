@@ -692,7 +692,8 @@
 "Settings.pwmCorrectionDetail" = "Afeta o cálculo do PWM";
 "Settings.pwmCorrectionMessage" = "Com a bateria totalmente carregada, %@ PWM será atingido na velocidade %@ com a correção selecionada:";
 "Settings.pwmHowTo" = "Como ajustar o PWM";
-"Settings.pwmHowToDescription" = "Carrege totalmente o dispositivo\nAcelere até ouvir o terceiro nível de bipe\nVerifique a velocidade em que o alarme tocou\nEssa velocidade corresponde a 80%% do PWM para o seu dispositivo\nAjuste o percentual de PWM de acordo com a velocidade recebida";
+// Needs review
+"Settings.pwmHowToDescription" = "Fully charges the device\nSpeed up until you hear the third level of beep\nCheck the speed at which the alarm sounded\nThis speed corresponds to 80%% of the PWM for your device\nAdjust the percentage of PWM according to the received speed";
 "Settings.pwmHowToDetail" = "Com a configuração correta, o dispositivo não irá cortar o motor antes de atingir 100%% do PWM";
 "Settings.questionType" = "Tipo de pergunta";
 "Settings.record" = "gravar";
