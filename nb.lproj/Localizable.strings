@@ -831,7 +831,8 @@
 "Settings.horizonDynamicCompensationFilter" = "Horisont dynamisk kompensasjonsfilter";
 "Settings.accelerationCompensation" = "Akselerasjonskompensasjon";
 "Settings.turnCompensation" = "Svingkompensasjon";
-"Settings.currentKP" = "Gjeldende KP";
+// Needs review
+"Settings.currentKP" = "Kompensasjon for pedalavvik under svinger";
 "Settings.currentKI" = "Gjeldende KI";
 "Settings.currentDKP" = "Gjeldende DKP";
 "Settings.currentDKI" = "Gjeldende DKI";

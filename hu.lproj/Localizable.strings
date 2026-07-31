@@ -1158,7 +1158,7 @@
 // Needs review
 "Settings.turnCompensation" = "Körkompenzáció";
 // Needs review
-"Settings.currentKP" = "Jelenlegi KP";
+"Settings.currentKP" = "Pedáleltérés kompenzációja kanyarok során";
 // Needs review
 "Settings.currentKI" = "Jelenlegi KI";
 // Needs review

@@ -911,7 +911,7 @@
 // Needs review
 "Settings.turnCompensation" = "Компенсація обертання";
 // Needs review
-"Settings.currentKP" = "Пропорційний фактор струму Q";
+"Settings.currentKP" = "Компенсація відхилення педалі під час поворотів";
 // Needs review
 "Settings.currentKI" = "Інтегральний фактор струму Q";
 // Needs review

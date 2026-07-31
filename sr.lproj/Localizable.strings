@@ -831,7 +831,8 @@
 "Settings.horizonDynamicCompensationFilter" = "Filter dinamičke kompenzacije";
 "Settings.accelerationCompensation" = "Kompenzacija pri ubrzanju";
 "Settings.turnCompensation" = "Kompenzacija pri skretanju";
-"Settings.currentKP" = "Proporciјalni koeficijent struje Q";
+// Needs review
+"Settings.currentKP" = "Kompenzacija odstupanja pedale tokom skretanja";
 "Settings.currentKI" = "Integralni koeficijent struje Q";
 "Settings.currentDKP" = "Proporciјalni koeficijent struje D";
 "Settings.currentDKI" = "Integralni koeficijent struje D";

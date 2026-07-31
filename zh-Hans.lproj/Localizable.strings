@@ -1119,7 +1119,7 @@
 // Needs review
 "Settings.turnCompensation" = "转弯补偿";
 // Needs review
-"Settings.currentKP" = "现今开伯尔伯特省";
+"Settings.currentKP" = "转弯时踏板偏移的补偿";
 // Needs review
 "Settings.currentKI" = "现役KI";
 // Needs review

@@ -832,7 +832,8 @@
 "Settings.horizonDynamicCompensationFilter" = "Filtr dynamické kompenzace horizontu";
 "Settings.accelerationCompensation" = "Kompenzace akcelerace";
 "Settings.turnCompensation" = "Kompenzace otáčení";
-"Settings.currentKP" = "Proporční koeficient proudu Q";
+// Needs review
+"Settings.currentKP" = "Kompenzace za odchylky pedálu během zatáček";
 "Settings.currentKI" = "Integrační koeficient proudu Q";
 "Settings.currentDKP" = "Proporční koeficient proudu D";
 "Settings.currentDKI" = "Integrační koeficient proudu D";

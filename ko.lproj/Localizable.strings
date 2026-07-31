@@ -1233,7 +1233,7 @@
 // Needs review
 "Settings.turnCompensation" = "턴 보상";
 // Needs review
-"Settings.currentKP" = "현재 KP";
+"Settings.currentKP" = "회전 중 페달 편차에 대한 보상";
 // Needs review
 "Settings.currentKI" = "현재 KI";
 // Needs review

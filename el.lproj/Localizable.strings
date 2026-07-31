@@ -833,7 +833,8 @@
 "Settings.horizonDynamicCompensationFilter" = "Φίλτρο δυναμικής αποζημίωσης ορίζοντα";
 "Settings.accelerationCompensation" = "Αντιστάθμιση επιτάχυνσης";
 "Settings.turnCompensation" = "Αντιστάθμιση στροφής";
-"Settings.currentKP" = "Τρέχον P";
+// Needs review
+"Settings.currentKP" = "Αντιστάθμιση για απόκλιση πεντάλ κατά τις στροφές";
 "Settings.currentKI" = "Τρέχον KI";
 "Settings.currentDKP" = "Τρέχον DKP";
 "Settings.currentDKI" = "Τρέχον DKI";

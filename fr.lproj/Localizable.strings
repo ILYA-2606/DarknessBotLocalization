@@ -886,7 +886,7 @@
 // Needs review
 "Settings.turnCompensation" = "Compensation de virage";
 // Needs review
-"Settings.currentKP" = "KP actuel";
+"Settings.currentKP" = "Compensation pour la déviation de la pédale lors des virages";
 // Needs review
 "Settings.currentKI" = "KI actuel";
 // Needs review

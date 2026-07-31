@@ -855,7 +855,8 @@
 "Settings.accelerationCompensation" = "Acceleration compensation";
 // Needs review
 "Settings.turnCompensation" = "Turn compensation";
-"Settings.currentKP" = "Current KP";
+// Needs review
+"Settings.currentKP" = "Compensação de desvio do pedal em curvas";
 "Settings.currentKI" = "Current KI";
 "Settings.currentDKP" = "Current DKP";
 "Settings.currentDKI" = "Current DKI";
