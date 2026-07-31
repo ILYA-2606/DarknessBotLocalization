@@ -830,7 +830,7 @@
 "Settings.horizonDynamicCompensationFilter" = "Фильтр динамической компенсации";
 "Settings.accelerationCompensation" = "Компенсация ускорения";
 "Settings.turnCompensation" = "Компенсация поворота";
-"Settings.currentKP" = "Пропорциональный коэффициент тока Q";
+"Settings.currentKP" = "Компенсация отклонения подножек в поворотах";
 "Settings.currentKI" = "Интегральный коэффициент тока Q";
 "Settings.currentDKP" = "Пропорциональный коэффициент тока D";
 "Settings.currentDKI" = "Интегральный коэффициент тока D";

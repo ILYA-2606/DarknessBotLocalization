@@ -830,7 +830,7 @@
 "Settings.horizonDynamicCompensationFilter" = "Horizon dynamic compensation filter";
 "Settings.accelerationCompensation" = "Acceleration compensation";
 "Settings.turnCompensation" = "Turn compensation";
-"Settings.currentKP" = "Current KP";
+"Settings.currentKP" = "Compensation for pedal deviation during turns";
 "Settings.currentKI" = "Current KI";
 "Settings.currentDKP" = "Current DKP";
 "Settings.currentDKI" = "Current DKI";
