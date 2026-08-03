@@ -883,5 +883,5 @@
 "Settings.noObjectsFound" = "No objects found";
 "Settings.maxDetectDistance" = "Max detect distance";
 "Settings.nearestObject" = "Nearest object";
-// Needs review
 "Devices.pressure" = "Pressure";
+"Devices.bar" = "bar";

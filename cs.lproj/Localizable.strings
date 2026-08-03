@@ -903,3 +903,5 @@
 "Settings.nearestObject" = "Nejbližší objekt";
 // Needs review
 "Devices.pressure" = "Tlak";
+// Needs review
+"Devices.bar" = "bar";

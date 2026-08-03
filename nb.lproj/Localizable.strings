@@ -896,3 +896,5 @@
 "Settings.nearestObject" = "Nærmeste objekt";
 // Needs review
 "Devices.pressure" = "Trykk";
+// Needs review
+"Devices.bar" = "bar";

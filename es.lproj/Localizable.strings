@@ -897,3 +897,5 @@
 "Settings.nearestObject" = "Objeto más cercano";
 // Needs review
 "Devices.pressure" = "Presión";
+// Needs review
+"Devices.bar" = "bar";

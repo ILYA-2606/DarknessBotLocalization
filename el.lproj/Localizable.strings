@@ -894,3 +894,5 @@
 "Settings.nearestObject" = "Πλησιέστερο αντικείμενο";
 // Needs review
 "Devices.pressure" = "Πίεση";
+// Needs review
+"Devices.bar" = "μπάρα";

@@ -983,3 +983,5 @@
 "Settings.nearestObject" = "Nächstes Objekt";
 // Needs review
 "Devices.pressure" = "Druck";
+// Needs review
+"Devices.bar" = "bar";

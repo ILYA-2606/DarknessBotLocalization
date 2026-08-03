@@ -1224,3 +1224,5 @@
 "Settings.nearestObject" = "最近的物体";
 // Needs review
 "Devices.pressure" = "压力";
+// Needs review
+"Devices.bar" = "bar";

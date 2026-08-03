@@ -1338,3 +1338,5 @@
 "Settings.nearestObject" = "가장 가까운 물체";
 // Needs review
 "Devices.pressure" = "압력";
+// Needs review
+"Devices.bar" = "바";

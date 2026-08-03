@@ -1261,3 +1261,5 @@
 "Settings.nearestObject" = "Legközelebbi objektum";
 // Needs review
 "Devices.pressure" = "Nyomás";
+// Needs review
+"Devices.bar" = "bár";

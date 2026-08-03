@@ -884,3 +884,5 @@
 "Settings.maxDetectDistance" = "Максимальное расстояние обнаружения";
 "Settings.nearestObject" = "Ближайший объект";
 "Devices.pressure" = "Давление";
+// Needs review
+"Devices.bar" = "бар";

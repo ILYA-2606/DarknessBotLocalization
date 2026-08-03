@@ -1016,3 +1016,5 @@
 "Settings.nearestObject" = "Найближчий об'єкт";
 // Needs review
 "Devices.pressure" = "Тиск";
+// Needs review
+"Devices.bar" = "бар";
