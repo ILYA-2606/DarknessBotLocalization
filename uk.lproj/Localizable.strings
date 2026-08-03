@@ -1017,7 +1017,7 @@
 // Needs review
 "Devices.pressure" = "Тиск";
 // Needs review
-"Devices.bar" = "бар";
+"Devices.bar" = "bar";
 // Needs review
 "Settings.pressureUnit" = "Одиниця вимірювання тиску";
 // Needs review

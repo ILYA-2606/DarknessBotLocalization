@@ -884,6 +884,6 @@
 "Settings.maxDetectDistance" = "Максимальное расстояние обнаружения";
 "Settings.nearestObject" = "Ближайший объект";
 "Devices.pressure" = "Давление";
-"Devices.bar" = "бар";
+"Devices.bar" = "bar";
 "Settings.pressureUnit" = "Единица измерения давления";
 "Devices.psi" = "psi";
