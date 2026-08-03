@@ -1222,3 +1222,5 @@
 "Settings.maxDetectDistance" = "最大探测距离";
 // Needs review
 "Settings.nearestObject" = "最近的物体";
+// Needs review
+"Devices.pressure" = "压力";

@@ -981,3 +981,5 @@
 "Settings.maxDetectDistance" = "Maximale Detektionsentfernung";
 // Needs review
 "Settings.nearestObject" = "Nächstes Objekt";
+// Needs review
+"Devices.pressure" = "Druck";

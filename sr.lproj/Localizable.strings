@@ -899,3 +899,5 @@
 "Settings.maxDetectDistance" = "Max detect distance";
 // Needs review
 "Settings.nearestObject" = "Nearest object";
+// Needs review
+"Devices.pressure" = "Pritisak";

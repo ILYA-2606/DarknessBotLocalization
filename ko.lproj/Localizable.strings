@@ -1336,3 +1336,5 @@
 "Settings.maxDetectDistance" = "최대 탐지 거리";
 // Needs review
 "Settings.nearestObject" = "가장 가까운 물체";
+// Needs review
+"Devices.pressure" = "압력";

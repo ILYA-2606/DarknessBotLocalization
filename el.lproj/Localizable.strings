@@ -892,3 +892,5 @@
 "Settings.noObjectsFound" = "Δεν βρέθηκαν αντικείμενα";
 "Settings.maxDetectDistance" = "Μέγιστη απόσταση ανίχνευσης";
 "Settings.nearestObject" = "Πλησιέστερο αντικείμενο";
+// Needs review
+"Devices.pressure" = "Πίεση";

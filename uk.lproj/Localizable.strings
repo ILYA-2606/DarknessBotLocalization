@@ -1014,3 +1014,5 @@
 "Settings.maxDetectDistance" = "Максимальна відстань виявлення";
 // Needs review
 "Settings.nearestObject" = "Найближчий об'єкт";
+// Needs review
+"Devices.pressure" = "Тиск";

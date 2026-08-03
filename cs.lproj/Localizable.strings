@@ -901,3 +901,5 @@
 "Settings.maxDetectDistance" = "Maximální detekční vzdálenost";
 // Needs review
 "Settings.nearestObject" = "Nejbližší objekt";
+// Needs review
+"Devices.pressure" = "Tlak";

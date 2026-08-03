@@ -903,3 +903,5 @@
 "Settings.maxDetectDistance" = "Maksimal detekteret afstand";
 // Needs review
 "Settings.nearestObject" = "Nærmeste objekt";
+// Needs review
+"Devices.pressure" = "Tryk";

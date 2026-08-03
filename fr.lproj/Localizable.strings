@@ -956,3 +956,5 @@
 "Settings.noObjectsFound" = "Aucun objet trouvé";
 "Settings.maxDetectDistance" = "Distance de détection maximale";
 "Settings.nearestObject" = "Objet le plus proche";
+// Needs review
+"Devices.pressure" = "Pression";
