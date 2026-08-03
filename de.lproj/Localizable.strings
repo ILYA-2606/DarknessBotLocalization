@@ -986,4 +986,6 @@
 // Needs review
 "Devices.bar" = "bar";
 // Needs review
-"Settings.pressureUnit" = "Pressure unit";
+"Settings.pressureUnit" = "Druckeinheit";
+// Needs review
+"Devices.psi" = "psi";

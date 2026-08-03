@@ -1264,4 +1264,6 @@
 // Needs review
 "Devices.bar" = "bár";
 // Needs review
-"Settings.pressureUnit" = "Pressure unit";
+"Settings.pressureUnit" = "Nyomásegység";
+// Needs review
+"Devices.psi" = "psi";

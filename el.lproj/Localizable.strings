@@ -897,4 +897,6 @@
 // Needs review
 "Devices.bar" = "μπάρα";
 // Needs review
-"Settings.pressureUnit" = "Pressure unit";
+"Settings.pressureUnit" = "Μονάδα πίεσης";
+// Needs review
+"Devices.psi" = "psi";

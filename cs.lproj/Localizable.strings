@@ -906,4 +906,6 @@
 // Needs review
 "Devices.bar" = "bar";
 // Needs review
-"Settings.pressureUnit" = "Pressure unit";
+"Settings.pressureUnit" = "Jednotka tlaku";
+// Needs review
+"Devices.psi" = "psi";

@@ -1227,4 +1227,6 @@
 // Needs review
 "Devices.bar" = "bar";
 // Needs review
-"Settings.pressureUnit" = "Pressure unit";
+"Settings.pressureUnit" = "压力单位";
+// Needs review
+"Devices.psi" = "psi";

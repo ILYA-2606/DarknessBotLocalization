@@ -1341,4 +1341,6 @@
 // Needs review
 "Devices.bar" = "바";
 // Needs review
-"Settings.pressureUnit" = "Pressure unit";
+"Settings.pressureUnit" = "압력 단위";
+// Needs review
+"Devices.psi" = "psi";
