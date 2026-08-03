@@ -1263,3 +1263,5 @@
 "Devices.pressure" = "Nyomás";
 // Needs review
 "Devices.bar" = "bár";
+// Needs review
+"Settings.pressureUnit" = "Pressure unit";

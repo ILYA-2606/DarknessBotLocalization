@@ -885,3 +885,5 @@
 "Settings.nearestObject" = "Nearest object";
 "Devices.pressure" = "Pressure";
 "Devices.bar" = "bar";
+// Needs review
+"Settings.pressureUnit" = "Pressure unit";

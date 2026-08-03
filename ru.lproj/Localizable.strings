@@ -886,3 +886,5 @@
 "Devices.pressure" = "Давление";
 // Needs review
 "Devices.bar" = "бар";
+// Needs review
+"Settings.pressureUnit" = "Единица измерения давления";

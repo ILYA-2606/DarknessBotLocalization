@@ -1340,3 +1340,5 @@
 "Devices.pressure" = "압력";
 // Needs review
 "Devices.bar" = "바";
+// Needs review
+"Settings.pressureUnit" = "Pressure unit";

@@ -898,3 +898,5 @@
 "Devices.pressure" = "Trykk";
 // Needs review
 "Devices.bar" = "bar";
+// Needs review
+"Settings.pressureUnit" = "Pressure unit";
