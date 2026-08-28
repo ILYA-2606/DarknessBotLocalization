@@ -907,3 +907,39 @@
 "Settings.pressureUnit" = "Jedinica pritiska";
 // Needs review
 "Devices.psi" = "psi";
+// Needs review
+"Settings.walkMode" = "Režim hodanja";
+// Needs review
+"Settings.walkModeDetails" = "Shows Walk mode on the scooter screen";
+// Needs review
+"Settings.sportMode" = "Sport Mode";
+// Needs review
+"Settings.unlockSportMode" = "Unlock Sport speed";
+// Needs review
+"Settings.ecoMaxSpeed" = "Eco max speed";
+// Needs review
+"Settings.sportMaxSpeed" = "Sport max speed";
+// Needs review
+"Settings.raceMode" = "Race Mode";
+// Needs review
+"Settings.raceMaxSpeed" = "Race max speed";
+// Needs review
+"Settings.driveMode" = "Drive Mode";
+// Needs review
+"Settings.driveMaxSpeed" = "Drive max speed";
+// Needs review
+"Settings.driveMaxSpeedDetails" = "Maximum speed for Drive mode";
+// Needs review
+"Settings.driveModeDetails" = "Shows Drive mode on the scooter screen";
+// Needs review
+"Settings.raceMaxSpeedDetails" = "Maximum speed for Race mode";
+// Needs review
+"Settings.raceModeDetails" = "Shows Race mode on the scooter screen";
+// Needs review
+"Settings.sportMaxSpeedDetails" = "Maximum speed for Sport mode";
+// Needs review
+"Settings.ecoMaxSpeedDetails" = "Maximum speed for Eco mode";
+// Needs review
+"Settings.unlockSportSpeedDetails" = "Unlock Sport speed limit";
+// Needs review
+"Settings.sportModeDetails" = "Shows Sport mode on the scooter screen";
