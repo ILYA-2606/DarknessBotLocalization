@@ -1070,3 +1070,5 @@
 "Settings.maxChargingVoltage" = "Максимальное напряжение зарядки";
 // Needs review
 "Settings.maxChargingVoltageDetails" = "Задает предельное напряжение, до которого разрешена зарядка аккумулятора. Не устанавливайте значение выше указанного производителем";
+// Needs review
+"Settings.dashboardScreen" = "Экран дашборда";

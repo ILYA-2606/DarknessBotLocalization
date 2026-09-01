@@ -911,3 +911,4 @@
 "Settings.accelerometerReductionDetails" = "Reduces pedal angle changes during acceleration, braking, and cornering. The higher the value, the more rigid the pedal hold the set angle";
 "Settings.maxChargingVoltage" = "Max charging voltage";
 "Settings.maxChargingVoltageDetails" = "Sets the maximum voltage to which the battery may be charged. Do not exceed the limit specified by the manufacturer";
+"Settings.dashboardScreen" = "Dashboard screen";
