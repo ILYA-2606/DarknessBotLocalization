@@ -907,3 +907,5 @@
 "Settings.sportModeDetails" = "Отображать режим Sport на дисплее самоката";
 "Settings.accelerationDecelerationAssist" = "Помощь при ускорении / торможении";
 "Settings.accelerometerReduction" = "Стабилизация угла подножек";
+"Settings.accelerationDecelerationAssistDetails" = "Автоматически изменяет наклон педалей при разгоне и торможении, уменьшая необходимое усилие. Чем выше значение, тем сильнее помощь";
+"accelerometerReductionDetails" = "Уменьшает изменение угла педалей при ускорении, торможении и прохождении поворотов. Чем выше значение, тем жёстче подножки удерживают заданный угол";
