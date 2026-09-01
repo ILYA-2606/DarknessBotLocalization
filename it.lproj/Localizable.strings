@@ -1070,4 +1070,4 @@
 // Needs review
 "Settings.accelerationDecelerationAssistDetails" = "Automatically changes the tilt of the pedals during acceleration and deceleration, reducing the required force. The higher the value, the stronger the help";
 // Needs review
-"accelerometerReductionDetails" = "Reduces pedal angle changes during acceleration, braking, and cornering. The higher the value, the more rigid the footrests hold the set angle";
+"Settings.accelerometerReductionDetails" = "Reduces pedal angle changes during acceleration, braking, and cornering. The higher the value, the more rigid the pedal hold the set angle";

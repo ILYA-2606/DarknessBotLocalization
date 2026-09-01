@@ -1023,46 +1023,46 @@
 // Needs review
 "Devices.psi" = "psi";
 // Needs review
-"Settings.walkMode" = "Walk Mode";
+"Settings.walkMode" = "Режим Walk";
 // Needs review
-"Settings.walkModeDetails" = "Shows Walk mode on the scooter screen";
+"Settings.walkModeDetails" = "Отображать режим Walk на дисплее самоката";
 // Needs review
-"Settings.sportMode" = "Sport Mode";
+"Settings.sportMode" = "Режим Sport";
 // Needs review
-"Settings.unlockSportMode" = "Unlock Sport speed";
+"Settings.unlockSportMode" = "Разблокировать скорость Sport";
 // Needs review
-"Settings.ecoMaxSpeed" = "Eco max speed";
+"Settings.ecoMaxSpeed" = "Максимальная скорость Eco";
 // Needs review
-"Settings.sportMaxSpeed" = "Sport max speed";
+"Settings.sportMaxSpeed" = "Максимальная скорость Sport";
 // Needs review
-"Settings.raceMode" = "Race Mode";
+"Settings.raceMode" = "Режим Race";
 // Needs review
-"Settings.raceMaxSpeed" = "Race max speed";
+"Settings.raceMaxSpeed" = "Максимальная скорость Race";
 // Needs review
-"Settings.driveMode" = "Drive Mode";
+"Settings.driveMode" = "Режим Drive";
 // Needs review
-"Settings.driveMaxSpeed" = "Drive max speed";
+"Settings.driveMaxSpeed" = "Максимальная скорость Drive";
 // Needs review
-"Settings.driveMaxSpeedDetails" = "Maximum speed for Drive mode";
+"Settings.driveMaxSpeedDetails" = "Максимальная скорость для режима Drive";
 // Needs review
-"Settings.driveModeDetails" = "Shows Drive mode on the scooter screen";
+"Settings.driveModeDetails" = "Отображать режим Drive на дисплее самоката";
 // Needs review
-"Settings.raceMaxSpeedDetails" = "Maximum speed for Race mode";
+"Settings.raceMaxSpeedDetails" = "Максимальная скорость для режима Race";
 // Needs review
-"Settings.raceModeDetails" = "Shows Race mode on the scooter screen";
+"Settings.raceModeDetails" = "Отображать режим Race на дисплее самоката";
 // Needs review
-"Settings.sportMaxSpeedDetails" = "Maximum speed for Sport mode";
+"Settings.sportMaxSpeedDetails" = "Максимальная скорость для режима Sport";
 // Needs review
-"Settings.ecoMaxSpeedDetails" = "Maximum speed for Eco mode";
+"Settings.ecoMaxSpeedDetails" = "Максимальная скорость для режима Eco";
 // Needs review
-"Settings.unlockSportSpeedDetails" = "Unlock Sport speed limit";
+"Settings.unlockSportSpeedDetails" = "Разблокировать скорость для режима Sport";
 // Needs review
-"Settings.sportModeDetails" = "Shows Sport mode on the scooter screen";
+"Settings.sportModeDetails" = "Отображать режим Sport на дисплее самоката";
 // Needs review
-"Settings.accelerationDecelerationAssist" = "Acceleration / Deceleration assist";
+"Settings.accelerationDecelerationAssist" = "Помощь при ускорении / торможении";
 // Needs review
-"Settings.accelerometerReduction" = "Accelerometer reduction";
+"Settings.accelerometerReduction" = "Стабилизация угла подножек";
 // Needs review
-"Settings.accelerationDecelerationAssistDetails" = "Automatically changes the tilt of the pedals during acceleration and deceleration, reducing the required force. The higher the value, the stronger the help";
+"Settings.accelerationDecelerationAssistDetails" = "Автоматически изменяет наклон педалей при разгоне и торможении, уменьшая необходимое усилие. Чем выше значение, тем сильнее помощь";
 // Needs review
-"accelerometerReductionDetails" = "Reduces pedal angle changes during acceleration, braking, and cornering. The higher the value, the more rigid the footrests hold the set angle";
+"Settings.accelerometerReductionDetails" = "Уменьшает изменение угла подножек при ускорении, торможении и прохождении поворотов. Чем выше значение, тем жёстче подножки удерживают заданный угол";
