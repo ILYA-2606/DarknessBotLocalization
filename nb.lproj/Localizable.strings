@@ -946,3 +946,7 @@
 "Settings.accelerationDecelerationAssistDetails" = "Automatically changes the tilt of the pedals during acceleration and deceleration, reducing the required force. The higher the value, the stronger the help";
 // Needs review
 "Settings.accelerometerReductionDetails" = "Reduces pedal angle changes during acceleration, braking, and cornering. The higher the value, the more rigid the pedal hold the set angle";
+// Needs review
+"Settings.maxChargingVoltage" = "Max charging voltage";
+// Needs review
+"Settings.maxChargingVoltageDetails" = "Sets the maximum voltage to which the battery may be charged. Do not exceed the limit specified by the manufacturer";
