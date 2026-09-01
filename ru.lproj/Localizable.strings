@@ -905,3 +905,4 @@
 "Settings.ecoMaxSpeedDetails" = "Максимальная скорость для режима Eco";
 "Settings.unlockSportSpeedDetails" = "Разблокировать скорость для режима Sport";
 "Settings.sportModeDetails" = "Отображать режим Sport на дисплее самоката";
+"Settings.accelerationDecelerationAssist" = "Помощь при ускорении / торможении";
