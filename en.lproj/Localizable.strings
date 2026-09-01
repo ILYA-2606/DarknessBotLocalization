@@ -906,3 +906,4 @@
 "Settings.unlockSportSpeedDetails" = "Unlock Sport speed limit";
 "Settings.sportModeDetails" = "Shows Sport mode on the scooter screen";
 "Settings.accelerationDecelerationAssist" = "Acceleration / Deceleration assist";
+"Settings.accelerometerReduction" = "Accelerometer reduction";

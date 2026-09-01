@@ -1065,3 +1065,5 @@
 "Settings.sportModeDetails" = "Shows Sport mode on the scooter screen";
 // Needs review
 "Settings.accelerationDecelerationAssist" = "Acceleration / Deceleration assist";
+// Needs review
+"Settings.accelerometerReduction" = "Accelerometer reduction";
