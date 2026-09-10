@@ -1051,3 +1051,7 @@
 "Settings.addPresetAction" = "Add preset action";
 // Needs review
 "Settings.presetName" = "Preset name";
+// Needs review
+"Settings.presetAction" = "Action";
+// Needs review
+"Settings.presetActionValue" = "Value";
