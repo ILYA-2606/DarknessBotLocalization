@@ -1319,3 +1319,11 @@
 "Settings.dashboardScreen" = "Dashboard screen";
 // Needs review
 "Settings.presets" = "Előre beállítottak";
+// Needs review
+"Settings.noPresets" = "No presets";
+// Needs review
+"Settings.newPreset" = "New preset";
+// Needs review
+"Settings.presetActions" = "Preset actions";
+// Needs review
+"Settings.addPresetAction" = "Add preset action";

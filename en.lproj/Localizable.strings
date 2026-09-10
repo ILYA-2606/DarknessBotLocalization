@@ -913,3 +913,9 @@
 "Settings.maxChargingVoltageDetails" = "Sets the maximum voltage to which the battery may be charged. Do not exceed the limit specified by the manufacturer";
 "Settings.dashboardScreen" = "Dashboard screen";
 "Settings.presets" = "Presets";
+"Settings.noPresets" = "No presets";
+// Needs review
+"Settings.newPreset" = "New preset";
+// Needs review
+"Settings.presetActions" = "Preset actions";
+"Settings.addPresetAction" = "Add preset action";
