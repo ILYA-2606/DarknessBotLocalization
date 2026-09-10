@@ -1063,3 +1063,7 @@
 "Settings.save" = "Save";
 // Needs review
 "Settings.presetDeleteConfirm" = "Are you sure you want to delete this preset?";
+// Needs review
+"Settings.presetDone" = "Preset completed successfully";
+// Needs review
+"Settings.presetFailedOnStep" = "Preset failed on step: %@";

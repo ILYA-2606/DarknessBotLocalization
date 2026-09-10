@@ -1096,3 +1096,7 @@
 "Settings.save" = "Сохранить";
 // Needs review
 "Settings.presetDeleteConfirm" = "Вы уверены, что хотите удалить этот пресет?";
+// Needs review
+"Settings.presetDone" = "Preset completed successfully";
+// Needs review
+"Settings.presetFailedOnStep" = "Preset failed on step: %@";
