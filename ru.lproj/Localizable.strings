@@ -912,23 +912,15 @@
 "Settings.maxChargingVoltage" = "Максимальное напряжение зарядки";
 "Settings.maxChargingVoltageDetails" = "Задает предельное напряжение, до которого разрешена зарядка аккумулятора. Не устанавливайте значение выше указанного производителем";
 "Settings.dashboardScreen" = "Экран дашборда";
-// Needs review
-"Settings.presets" = "Presets";
-// Needs review
-"Settings.noPresets" = "No presets";
-// Needs review
-"Settings.newPreset" = "New preset";
-// Needs review
-"Settings.presetActions" = "Preset actions";
-// Needs review
-"Settings.addPresetAction" = "Add preset action";
-// Needs review
-"Settings.presetName" = "Preset name";
-// Needs review
-"Settings.presetAction" = "Action";
-// Needs review
-"Settings.presetActionValue" = "Value";
-// Needs review
-"Settings.presetValueOn" = "Enable";
-// Needs review
-"Settings.presetValueOff" = "Disable";
+"Settings.presets" = "Пресеты";
+"Settings.noPresets" = "Нет пресетов";
+"Settings.newPreset" = "Новый пресет";
+"Settings.presetActions" = "Действия пресета";
+"Settings.addPresetAction" = "Добавить действие";
+"Settings.presetName" = "Имя пресета";
+"Settings.presetAction" = "Действие";
+"Settings.presetActionValue" = "Значение";
+"Settings.presetValueOn" = "Включить";
+"Settings.presetValueOff" = "Отключить";
+"Settings.save" = "Сохранить";
+"Settings.presetDeleteConfirm" = "Вы уверены, что хотите удалить этот пресет?";

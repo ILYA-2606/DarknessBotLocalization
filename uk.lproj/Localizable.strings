@@ -1073,22 +1073,26 @@
 // Needs review
 "Settings.dashboardScreen" = "Экран дашборда";
 // Needs review
-"Settings.presets" = "Presets";
+"Settings.presets" = "Пресеты";
 // Needs review
-"Settings.noPresets" = "No presets";
+"Settings.noPresets" = "Нет пресетов";
 // Needs review
-"Settings.newPreset" = "New preset";
+"Settings.newPreset" = "Новый пресет";
 // Needs review
-"Settings.presetActions" = "Preset actions";
+"Settings.presetActions" = "Действия пресета";
 // Needs review
-"Settings.addPresetAction" = "Add preset action";
+"Settings.addPresetAction" = "Добавить действие";
 // Needs review
-"Settings.presetName" = "Preset name";
+"Settings.presetName" = "Имя пресета";
 // Needs review
-"Settings.presetAction" = "Action";
+"Settings.presetAction" = "Действие";
 // Needs review
-"Settings.presetActionValue" = "Value";
+"Settings.presetActionValue" = "Значение";
 // Needs review
-"Settings.presetValueOn" = "Enable";
+"Settings.presetValueOn" = "Включить";
 // Needs review
-"Settings.presetValueOff" = "Disable";
+"Settings.presetValueOff" = "Отключить";
+// Needs review
+"Settings.save" = "Сохранить";
+// Needs review
+"Settings.presetDeleteConfirm" = "Вы уверены, что хотите удалить этот пресет?";

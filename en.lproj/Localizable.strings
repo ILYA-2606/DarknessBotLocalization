@@ -918,11 +918,9 @@
 "Settings.presetActions" = "Preset actions";
 "Settings.addPresetAction" = "Add preset action";
 "Settings.presetName" = "Preset name";
-// Needs review
 "Settings.presetAction" = "Action";
-// Needs review
 "Settings.presetActionValue" = "Value";
-// Needs review
 "Settings.presetValueOn" = "Enable";
-// Needs review
 "Settings.presetValueOff" = "Disable";
+"Settings.save" = "Save";
+"Settings.presetDeleteConfirm" = "Are you sure you want to delete this preset?";
