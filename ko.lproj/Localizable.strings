@@ -1410,3 +1410,7 @@
 "Settings.presetAction" = "Action";
 // Needs review
 "Settings.presetActionValue" = "Value";
+// Needs review
+"Settings.presetValueOn" = "Enable";
+// Needs review
+"Settings.presetValueOff" = "Disable";
