@@ -1308,3 +1308,5 @@
 "Settings.presetDone" = "Preset completed successfully";
 // Needs review
 "Settings.presetFailedOnStep" = "Preset failed on step: %@";
+// Needs review
+"Settings.preset" = "Preset";

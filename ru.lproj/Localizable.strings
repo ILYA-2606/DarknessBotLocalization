@@ -926,3 +926,4 @@
 "Settings.presetDeleteConfirm" = "Вы уверены, что хотите удалить этот пресет?";
 "Settings.presetDone" = "Пресет выполнен успешно";
 "Settings.presetFailedOnStep" = "Не удалось выполнить пресет на этапе: %@";
+"Settings.preset" = "Пресет";

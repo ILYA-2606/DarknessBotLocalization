@@ -926,3 +926,4 @@
 "Settings.presetDeleteConfirm" = "Are you sure you want to delete this preset?";
 "Settings.presetDone" = "Preset completed successfully";
 "Settings.presetFailedOnStep" = "Preset failed on step: %@";
+"Settings.preset" = "Preset";
